@@ -1,16 +1,17 @@
-# Mouth Yoga – Unit 1-6
+# Mouth Yoga – (Unit 1-6)
 
 **Spelling:** "th". **Target Sound:** Voiceless "th".
+
+Explanation of Initial, Medial, and Terminal:  
 - **Initial** → The "th" sound comes at the **beginning** of the word.  
   Example: Thorn → **Th** is at the start.
 - **Medial** → The "th" sound is in the **middle** of the word.  
   Example: Method → me**th**od.
 - **Terminal** → The "th" sound is at the **end** of the word.  
-  Example: Oath → oa**th**.
+  Example: Oath → oa**th**
 
+**Mouth Yoga (Unit 2)**
 
-
- **Mouth Yoga (Unit 2)**
 **Spelling:** "th". **Target Sound:** Voiceless "th".
 
 | Initial  | Medial  | Terminal | Phrases                          |
@@ -21,8 +22,10 @@
 | Those    | Rather  | Loath    | 4. Come with me.                 |
 | This     | Mother  | Sheathe  | 5. There they are.               |
 | Though   | Further | Breathe  | 6. Go this way, not that way.    |
+-------------------------------------
 
  **Mouth Yoga (Unit 3)**
+ 
 **Spelling:** "th". **Target Sound:** Voiceless "th".
 
 | Initial | Medial  | Terminal | Phrases                       |
@@ -33,6 +36,7 @@
 | Those   | Rather  | Loath    | 4. Come with me.              |
 | This    | Mother  | Sheathe  | 5. There they are.            |
 | Though  | Further | Breathe  | 6. Go this way, not that way. |
+-----------------------------
 
 Simple sentence consists of a Subject and Verb.
 
@@ -43,10 +47,9 @@ Examples:
 - My brother played cricket.  
 - Gita sang a song.  
 - The stars shine at night.  
-- The boy stood first.  
-
+- The boy stood first.
+ 
 Position / Question table:
-
 | Positive | Question   |
 |----------|------------|
 | I am     | Am I?      |
@@ -56,6 +59,7 @@ Position / Question table:
 | We are   | Are we?    |
 | You are  | Are you?   |
 | They are | Are they?  |
+------------------------
 
 Examples:  
 - Ram eats an apple.  
@@ -70,9 +74,11 @@ Examples:
 - A lion is the king of the forest.  
 
  **Mouth Yoga (Unit 4)**
-  // WE DON'T HAVE THIS RN. :( 
+  > [!CAUTION]
+  > // We dom't have this [rn](https://www.howtogeek.com/707569/what-does-rn-mean-and-how-do-you-use-it/). :( 
   
  **Mouth Yoga (Unit 5)**
+ 
  **Spelling:** "r", "wr".   **Target Sound:** "r".
 
 | **Initial** | **Medial** | **Terminal** | **Phrases**                     |
@@ -84,8 +90,10 @@ Examples:
 | Wrong       | Fork       | Shower       | Under the orange tree.          |
 | Wrinkle     | Charm      | Ignore       | Corporate culture.              |
 | Rot         | Alarm      | Attire       | Work environment.               |
-|             | Hard       | Fire         |                                 |
-|             | Warm       | Summer       |                                 |
+|   -         | Hard       | Fire         |        -                        |
+|   -         | Warm       | Summer       |        -                        |
+--------
+
 **Mouth Yoga (Unit 6)**
 **Spelling:** "S",  C,  "SC". **Target Sound:** "S".
 
@@ -96,7 +104,7 @@ Examples:
 | Sit     | Tracing  | Boss     | The stop sign is near the corner. |
 | Certain | Custom   | Class    | Speak for yourself.               |
 | Circle  | Whistle  | Notes    | He lives in a fancy society.      |
-| Scent   | Blessing | Course   |                                   |
-| Screw   | Listen   | Thoughts |                                   |
-| Scratch |          |          |                                   |
+| Scent   | Blessing | Course   |         -                         |
+| Screw   | Listen   | Thoughts |         -                         |
+| Scratch |  -       |     -    |         -                         |
 ---------------------------------------------------------
