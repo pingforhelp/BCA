@@ -8,6 +8,7 @@ Subjects
 6. We
 7. They
 
+POV (Point of view): 
 1. 1st person - I, We
 2. 2nd person - You
 3. 3rd person - He, She, It, They
@@ -210,5 +211,5 @@ Subject + will/shall + have been + V¹ + V⁴ (ing) + Object
 
 -------end of this topic------
 > [!ANNOUNCEMENT]
-> FOR further notes please wait for some time as I'm editing out factual errors and removing Slang. 
+> FOR further notes please wait! for some time as I'm editing out factual errors and removing or adding explanations for the slang I used. 
 
