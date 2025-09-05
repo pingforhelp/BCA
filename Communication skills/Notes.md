@@ -33,6 +33,7 @@
 | Those   | Rather  | Loath    | 4. Come with me.              |
 | This    | Mother  | Sheathe  | 5. There they are.            |
 | Though  | Further | Breathe  | 6. Go this way, not that way. |
+
 Simple sentence consists of a Subject and Verb.
 
 Examples:  
@@ -98,4 +99,4 @@ Examples:
 | Scent   | Blessing | Course   |                                   |
 | Screw   | Listen   | Thoughts |                                   |
 | Scratch |          |          |                                   |
-
+---------------------------------------------------------
