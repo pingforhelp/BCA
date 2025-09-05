@@ -210,6 +210,6 @@ Subject + will/shall + have been + V¹ + V⁴ (ing) + Object
 - She will have been living in this city since 2020.
 
 -------end of this topic------
-> [!ANNOUNCEMENT]
+> [!NOTE]
 > FOR further notes please wait! for some time as I'm editing out factual errors and removing or adding explanations for the slang I used. 
 
