@@ -1,4 +1,4 @@
-# BCA is a repo for notes for Bachelors In Computer application.
+# BCA is a repo for notes of Bachelors In Computer application.
 [Share this with your friends!](https://tinyurl.com/Notes-BCA) 
 **ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum.
 
@@ -15,8 +15,10 @@ Subject list:
  - Second language // NO Breakout of Units/Paper/Topics was given yet at least. :( 
  - CS: Computer Fundamentals and office automation + Lab
  - AI // NO Breakout of Units/Paper/Topics was given yet at least. :(
+ 
 - Paper 2
  - CS: Problem solving in C + Lab.
+
 > [!NOTE]
 > ```+``` means in addition to.
 
