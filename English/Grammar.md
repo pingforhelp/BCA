@@ -1,5 +1,5 @@
 
-Subjects
+**Subjects**
 1. I 
 2. You
 3. He
@@ -8,7 +8,7 @@ Subjects
 6. We
 7. They
 
-POV (Point of view): 
+**POV (Point of view):** 
 1. 1st person - I, We
 2. 2nd person - You
 3. 3rd person - He, She, It, They
@@ -21,6 +21,9 @@ Verbs can be of **two** types based on their functions, forms, and **usage in se
 1. Regular verbs: These verbs form their past tense **with** ed or t.
 2. Irregular verbs: These verbs form their past tense and **past participle** in different ways. e.g., sleep → slept → slept.
 3. Action verbs: These are verbs that can be seen. They can be used in all tenses.
+
+-------
+
 **Tenses**
 There are mainly 3 types of tenses namely past, Present, and Future tenses. Further each of these are classified into four types:
 // Blueprint 
