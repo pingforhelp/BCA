@@ -1,5 +1,10 @@
 # BCA is a repo for notes of Bachelors In Computer application.
-[Share this with your friends!](https://tinyurl.com/Notes-BCA) 
+
+Share this with your friends!  
+
+[Open Notes](https://tinyurl.com/Notes-BCA)  
+
+
 **ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum.
 
 Subject list:
