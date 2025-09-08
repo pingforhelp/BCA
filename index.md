@@ -7,8 +7,7 @@
 
 
 [![Copy this link](https://img.shields.io/badge/Copy__Link-brightgreen?style=for-the-badge&logo=link&logoColor=white)](https://tinyurl.com/Notes-BCA) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20Feed-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tamimtasira) 
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="22"/>
+[![LinkedIn](https://www.linkedin.com/in/tamimtasira)<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="22"/>
 [![Mail](https://img.shields.io/badge/Mail__Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:user@mail.com)
 
 
