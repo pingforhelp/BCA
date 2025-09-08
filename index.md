@@ -1,5 +1,6 @@
 
  # BCA is a repo for notes of Bachelors In Computer application.
+ 
 <img src="https://github.com/user-attachments/assets/2af14b81-b3ec-4239-af20-5377d759b0c1" alt="WORK IN PROGRESS" width="50"/> 
 <a href="https://tinyurl.com/Notes-BCA">
   <img src="https://img.shields.io/badge/Copy__Link-brightgreen?style=for-the-badge&logo=link&logoColor=white" alt="Copy Link"/>
