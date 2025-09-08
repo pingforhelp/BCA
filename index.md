@@ -1,16 +1,8 @@
 
  # BCA is a repo for notes of Bachelors In Computer application.
- 
-<img src="https://github.com/user-attachments/assets/2af14b81-b3ec-4239-af20-5377d759b0c1" alt="WORK IN PROGRESS" width="100"/>
+ <img width="610" height="43" alt="{B7B9DDD6-1EE2-4353-B993-8881C3810407}" src="https://github.com/user-attachments/assets/43054b49-c360-4564-b4e0-a1d22d3a1bac" />
 
-[![Copy this link](https://img.shields.io/badge/Copy__Link-brightgreen?style=for-the-badge&logo=link&logoColor=white)](https://tinyurl.com/Notes-BCA)
-
-[![LinkedIn](https://www.linkedin.com/in/tamimtasira)<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="22"/>
-
-[![Mail](https://img.shields.io/badge/Mail__Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:user@mail.com)
-
-
-**ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum.
+ **ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum.
 
 Subject list:
 1. English
