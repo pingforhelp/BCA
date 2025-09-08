@@ -1,6 +1,6 @@
 
  # BCA is a repo for notes of Bachelors In Computer application.
- <img width="610" height="43" alt="{B7B9DDD6-1EE2-4353-B993-8881C3810407}" src="https://github.com/user-attachments/assets/43054b49-c360-4564-b4e0-a1d22d3a1bac" />
+ <img width="610" height="43" alt="1" src="https://github.com/user-attachments/assets/43054b49-c360-4564-b4e0-a1d22d3a1bac" />
 
  **ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum.
 
