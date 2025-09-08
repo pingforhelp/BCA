@@ -1,6 +1,15 @@
 
  # BCA is a repo for notes of Bachelors In Computer application.
- <img width="610" height="43" alt="1" src="https://github.com/user-attachments/assets/43054b49-c360-4564-b4e0-a1d22d3a1bac" />
+<img src="https://github.com/user-attachments/assets/2af14b81-b3ec-4239-af20-5377d759b0c1" alt="WORK IN PROGRESS" width="50"/> 
+<a href="https://tinyurl.com/Notes-BCA">
+  <img src="https://img.shields.io/badge/Copy__Link-brightgreen?style=for-the-badge&logo=link&logoColor=white" alt="Copy Link"/>
+</a>
+<a href="https://www.linkedin.com/in/tamimtasira">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="22"/>
+</a>
+<a href="mailto:user@mail.com">
+  <img src="https://img.shields.io/badge/Mail__Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Me"/>
+</a>
 
  **ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum.
 
