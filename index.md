@@ -1,11 +1,7 @@
 
  # BCA is a repo for notes of Bachelors In Computer application.
-
-**WORK IN PROGRESS**
-
-<img width="474" height="423" alt="image" src="https://github.com/user-attachments/assets/2af14b81-b3ec-4239-af20-5377d759b0c1" />
-
-
+ 
+<img src="https://github.com/user-attachments/assets/2af14b81-b3ec-4239-af20-5377d759b0c1" alt="WORK IN PROGRESS" width="100"/>
 [![Copy this link](https://img.shields.io/badge/Copy__Link-brightgreen?style=for-the-badge&logo=link&logoColor=white)](https://tinyurl.com/Notes-BCA) 
 [![LinkedIn](https://www.linkedin.com/in/tamimtasira)<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="22"/>
 [![Mail](https://img.shields.io/badge/Mail__Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:user@mail.com)
