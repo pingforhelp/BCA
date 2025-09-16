@@ -225,5 +225,39 @@ Examples:
 | Job       | Region   | Average  |                                    |                                                  |
 | Jam       | Margin   | Stage    |                                    |                                                  |
 | Gentleman | Agent    |          |                                    |                                                  |
----------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+
+
+**Mouth Yoga (Unit 11)**
+
+**Target Sound:** "h"  **Spelling:** "h"  
+
+| Initial   | Medial     | (Wh) spelled like “h” | Silent (h) | Phrases                              |
+|------------|------------|----------------------|------------|--------------------------------------|
+| Here       | Behind     | Who                  | Hour       | 1. Hurry, over here!                 |
+| Hi         | Perhaps    | Whole                | Honor      | 2. Who’s at the door?                |
+| Hello      | Inhale     | Whom                 | Honest     | 3. Happy is an honest person.        |
+| Hey        | Anyhow     | Whose                | Heir       | 4. Her hero gave her his heart.      |
+| Hero       | Unhappy    | Whoever              |            | 5. I will be ready in half an hour.  |
+| Heart      | Rehearsal  |                      |            | 6. I hate hot and humid weather.     |
+| Humorous   | Behave     |                      |            |                                      |
+--------------------------------------------------------------
+
+**Mouth Yoga (Unit 12)**
+
+**Target Sound:** “i” (short “i”)  **Spelling:** “i”
+
+| Initial  | Medial     | Phrases                         |
+|----------|------------|---------------------------------|
+| It       | Lift       | 1. What is it?                  |
+| Is       | Fit        | 2. This is it.                  |
+| It       | Six        | 3. I missed it.                 |
+| In       | Did        | 4. This is a big city.          |
+| Into     | Hit        | 5. It’s a pity.                 |
+| Ink      | Simple     |                                 |
+| Imply    | Litter     |                                 |
+| Attend   | Mystery    |                                 |
+|          | Fifty      |                                 |
+|          | Pity       |                                 |
+--------------------------------------------------------
 
