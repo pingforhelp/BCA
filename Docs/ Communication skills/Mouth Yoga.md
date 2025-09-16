@@ -1,4 +1,4 @@
-# Mouth Yoga – (Unit 1-10)
+# Mouth Yoga – (Unit 1-12)
 
 **Mouth Yoga – (Unit 1)**
 
@@ -245,7 +245,7 @@ Examples:
 
 **Mouth Yoga (Unit 12)**
 
-**Target Sound:** “i” (short “i”)  **Spelling:** “i”
+**Target Sound:** "i" (short "i")  **Spelling:** "i"
 
 | Initial  | Medial     | Phrases                         |
 |----------|------------|---------------------------------|
