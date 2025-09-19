@@ -1,6 +1,6 @@
 # Mouth Yoga – (Unit 1-12)
 
-**Mouth Yoga – (Unit 1)**
+**Mouth Yoga – (Unit 001)**
 
 **Spelling:** "th". **Target Sound:** Voiceless "th".
 
@@ -14,7 +14,7 @@
 | Thumb         | Lengthen      | Birth     |                                 |
 
 
-**Mouth Yoga (Unit 2)**
+**Mouth Yoga (Unit 002)**
 
 **Spelling:** "th". **Target Sound:** Voiceless "th".
 
@@ -29,7 +29,7 @@
 -------------------------------------
 
 
-**Mouth Yoga (Unit 3)**
+**Mouth Yoga (Unit 003)**
  
  **Spelling:** "th". **Target Sound:** Voiceless "th".
  
@@ -81,7 +81,7 @@ Examples:
 -----------------
 
 
- **Mouth Yoga (Unit 4)**
+ **Mouth Yoga (Unit 004)**
  
 **Spelling**: w, wh, u, qu + /kw/, o (as in "one"). **Target Sound**: "w".
 
@@ -116,7 +116,7 @@ Examples:
 |           |           |            |                             |
 -------------------------------------------------------------------
 
-**Mouth Yoga (Unit 5)**
+**Mouth Yoga (Unit 005)**
  
  **Spelling:** "r", "wr".   **Target Sound:** "r".
 
@@ -133,7 +133,7 @@ Examples:
 |   -         | Warm       | Summer       |        -                        |
 --------
 
-**Mouth Yoga (Unit 6)**
+**Mouth Yoga (Unit 006)**
 **Spelling:** "S",  C,  "SC". **Target Sound:** "S".
 
 | Initial | Medial   | Terminal | Phrases                           |
@@ -149,7 +149,7 @@ Examples:
 ---------------------------------------------------------
 
 
-**Mouth Yoga (Unit 7)**
+**Mouth Yoga (Unit 007)**
 
 **Spelling**: z, s, x. **Target** **Sound**: z.
 
@@ -174,7 +174,7 @@ Examples:
 |         |          |          |                                                      |
 -----------------------------------------------------------------------------------
 
-**Mouth Yoga (Unit 8)**
+**Mouth Yoga (Unit 008)**
 
 **Spelling**: sh, ch, s, -tion or -sion (as in ‘shun’). **Target** **Sound**: sh.
 
@@ -194,7 +194,7 @@ Examples:
 |         |          |          |                                                                 |
 --------------------------------------------------------------------------------------
 
-**Mouth Yoga (Unit 9)**
+**Mouth Yoga (Unit 009)**
 
 **Spelling**: ch. **Target** **Sound**: ch
 
@@ -261,3 +261,53 @@ Examples:
 |          | Pity       |                                 |
 --------------------------------------------------------
 
+
+**Mouth Yoga (Unit 13)**
+
+**Target Sound:** "i" or "e"  **Spelling:** e, ea, ee  
+
+| Initial   | Medial   | Terminal | Phrases                              |
+|------------|----------|----------|--------------------------------------|
+| Easter     | Teak     | Free     | 1. See you at three o’clock.         |
+| E          | Peak     | Knee     | 2. Good evening.                     |
+| Email      | Weak     | Tea      | 3. I will be free next week.         |
+| Eager      | Peach    | Sea      | 4. I’m pleased to meet you.          |
+| Early      | Please   | Busy     | 5. Can you see what I mean?          |
+| Each       | Feed     | Tiny     |                                      |
+|            | Reach    | Key      |                                      |
+----
+
+
+**Mouth Yoga (Unit 14)** 
+
+**Target Sound:** "y"  **Spelling:** "y"
+
+| Initial   | Phrases                                                  |
+| --------- | -------------------------------------------------------- |
+| Yesterday | 1. Yesterday was my birthday.                            |
+| Young     | 2. Yellow is my favorite color.                          |
+| Yellow    | 3. I bought a frying pan yesterday.                      |
+| Yale      | 4. Rajesh is tying a knot with his girlfriend yesterday. |
+| Yolk      |                                                          |
+| Yacht     |                                                          |
+| Yogurt    |                                                          |
+| Year      |                                                          |
+
+
+**Mouth Yoga (Unit 15)**
+
+**Target Sound:** "ju"  **Spellings:** y, u, ew, ue  
+
+| Initial | Medial        | Terminal | Phrases                        |
+| ------- | ------------- | -------- | ------------------------------ |
+| You     | Beauty        | Cue      | 1. He wears huge shoes.        |
+| Use     | Cube          | Hue      | 2. There are fewer mice today. |
+| ’ll     | Cute          | Pew      |                                |
+| You’d   | Fume          | View     |                                |
+|         | Fuse          |          |                                |
+|         | Viewer        |          |                                |
+|         | Fuel          |          |                                |
+|         | Fewer         |          |                                |
+|         | Cutest        |          |                                |
+|         | Communication |          |                                |
+-----
