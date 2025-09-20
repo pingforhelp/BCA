@@ -1,6 +1,6 @@
-# Mouth Yoga – (Unit 1-12)
+# Mouth Yoga (Unit 1-18)
 
-**Mouth Yoga – (Unit 001)**
+**Mouth Yoga (Unit 001)**
 
 **Spelling:** "th". **Target Sound:** Voiceless "th".
 
@@ -313,3 +313,87 @@ Examples:
 |         | Cutest        |          |                                |
 |         | Communication |          |                                |
 -----
+
+**Mouth Yoga (Unit 15)**
+
+**Target Sound:** "ju"  **Spellings:** y, u, ew, ue  
+
+| Initial | Medial        | Terminal | Phrases                        |
+| ------- | ------------- | -------- | ------------------------------ |
+| You     | Beauty        | Cue      | 1. He wears huge shoes.        |
+| Use     | Cube          | Hue      | 2. There are fewer mice today. |
+| ’ll     | Cute          | Pew      |                                |
+| You’d   | Fume          | View     |                                |
+|         | Fuse          |          |                                |
+|         | Viewer        |          |                                |
+|         | Fuel          |          |                                |
+|         | Fewer         |          |                                |
+|         | Cutest        |          |                                |
+|         | Communication |          |                                |
+-----
+
+
+**Mouth Yoga (Unit 16)**
+
+**Target Sound:** "e" **Spelling:** e  
+
+| Initial   | Medial     | Phrases                                           |
+|------------|------------|-------------------------------------------------|
+| End        | Red        | 1. Ted said it.                                 |
+| Enter      | Led        | 2. Buy a head of lettuce.                        |
+| Exit       | Met        | 3. Pat is my best friend.                        |
+| Excuse     | Pet        | 4. Can you lend me a pen for the lesson?         |
+| Exercise   | Set        | 5. The secretary answered the telephone.         |
+| Else       | Rent       |                                                 |
+| Every      | Regulate   |                                                 |
+| Energy     | Fena       |                                                 |
+|            | Seldom     |                                                 |
+|            | Never      |                                                 |
+----------
+
+
+**Mouth Yoga (Unit 17)**
+
+Target Sound: "ae". **Spelling:** a, a...e. **Unusual:** laugh (laughter).  
+
+| **Initial** | **Medial** | **Terminal** | **Phrases**                              |
+|--------------|------------|--------------|------------------------------------------|
+| As           | Wrap       | Nil          | 1. Matt is last.                         |
+| At           | Rack       |              | 2. Is that a fact?                       |
+| And          | Mark       |              | 3. Clap your hands.                      |
+| Ami          | Lap        |              | 4. This is your last chance.             |
+| Ask          | Rapid      |              | 5. Give him a pat on the back.           |
+| Act          | Black      |              | 6. Patty wrapped it up.                  |
+| After        | Sad        |              |                                          |
+| Atom         | Happy      |              |                                          |
+| Absent       | Flag       |              |                                          |
+| Annual       |            |              |                                          |
+-----
+
+
+**Mouth Yoga (Unit 18)**
+
+**Target Sound:** "ei" **Spelling:** a, a…e, ay, ea, ai  
+
+| **Initial** | **Medial**    | **Terminal** | **Phrases**                                                   |
+|--------------|---------------|--------------|---------------------------------------------------------------|
+| Ate          | Same          | May          | 1. We’re late for the date.                                  |
+| Age          | Lame          | Pay          | 2. I want to wake up at eight.                               |
+| Aim          | Came          | Say          | 3. Don’t make a mistake.                                     |
+| Able         | Date          | Day          | 4. He must break his date with his neighbour.                 |
+| Eight        | Table         | Okay         | 5. I must buy raisins, mayonnaise, cake, and toothpaste.      |
+| April        | Paper         | Stay         |                                                               |
+| Apron        | Place         | Obey         |                                                               |
+|              | Case          | Hurray       |                                                               |
+|              | Crazy         | Play         |                                                               |
+|              | Lazy          |              |                                                               |
+|              | Waste         |              |                                                               |
+|              | Neighbour     |              |                                                               |
+----
+
+> [!NOTE]  
+> All of the above content is based on whiteboard scans (i.e., images captured from the whiteboard). These were then formatted into Markdown tables using AI, and later looked over by me for errors or “AI vomit”. Please refer to the textbook in case of any discrepancies. **Copyright Disclaimer>** Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. **Non-profit, educational or personal use** tips the balance in favour of fair use.
+
+----------------------*the end. Edited on 21 Sept, 2025.*-----------------------------------------
+  
+
