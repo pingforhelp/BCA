@@ -12,7 +12,7 @@
 | Theory        | Something     | Month     | Thank you very much.            |
 | Thicken       | Arithmetic    | Myth      | I think I will come.            |
 | Thumb         | Lengthen      | Birth     |                                 |
-
+-----
 
 **Mouth Yoga (Unit 002)**
 
@@ -26,7 +26,7 @@
 | Those    | Rather  | Loath    | 4. Come with me.                 |
 | This     | Mother  | Sheathe  | 5. There they are.               |
 | Though   | Further | Breathe  | 6. Go this way, not that way.    |
--------------------------------------
+-----
 
 
 **Mouth Yoga (Unit 003)**
@@ -41,8 +41,7 @@
 | Those   | Rather  | Loath    | 4. Come with me.              |
 | This    | Mother  | Sheathe  | 5. There they are.            |
 | Though  | Further | Breathe  | 6. Go this way, not that way. |
------------------------------
-
+-----
 
 Simple sentence consists of a **Subject and Verb.**
 
@@ -65,7 +64,7 @@ Position / Question table:
 | We are   | Are we?    |
 | You are  | Are you?   |
 | They are | Are they?  |
-------------------------
+-----
 
 Examples:  
 - Ram eats an apple.  
@@ -114,7 +113,7 @@ Examples:
 | Wednesday |           |            |                             |
 | Wonderful |           |            |                             |
 |           |           |            |                             |
--------------------------------------------------------------------
+-----
 
 **Mouth Yoga (Unit 005)**
  
@@ -129,9 +128,10 @@ Examples:
 | Wrong       | Fork       | Shower       | Under the orange tree.          |
 | Wrinkle     | Charm      | Ignore       | Corporate culture.              |
 | Rot         | Alarm      | Attire       | Work environment.               |
-|   -         | Hard       | Fire         |        -                        |
-|   -         | Warm       | Summer       |        -                        |
---------
+|             | Hard       | Fire         |                                 |
+|             | Warm       | Summer       |                                 |
+-----
+
 
 **Mouth Yoga (Unit 006)**
 **Spelling:** "S",  C,  "SC". **Target Sound:** "S".
@@ -146,7 +146,7 @@ Examples:
 | Scent   | Blessing | Course   |         -                         |
 | Screw   | Listen   | Thoughts |         -                         |
 | Scratch |  -       |     -    |         -                         |
----------------------------------------------------------
+-----
 
 
 **Mouth Yoga (Unit 007)**
@@ -172,7 +172,7 @@ Examples:
 |         |          | Breeze   |                                                      |
 |         |          | Please   |                                                      |
 |         |          |          |                                                      |
------------------------------------------------------------------------------------
+-----
 
 **Mouth Yoga (Unit 008)**
 
@@ -192,7 +192,7 @@ Examples:
 |         |          |          | 10. A profession as a physician is demanding.                   |
 |         |          |          |                                                                 |
 |         |          |          |                                                                 |
---------------------------------------------------------------------------------------
+-----
 
 **Mouth Yoga (Unit 009)**
 
@@ -210,7 +210,8 @@ Examples:
 |         |          | Munch    |                                         |
 |         |          |          |                                         |
 |         |          |          |                                         |
----------------------------------------------------
+-----
+
 
 **Mouth Yoga (Unit 10)**
 
@@ -225,7 +226,7 @@ Examples:
 | Job       | Region   | Average  |                                    |                                                  |
 | Jam       | Margin   | Stage    |                                    |                                                  |
 | Gentleman | Agent    |          |                                    |                                                  |
-------------------------------------------------------------------------------------------------------------------------
+-----
 
 
 **Mouth Yoga (Unit 11)**
@@ -240,8 +241,8 @@ Examples:
 | Hey        | Anyhow     | Whose                | Heir       | 4. Her hero gave her his heart.      |
 | Hero       | Unhappy    | Whoever              |            | 5. I will be ready in half an hour.  |
 | Heart      | Rehearsal  |                      |            | 6. I hate hot and humid weather.     |
-| Humorous   | Behave     |                      |            |                                      |
---------------------------------------------------------------
+| Humorous   | Behave     |                      |            |                                                                                                  |
+-----
 
 **Mouth Yoga (Unit 12)**
 
@@ -259,7 +260,7 @@ Examples:
 | Attend   | Mystery    |                                 |
 |          | Fifty      |                                 |
 |          | Pity       |                                 |
---------------------------------------------------------
+-----
 
 
 **Mouth Yoga (Unit 13)**
@@ -292,6 +293,7 @@ Examples:
 | Yacht     |                                                          |
 | Yogurt    |                                                          |
 | Year      |                                                          |
+-----
 
 
 **Mouth Yoga (Unit 15)**
