@@ -1,6 +1,6 @@
 # BCA is a repo for notes of Bachelors In Computer application.
 
-[![Copy this link](https://img.shields.io/badge/Copy-Link-blue?style=for-the-badge)](https://tinyurl.com/Notes-BCA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TamimTasira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TamimTasira/)
 
 
 **ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum.
