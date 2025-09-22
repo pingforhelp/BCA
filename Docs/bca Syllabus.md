@@ -1,6 +1,8 @@
 > [!NOTE]
 > This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readable'.
 
+Sub Computer Sci.
+
 # BASED ON ANDHRA PRADESH STATE COUNCIL OF HIGHER EDUCATION WEB.
 
  COURSE STRUCTURE (Semester I to VI) **Computer Sci.**
@@ -46,30 +48,12 @@
 > In the III Year (during the V and VI Semesters), students are required to select a pair of
 electives from one of the Two specified domains. **For example: if set ‘A’ is chosen,** courses 12 to 15 to be chosen as 12 A, 13 A, 14 A and 15 A. To ensure in-depth understanding and skill development in the chosen domain, students must continue with the same domain electives in both the V and VI Semesters. This table don't include the subtopics pls scroll down for that.
 
-Breakout of units, topics, and sub-topics
+> [!NOTE]
+> Breakout of units, topics, and sub-topics.
 
 # COURSE 1: COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION
 
 Theory Credits: 3 3 hrs/week.
-
-Course Objectives:
-1. Understand foundational computing concepts, including number systems, the evolution of computers, block diagrams, and generational progress.
-2. Develop knowledge of computer architecture, focusing on system organization and networking fundamentals.
-3. Acquire practical skills in document creation, formatting, and digital presentations using word processing tools.
-4. Gain proficiency in spreadsheet operations, such as data entry, formulas, functions, and charting techniques.
-5. Introduce data visualization and basic modelling principles, fostering analytical thinking in structuring and interpreting data sets.
-
-Course Outcomes:
-1. At the End of the Course, The Students will be able to explain different number systems,
-the historical evolution of computers, and identify key components in a block diagram.
-2. Learners will demonstrate basic blocks of a computer and fundamental networking
-knowledge.
-3. Learners will create professional-level documents and design visually appealing
-presentations using word processing software and presentation software.
-4. Learners will manipulate data within spreadsheets, apply formulas, and generate accurate
-summaries and visualizations.
-5. Learners will apply data modelling techniques to analyze, organize, and represent data
-effectively in various scenarios.
 -----------------------
 **Unit 1 Number Systems, Evolution , Block Diagram and Generations:**
 - Number Systems: Binary, Decimal, Octal, Hexadecimal; conversions between number systems.
@@ -177,20 +161,6 @@ d. Create a one-variable Data Table to analyze how different expenses affect sav
 
 Theory Credits: 3 3 hrs/week
 
-Course Objectives:
-1. Understand the fundamentals of computer programming, Apply structured problem-solving approaches using algorithms, flowcharts, and C programming constructs.
-2. Develop efficient logic using decision-making, loop, and jump control statements.
-3. Utilize derived data types like arrays and strings for modular program design.
-4. Design and implement modular solutions using functions, recursive logic, pointer operations, and dynamic memory management.
-5. Handle complex data structures including structures, unions, and text file operations.
-
-Course Outcomes, At the End of the Course, The Students will be able to:
-1. Understand basic computing concepts, programming paradigms and write structured C programs.
-2. Apply control flow statements to solve logical and repetitive tasks in C.
-3. Implement arrays and string operations to manage and manipulate data efficiently.
-4. Design modular code using functions, recursion, and appropriate parameter passing.
-5. Utilize pointers and memory operations for effective data handling. Demonstrate competence in dynamic memory allocation and text file processing.
-
 **Unit 1. Introduction to computer programming:**
 - Introduction: Types of software, Compiler and interpreter, Concepts of Machine level, Assembly
 level and high-level programming, Flowcharts and Algorithms.
@@ -208,7 +178,7 @@ Initializing string variables; String handling functions, Character handling fun
 ----
 **Unit 4. Functions:**
 - Pointers: Pointer data type, Pointer declaration, initialization, accessing values using pointers. Pointer arithmetic, Pointers and arrays. Function Prototype, definition and calling. Return statement. Nesting of functions. Categories of functions. Recursion (Basic Concept only). Parameter Passing by address & by value. Local and Global variables. Storage classes: automatic, external, static and register.
-
+-------------------
 **Unit 5. Dynamic Memory Management:**
 - Introduction: Functions-malloc, calloc, realloc, free Structures: Basics of structure, structure
 members, accessing structure members, nested structures, array of structures, structure and
@@ -259,10 +229,46 @@ List of Experiments:
 - b. Search a book details for a given ISBN and display book details, if available
 - c. Update a book details using ISBN
 - d. Delete book details for a given ISBN and display list of remaining Books.
+ 
+> [!NOTE]
+> This is the end for CS in Sem. 1. and beginning of English.
+---------------------
+Sub English
+
+# COURSE 1: ENGLISH BRIDGE-I: LIFE SKILLS
+> [!NOTE]
+> Breakout of units, topics, and sub-topics.
+> STRUCTURE isn't included because I feel like It's important. See for yourself [Click me]
+(https://apsche.ap.gov.in/Pdf/major_minor1/General%20English.pdf)
+
+Unit I
+- Poem: Coromandel Fishers – Sarojini Naidu
+- Short Story: The Night Train at Deoli – Ruskin Bond
+- Parts of Speech (Grammar)
+
+Unit II
+- Short Story: The Lost Child – Mulk Raj Anand
+- Prose: Letter to a Teacher – School of Barbiana
+- Articles and Prepositions (Grammar)
+
+Unit III
+- Poem: Where the Mind is Without Fear – Rabindranath Tagore
+- Speech: How Dare You – Greta Thunberg (Open Source)
+- Question tags (Grammar)
+ 
+Unit IV
+- Poem: Night of the Scorpion – Nissim Ezekiel
+- One Act Play: Refund – Fritz Karinthy
+- Tenses (Grammar)
+
+Unit V
+- Short Story: An Astrologer’s Day – R. K. Narayan
+- Phonetics: Basic Sounds and Word Stress
+- Intonation and Homophones (Grammar)
 
 > [!NOTE]
-> This is the end for CS in Sem. 1.
----------------------
+> This is the end for English in Sem. 1. and beginning of AI.
+------------------------------------------
 
 
 
