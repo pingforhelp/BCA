@@ -391,6 +391,43 @@ Target Sound: "ae". **Spelling:** a, a...e. **Unusual:** laugh (laughter).
 |              | Neighbour     |              |                                                               |
 ----
 
+**Mouth Yoga (Unit 19)** 
+
+**Target Sound**: "Uh"  **Spelling:** U, O.  
+
+| **Initial** | **Medial** | **Terminal** | **Phrases**                                          |
+|--------------|------------|--------------|-----------------------------------------------------|
+| Up           | Rug        | One          | 1. The lucky couple won some money at the casino.   |
+| Ugly         | Hug        |              | 2. The duck was stuck in the mud.                   |
+| Onion        | Tug        |              | 3. Do bugs give you much trouble in the summer?     |
+| Otherwise    | Sun        |              |                                                 |
+| Over         | Come       |              |                                                 |
+| Uncle        | Thumb      |              |                                                 |
+| Under        | Ton        |              |                                                 |
+|              | Mother     |              |                                                 |
+|              | Love       |              |                                                 |
+|              | Luck       |              |                                                 |
+----
+
+
+**Mouth Yoga (Unit 20)** 
+
+**Target Sound**: "ou" **Spelling:** o, ou, ow, oe.
+
+| **Initial** | **Medial** | **Terminal** | **Phrases**                                    |
+|--------------|------------|--------------|-----------------------------------------------|
+| Owe          | Soap       | So           | 1. Go answer the phone call from Rome.        |
+| Own          | Toast      | Hello        | 2. It is below zero today. It will snow.      |
+| Only         | Roast      | No           | 3. Let the golf ball roll into the hole.      |
+| Over         | Note       | Blow         | 4. We were frozen cold in the winter storm.   |
+| Oak          | Rope       | To           | 5. Most older people don’t feel old, they just look old. |
+| Omit         | Hole       | Foe          |                                               |
+| Obey         | Home       | Joe          |                                               |
+| Ozone        | Coat       | Snow         |                                               |
+|              | Boat       |              |                                               |
+-------
+
+
 > [!NOTE]  
 > All of the above content is based on whiteboard scans (i.e., images captured from the whiteboard). These were then formatted into Markdown tables using AI, and later looked over by me for errors or “AI vomit”. Please refer to the textbook in case of any discrepancies. **Copyright Disclaimer>** Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. **Non-profit, educational or personal use** tips the balance in favour of fair use.
 
