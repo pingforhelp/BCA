@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is a Markdown (.md) ver. of the PDF located at [THIS URL[(https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf). Using a Web-based Tool [pdf2md.morethan](https://pdf2md.morethan.io)
+> This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf). Using a Web-based Tool [pdf2md.morethan](https://pdf2md.morethan.io)
 
 # ANDHRA PRADESH STATE COUNCIL OF HIGHER EDUCATION
 
