@@ -1,7 +1,7 @@
 > [!NOTE]
-> This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readable'.
+> This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readable' on GitHub.
 
-Sub Computer Sci.
+Sub Computer Sci. [Source](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf)
 
 # BASED ON ANDHRA PRADESH STATE COUNCIL OF HIGHER EDUCATION WEB.
 
@@ -46,7 +46,7 @@ Sub Computer Sci.
 ----------
 > [!NOTE]
 > In the III Year (during the V and VI Semesters), students are required to select a pair of
-electives from one of the Two specified domains. **For example: if set ‘A’ is chosen,** courses 12 to 15 to be chosen as 12 A, 13 A, 14 A and 15 A. To ensure in-depth understanding and skill development in the chosen domain, students must continue with the same domain electives in both the V and VI Semesters. This table don't include the subtopics pls scroll down for that.
+electives from one of the Two specified domains. **For example: if set ‘A’ is chosen,** courses 12 to 15 to be chosen as 12 A, 13 A, 14 A and 15 A. To ensure in-depth understanding and skill development in the chosen domain, students must continue with the same domain electives in both the V and VI Semesters. This table doesn't include the subtopics. Scroll down for that.
 
 > [!NOTE]
 > Breakout of units, topics, and sub-topics.
@@ -233,12 +233,12 @@ List of Experiments:
 > [!NOTE]
 > This is the end for CS in Sem. 1. and beginning of English.
 ---------------------
-Sub English
+Sub English [Source](https://apsche.ap.gov.in/Pdf/major_minor1/General%20English.pdf)
 
 # COURSE 1: ENGLISH BRIDGE-I: LIFE SKILLS
 > [!NOTE]
 > Breakout of units, topics, and sub-topics.
-> STRUCTURE isn't included because I feel like It's important. See for yourself [Click me]
+> STRUCTURE isn't included because I feel like It's *not* important. See it for yourself [Click me]
 (https://apsche.ap.gov.in/Pdf/major_minor1/General%20English.pdf)
 
 Unit I
@@ -263,12 +263,142 @@ Unit IV
 
 Unit V
 - Short Story: An Astrologer’s Day – R. K. Narayan
-- Phonetics: Basic Sounds and Word Stress
+- Phonetics: Basic Sounds and Word Stress (Com. Skills?)
 - Intonation and Homophones (Grammar)
 
 > [!NOTE]
 > This is the end for English in Sem. 1. and beginning of AI.
 ------------------------------------------
+Sub Intro. to AI [Source]()
+
+## COURSE 1: AI FUNDAMENTALS
+
+Theory Credits: 4 4 hrs/week
+
+Learning Objectives:
+
+1. Understand the history and evolution of Artificial Intelligence and Identify major subfields of
+    AI.
+2. Investigate the role of AI in various industries like healthcare, agriculture, and education.
+3. Examine concepts like bias, fairness, transparency, and accountability in AI systems.
+4. Explore the integration of AI in scientific research and discuss future directions and evolving
+    trends in AI.
+5. Learn how prompt engineering is used in various sectors like education and content creation.
+
+Course Outcomes:
+Students will be able to
+1. Describe the different subfields and their roles in AI applications.
+2. Analyze the benefits and limitations of AI in diverse domains.
+3. Evaluate AI systems in terms of inclusivity, privacy, and robustness.
+4. Describe Generative AI and emerging technologies like ChatGPT.
+5. Apply prompt engineering concepts to various real-world use cases.
+
+Unit I. AI and its Subfields
+Introduction to Artificial Intelligence, History, Definition, Artificial General Intelligence, Industry
+Applications of AI, Challenges in AI.
+
+Knowledge Engineering, Machine Learning, Computer Vision, Natural Language Processing,
+Robotics.
+
+Unit 2. Applications of AI
+Healthcare, Finance, Retail, Agriculture, Education, Transportation.
+
+Unit 3. Bias and Fairness in AI Systems
+Ethics in AI, Bias and Fairness in AI Systems, Transparency in AI Systems, Accountability, Security,
+Privacy, Inclusivity, Sustainability, Robustness, Reliability.
+
+Unit 4. AI in Research, Generative AI and prompt engineering
+AI in Experimentation and Multi-disciplinary research, Generative AI introduction, ChatGPT,
+Hugging Face, Gemini and other tools basics, Perplexity, Prompt engineering Definition and its
+importance, Role of Prompt Engineering in AI/ML Interaction, Emerging trends and Future Directions
+in AI.
+
+
+Unit 5. Applications of Prompt engineering
+Applications of Prompt Engineering: Education, Business & Commerce, Content Creation: AI for
+Creative Writing,AI for creative design, writing AI scripts for video, generating slides and slidesGPT
+usage, Designing thumbnails and channel branding with AI
+
+Text Books:
+
+1. AI for Everyone: A Beginner's Handbook for Artificial Intelligence (AI) by Saptarsi Goswami, Amit Kumar Das , Amlan Chakrabarti
+2. Prompt Engineering for Beginners: by Kapila Arora, Geetu Garg, Gaurav Arora.
+
+References:
+1. Let’s Learn Artificial Intelligence: Base Module, Niti Ayog, Atal Innovation Mission.
+2. Prompt Engineering for Generative AI: Future-proof inputs for Reliable AI-outputs by James Phoenix & Mike Taylor.
+3. Generative AI Tutorial:https://www.w3schools.com/gen_ai/
+4. Generative AI 360°: Practical Guide to ChatGPT, Midjourney & AI Tools to Boost Productivity & Creativity , For Professionals, Marketers & Entrepreneurs by Hitesh Motwani, ZebraLearn, 2025.
+5. Generative AI: Prompt Engineering Basics
+6. Learn Generative AI Prompt Engineering for everyone. [https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone?action=enroll](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone?action=enroll)
+7. Free Artificial Intelligence (AI) Tutorial - Hands-On Prompt Engineering for AI Beginners & Business UserUdemy, [https://www.udemy.com/course/prompt-engineering-for-ai-beginners-business-users](https://www.udemy.com/course/prompt-engineering-for-ai-beginners-business-users)
+
+
+
+
+## COURSE 1p: AI FUNDAMENTALS [Practice]
+
+Practice Session 2 hrs/week
+
+1. Create a mind map of AI subfields: NLP, CV, ML, Robotics, Knowledge Engineering using
+Canva/Napkin AI/Similar Open AI tool.
+2. Text Analysis with Open-Source NLP Tools: Tool: Voyant Tools (text analysis web app)
+- Input sample texts (e.g., news articles, speeches).
+- Explore word frequency, keywords, sentiment.
+- Understand how NLP extracts meaning from text.
+4. Train a basic image classifier using webcam images. Observe how the model "learns." Using Google Teachable Machine
+- Train two image categories (e.g., “Smiling” vs. “Not Smiling”) using their own webcam
+images.
+- Observe how the model learns to classify.
+- Now try feeding images of people with different skin tones, facial features, etc.
+- Observe misclassifications or differences in confidence.
+4. Simulate an AI chatbot helping a farmer or a student. You may use any GenAI tool of your
+choice. You may use the prompt below and also try your own. Prompt: “Act as an agriculture assistant. A farmer wants to know the best crop based on soil and season. Ask questions and suggest crops.”
+5. Test Generative AI- Generate a poem or image from prompt “A futuristic green city.” using ChatGPT, Hugging Face (e.g., image or text generation)
+6. Observe how generative AI models may show biased results when prompted with neutral profession descriptions. (Bing Image Creator / DALL·E on ChatGPT/ChatGPT). Generate images using the following neutral prompts:
+- “A doctor treating a patient”
+- “A teacher in a classroom”
+- “A CEO giving a speech”
+- “A software engineer working from home”.
+Observe and discuss:
+- What gender/race/age are most commonly shown?
+- Are the results stereotypical or diverse?
+7. Check how language models may express bias depending on names, ethnicity, or location. Use ChatGPT or Gemini
+Prompts:
+- Prompt A: “A person named Raj is applying for a bank loan. Will he be approved?”
+- Prompt B: “A person named John is applying for a bank loan. Will he be approved?” Change names, genders, and nationalities.
+Observe the following and report your findings:
+- Are the responses different?
+- Is one version more positive or negative?
+- Does the model express bias or hesitate?
+- Should AI make such predictions?
+- How do developers prevent this?
+8. Exploring Text Generation and Summarization with Google AI Studio. Generate Creative Content
+“Write a short story (150 words) about a robot who wants to become a chef.”
+- Submit and read the AI-generated story.
+- Discuss how detailed and creative the output is.
+Summarize a Paragraph:
+Prompt: Summarize the following paragraph in 3 sentences:
+“Artificial Intelligence is a branch of computer science that aims to create intelligent machines
+that can mimic human thinking. It includes various subfields like machine learning, natural
+language processing, and robotics. AI is widely used in industries such as healthcare, finance,
+and transportation to improve efficiency and decision-making.”
+- Submit and review the summary.
+- Evaluate how well AI extracts key points.
+
+Refine Your Prompt. Try changing the summary prompt to:
+“Summarize the paragraph above in simple language for 10-year-olds.”
+- Compare this output to the previous one.
+- Note how prompt wording changes results.
+9. AI for Creative Writing
+Prompt: “Write a short motivational story for 10-year-old students in under 150 words.”
+10. Generate Slides: Tool: SlidesGPT/Other Free AI tool.
+Prompt: “Create a 5-slide presentation on ‘AI in Smart Farming’.”
+11. YouTube Thumbnails / Branding: Tool: Canva + Magic Media AI
+Design a thumbnail using Canva’s AI tools with a prompt like:
+“Design a YouTube thumbnail for a video titled ‘Top 5 AI Tools for Students’.”
+-----------------
+
 
 
 
