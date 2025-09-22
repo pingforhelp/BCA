@@ -431,6 +431,6 @@ Target Sound: "ae". **Spelling:** a, a...e. **Unusual:** laugh (laughter).
 > [!NOTE]  
 > All of the above content is based on whiteboard scans (i.e., images captured from the whiteboard). These were then formatted into Markdown tables using AI, and later looked over by me for errors or “AI vomit”. Please refer to the textbook in case of any discrepancies. **Copyright Disclaimer>** Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. **Non-profit, educational or personal use** tips the balance in favour of fair use.
 
-----------------------*the end. Edited on 21 Sept, 2025.*-----------------------------------------
+   *The end. Edited on 22 Sept., 2025.*
   
 
