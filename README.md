@@ -8,8 +8,8 @@
 Subject list:
 1. English
 2. Computer Sci.
-3. Com. Skills. (No tests)
-4. AI (Yes that's sub title I double checked it).
+3. Com. Skills.
+4. AI (Yes that's sub title I double checked it.)
 5. Second Language Hindi **or** Sanskrit.
 
 # Sem. 1 Topic/Paper breakdown:
