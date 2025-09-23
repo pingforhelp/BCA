@@ -37,10 +37,12 @@ Subject list:
 > [!NOTE]
 > ```+``` means in addition to.
 
+
 # 🗒
+
 # Sem.1
-- [English Grammar-1](/docs/English/Basic-Grammar.md)
-- [Com. Skills (Units 1-20)](/main/docs/Communicationskills/MouthYoga.md)
+- English [Grammar-1](Basic-Grammar)
+- Com. Skills [(Units 1-20)](/main/docs/Communicationskills/MouthYoga.md)
 - [CS](?)
 - [AI](?)
 
