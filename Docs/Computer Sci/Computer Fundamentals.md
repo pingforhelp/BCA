@@ -16,10 +16,10 @@ The computer operates on IPO (Input, Processing, Output).
 * **ROM** refers to Read Only Memory. It **cannot** change files in the computer; it only stores instructions that can be read, not written, by a user.
 
 **Characteristics of computer:**
-* **Speed** – A computer can process **billions of instructions** per second. Modern processors have speed measured in **GHz**, meaning they can handle **billions of cycles** per second.
-* **Accuracy** – Computers follow instructions and produce all results without errors, except for bugs or human error.
-* **Automation** – Once programmed, a computer operates automatically.
-* **Storage** – Computers store vast amounts of data in primary memory.
-* **Versatility** – A simple computer can perform many tasks such as playing a movie or editing a document.
-* **Diligence** – A computer can perform repetitive tasks without pause.
-* **Cost-effectiveness** – The automation and speed of computers reduce the time and manpower required to complete tasks.
+1. **Speed** – A computer can process **billions of instructions** per second. Modern processors have speed measured in **GHz**, meaning they can handle **billions of cycles** per second.
+2. **Accuracy** – Computers follow instructions and produce all results without errors, except for bugs or human error.
+3. **Automation** – Once programmed, a computer operates automatically.
+4. **Storage** – Computers store vast amounts of data in primary memory.
+5. **Versatility** – A simple computer can perform many tasks such as playing a movie or editing a document.
+6. **Diligence** – A computer can perform repetitive tasks without pause.
+7. **Cost-effectiveness** – The automation and speed of computers reduce the time and manpower required to complete tasks.
