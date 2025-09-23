@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readable' on GitHub.
+> This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readable' on GitHub. This Doc only includes Sem.1 Syllabus for English, Computer Sci., and, Intro. to AI. 
 
 Sub Computer Sci. [Source](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf)
 
@@ -101,8 +101,9 @@ Textbooks:
 References:
 1. Excel 2021 Bible by Michael Alexander, Richard Kusleika – Wiley
 2. Networking All-in-One For Dummies by Doug Lowe – Wiley
-3. Microsoft Official Docs and Training: https://learn.microsoft.com
-4. Google Workspace Learning Center: https://support.google.com/a/users/
+3. Microsoft Official Docs and Training: [https://learn.microsoft.com](https://learn.microsoft.com/)
+4. Google Workspace Learning Center: [https://support.google.com/a/users/](https://support.google.com/a/users/)
+
 Activities:
 - Outcome: At the End of the Course, The Students will be able to explain different number
 systems, the historical evolution of computers, and identify key components in a block diagram.
@@ -217,14 +218,14 @@ List of Experiments:
 10. Write a program for multiplication of two N X N matrices.
 11. Write a program to sort a given list of integers in ascending order.
 12. Write a program to calculate the salaries of all employees using Employee (ID, Name,Designation, Basic Pay, DA, HRA, Gross Salary, Deduction, Net Salary) structure.
-- a. DA is 30% of Basic Pay
-- b. HRA is 15% of Basic Pay
+- a. DA is 30% of Basic Pay.
+- b. HRA is 15% of Basic Pay.
 - c. Deduction is 10% of (Basic Pay + DA)
-- d. Gross Salary = Basic Pay + DA+ HRA
+- d. Gross Salary = Basic Pay + DA+ HRA.
 - e. Net Salary = Gross Salary - Deduction.
 13. Write a program to read (R)/write (W) the data from / to a file.
 14. Write a program to reverse the contents of a file and store in another file.
-15. Write a program to create Book (ISBN,Title, Author, Price, Pages, Publisher)structure and store book details in a file and perform the following operations
+15. Write a program to create Book (ISBN,Title, Author, Price, Pages, Publisher)structure and store book details in a file and perform the following operations.
 - a. Add book details
 - b. Search a book details for a given ISBN and display book details, if available
 - c. Update a book details using ISBN
@@ -238,43 +239,42 @@ Sub English [Source](https://apsche.ap.gov.in/Pdf/major_minor1/General%20English
 # COURSE 1: ENGLISH BRIDGE-I: LIFE SKILLS
 > [!NOTE]
 > Breakout of units, topics, and sub-topics.
-> STRUCTURE isn't included because I feel like It's *not* important. See it for yourself [Click me]
-(https://apsche.ap.gov.in/Pdf/major_minor1/General%20English.pdf)
-
+> STRUCTURE isn't included because I feel that It's *not* important. See it for yourself>[Click me](https://apsche.ap.gov.in/Pdf/major_minor1/General%20English.pdf)
+-------
 Unit I
 - Poem: Coromandel Fishers – Sarojini Naidu
 - Short Story: The Night Train at Deoli – Ruskin Bond
 - Parts of Speech (Grammar)
-
+--------
 Unit II
 - Short Story: The Lost Child – Mulk Raj Anand
 - Prose: Letter to a Teacher – School of Barbiana
 - Articles and Prepositions (Grammar)
-
+-------
 Unit III
 - Poem: Where the Mind is Without Fear – Rabindranath Tagore
 - Speech: How Dare You – Greta Thunberg (Open Source)
 - Question tags (Grammar)
- 
+--------
 Unit IV
 - Poem: Night of the Scorpion – Nissim Ezekiel
 - One Act Play: Refund – Fritz Karinthy
 - Tenses (Grammar)
-
+-----------
 Unit V
 - Short Story: An Astrologer’s Day – R. K. Narayan
 - Phonetics: Basic Sounds and Word Stress (Com. Skills?)
 - Intonation and Homophones (Grammar)
-
 > [!NOTE]
 > This is the end for English in Sem. 1. and beginning of AI.
 ------------------------------------------
-Sub Intro. to AI [Source]()
+Sub Intro. to AI [Source](https://apsche.ap.gov.in/Pdf/major_minor1/Introduction%20to%20Artificial%20Intelligence_1.pdf)
 
 ## COURSE 1: AI FUNDAMENTALS
 
 Theory Credits: 4 4 hrs/week
 
+// NOT IMPORTANT
 Learning Objectives:
 
 1. Understand the history and evolution of Artificial Intelligence and Identify major subfields of
@@ -294,33 +294,30 @@ Students will be able to
 5. Apply prompt engineering concepts to various real-world use cases.
 
 Unit I. AI and its Subfields
-Introduction to Artificial Intelligence, History, Definition, Artificial General Intelligence, Industry
+- Introduction to Artificial Intelligence, History, Definition, Artificial General Intelligence, Industry
 Applications of AI, Challenges in AI.
-
-Knowledge Engineering, Machine Learning, Computer Vision, Natural Language Processing,
+- Knowledge Engineering, Machine Learning, Computer Vision, Natural Language Processing,
 Robotics.
-
+-------------
 Unit 2. Applications of AI
-Healthcare, Finance, Retail, Agriculture, Education, Transportation.
-
+- Healthcare, Finance, Retail, Agriculture, Education, Transportation.
+--------
 Unit 3. Bias and Fairness in AI Systems
-Ethics in AI, Bias and Fairness in AI Systems, Transparency in AI Systems, Accountability, Security,
+- Ethics in AI, Bias and Fairness in AI Systems, Transparency in AI Systems, Accountability, Security,
 Privacy, Inclusivity, Sustainability, Robustness, Reliability.
-
+----------
 Unit 4. AI in Research, Generative AI and prompt engineering
 AI in Experimentation and Multi-disciplinary research, Generative AI introduction, ChatGPT,
 Hugging Face, Gemini and other tools basics, Perplexity, Prompt engineering Definition and its
 importance, Role of Prompt Engineering in AI/ML Interaction, Emerging trends and Future Directions
 in AI.
-
-
+---------
 Unit 5. Applications of Prompt engineering
 Applications of Prompt Engineering: Education, Business & Commerce, Content Creation: AI for
 Creative Writing,AI for creative design, writing AI scripts for video, generating slides and slidesGPT
 usage, Designing thumbnails and channel branding with AI
-
+----------
 Text Books:
-
 1. AI for Everyone: A Beginner's Handbook for Artificial Intelligence (AI) by Saptarsi Goswami, Amit Kumar Das , Amlan Chakrabarti
 2. Prompt Engineering for Beginners: by Kapila Arora, Geetu Garg, Gaurav Arora.
 
@@ -331,10 +328,7 @@ References:
 4. Generative AI 360°: Practical Guide to ChatGPT, Midjourney & AI Tools to Boost Productivity & Creativity , For Professionals, Marketers & Entrepreneurs by Hitesh Motwani, ZebraLearn, 2025.
 5. Generative AI: Prompt Engineering Basics
 6. Learn Generative AI Prompt Engineering for everyone. [https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone?action=enroll](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone?action=enroll)
-7. Free Artificial Intelligence (AI) Tutorial - Hands-On Prompt Engineering for AI Beginners & Business UserUdemy, [https://www.udemy.com/course/prompt-engineering-for-ai-beginners-business-users](https://www.udemy.com/course/prompt-engineering-for-ai-beginners-business-users)
-
-
-
+7. Free Artificial Intelligence (AI) Tutorial - Hands-On Prompt Engineering for AI Beginners & Business UserUdemy, [https://www.udemy.com/course/prompt-engineering-for-ai-beginners-business-users](https://www.udemy.com/course/prompt-engineering-for-ai-beginners-business-users
 
 ## COURSE 1p: AI FUNDAMENTALS [Practice]
 
@@ -398,7 +392,7 @@ Prompt: “Create a 5-slide presentation on ‘AI in Smart Farming’.”
 Design a thumbnail using Canva’s AI tools with a prompt like:
 “Design a YouTube thumbnail for a video titled ‘Top 5 AI Tools for Students’.”
 -----------------
-
-
+> [!CAUTION]
+> This doc doesn't include Com. Skills because IT won't be on the Sem.1 (Dec.) exam. FOR resources/roadmaps please check- readme.md. Have a fun study sesh! 
 
 
