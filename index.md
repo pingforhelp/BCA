@@ -38,10 +38,11 @@ Subject list:
 > ```+``` means in addition to.
 
 # 🗒
-[English Grammar-1](/docs/English/Basic-Grammar.md)
-[Com. Skills (Units 1-20)](/docs/Communicationskills/MouthYoga.md)
-[CS](?)
-[AI](?)
+# Sem.1
+- [English Grammar-1](/docs/English/Basic-Grammar.md)
+- [Com. Skills (Units 1-20)](/main/docs/Communicationskills/MouthYoga.md)
+- [CS](?)
+- [AI](?)
 
 > [!WARNING]
 > This is a student-made project. If you see any mistakes/typos or want to give feedback then, please email me @ [tamimtasira@gmail.com](mailto:tamimtasira@gmail.com) with ```BCA Notes Repo``` in the [Subject field](https://www.cliently.com/blog/what-is-subject-in-email-with-examplev).   
