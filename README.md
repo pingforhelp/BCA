@@ -1,26 +1,26 @@
-# BCA is a repo for notes of Bachelors In Computer application.
+# B.C.A. is a repo. for notes of Bachelors In Computer applications and Software development / other Concepts related to IT.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TamimTasira/)
 
 
-**ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum.
+**ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum otherwise written by me or Paraphrase.
 
 Subject list:
 1. English
 2. Computer Sci.
-3. Com. Skills.
-4. AI (Yes that's sub title i double checked it).
-5. Second Language Hindi **or** Sanskrit (Not clear if it's a requirement yet).
+3. Com. Skills. (No tests)
+4. AI (Yes that's sub title I double checked it).
+5. Second Language Hindi **or** Sanskrit.
 
 # Sem. 1 Topic/Paper breakdown:
 - Paper 1
- - English // NO Breakout of Units/Paper/Topics was given yet at least. :( 
- - Second language // NO Breakout of Units/Paper/Topics was given yet at least. :( 
- - CS: Computer Fundamentals and office automation + Lab
- - AI // NO Breakout of Units/Paper/Topics was given yet at least. :(
+ - English Units I-V. [Click me!](https://github.com/pingforhelp/BCA/blob/main/Docs/bca%20Syllabus.md#course-1-english-bridge-i-life-skills)
+ - Second language ??
+ - CS: [Unit 1 Computer Fundamentals and Office Automation](https://github.com/pingforhelp/BCA/blob/main/Docs/bca%20Syllabus.md#course-1-computer-fundamentals-and-office-automation) + [Lab](https://github.com/pingforhelp/BCA/blob/main/Docs/bca%20Syllabus.md#course-1p-computer-fundamentals-and-office-automation-practical)
+ - [AI](https://github.com/pingforhelp/BCA/blob/main/Docs/bca%20Syllabus.md#course-1-ai-fundamentals) + [Practice](https://github.com/pingforhelp/BCA/blob/main/Docs/bca%20Syllabus.md#course-1p-ai-fundamentals-practice)  
  
-- Paper 2
- - CS: Problem solving in C + Lab.
+ Paper 2
+ - CS: [Problem solving in C](https://github.com/pingforhelp/BCA/blob/main/Docs/bca%20Syllabus.md#course-2--problem-solving-using-c) + [Lab](https://github.com/pingforhelp/BCA/blob/main/Docs/bca%20Syllabus.md#course-2p-problem-solving-using-c-practical)
 
 > [!NOTE]
 > ```+``` means in addition to.
