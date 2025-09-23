@@ -12,10 +12,8 @@
 <a href="mailto:user@mail.com">
   <img src="https://img.shields.io/badge/Mail__Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Me"/>
 </a>
+
 # B.C.A. is a repo. for notes of Bachelors In Computer applications and Software development / other Concepts related to IT.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TamimTasira/)
-
 
 **ALL** notes are based on [AU's](https://www.andhrauniversity.edu.in/) textbooks/Curriculum otherwise written by me or Paraphrase.
 
@@ -40,8 +38,8 @@ Subject list:
 > ```+``` means in addition to.
 
 # 🗒
-[English Grammar-1](/docs/English/Basic-Grammar)
-[Com. Skills (Units 1-20)](/docs/Communicationskills/MouthYoga)
+[English Grammar-1](/docs/English/Basic-Grammar.md)
+[Com. Skills (Units 1-20)](/docs/Communicationskills/MouthYoga.md)
 [CS](?)
 [AI](?)
 
