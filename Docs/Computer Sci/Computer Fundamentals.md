@@ -23,3 +23,23 @@ The computer operates on IPO (Input, Processing, Output).
 5. **Versatility** – A simple computer can perform many tasks such as playing a movie or editing a document.
 6. **Diligence** – A computer can perform repetitive tasks without pause.
 7. **Cost-effectiveness** – The automation and speed of computers reduce the time and manpower required to complete tasks.
+
+# Block Diagram of a Computer
+
+It lists its main components and their interactions.
+
+* **Input Unit** – Devices like the keyboard, mouse, and scanner **convert user data and instructions** into a format that the computer can understand.
+   * **CPU** – The brain of the computer, responsible for processing all instructions.
+   * **ALU (Arithmetic Logic Unit)** – **Performs arithmetic and logical operations**, e.g., +, −, ×, <, >, =.
+   * **CU (Control Unit)** – **Directs** the flow of data between input, memory, and output units.
+   * **Memory Unit** – Stores data and instructions.
+   * **Output Unit** – Converts processed data into a **human-readable** form.
+
+![block-diagram-of-computer](https://github.com/user-attachments/assets/cb323b4c-1eb9-4b91-b402-c4e8b1b278f9)
+
+*Fig. 1: Block diagram of a computer*
+
+---
+
+Would you like me to create an **actual block diagram image** to go with this text?
+
