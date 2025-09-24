@@ -35,5 +35,5 @@ It lists its main components and their interactions.
    * **Memory Unit** – Stores data and instructions.
    * **Output Unit** – Converts processed data into a **human-readable** form.
 
-![block-diagram-of-computer](https://github.com/user-attachments/assets/cb323b4c-1eb9-4b91-b402-c4e8b1b278f9)
 *Fig. 1: Block diagram of a computer*
+![block-diagram-of-computer](https://github.com/user-attachments/assets/cb323b4c-1eb9-4b91-b402-c4e8b1b278f9)
