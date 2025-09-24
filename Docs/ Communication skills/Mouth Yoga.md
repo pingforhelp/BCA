@@ -428,6 +428,38 @@ Target Sound: "ae". **Spelling:** a, a...e. **Unusual:** laugh (laughter).
 -------
 
 
+**Mouth Yoga (Unit 21)**
+
+**Target Sound**: “u”.
+
+| **Initial** | **Medial**  | **Terminal** | **Phrases**                           |
+|--------------|-------------|--------------|--------------------------------------|
+| – Nil –      | Foot        | – Nil –      | 1. Push and pull the wool.           |
+|              | Brook       |              | 2. The bush is in the woods.         |
+|              | Wood        |              | 3. Could you put the cookies over there? |
+|              | Stood       |              | 4. Cookies and pudding are very good.|
+|              | Cushion     |              | 5. Wolves live in the woods.         |
+|              | Pudding     |              |                                      |
+|              | Bullet      |              |                                      |
+|              | Wolf        |              |                                      |
+------------------------------------------------------
+
+
+**Mouth Yoga (Unit 22)**
+
+**Target Sound:** “u”.
+
+| **Initial** | **Medial**  | **Terminal** | **Phrases**                                  |
+|--------------|-------------|--------------|---------------------------------------------|
+| – Nil –      | Goose       | Who          | 1. What’s new with you?                     |
+|              | St          | Flu          | 2. Robert has a loose tooth.                |
+|              | Rude        | Shoe         | 3. Too few people choose to obey rules.     |
+|              | Truth       | You          | 4. I’m not in the mood to argue with you.   |
+|              | Group       | Through      | 5. The beautiful tulips are blooming in the garden. |
+|              | Whole       | Throw        |                                             |
+---------------------------------------------------------------------
+
+
 > [!NOTE]  
 > All of the above content is based on whiteboard scans (i.e., images captured from the whiteboard). These were then formatted into Markdown tables using AI, and later looked over by me for errors or “AI vomit”. Please refer to the textbook in case of any discrepancies. **Copyright Disclaimer>** Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. **Non-profit, educational or personal use** tips the balance in favour of fair use.
 
