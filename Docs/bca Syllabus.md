@@ -393,6 +393,6 @@ Design a thumbnail using Canva’s AI tools with a prompt like:
 “Design a YouTube thumbnail for a video titled ‘Top 5 AI Tools for Students’.”
 -----------------
 > [!CAUTION]
-> This doc doesn't include Com. Skills because IT won't be on the Sem.1 (Dec.) exam. FOR resources/roadmaps please check- readme.md. Have a fun study sesh! 
+> This doc doesn't include Com. Skills because IT won't be on the Sem.1 (Dec.) exam. FOR resources/roadmaps please check- readme.md. Have a fun study sesh! Found any misstakes? make a PR request or email me at [tamimtasira@gmail.com](mailto:tamimtasira@gmail.com).
 
 
