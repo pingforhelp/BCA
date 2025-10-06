@@ -21,8 +21,9 @@ V.00.3
 7. Display results.
 8. End the program.
 ```
-<img width="408" height="747" alt="image" src="https://github.com/user-attachments/assets/1d841886-d688-4f26-9984-41a82f3e9728" />
-
+<img width="408" height="747" alt="image" src="https://github.com/user-attachments/assets/1d841886-d688-4f26-9984-41a82f3e9728"/>
+> [!WARING]
+> Image is generated using AI. For more info check the late note.
 
 
 3Ans: 
@@ -37,14 +38,26 @@ V.00.3
 6. Display the results.
 7. End the program.          
 ```
-   
+<img width="408" height="747" alt="image" src="https://github.com/user-attachments/assets/5bcfd3a1-140f-4246-85f7-ff1bb04529ab" />
+> [!WARING]
+> Image is generated using AI. For more info check the late note.
+
+
   
 
 2Ans: 
 ```
 1. Start.
-
-.End the program.
+??
+8.End the program.
 
  ````
+<img width="408" height="747" alt="image" src="??" />
+> [!WARING]
+> Image is generated using AI. For more info check the late note.
+
+-----
+> [!WARING]
+> Image is generated using AI However, the Pseudo code is writen by me then CHATGPT was used to write a prompt for excalidraw's AI to which made  these images. I think this fine because ChatGPT used ME pseudo code and wore the prompt for excalidraw's AI. [CHAT GPT CHAT LINK](https://chatgpt.com/share/68e3ec4d-6828-800b-befc-c0f47b449ffa)
+
 
