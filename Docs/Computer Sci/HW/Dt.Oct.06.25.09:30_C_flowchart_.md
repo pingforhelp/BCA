@@ -21,7 +21,7 @@ Write a Algorithm to check whether:
 7. Display results.
 8. End the program.
 ```
-<img width="408" height="747" alt="image" src="https://github.com/user-attachments/assets/1d841886-d688-4f26-9984-41a82f3e9728"/>
+<img width="289" height="722" alt="image" src="https://github.com/user-attachments/assets/8b2b4d92-7033-4405-b913-0866ecce95f0" />
 
 > [!WARNING]
 > Image is generated using AI. For more info check the late note.
