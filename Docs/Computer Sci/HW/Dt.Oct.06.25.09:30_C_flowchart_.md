@@ -60,6 +60,7 @@ Write a Algorithm to check whether:
 > Image is generated using AI. For more info check the late note.
 
 -----
+
 > [!NOTE]
 > Image is generated using AI However, the Pseudo code is writen by me then CHATGPT was used to write a prompt for excalidraw's AI to which made  these images. I think this fine because ChatGPT used MY pseudo code and wore the prompt for excalidraw's AI. [CHAT GPT CHAT LINK](https://chatgpt.com/share/68e3ec4d-6828-800b-befc-c0f47b449ffa)
 
