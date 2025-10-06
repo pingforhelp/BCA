@@ -2,16 +2,16 @@
 
 Write a Algorithm to check whether: 
 1. A number is even or odd;
-2. To check whether number is divisible by 5 and 11;
+2. To check whether number is divisible by 5 and 11; XXX
 3.  To find the largest of three numbers.
 
 --------------------------------
 
 # Answers
 
-1 Ans:   
+1 Ans-
 ```
-V.00.3
+1Ans:
 1. Start.
 2. Declared int.   
 3. Ask user to enter a Integer. 
@@ -22,14 +22,15 @@ V.00.3
 8. End the program.
 ```
 <img width="408" height="747" alt="image" src="https://github.com/user-attachments/assets/1d841886-d688-4f26-9984-41a82f3e9728"/>
-> [!WARING]
+
+> [!WARNING]
 > Image is generated using AI. For more info check the late note.
 
 
-3Ans: 
+3Ans- 
 
  ```
-      V.000.7
+3Ans:
 1. Start.
 2. Declared int. (a, b, and, c.)    
 3. Ask user to enter three numbers.
@@ -39,7 +40,8 @@ V.00.3
 7. End the program.          
 ```
 <img width="408" height="747" alt="image" src="https://github.com/user-attachments/assets/5bcfd3a1-140f-4246-85f7-ff1bb04529ab" />
-> [!WARING]
+
+> [WARNING]
 > Image is generated using AI. For more info check the late note.
 
 
@@ -53,11 +55,12 @@ V.00.3
 
  ````
 <img width="408" height="747" alt="image" src="??" />
-> [!WARING]
+
+> [!WARNING]
 > Image is generated using AI. For more info check the late note.
 
 -----
-> [!WARING]
-> Image is generated using AI However, the Pseudo code is writen by me then CHATGPT was used to write a prompt for excalidraw's AI to which made  these images. I think this fine because ChatGPT used ME pseudo code and wore the prompt for excalidraw's AI. [CHAT GPT CHAT LINK](https://chatgpt.com/share/68e3ec4d-6828-800b-befc-c0f47b449ffa)
+> [!NOTE]
+> Image is generated using AI However, the Pseudo code is writen by me then CHATGPT was used to write a prompt for excalidraw's AI to which made  these images. I think this fine because ChatGPT used MY pseudo code and wore the prompt for excalidraw's AI. [CHAT GPT CHAT LINK](https://chatgpt.com/share/68e3ec4d-6828-800b-befc-c0f47b449ffa)
 
 
