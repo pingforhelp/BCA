@@ -21,6 +21,7 @@ Write a Algorithm to check whether:
 7. Display results.
 8. End the program.
 ```
+
 <img width="289" height="722" alt="image" src="https://github.com/user-attachments/assets/8b2b4d92-7033-4405-b913-0866ecce95f0" />
 
 > [!WARNING]
