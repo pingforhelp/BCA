@@ -42,7 +42,7 @@ Write a Algorithm to check whether:
 ```
 <img width="408" height="747" alt="image" src="https://github.com/user-attachments/assets/5bcfd3a1-140f-4246-85f7-ff1bb04529ab" />
 
-> [WARNING]
+> [!WARNING]
 > Image is generated using AI. For more info check the late note.
 
 
