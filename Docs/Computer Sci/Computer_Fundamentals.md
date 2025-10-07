@@ -38,4 +38,63 @@ It lists its main components and their interactions.
 *Fig. 1: Block diagram of a computer*
 ![block-diagram-of-computer](https://github.com/user-attachments/assets/cb323b4c-1eb9-4b91-b402-c4e8b1b278f9)
 
+Different between h/s.  
+All are five Generations;  
+The Computer Generations can be classified into five categories:  
+1. First Generation  
+2. Second Generation  
+3. Third Generation  
+4. Fourth Generation  
+5. Fifth Generation  
+
+The **first generation** used vacuum tubes as the main electronic response for processing data.  
+- The first generations were from 1942–1955.  
+- These computers were physically large and required huge rooms.  
+- Used magnetic drums for memory storage.  
+- Used punched cards and paper tapes for input/output.  
+Disadvantages:  
+- They consumed more power.  
+- These computers were large in size.  
+- These computers produced a large amount of heat.  
+- They had limited commercial use.  
+
+The **second generation** computers were manufactured in the years 1955–1964.  
+- These computers used transistors in place of vacuum tubes.  
+- They were smaller in size and required less space for installation.  
+- They used magnetic tapes as secondary storage devices.  
+- They consumed less power and produced less amount of heat.  
+- They were about 10 times faster than first generation computers.  
+- They were more reliable.  
+- Less prone to hardware failure compared to the first generation.  
+
+The **third generation** computers were manufactured in the years 1964–1975.  
+- These computers used integrated circuits (ICs) instead of vacuum tubes and transistors.  
+- The size of these computers was smaller than earlier computers.  
+- These computers used magnetic disks as their secondary storage devices.  
+- Development of standard programming languages such as FORTRAN and BASIC.  
+- The manufacturing cost of these computers was less compared to previous generations.  
+- These computers used standard I/O devices such as keyboard, mouse, and monitors.  
+- These systems were used for both scientific and commercial purposes.  
+- They were more reliable and less prone to errors.  
+
+The **fourth generation** of computers were manufactured in the years 1975–1989.  
+- These systems used microprocessors as the main electronic processing devices.  
+- The size of these computers was very small compared to previous generations.  
+- They consumed less power than third generation computers.  
+- They used large primary and secondary storage compared to third generation.  
+- These computers used standard high-level languages such as C, C++, JAVA, and Data Structures.  
+- These systems could use GUI (Graphical User Interface).  
+- They were more reliable and less prone to hardware failures than third generation.  
+- These computers could be networked (e.g., LAN, WAN).  
+
+The **fifth generation computers** were manufactured in the year 1989 onwards.  
+- Fifth generation computers used Artificial Intelligence (AI) instead of ICs and transistors.  
+- AI is a branch of Computer Science that aims to make computers behave like humans.  
+- These computers are portable and much smaller than fourth generation computers.  
+- Fifth generation computers are faster than fourth generation.  
+- They consume less power compared to fourth generation.  
+- These computers are user-friendly and support multimedia.  
+- The goal of fifth generation devices is to respond to human languages such as English and Hindi.  
+
+
 
