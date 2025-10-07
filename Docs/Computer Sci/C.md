@@ -15,3 +15,59 @@ C is popular **because** it is easy to use, simple, and reliable.
 
 - **High-level languages** (like C, Java, Python) are closer to human language and easier to learn and use.
 
+
+# Unit 1. Introduction to computer programming
+
+Introduction: Computer Programming is the process of designing and writing a sequence of instructions（a program) that tells a computer how to perform tasks. A program translates human logic into a form that hardware can execute.
+Think of it likewriting a recipe for a computer. The recipe is the program, the ingredients are the data, and the steps are the instructions. The person who writes these instructions is called a programmer, and they write them in a special language called a programming
+language.The entire set of instructions written in a programming language is called source
+code.
+
+programming matters:
+- Automates tasks, performs computations fast.
+- Builds software systems (apps, OS, games, web services).
+- Bridges problem-solving (algorithmic thinking) and machine execution.
+Types of software
+Software is a collection of programs and data that tells a computer what to do. 
+
+It is broadly
+divided into two main categories:
+
+1. System Software: This software acts as an intermediary between the computer hardware and the user's applications. Its main purpose is to manage the computer's
+resources. Examples:
+- Operating Systems (OS): Windows, MacOS, Linux, Android. They manage all
+other software and hardware on the computer.
+- Device Drivers: Software that allows the OS to communicate with hardware
+devices like printers,keyboards,and webcams.
+- Utilities: Programs designed for system maintenance, like antivirus software or disk cleanup tools.
+
+2. Application Software: This software is designed to perform specific tasks for the end-user. It runs on top of the system software.
+
+Examples:
+- Web Browsers: Google Chrome, Mozilla Firefox.
+·Word Processors: Microsoft Word, Google Docs.
+- Games: Fortnite, Minecraft.
+
+Media Players: VLC Media Player, MPCL.
+
+Types Of Software:
+1. System Application
+Software.
+2. Operating System.
+3. Language processor.
+General purpose.
+4. Customised Software
+and device drivers:
+- linux,
+- Interpreter,
+- Ms-word
+- railways reservation
+- Windows.
+- compiler.
+- photshop.
+- System.
+
+# Compiler and interpreter
+
+Computers only understand machine code (binary O’s and 1’s). Since we write programs in high-level languages (like C or Python), they need to be translated. Compilers and
+interpreters are two types of translator programs that do this job.
