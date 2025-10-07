@@ -45,8 +45,8 @@ devices like printers,keyboards,and webcams.
 
 Examples:
 - Web Browsers: Google Chrome, Mozilla Firefox.
-·Word Processors: Microsoft Word, Google Docs.
-- Games: Fortnite, Minecraft.
+- Word Processors: Microsoft Word, Google Docs.
+- Games: Fortnite, Minecraft, CSGO,.
 
 Media Players: VLC Media Player, MPCL.
 
@@ -61,13 +61,16 @@ and device drivers:
 - linux,
 - Interpreter,
 - Ms-word
-- railways reservation
+- Railways reservation
 - Windows.
-- compiler.
-- photshop.
+- Compiler.
+- Photshop.
 - System.
+
+![aittxt](.png)
 
 # Compiler and interpreter
 
-Computers only understand machine code (binary O’s and 1’s). Since we write programs in high-level languages (like C or Python), they need to be translated. Compilers and
-interpreters are two types of translator programs that do this job.
+Computers only understand machine code (binary O’s and 1’s). Since we write programs in high-level languages (like C or Python), they need to be translated.
+
+Compilers and interpreters are two types of translator programs that do this job.
