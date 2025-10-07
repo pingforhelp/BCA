@@ -27,31 +27,10 @@ functions, structures and pointers.
 - Unions. Working with text files - modes: opening, reading, writing and closing .txt files.
 ----
 
-# History of C
-C is a **programming language** developed at AT&T (Bell Labs US) in **1972**.  
-It was designed and written by Dennis Ritchie.  
-
-In the late **1970s**, C began to replace the more **famous programming languages** of that time like **BCPL** and **Assembly**.  
-
-**ANSI C** (American National Standards Institute C) was standardized in the **1980s**.  
-The original *K&R C* book (“The C Programming Language” by Brian Kernighan and Dennis Ritchie) was split into **two editions** — the **first edition** (1978, pre-ANSI C) and the **second edition** (1988, updated for ANSI C).
-
-C is popular **because** it is easy to use, simple, and reliable.
-
-- **Low-level languages** are closer to machine language. Examples:
-  - **Machine language**: The CPU only understands binary code (`0`s and `1`s).  
-    Commands given to the CPU are in the form of **binary instructions**.  
-  - **Assembly language**: A step above machine code, using mnemonics instead of binary.
-
-- **High-level languages** (like C, Java, Python) are closer to human language and easier to learn and use.
-
-
 # Unit 1. Introduction to computer programming
 
 Introduction: Computer Programming is the process of designing and writing a sequence of instructions（a program) that tells a computer how to perform tasks. A program translates human logic into a form that hardware can execute.
-Think of it likewriting a recipe for a computer. The recipe is the program, the ingredients are the data, and the steps are the instructions. The person who writes these instructions is called a programmer, and they write them in a special language called a programming
-language.The entire set of instructions written in a programming language is called source
-code.
+Think of it likewriting a recipe for a computer. The recipe is the program, the ingredients are the data, and the steps are the instructions. The person who writes these instructions is called a programmer, and they write them in a special language called a programming language.The entire set of instructions written in a programming language is called source code.
 
 programming matters:
 - Automates tasks, performs computations fast.
@@ -64,9 +43,10 @@ divided into two main categories:
    - Operating Systems (OS): Windows, MacOS, Linux, Android. They manage all
 other software and hardware on the computer.
    - Device Drivers: Software that allows the OS to communicate with hardware
-devices like printers,keyboards,and webcams.
+devices like printers, keyboards, and webcams.
    - Utilities: Programs designed for system maintenance, like antivirus software or disk cleanup tools.
 2. Application Software: This software is designed to perform specific tasks for the end-user. It runs on top of the system software.
+
 Examples:
 - Web Browsers: Mozilla Firefox, DuckDuckgo.
 - Word Processors: Microsoft Word, Google Docs, LibreOffice.
@@ -79,8 +59,8 @@ Types Of Software:
 3. Language processor.
 4. General purpose.
 5. Customised Software and device drivers:
-- linux,
-- Interpreter,
+- linux.
+- Interpreter.
 - MS-word.
 - Railways reservation.
 - Windows.
@@ -109,6 +89,13 @@ Computers only understand machine code (binary O’s and 1’s). Since we write 
 - ➢ Execution Speed: Generally slower because translation happens every time the program is run.
 - ➢ Examples: Python, JavaScript, Ruby use interpreters.
 
+| Feature | Compiler | Interpreter |
+| :-- | :-- | :-- |
+| Input | Entire program | Single line of code |
+| Output | Executable file (Machine code) | Immediate result (no file) |
+| Speed | Faster execution | Slower execution |
+| Error Checking | After scanning the whole program | After translating each line |
+| Debugging | Harder | Easier |
 
 # Concepts of Machine level, Assembly level, High-level programming
 
@@ -131,18 +118,37 @@ Example: A machine code instruction might look like 10110000 01100001, which cou
 
 **Example:** Assembly Copy codeMOV AX, 1; Move the value 1 into register AX ADD AX,BX; Add the value in register BX to AX These are mnemonics and are typically converted to machine code by an assembler.
 
-3. High-Level Language (HLL): High-level languages are programming languages that provide a greater level of abstraction from the hardware, making them easier for humans to read and write. High-level languages are designed to be portable across
-different hardware platforms.
-These languages use English-like syntax and are the easiest for humans to read, write,
-and maintain.
-They are machine-independent, meaning a program can run on different types of
-computers with little or no modification.
-They require a compiler or interpreter to be translated into machine code.
-Examples: C, C++, Java, Python, C#.
-o Python: A very highlevel, interpreted language.
-o Java: A high-level, object-oriented language that runs on the Java Virtual
-Machine(JVM).
-o C/C++:High-level languages, though closer to the hardware than some
-others, still abstract many hardware details compared to assembly or
-machine code.
+3. High-Level Language (HLL): High-level languages are programming languages that provide a greater level of abstraction from the hardware, making them easier for humans to read and write. High-level languages are designed to be portable across different hardware platforms.
+- These languages use English-like syntax and are the easiest for humans to read, write, and maintain.
+- They are machine-independent, meaning a program can run on different types of computers with little or no modification.
+- They require a compiler or interpreter to be translated into machine code.
+
+**Examples:** C, C++, Java, Python, C#.
+  - Python: A very highlevel, interpreted language.
+  -  Java: A high-level, object-oriented language that runs on the Java Virtual Machine(JVM).
+  -  C/C++: High-level languages, though closer to the hardware than some others, still abstract many hardware details compared to assembly or machine code.
+
+# Flowcharts and Algorithms
+
+??????????????????????????????????????????????????????????????????????????
+
+# History of C
+C is a **programming language** developed at AT&T (Bell Labs US) in **1972**.  
+It was designed and written by Dennis Ritchie.  
+
+In the late **1970s**, C began to replace the more **famous programming languages** of that time like **BCPL** and **Assembly**.  
+
+**ANSI C** (American National Standards Institute C) was standardized in the **1980s**.  
+The original *K&R C* book (“The C Programming Language” by Brian Kernighan and Dennis Ritchie) was split into **two editions** — the **first edition** (1978, pre-ANSI C) and the **second edition** (1988, updated for ANSI C).
+
+C is popular **because** it is easy to use, simple, and reliable.
+
+- **Low-level languages** are closer to machine language. Examples:
+  - **Machine language**: The CPU only understands binary code (`0`s and `1`s).  
+    Commands given to the CPU are in the form of **binary instructions**.  
+  - **Assembly language**: A step above machine code, using mnemonics instead of binary.
+
+- **High-level languages** (like C, Java, Python) are closer to human language and easier to learn and use.
+
+
 
