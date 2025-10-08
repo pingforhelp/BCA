@@ -133,24 +133,13 @@ Example: A machine code instruction might look like 10110000 01100001, which cou
 ??????????????????????????????????????????????????????????????????????????
 
 # History of C
+C is a general purpose Programming language extremely popular language simple and flexible it is a structure programming language to right various applications like Operating Systems, Compilers, Windows, Linux, Unix, Game development,
+- The father of programming language is (ALGOL) it was first introduced **in 1960** ALGOL introduced the concept of "Structural Programming". 
+- In **1967,** a new Computer programming language was announced called (BCPL) Basic Compiled Programming Language or Basic Combined Programming Language. After theree years in **1970** a new programming language called 'B' was created. 
+- In **1972** a new Computer programming language was created for scientific and commerical porsoces. 'Dennis Ritchie' created a new programming language called 'C' at Bell labs. 
+- 'C' is popular and powerful programming language and it will remain standed (AMERICAN NATIONAL STANDED INSTITUTE) Defineded a commerical standads for C language in **1989**, later it was approved by the International Standards Organisation in **1990** so this language is called (ANSIC). 
 
-History of 'C' 
-C is a general purpose programming language extremely popular language simple and flexible it is a structure programming language to right various applications like operating system compiler and windows Linux Unix etc....
- 
-The father of programming language is (ALGOL) it was first introduced in 1960 ALGOL introduced the concept of structure programming 
-
-In 1967 a new converted programming was announced called (BCPL) which stands for basic compiled programming language or basic combined after theree years in 1970 new programming language called 'B'
-  
-In 1972 a new computer programming scientific 'tennis Ritchie' created a new programming language called 'C' then bell labs 
-
-'C' is popular and powerful programming language and it will remain standed (AMERICAN NATIONAL STANDED INSTITUTE).....
-
-Defineded a commerical standads for c language in 1989...
-
-Later it was approved By the international (standards organisation) in 1990 so this language is called (ANSIC)....
-
-# STRUCTURE OF 'C' PROGRAM
-
+# Structure of C Program
 ````
 #include <stdio.h>
 int main() {
@@ -158,16 +147,11 @@ printf("Hello!");
     return 0; }
 ````
 
-The compounds are the above structure are; 
-1.ADRAFILES : The first and fore most 
-Compound is adrafiles in a C program 
-** A adrafile is a file with extension dot H which contains C functions declaration where STDIO.H difines standed input output functions 
-
-2.MAIN METHOD OR FUNCTION DECLARATION:     the next part of C program of the main function this sintexto declare the main function is int main function 
-
-3.BODY: Body of a function in C program reference to the Operations that R performance inthe functions. It can be anything like searching,sorting,printing etc.....
-Where the body of the main function print saves statement called 'Hello world' used a function called print...
-
-4.RETURN STATEMENT: Is commend is used to terminate a C program from main function and it returns 0.....
+The compounds are the above structure are: 
+1.Header files: The first and fore most Compound is headerfiles in a C program.
+- A Headerfile is a file with extension .h which contains C functions declaration whereby stdio.h difines standed I/O functionality. 
+2. Main Method or Function Declaration: the next part of C program of the main function this semi-coma (```;```) declare the main function is ```int main ()``` function. 
+3. Boody: Body of a function in C program reference to the Operations that R performance in the functions. It can be anything like Searching, Sorting, Printing etc. Where the body of the main function print saves statement called 'Hello world' used a function called ```printf("I'm on TV!");```.
+4. Return Statement: Is cmd is used to terminate a C program from the main function and it returns 0 
 
 
