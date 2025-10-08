@@ -149,8 +149,14 @@ Defineded a commerical standads for c language in 1989...
 
 Later it was approved By the international (standards organisation) in 1990 so this language is called (ANSIC)....
 
-*** STRUCTURE OF 'C' PROGRAM...
-# leave of  5 lines 
+# STRUCTURE OF 'C' PROGRAM
+
+````
+#include <stdio.h>
+int main() {
+printf("Hello!");
+    return 0; }
+````
 
 The compounds are the above structure are; 
 1.ADRAFILES : The first and fore most 
