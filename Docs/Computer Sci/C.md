@@ -5,7 +5,7 @@ Breakout of Units, and Sub-topic:
 - Introduction: Types of software, Compiler and interpreter, Concepts of Machine level, Assembly
 level and high-level programming, Flowcharts and Algorithms.
 - Fundamentals of C: History of C, Features of C, C Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variable names, Operators.
-- Structure of C program, Input/output statements in C-Formatted and Unformatted I/O
+- Structure of C program, Input/output statements in C-Formatted and Unformatted I/O.
 -----------
 **Unit 2. Control statements:**
 - Decision making statements: if, if else, else if ladder, switch statements. 
@@ -59,14 +59,14 @@ Types Of Software:
 3. Language processor.
 4. General purpose.
 5. Customised Software and device drivers:
-- linux.
+- Iinux.
 - Interpreter.
 - MS-word.
 - Railways reservation.
 - Windows.
 - Compiler.
 - Photshop.
-- System.
+- "System".
 
 ![PROBLEM SOLVING USING C_2](https://github.com/user-attachments/assets/1686b63e-c5ca-4d3c-ac39-4824755c6eeb)
 
@@ -123,7 +123,7 @@ Example: A machine code instruction might look like 10110000 01100001, which cou
 - They are machine-independent, meaning a program can run on different types of computers with little or no modification.
 - They require a compiler or interpreter to be translated into machine code.
 
-**Examples:** C, C++, Java, Python, C#.
+**Examples:** C, C++, Java, Python, and C#.
   - Python: A very highlevel, interpreted language.
   -  Java: A high-level, object-oriented language that runs on the Java Virtual Machine(JVM).
   -  C/C++: High-level languages, though closer to the hardware than some others, still abstract many hardware details compared to assembly or machine code.
@@ -133,25 +133,28 @@ Example: A machine code instruction might look like 10110000 01100001, which cou
 ??????????????????????????????????????????????????????????????????????????
 
 # History of C
-C is a general purpose Programming language extremely popular language simple and flexible it is a structure programming language to right various applications like Operating Systems, Compilers, Windows, Linux, Unix, Game development,
-- The father of programming language is (ALGOL) it was first introduced **in 1960** ALGOL introduced the concept of "Structural Programming". 
-- In **1967,** a new Computer programming language was announced called (BCPL) Basic Compiled Programming Language or Basic Combined Programming Language. After theree years in **1970** a new programming language called 'B' was created. 
-- In **1972** a new Computer programming language was created for scientific and commerical porsoces. 'Dennis Ritchie' created a new programming language called 'C' at Bell labs. 
-- 'C' is popular and powerful programming language and it will remain standed (AMERICAN NATIONAL STANDED INSTITUTE) Defineded a commerical standads for C language in **1989**, later it was approved by the International Standards Organisation in **1990** so this language is called (ANSIC). 
+# History of C
+C is a general-purpose programming language which is an extremely popular. It is known for being simple and flexible. It is a structured programming language used to write various applications like operating systems, compilers, Windows, Linux, Unix, Game development, and more. 
+- The father of programming languages is **ALGOL**. It was first introduced in **1960**. ALGOL introduced the concept of "Structured Programming".  
+- In **1967**, a new computer programming language was announced called **BCPL (Basic Combined Programming Language)**.  
+- After three years, in **1970**, a new programming language called **'B'** was created.  
+- In **1972**, a new computer programming language was created for scientific and commercial purposes. **Dennis Ritchie** created a new programming language called **'C'** at Bell Labs.  
+- 'C' became a popular and powerful programming language. It remained standardised when the **American National Standards Institute (ANSI)** defined a commercial standard for the C language in **1989**. Later, it was approved by the **International Standards Organisation (ISO)** in **1990**, so this version of the language is called **ANSI C**.  
 
-# Structure of C Program
-````
+# Structure of a Program in C  
+```c
 #include <stdio.h>
 int main() {
-printf("Hello!");
-    return 0; }
+    printf("Hello, World!");
+    return 0;
+}
 ````
+The components of the above structure are:
+1. **Header files:** The first and foremost component in a C program is the header file.
+* A header file is a file with the extension **.h**, which contains C function declarations. For example, **stdio.h** defines standard input and output functionalities.
+2. **Main Method or Function Declaration:** The next part of a C program is the main function. The declaration of the main function is written as **int main()**.
+3. **Body:** The body of a function in a C program refers to the operations performed within the function. It can include actions like searching, sorting, or printing. In this example, the body of the main function prints a statement called “Hello, World!” using the function **printf("Hello, World!");**
+4. **Return Statement:** This command is used to terminate a C program from the main function, and it returns the value **0**.
 
-The compounds are the above structure are: 
-1.Header files: The first and fore most Compound is headerfiles in a C program.
-- A Headerfile is a file with extension .h which contains C functions declaration whereby stdio.h difines standed I/O functionality. 
-2. Main Method or Function Declaration: the next part of C program of the main function this semi-coma (```;```) declare the main function is ```int main ()``` function. 
-3. Boody: Body of a function in C program reference to the Operations that R performance in the functions. It can be anything like Searching, Sorting, Printing etc. Where the body of the main function print saves statement called 'Hello world' used a function called ```printf("I'm on TV!");```.
-4. Return Statement: Is cmd is used to terminate a C program from the main function and it returns 0 
-
-
+> [!NOTE]
+> This content changed or modified for better readable, editing of Facial and language wherever mistakes are made by the Teacher.
