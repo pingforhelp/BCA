@@ -133,22 +133,35 @@ Example: A machine code instruction might look like 10110000 01100001, which cou
 ??????????????????????????????????????????????????????????????????????????
 
 # History of C
-C is a **programming language** developed at AT&T (Bell Labs US) in **1972**.  
-It was designed and written by Dennis Ritchie.  
 
-In the late **1970s**, C began to replace the more **famous programming languages** of that time like **BCPL** and **Assembly**.  
+History of 'C' 
+C is a general purpose programming language extremely popular language simple and flexible it is a structure programming language to right various applications like operating system compiler and windows Linux Unix etc....
+ 
+The father of programming language is (ALGOL) it was first introduced in 1960 ALGOL introduced the concept of structure programming 
 
-**ANSI C** (American National Standards Institute C) was standardized in the **1980s**.  
-The original *K&R C* book (“The C Programming Language” by Brian Kernighan and Dennis Ritchie) was split into **two editions** — the **first edition** (1978, pre-ANSI C) and the **second edition** (1988, updated for ANSI C).
+In 1967 a new converted programming was announced called (BCPL) which stands for basic compiled programming language or basic combined after theree years in 1970 new programming language called 'B'
+  
+In 1972 a new computer programming scientific 'tennis Ritchie' created a new programming language called 'C' then bell labs 
 
-C is popular **because** it is easy to use, simple, and reliable.
+'C' is popular and powerful programming language and it will remain standed (AMERICAN NATIONAL STANDED INSTITUTE).....
 
-- **Low-level languages** are closer to machine language. Examples:
-  - **Machine language**: The CPU only understands binary code (`0`s and `1`s).  
-    Commands given to the CPU are in the form of **binary instructions**.  
-  - **Assembly language**: A step above machine code, using mnemonics instead of binary.
+Defineded a commerical standads for c language in 1989...
 
-- **High-level languages** (like C, Java, Python) are closer to human language and easier to learn and use.
+Later it was approved By the international (standards organisation) in 1990 so this language is called (ANSIC)....
 
+*** STRUCTURE OF 'C' PROGRAM...
+# leave of  5 lines 
+
+The compounds are the above structure are; 
+1.ADRAFILES : The first and fore most 
+Compound is adrafiles in a C program 
+** A adrafile is a file with extension dot H which contains C functions declaration where STDIO.H difines standed input output functions 
+
+2.MAIN METHOD OR FUNCTION DECLARATION:     the next part of C program of the main function this sintexto declare the main function is int main function 
+
+3.BODY: Body of a function in C program reference to the Operations that R performance inthe functions. It can be anything like searching,sorting,printing etc.....
+Where the body of the main function print saves statement called 'Hello world' used a function called print...
+
+4.RETURN STATEMENT: Is commend is used to terminate a C program from main function and it returns 0.....
 
 
