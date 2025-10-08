@@ -85,7 +85,7 @@ The **fourth generation** of computers were manufactured in the years 1975–198
 - These computers used standard high-level languages such as C, C++, JAVA, and Data Structures.  
 - These systems could use GUI (Graphical User Interface).  
 - They were more reliable and less prone to hardware failures than third generation.  
-- These computers could be networked (e.g., LAN, WAN).  
+- These computers could be networked (e.g., Printing).  
 
 The **fifth generation computers** were manufactured in the year 1989 onwards.  
 - Fifth generation computers used Artificial Intelligence (AI) instead of ICs and transistors.  
