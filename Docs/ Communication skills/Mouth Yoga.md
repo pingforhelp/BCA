@@ -1,4 +1,4 @@
-# Mouth Yoga (Unit 1-22)
+# Mouth Yoga (Unit 1-23)
 
 **Mouth Yoga (Unit 001)**
 
@@ -457,12 +457,30 @@ Target Sound: "ae". **Spelling:** a, a...e. **Unusual:** laugh (laughter).
 |              | Truth       | You          | 4. I’m not in the mood to argue with you.   |
 |              | Group       | Through      | 5. The beautiful tulips are blooming in the garden. |
 |              | Whole       | Throw        |                                             |
----------------------------------------------------------------------
+----------
+
+**Mouth Yoga (Unit 23)**
+
+**Spelling:** "ou", "ow". **Target Sound:** /a/u
+
+| **Initial** | **Medial** | **Terminal** | **Phrases**                         |
+| ----------- | ---------- | ------------ | ----------------------------------- |
+| Out         | Brown      | Now          | 1. No doubt, he will come.          |
+| Outfit      | Crowd      | Cow          | 2. The mouse is in the house.       |
+| Our         | Down       | How          | 3. They don’t allow shouting.       |
+| Hour        | Tower      | Allow        | 4. Ouch! That hurts.                |
+| Ounce       | Announce   | Brew         | 5. I will pronounce all the vowels. |
+| Bounce      | Mountain   | Anyhow       |                                     |
+| Ouch        | Mouse      | Eyebrow      |                                     |
+|             | Cloud      |              |                                     |
+|             | Pronounce  |              |                                     |
+|             | Thousand   |              |                                     |
+-----
 
 
 > [!NOTE]  
 > All of the above content is based on whiteboard scans (i.e., images captured from the whiteboard). These were then formatted into Markdown tables using AI, and later looked over by me for errors or “AI vomit”. Please refer to the textbook in case of any discrepancies. **Copyright Disclaimer>** Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. **Non-profit, educational or personal use** tips the balance in favour of fair use.
 
-   *The end. Edited on 22 Sept., 2025.*
+   *The end. Edited on 08 Oct., 2025 at 10:37:30 PM*
   
 
