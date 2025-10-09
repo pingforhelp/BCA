@@ -461,7 +461,7 @@ Target Sound: "ae". **Spelling:** a, a...e. **Unusual:** laugh (laughter).
 
 **Mouth Yoga (Unit 23)**
 
-**Spelling:** "ou", "ow". **Target Sound:** /a/u
+**Spelling:** "ou", "ow". **Target Sound:** a,u
 
 | **Initial** | **Medial** | **Terminal** | **Phrases**                         |
 | ----------- | ---------- | ------------ | ----------------------------------- |
