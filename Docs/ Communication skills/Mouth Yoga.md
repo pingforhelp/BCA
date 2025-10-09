@@ -1,4 +1,4 @@
-# Mouth Yoga (Unit 1-23)
+# Mouth Yoga (Unit 1-24)
 
 **Mouth Yoga (Unit 001)**
 
@@ -459,6 +459,7 @@ Target Sound: "ae". **Spelling:** a, a...e. **Unusual:** laugh (laughter).
 |              | Whole       | Throw        |                                             |
 ----------
 
+
 **Mouth Yoga (Unit 23)**
 
 **Spelling:** "ou", "ow". **Target Sound:** a,u
@@ -478,8 +479,29 @@ Target Sound: "ae". **Spelling:** a, a...e. **Unusual:** laugh (laughter).
 -----
 
 
+**Mouth Yoga  (Unit 24)**  
+
+**Target Sound:** "ai"  **Spelling:** ai, y  
+
+| Initial | Medial   | Terminal | Phrases                                 |
+| ------- | -------- | -------- | --------------------------------------- |
+| I       | Five     | Pie      | 1. Hi! Nice to meet you.                |
+| Eye     | Arrive   | Lie      | 2. I’ll have an aisle or a window seat. |
+| I’ve    | Alive    | Die      | 3. That’s a sigh of relief.             |
+| I’d     | Life     | Tie      | 4. Indian cooking is highly spiced.     |
+| I’ll    | Alike    | Cry      | 5. My father has wise foresight.        |
+| Island  | Nine     | Deny     |                                         |
+| Ice     | Fried    | Why      |                                         |
+|         | Cried    | Fly      |                                         |
+|         | Delight  | By       |                                         |
+|         | Type     | High     |                                         |
+|         | Frighten |          |                                         |
+|         |          |          |                                         |
+-------
+
+
 > [!NOTE]  
-> All of the above content is based on whiteboard scans (i.e., images captured from the whiteboard). These were then formatted into Markdown tables using AI, and later looked over by me for errors or “AI vomit”. Please refer to the textbook in case of any discrepancies. **Copyright Disclaimer>** Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. **Non-profit, educational or personal use** tips the balance in favour of fair use.
+> All of the above content is based on whiteboard scans (i.e., Images captured from the whiteboard). These were then formatted into Markdown tables using AI, and later looked over by me for errors or “AI vomit”. Please refer to the textbook in case of any discrepancies. **Copyright Disclaimer>** Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. **Non-profit, educational or personal use** tips the balance in favour of fair use.
 
    *The end. Edited on 08 Oct., 2025 at 10:37:30 PM*
   
