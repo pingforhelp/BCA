@@ -27,7 +27,6 @@ The computer operates on IPO (Input, Processing, Output).
 # Block Diagram of a Computer
 
 It lists its main components and their interactions.
-
 * **Input Unit** – Devices like the keyboard, mouse, and scanner **convert user data and instructions** into a format that the computer can understand.
    * **CPU** – The brain of the computer, responsible for processing all instructions.
    * **ALU (Arithmetic Logic Unit)** – **Performs arithmetic and logical operations**, e.g., +, −, ×, <, >, =.
@@ -96,5 +95,34 @@ The **fifth generation computers** were manufactured in the year 1989 onwards.
 - These computers are user-friendly and support multimedia.  
 - The goal of fifth generation devices is to respond to human languages such as English and Hindi.  
 
+# Number Systems
+1. Binary – Bi 2 uses 0 & 1 – Base/Radix is 2 e.g. (11011)₂  
+2. Octal system Oct 8 digits from 0 to 7 Base/Radix is 8 – e.g. (11011)₈  
+3. Decimal Dec  10 digits from 0 to 9 – Base/Radix is 10 – e.g. (101101)₁₀  
+4. Hexadecimal – Hexa – 16 – digits 0 to 15 or A to F – Base/Radix is 16 – e.g. (1011011)₁₆  
+
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15] 
+                                → A  B  C  D  E  F
+
+**Converting Binary System to Octal System & Decimal System to Binary System.**
+
+Examples:
+- (56)(_{10})
+- (614.62)(_8)
+- (327.728)(_{10})
+
+Conversion Table
+| Convert into Binary System | Octal Table |   |   |   |
+|:--------------------------:|:-----------:|---|---|---|
+| 0                          | 0 0 0       | 0 | 0 | 0 |
+| 1                          | 0 0 1       | 0 | 0 | 1 |
+| 2                          | 0 1 0       | 0 | 1 | 0 |
+| 3                          | 0 1 1       | 0 | 1 | 1 |
+| 4                          | 1 0 0       | 1 | 0 | 0 |
+| 5                          | 1 0 1       | 1 | 0 | 1 |
+| 6                          | 1 1 0       | 1 | 1 | 0 |
+| 7                          | 1 1 1       | 1 | 1 | 1 |
+------------------------------------------
+                                
 
 
