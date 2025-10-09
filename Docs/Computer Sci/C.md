@@ -130,11 +130,9 @@ Example: A machine code instruction might look like 10110000 01100001, which cou
 
 # Flowcharts and Algorithms
 
-??????????????????????????????????????????????????????????????????????????
 ![c5b951d4](https://github.com/user-attachments/assets/db3121c9-c1af-47fc-85c9-649a22c04faf)
+*Fig 1.3* 
 
-
-# History of C
 # History of C
 C is a general-purpose programming language which is an extremely popular. It is known for being simple and flexible. It is a structured programming language used to write various applications like operating systems, compilers, Windows, Linux, Unix, Game development, and more. 
 - The father of programming languages is **ALGOL**. It was first introduced in **1960**. ALGOL introduced the concept of "Structured Programming".  
@@ -160,3 +158,13 @@ The components of the above structure are:
 
 > [!NOTE]
 > This content changed or modified for better readable, editing of Facial and language wherever mistakes are made by the Teacher.
+
+Img/pdf cnverted to .md using:
+
+          ███╗   ██╗ ██████╗ ████████╗███████╗██████╗    ███╗   ███╗██████╗
+          ████╗  ██║██╔═══██╗╚══██╔══╝██╔════╝██╔══██╗   ████╗ ████║██╔══██╗
+          ██╔██╗ ██║██║   ██║   ██║   █████╗  ██║  ██║   ██╔████╔██║██║  ██║
+          ██║╚██╗██║██║   ██║   ██║   ██╔══╝  ██║  ██║   ██║╚██╔╝██║██║  ██║
+          ██║ ╚████║╚██████╔╝   ██║   ███████╗██████╔╝██╗██║ ╚═╝ ██║██████╔╝
+          ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚══════╝╚═════╝ ╚═╝╚═╝     ╚═╝╚═════╝
+
