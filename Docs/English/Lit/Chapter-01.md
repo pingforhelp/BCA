@@ -20,15 +20,27 @@ Sweet is the shade of the cocoanut glade, and the scent of the mango grove, and 
 
 # Q&A  (1-7)
 
-Q1. ??
+Q1. What are the figures of speech used in the following lines:?
+- a) "The wakening skies Pray to the morning light."
+Ans: sky is being given the human quality of Prayer - Personification.
+- b) "The wind lies asleep in the arms of the dawn like a child."
+Ans: 
+- C) "The Sea is our mother."
+Ans: The is given the human quality of being a mother, nurturing & caring for the people who depend on it - Metaphor.
+- D) "The Cloud is our brother."
+Ans: 
+- E) "The waves are our comrades all."
+Ans: The waves are given the human quality of being comrades, Companions who fight along side.- Metaphor.
 
-Ans: ??
+
 
 Q2. ??
 
 Ans: ??
 
-Q3. ??
+Q3. How does Sarojini Naidu describe a day in the lives of the Fishermen?  
+
+A) In the poem "the Coramandel Fishers" she describes the beauty of nature & the folk culture of the Coramandel Coast of India. It depicts the relationship of fishermen with nature. Nature stands as a symbol of beauty that expresses the optimistic view of life. The fishermen of Coramandel Coast rise at dawn to the Call of their leader. They gather their fishing nets from the shore, set their fishing boats free, and sail away to capture the fish they follow the Call of the Seagull Sea-gull where they can get plenty of fish. They face the storms and rising fights bravely they find pleasure in rowing to the werge of the sea where
 
 Ans: ??
 
