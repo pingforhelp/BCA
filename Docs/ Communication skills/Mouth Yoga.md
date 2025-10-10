@@ -499,6 +499,24 @@ Target Sound: "ae". **Spelling:** a, a...e. **Unusual:** laugh (laughter).
 |         |          |          |                                         |
 -------
 
+**Mouth Yoga (Unit 25)**
+
+**Spelling:** oi, oy  
+**Target Sound:** oi
+
+| **Initial** | **Medial** | **Terminal** | **Phrases** |
+|--------------|-------------|---------------|--------------|
+| Oil | Coin | Boy | 1. Roy is very annoyed. |
+| Oily | Royal | Joy | 2. The noise spoiled the music. |
+| Ointment | Foil | Toy | 3. Mr. Hoyle destroyed the decoy. |
+|  | Choice | Annoy | 4. I was annoyed by their loud voices. |
+|  | Avoid | Enjoy | 5. Royce pointed to her choice to avoid confusion. |
+|  | Poison | Destroy |  |
+|  | Point | Employed |  |
+|  | Coil |  |  |
+|  | Invoice |  |  |
+
+
 
 > [!NOTE]  
 > All of the above content is based on whiteboard scans (i.e., Images captured from the whiteboard). These were then formatted into Markdown tables using AI, and later looked over by me for errors or “AI vomit”. Please refer to the textbook in case of any discrepancies. **Copyright Disclaimer>** Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. **Non-profit, educational or personal use** tips the balance in favour of fair use.
