@@ -24,13 +24,28 @@ Q1. What are the figures of speech used in the following lines:?
 - a) "The wakening skies Pray to the morning light."
 Ans: sky is being given the human quality of Prayer - Personification.
 - b) "The wind lies asleep in the arms of the dawn like a child."
-Ans: 
-- C) "The Sea is our mother."
+Ans: ?
+- c) "The Sea is our mother."
 Ans: The is given the human quality of being a mother, nurturing & caring for the people who depend on it - Metaphor.
-- D) "The Cloud is our brother."
-Ans: 
-- E) "The waves are our comrades all."
+> [!NOTE]
+> Metaphor - Same qualities.
+- d) "The Cloud is our brother.
+Ans: The cloud is given the human quality of being a brother, a close and familiar relationship - Metaphor.
+- e) "The waves are our comrades all."
 Ans: The waves are given the human quality of being comrades, Companions who fight along side.- Metaphor.
+**Sweet Descriptions**
+
+The following things are described as sweet:
+* The shade of the coconut glade.
+* The scent of the mango groove.
+* The sands at the full moon, with the sound of the voices we love.
+
+However, the poem then contrasts these things with what is considered "sweeter". The following things considered the sweeter:
+
+* The kiss of the spray (The feel of the sea spray on their faces).
+* The dance of the wild foam’s glee (The joyful movement of the wild foam on the waves)
+
+This contrast highlights the Fishermen’s preference for the exiting & adventurous life at sea over the comfortable pleasures of life on land.
 
 
 
