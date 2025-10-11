@@ -27,9 +27,10 @@ functions, structures and pointers.
 - Unions. Working with text files - modes: opening, reading, writing and closing .txt files.
 ----
 
-# Unit 1. Introduction to computer programming
+**Unit 1. Introduction to computer programming**
 
-Introduction: Computer Programming is the process of designing and writing a sequence of instructions（a program) that tells a computer how to perform tasks. A program translates human logic into a form that hardware can execute.
+# Types of software
+Introduction Computer Programming is the process of designing and writing a sequence of instructions（a program) that tells a computer how to perform tasks. A program translates human logic into a form that hardware can execute.
 Think of it likewriting a recipe for a computer. The recipe is the program, the ingredients are the data, and the steps are the instructions. The person who writes these instructions is called a programmer, and they write them in a special language called a programming language.The entire set of instructions written in a programming language is called source code.
 
 programming matters:
@@ -128,18 +129,26 @@ Example: A machine code instruction might look like 10110000 01100001, which cou
   -  Java: A high-level, object-oriented language that runs on the Java Virtual Machine(JVM).
   -  C/C++: High-level languages, though closer to the hardware than some others, still abstract many hardware details compared to assembly or machine code.
 
-# Flowcharts and Algorithms
-
-![c5b951d4](https://github.com/user-attachments/assets/db3121c9-c1af-47fc-85c9-649a22c04faf)
-*Fig 1.3* 
-
-# History of C
+# History C and Features of C
 C is a general-purpose programming language which is an extremely popular. It is known for being simple and flexible. It is a structured programming language used to write various applications like operating systems, compilers, Windows, Linux, Unix, Game development, and more. 
 - The father of programming languages is **ALGOL**. It was first introduced in **1960**. ALGOL introduced the concept of "Structured Programming".  
 - In **1967**, a new computer programming language was announced called **BCPL (Basic Combined Programming Language)**.  
 - After three years, in **1970**, a new programming language called **'B'** was created.  
 - In **1972**, a new computer programming language was created for scientific and commercial purposes. **Dennis Ritchie** created a new programming language called **'C'** at Bell Labs.  
 - 'C' became a popular and powerful programming language. It remained standardised when the **American National Standards Institute (ANSI)** defined a commercial standard for the C language in **1989**. Later, it was approved by the **International Standards Organisation (ISO)** in **1990**, so this version of the language is called **ANSI C**.  
+
+
+
+
+# Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variable names
+
+# Operators
+
+
+# Flowcharts and Algorithms
+
+![c5b951d4](https://github.com/user-attachments/assets/db3121c9-c1af-47fc-85c9-649a22c04faf)
+*Fig 1.3* 
 
 # Structure of a Program in C  
 ```c
@@ -156,6 +165,9 @@ The components of the above structure are:
 3. **Body:** The body of a function in a C program refers to the operations performed within the function. It can include actions like searching, sorting, or printing. In this example, the body of the main function prints a statement called “Hello, World!” using the function **printf("Hello, World!");**
 4. **Return Statement:** This command is used to terminate a C program from the main function, and it returns the value **0**.
 
+# Input/output statements 
+
+# Formatted and Unformatted I/O (Input and output)
 > [!NOTE]
 > This content changed or modified for better readable, editing of Facial and language wherever mistakes are made by the Teacher.
 
