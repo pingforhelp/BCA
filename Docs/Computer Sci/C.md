@@ -146,6 +146,55 @@ C is a general-purpose programming language which is an extremely popular. It is
 
 
 # Flowcharts and Algorithms
+What is a Algorithm?
+- Algorithm is a finite set of steps used to solve computational problems in a program.
+- An algorithm is development by the programmer to represent the basic logic of the selected solution.
+- An algorithm as it is a finite & no. of steps of instructions that produce an output for a set of input values.
+- An algorithm written in simple English language.
+- To make an effective algorithm the steps must be define with finite sequence of instruction.
+
+  
+
+![alt text](C:\Users\tamim\Downloads\Com. Skills\c img\C1_.png)
+
+
+  **Properties of algorithm The algorithm has five properties such as:**
+1. **Input**:  Input  An algorithm must have '0' or more no. of well defined inputs. Example: ```print("Hello, world!");```. There no input but it provided an output ```Hello, world!```
+2. **Output:** The algorithm must have at least one output, we cannot say that zero outputs. Example: ``print("Hello, world!");`` There is no input but it has one output.//edit typos.
+3. **Finiteness:**   The algorithm must terminate after a finite number of steps. to each instruction & step in a algorithm must have clear meaning Example:  ```while ( ) { Set of Statements; }```` This loope executes finite no. of times/types.
+4. **Unambiguous:** The algorithm must have unambigies instructions, every instructions must have clear meaning. The algorithm should not have any unambigies instructions.
+5. **Effectiveness:** The algorithm must provide effective result. To make a effective algorithm we must follow sequence of steps.
+
+**Example of algorithm Write a algorithm to find the sum of any two numbers:**
+```
+Step-1: Start.
+Step-2: declare variable a, b, sum.
+Step-3: Read or assign value to variable.
+sum = a+b Step-4 : To perform addition of two numbers, printsum 
+Step-5 : To display output: in some sum value.
+Step-6 : End (or) Stop.
+```
+
+**Flow chart**
+> **"Flow chart use different symbols to perform different operations in a program."**
+
+The basic symbols used in flow chart design are given below:
+1. Terminal: The terminal is represented by a rectangle it has at rounded ends. This symbol is used to identify indicate the beginning (Start & end) termination (end) of the algorithm. Terminal is denoted by around rectangle or vowel shape. Like so, ![C2.](https://)
+2. Input / output OR I/O: The input (&) output is represented by parallelogram. This symbol represented an input taken from the user. & output given to the user.
+The input *AND* output is denoted by parallelogram This is how it looks: 
+3. Flow line: The flow line are represented by array/whiteads that are used connect symbol. These lines indicated the sequence of steps and flow of operations The flow line is denoted by array symbol and here's an image of it.
+4. Processing: The processing is represented by a rectangle ![](.....). This symbol used for representing all arithmetic and data moment instructions. This symbol is used logic process of moving data from one memory location to another.
+5. Decisions & conditions: A program may have multiple execution parts in order to select the direction of program control. The decision is denoted by diamond shape. ![Diamond Shape](https://i.imgur.com/qJ6q99V.png). The program should continue one of two routes (if and else) that 'yes' & 'no'.
+6. Connector: The connector is used to join different flow charts in a program. The connector is denoted circle shape. ![Circle Shape](https://i.imgur.com/qJ6q99V.png)
+
+E.g
+1. Draw a flow chart to find the sum of any two numbers.
+
+![Flowchart 1](https://i.imgur.com/qJ6q99V.png)
+![Flowchart 2](https://i.imgur.com/qJ6q99V.png)
+
+$$Sum = a + b$$
+
 
 ![c5b951d4](https://github.com/user-attachments/assets/db3121c9-c1af-47fc-85c9-649a22c04faf)
 *Fig 1.3* 
