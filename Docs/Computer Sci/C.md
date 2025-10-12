@@ -126,87 +126,6 @@ and represents the raw instructions that the CPU can execute.
   -  Java: A high-level, object-oriented language that runs on the Java Virtual Machine(JVM).
   -  C/C++: High-level languages, though closer to the hardware than some others, still abstract many hardware details compared to assembly or machine code.
 
-# History and Features of C
-C is a general-purpose programming language which is an extremely popular. It is known for being simple and flexible. It is a structured programming language used to write various applications like operating systems, compilers, Windows, Linux, Unix, Game development, and more. 
-- The father of programming languages is **ALGOL**. It was first introduced in **1960**. ALGOL introduced the concept of "Structured Programming".  
-- In **1967**, a new computer programming language was announced called **BCPL (Basic Combined Programming Language)**.  
-- After three years, in **1970**, a new programming language called **'B'** was created.  
-- In **1972**, a new computer programming language was created for scientific and commercial purposes. **Dennis Ritchie** created a new programming language called **'C'** at Bell Labs.  
-- 'C' became a popular and powerful programming language. It remained standardised when the **American National Standards Institute (ANSI)** defined a commercial standard for the C language in **1989**. Later, it was approved by the **International Standards Organisation (ISO)** in **1990**, so this version of the language is called **ANSI C**.
-
-# Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variables
-
-# Keywords
- :
-
-(1) **Key words** : key words have standard, pre-defined meanings in 'c'
-
-* This keywords can be used only for there intended purpose.
-* Key words are an essential part of a language definition.
-* They implement & specific features of the language
-* Every 'c' word is classified as either a key word or an identified
-* A key word is a sequence of characters.. Note: that the key words are all lower case
-* These keywords also called "reserved words".
-*   keywords of the words whose meaning has already been explained to the 'c' compiled and they meaning can be change.
-* Keywords *can not* be used as user defined variables
-* There are 32 keywords available in 'C':
-| S.No. | Keywords |
-| ----: | :------- |
-|     1 | auto     |     
-|     2 | break    |     
-|     3 | case     |     
-|     4 | char     |     
-|     5 | const    |     
-|     6 | continue |     
-|     7 | default  |     
-|     8 | do       |     
-|     9 | double   |     
-|    10 | else     |     
-|    11 | enum     |     
-|    12 | extern   |     
-|    13 | float    |     
-|    14 | for      |     
-|    15 | goto     |     
-|    16 | if       |     
-|    17 | int      |     
-|    18 | long     |     
-|    19 | register |     
-|    20 | return   |     
-|    21 | short    |     
-|    22 | signed   |     
-|    23 | sizeof   |     
-|    24 | static   |     
-|    25 | struct   |     
-|    26 | switch   |     
-|    27 | typedef  |     
-|    28 | union    |     
-|    29 | unsigned |     
-|    30 | void     |     
-|    31 | volatile |     
-|    32 | while    |     
-
-# Identifiers
-* Identifiers has the name suggest help us to identify data and other object in the programme.
-* Identifiers are basically the names given to programme elements such as variables, functions etc.
-# Rules for naming Identifiers names
-Some rules have to be followed by using Identifiers. They are as followed:
-- It can't included any special characters like (#, *, ?, ...) etc.
-- Except the underscore `_`
-- There cannot be two successive underscores ~~__~~~.
-- Key words can *not* be used as identifiers.
-- Identifiers can be of any reasonable length. There should not contain more than 31 characters. It can actually longer than 31, but the compiler looks at only first 31 characters.
-- **e.g., of identifiers**: roll_numbers, marks, emp_numbers, EMP_No, base_pay, Dept_code.
-- Identifiers consisting letters, numbers and Data types of in 'C':
-# Data Types in C
-In `C' data types are defined as the data storage format that a variable can store a data to perform a specific operation.
-* Data types are used to defined a variable become fore to use in a programme.
-* Size of variables can be determine by data types.
-<img width="747" height="146" alt="image" src="https://github.com/user-attachments/assets/af653eca-0ddb-407e-8ab4-384e183bef9f"/>
-
-
-# Operators
-????????
-
 # Flowcharts and Algorithms
 What is a Algorithm?
 - Algorithm is a finite set of steps used to solve computational problems in a program.
@@ -272,6 +191,166 @@ The basic symbols used in flow chart design are given below:
 <img width="327" height="747" alt="image" src="https://github.com/user-attachments/assets/db131ec7-5470-4709-96cc-fd2edc3539a6" />
 
 *Fig.1.9 Flow chart to find the sum of any two numbers.*
+
+# History and Features of C
+C is a general-purpose programming language which is an extremely popular. It is known for being simple and flexible. It is a structured programming language used to write various applications like operating systems, compilers, Windows, Linux, Unix, Game development, and more. 
+- The father of programming languages is **ALGOL**. It was first introduced in **1960**. ALGOL introduced the concept of "Structured Programming".  
+- In **1967**, a new computer programming language was announced called **BCPL (Basic Combined Programming Language)**.  
+- After three years, in **1970**, a new programming language called **'B'** was created.  
+- In **1972**, a new computer programming language was created for scientific and commercial purposes. **Dennis Ritchie** created a new programming language called **'C'** at Bell Labs.  
+- 'C' became a popular and powerful programming language. It remained standardised when the **American National Standards Institute (ANSI)** defined a commercial standard for the C language in **1989**. Later, it was approved by the **International Standards Organisation (ISO)** in **1990**, so this version of the language is called **ANSI C**.
+
+.# Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variables
+
+# Keywords
+ **Key words** : key words have standard, pre-defined meanings in 'c'
+* This keywords can be used only for there intended purpose.
+* Key words are an essential part of a language definition.
+* They implement & specific features of the language
+* Every 'c' word is classified as either a key word or an identified
+* A key word is a sequence of characters.. Note: that the key words are all lower case
+* These keywords also called "reserved words".
+*   keywords of the words whose meaning has already been explained to the 'c' compiled and they meaning can be change.
+* Keywords *can not* be used as user defined variables
+* There are 32 keywords available in 'C':
+
+| S.No. | Keywords |
+| ----: | :------- |
+|     1 | auto     |     
+|     2 | break    |     
+|     3 | case     |     
+|     4 | char     |     
+|     5 | const    |     
+|     6 | continue |     
+|     7 | default  |     
+|     8 | do       |     
+|     9 | double   |     
+|    10 | else     |     
+|    11 | enum     |     
+|    12 | extern   |     
+|    13 | float    |     
+|    14 | for      |     
+|    15 | goto     |     
+|    16 | if       |     
+|    17 | int      |     
+|    18 | long     |     
+|    19 | register |     
+|    20 | return   |     
+|    21 | short    |     
+|    22 | signed   |     
+|    23 | sizeof   |     
+|    24 | static   |     
+|    25 | struct   |     
+|    26 | switch   |     
+|    27 | typedef  |     
+|    28 | union    |     
+|    29 | unsigned |     
+|    30 | void     |     
+|    31 | volatile |     
+|    32 | while    |     
+
+# Identifiers
+* Identifiers has the name suggest help us to identify data and other object in the programme.
+* Identifiers are basically the names given to programme elements such as variables, functions etc.
+# Rules for naming Identifiers names
+Some rules have to be followed by using Identifiers. They are as followed:
+- It can't included any special characters like (#, *, ?, ...) etc.
+- Except the underscore `_`
+- There cannot be two successive underscores ~~__~~~.
+- Key words can *not* be used as identifiers.
+- Identifiers can be of any reasonable length. There should not contain more than 31 characters. It can actually longer than 31, but the compiler looks at only first 31 characters.
+- **e.g., of identifiers**: roll_numbers, marks, emp_numbers, EMP_No, base_pay, Dept_code.
+- Identifiers consisting letters, numbers and Data types of in 'C':
+# Data Types in C
+In `C' data types are defined as the data storage format that a variable can store a data to perform a specific operation.
+* Data types are used to defined a variable become fore to use in a programme.
+* Size of variables can be determine by data types.
+<img width="747" height="146" alt="image" src="https://github.com/user-attachments/assets/af653eca-0ddb-407e-8ab4-384e183bef9f"/>
+# Data Types in 'C'
+
+![Data Types in C Diagram](https://i.imgur.com/your_image_url_here.png)
+
+1. Primitive data types
+- char
+- float
+- int
+- void
+3. User-defined data types
+- enum
+- typedef
+
+4. Derived data types
+- Pointers
+- Arrays
+- Structures
+- Union
+
+**Basic primitive data types are:**
+
+1. **Integer data type:** 
+- Integer data type allows a variable to store numerical values.
+- `int` key word is used to refer integer data type.
+- The storage size of `int` data type is 2 or 4 bytes depending on the processor.
+- `int` can store values range from -32768 to +32767.
+- If we want to use the integer value that cross the above limits, you can use `long int`.
+2. **character data type**:
+- character data type allows a variable to store only one character.
+- Storage size of character data type is 1.
+- we can store only one character using character data type.
+- `char` keyword is used to refer character data type.
+- Character can store values range from -128 to +127.
+3. Floating point data type:
+- `float` type allows a variable to store decimal values.
+- Storage size of float data type is 4.
+- These also value depend up on the processor.
+- we can use up to 6 digits after decimal using float data type.
+- e.g., 10.586789. Can be store in float data type.
+- double data type is also same as float data type which allows up to 10 digits.
+
+
+# Constants in C
+- Does *not* get changed in the program even by mistake.
+- C allows the programmer to specify constants of integer type, floating point, type, character, and string types
+
+*Fig.1.x. Constants of C program*
+
+```
+mermaid
+graph TD
+    A[Integer type] --> B(Floating Point type)
+    A --> C(Character type)
+    A --> D(String type)
+```
+**Integer Constant:**
+- A constant of integer type consists of a sequence of digits.
+- Eg: for example 1, 34, 748 are valid integer constants.
+- An integer like 1234 is of type `int` by default.
+- For long integer is succeeded with either 'L' or '*l*'. Similarly and unsigned int value is returned with 'U' or 'u'.
+- The `const` keyword specify the value of $\pi$ cannot be change
+- However, another way to defined a constant is to use the pre-processor define command.
+- e.g., `#ifdef` `#define PI 3.14`
+- where the const names are usually return in capital letters to distinguish between other variables.
+- No blanks. Space can be used between `#define` `#` Hashtag and define.
+- `#define` is pre-processor directive and not a statement, therefore it does not end with a `;` semicolon.
+
+**format specifier for I/O**
+
+we the use:
+*  ` %.d` for int
+*   `%.f` for float
+*   `%c` for char
+*   `%s` for string
+*   `%li` for long int
+*   `%lu` unsigned long int
+*   `%Lf` long double.
+
+
+
+
+
+# Operators
+????????
+
 
 # Structure of a Program in C  
 ```
