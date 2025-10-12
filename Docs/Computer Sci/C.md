@@ -313,14 +313,8 @@ In `C' data types are defined as the data storage format that a variable can sto
 - C allows the programmer to specify constants of integer type, floating point, type, character, and string types
 
 *Fig.1.x. Constants of C program*
+<img width="747" height="135" alt="image" src="https://github.com/user-attachments/assets/3c1cf632-89b8-4e48-878e-da8f4bd61dec" />
 
-```
-mermaid
-graph TD
-    A[Integer type] --> B(Floating Point type)
-    A --> C(Character type)
-    A --> D(String type)
-```
 **Integer Constant:**
 - A constant of integer type consists of a sequence of digits.
 - Eg: for example 1, 34, 748 are valid integer constants.
@@ -336,13 +330,13 @@ graph TD
 **format specifier for I/O**
 
 we the use:
-*  ` %.d` for int
-*   `%.f` for float
-*   `%c` for char
-*   `%s` for string
-*   `%li` for long int
-*   `%lu` unsigned long int
-*   `%Lf` long double.
+- ` %.d` for int
+- `%.f` for float
+- `%c` for char
+- `%s` for string
+- `%li` for long int
+- `%lu` unsigned long int
+- `%Lf` long double.
 
 
 
@@ -368,9 +362,9 @@ The components of the above structure are:
 4. **Return Statement:** This command is used to terminate a C program from the main function, and it returns the value **0**.
 
 # Input/output statements 
-
+?????
 # Formatted and Unformatted I/O (Input and output)
-
+??????
 
 
 
