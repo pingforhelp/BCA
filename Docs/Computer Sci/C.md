@@ -1,5 +1,5 @@
 # Problem Solving using C
-Breakout of Units, and Sub-topic:
+Breakout of Units, and Sub-topics:
 
 **Unit 1. Introduction to computer programming:**
 - Introduction: Types of software, Compiler and interpreter, Concepts of Machine level, Assembly
@@ -23,8 +23,7 @@ Initializing string variables; String handling functions, Character handling fun
 - Introduction: Functions-malloc, calloc, realloc, free Structures: Basics of structure, structure
 members, accessing structure members, nested structures, array of structures, structure and
 functions, structures and pointers.
-- Unions: Union definition; difference between Structures and
-- Unions. Working with text files - modes: opening, reading, writing and closing .txt files.
+- Unions: Union definition; difference between Structures and Unions. Working with text files - modes: opening, reading, writing and closing .txt files.
 ----
 
 **Unit 1. Introduction to computer programming**
@@ -51,7 +50,7 @@ devices like printers, keyboards, and webcams.
 Examples:
 - Web Browsers: Mozilla Firefox, DuckDuckgo.
 - Word Processors: Microsoft Word, Google Docs, LibreOffice.
-- Games: Fortnite, Minecraft, CSGO.
+- Games: Fortnite, Minecraft, CSGO
 - Media Players: VLC Media Player, MPCL.
 
 Types Of Software:
@@ -73,14 +72,13 @@ Types Of Software:
 *Fig.1.1 A Image showing types of Software.*
 
 # Compiler and interpreter
-
 Computers only understand machine code (binary O’s and 1’s). Since we write programs in high-level languages (like C or Python), they need to be translated. Compilers and interpreters are two types of translator programs that do this job.
 - Compiler: A compiler reads the entire source code at once and translates it into a complete machine code file called an executable or object file. This file can then be run by the computer.
 - Works: Scans the whole program and reports all errors at the end.
 - Advantage of compiler:
 - Execution Speed: Generally faster because the translation is done only once.
 - Examples: C, C++, Java use compilers.
-  
+
 ![PROBLEM SOLVING USING C_3](https://github.com/user-attachments/assets/485c995f-3d76-4d01-9d16-7178735ef45c)
 *Fig.1.2 Compiler VS Interpreter.*
 
@@ -109,7 +107,7 @@ and represents the raw instructions that the CPU can execute.
 - It is extremely difficult for humans to read and write.
 - It is machine-dependent, meaning a program written for one computer might not work on another.
 
-Example: A machine code instruction might look like 10110000 01100001, which could correspond to an operation like loading a value into a register on a specific CPU architecture.
+**Example**: A machine code instruction might look like 10110000 01100001, which could correspond to an operation like loading a value into a register on a specific CPU architecture.
 
 2. Assembly Level Language (Low-Level): Assembly language is a low-level programming language that serves as a symbolic representation of machine code. Each assembly language instruction corresponds directly to a machine language instruction, but the code is written using readable text and mnemonic codes rather than binary.
 - This is a step above machine language. It uses English-like mnemonics (short codes) to represent machine instructions, such as ADD for addition or MOV for moving data.
@@ -128,50 +126,74 @@ Example: A machine code instruction might look like 10110000 01100001, which cou
   -  Java: A high-level, object-oriented language that runs on the Java Virtual Machine(JVM).
   -  C/C++: High-level languages, though closer to the hardware than some others, still abstract many hardware details compared to assembly or machine code.
 
-# History C and Features of C
+# History and Features of C
 C is a general-purpose programming language which is an extremely popular. It is known for being simple and flexible. It is a structured programming language used to write various applications like operating systems, compilers, Windows, Linux, Unix, Game development, and more. 
 - The father of programming languages is **ALGOL**. It was first introduced in **1960**. ALGOL introduced the concept of "Structured Programming".  
 - In **1967**, a new computer programming language was announced called **BCPL (Basic Combined Programming Language)**.  
 - After three years, in **1970**, a new programming language called **'B'** was created.  
 - In **1972**, a new computer programming language was created for scientific and commercial purposes. **Dennis Ritchie** created a new programming language called **'C'** at Bell Labs.  
-- 'C' became a popular and powerful programming language. It remained standardised when the **American National Standards Institute (ANSI)** defined a commercial standard for the C language in **1989**. Later, it was approved by the **International Standards Organisation (ISO)** in **1990**, so this version of the language is called **ANSI C**.  
-
-
-
+- 'C' became a popular and powerful programming language. It remained standardised when the **American National Standards Institute (ANSI)** defined a commercial standard for the C language in **1989**. Later, it was approved by the **International Standards Organisation (ISO)** in **1990**, so this version of the language is called **ANSI C**.
 
 # Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variables
 
 # Keywords
- Keywords
-* Keywords can not be used as user defined variables
-* There are 32 keywords available in 'C'.
+* Keywords *can not* be used as user defined variables
+* There are 32 keywords available in 'C':
+| S.No. | Keywords |
+| ----: | :------- |
+|     1 | auto     |     
+|     2 | break    |     
+|     3 | case     |     
+|     4 | char     |     
+|     5 | const    |     
+|     6 | continue |     
+|     7 | default  |     
+|     8 | do       |     
+|     9 | double   |     
+|    10 | else     |     
+|    11 | enum     |     
+|    12 | extern   |     
+|    13 | float    |     
+|    14 | for      |     
+|    15 | goto     |     
+|    16 | if       |     
+|    17 | int      |     
+|    18 | long     |     
+|    19 | register |     
+|    20 | return   |     
+|    21 | short    |     
+|    22 | signed   |     
+|    23 | sizeof   |     
+|    24 | static   |     
+|    25 | struct   |     
+|    26 | switch   |     
+|    27 | typedef  |     
+|    28 | union    |     
+|    29 | unsigned |     
+|    30 | void     |     
+|    31 | volatile |     
+|    32 | while    |     
+
+# Identifiers
+* Identifiers has the name suggest help us to identify data and other object in the programme.
+* Identifiers are basically the names given to programme elements such as variables, functions etc.
+
   
-|S.No.|Keyword|
-|--:|:--|
-|1|auto|
-|2|break|
-|3|case|
-|4|char|
-|5|const|
-|6|continue|
-|7|default|
-|8|do|
-|9|double|
-|10|else|
-|11|enum|
-|12|extern|
-|13|float|
-|14|for|
-|15|goto|
-|16|if|
-|17|int|
-|18|long|
-|19|register|
-|20|return|
-|21|short|
-|22|signed|
-|23|sizeof|
-|
+# Rules for naming Identifiers names
+Some rules have to be followed by using Identifiers. They are as followed:
+- It can't included any special characters like (#, *, ?, ...) etc.
+- Except the underscore `_`
+- There cannot be two successive underscores ~__~.
+- Key words can not be used as identifiers.
+- Identifiers can be of any reasonable length. There should not contain more than 31 characters. It can actually longer than 31, but the compiler looks at only first 31 characters.
+- **e.g., of identifiers**: roll_numbers, marks, emp_numbers, EMP_No, base_pay, Dept_code.
+- Identifiers consisting letters, numbers and Data types of in 'C':
+
+`C' data types are defined as the data storage format that a variable can store a data to perform a specific operation.
+* Data types are used to defined a variable become fore to use in a programme.
+
+* Size of variables can be determine by data types.
+
 
 # Operators
 
@@ -179,7 +201,7 @@ C is a general-purpose programming language which is an extremely popular. It is
 # Flowcharts and Algorithms
 What is a Algorithm?
 - Algorithm is a finite set of steps used to solve computational problems in a program.
-- An algorithm is development by the programmer to represent the basic logic of the selected solution.
+- An algorithm  development by the programmer to represent the basic logic of the selected solution.
 - An algorithm as it is a finite & no. of steps of instructions that produce an output for a set of input values.
 - An algorithm written in simple English language.
 - To make an effective algorithm the steps must be define with finite sequence of instruction.
