@@ -139,7 +139,39 @@ C is a general-purpose programming language which is an extremely popular. It is
 
 
 
-# Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variable names
+# Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variables
+
+# Keywords
+ Keywords
+* Keywords can not be used as user defined variables
+* There are 32 keywords available in 'C'.
+  
+|S.No.|Keyword|
+|--:|:--|
+|1|auto|
+|2|break|
+|3|case|
+|4|char|
+|5|const|
+|6|continue|
+|7|default|
+|8|do|
+|9|double|
+|10|else|
+|11|enum|
+|12|extern|
+|13|float|
+|14|for|
+|15|goto|
+|16|if|
+|17|int|
+|18|long|
+|19|register|
+|20|return|
+|21|short|
+|22|signed|
+|23|sizeof|
+|
 
 # Operators
 
@@ -151,8 +183,6 @@ What is a Algorithm?
 - An algorithm as it is a finite & no. of steps of instructions that produce an output for a set of input values.
 - An algorithm written in simple English language.
 - To make an effective algorithm the steps must be define with finite sequence of instruction.
-
-  
 
 <img width="264" height="454" alt="PROBLEM SOLVING USING C_4" src="https://github.com/user-attachments/assets/1e0661ef-00a2-4fa2-9c24-ef9f19d14994"/>
 *Fig.1.3 An image describing a Flow chart*
@@ -187,7 +217,7 @@ The basic symbols used in flow chart design are given below:
 5. Decisions & conditions: A program may have multiple execution parts in order to select the direction of program control. The decision is denoted by diamond shape. The program should continue one of two routes (if and else) that 'yes' & 'no'.
 6. Connector: The connector is used to join different flow charts in a program. The connector is denoted circle shape.
 
-1. Rectangle
+01. Rectangle
 <img width="960" height="720" alt="rectangle" src="https://github.com/user-attachments/assets/9a3e1611-b490-4dbd-a575-da2e69af512c"/>
 
 2. Parallelogram
