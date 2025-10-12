@@ -70,12 +70,11 @@ Types Of Software:
 - "System".
 
 ![PROBLEM SOLVING USING C_2](https://github.com/user-attachments/assets/1686b63e-c5ca-4d3c-ac39-4824755c6eeb)
-
+*Fig.1.1 A Image showing types of Software.*
 
 # Compiler and interpreter
 
 Computers only understand machine code (binary O’s and 1’s). Since we write programs in high-level languages (like C or Python), they need to be translated. Compilers and interpreters are two types of translator programs that do this job.
-
 - Compiler: A compiler reads the entire source code at once and translates it into a complete machine code file called an executable or object file. This file can then be run by the computer.
 - Works: Scans the whole program and reports all errors at the end.
 - Advantage of compiler:
@@ -83,6 +82,7 @@ Computers only understand machine code (binary O’s and 1’s). Since we write 
 - Examples: C, C++, Java use compilers.
   
 ![PROBLEM SOLVING USING C_3](https://github.com/user-attachments/assets/485c995f-3d76-4d01-9d16-7178735ef45c)
+*Fig.1.2 Compiler VS Interpreter.*
 
 - Interpreter: An interpreter reads the source code one line at a time, translates that line into machine code, and immediately executes it before moving to the next line.
 - Works: Translates and executes line-by-line. It stops as soon as it finds the first error.
@@ -102,7 +102,6 @@ Computers only understand machine code (binary O’s and 1’s). Since we write 
 
 Programming languages are categorized into three levels based on their abstraction from
 the hardware:
-
 1. Machine Language (also called Machine Code) Machine language is the lowest-level programming language, directly understood by the computer's central processing unit (CPU). It consists entirely of binary code (1s and Os)
 and represents the raw instructions that the CPU can execute.
 - This is the lowest level, consisting of binary digits (Os and 1s).
@@ -117,7 +116,7 @@ Example: A machine code instruction might look like 10110000 01100001, which cou
 - An assembler is required to translate assembly code into machine code.
 - It is easier to work with than machine language but is still machine-dependent.
 
-**Example:** Assembly Copy codeMOV AX, 1; Move the value 1 into register AX ADD AX,BX; Add the value in register BX to AX These are mnemonics and are typically converted to machine code by an assembler.
+**Examples:** Assembly Copy codeMOV AX, 1; Move the value 1 into register AX ADD AX,BX; Add the value in register BX to AX These are mnemonics and are typically converted to machine code by an assembler.
 
 3. High-Level Language (HLL): High-level languages are programming languages that provide a greater level of abstraction from the hardware, making them easier for humans to read and write. High-level languages are designed to be portable across different hardware platforms.
 - These languages use English-like syntax and are the easiest for humans to read, write, and maintain.
@@ -155,13 +154,13 @@ What is a Algorithm?
 
   
 
-![alt text](C:\Users\tamim\Downloads\Com. Skills\c img\C1_.png)
+<img width="264" height="454" alt="PROBLEM SOLVING USING C_4" src="https://github.com/user-attachments/assets/1e0661ef-00a2-4fa2-9c24-ef9f19d14994"/>
+*Fig.1.3 An image describing a Flow chart*
 
-
-  **Properties of algorithm The algorithm has five properties such as:**
+**Properties of algorithm The algorithm has five properties such as:**
 1. **Input**:  Input  An algorithm must have '0' or more no. of well defined inputs. Example: ```print("Hello, world!");```. There no input but it provided an output ```Hello, world!```
 2. **Output:** The algorithm must have at least one output, we cannot say that zero outputs. Example: ``print("Hello, world!");`` There is no input but it has one output.//edit typos.
-3. **Finiteness:**   The algorithm must terminate after a finite number of steps. to each instruction & step in a algorithm must have clear meaning Example:  ```while ( ) { Set of Statements; }```` This loope executes finite no. of times/types.
+3. **Finiteness:**   The algorithm must terminate after a finite number of steps. to each instruction & step in a algorithm must have clear meaning Example:  `while ( ) { Set of Statements; }` This loope executes finite no. of times/types.
 4. **Unambiguous:** The algorithm must have unambigies instructions, every instructions must have clear meaning. The algorithm should not have any unambigies instructions.
 5. **Effectiveness:** The algorithm must provide effective result. To make a effective algorithm we must follow sequence of steps.
 
@@ -169,28 +168,48 @@ What is a Algorithm?
 ```
 Step-1: Start.
 Step-2: declare variable a, b, sum.
-Step-3: Read or assign value to variable.
-sum = a+b Step-4 : To perform addition of two numbers, printsum 
-Step-5 : To display output: in some sum value.
-Step-6 : End (or) Stop.
+Step-3: Read or assign value to variable, sum = a+b
+Step-4: To perform addition of two numbers, printsum 
+Step-5: To display output in some sum value.
+Step-6: End or Stop.
 ```
+> [!NOTE]
+> Whenever we use STEPS like shown above it is referred to as "Pseudocode" and when we use a diagram that is referred as a Flow Chart like the image you saw on Fig.1.3.
 
-**Flow chart**
+**Flow charts**
 > **"Flow chart use different symbols to perform different operations in a program."**
 
 The basic symbols used in flow chart design are given below:
-1. Terminal: The terminal is represented by a rectangle it has at rounded ends. This symbol is used to identify indicate the beginning (Start & end) termination (end) of the algorithm. Terminal is denoted by around rectangle or vowel shape. Like so, ![C2.](https://)
-2. Input / output OR I/O: The input (&) output is represented by parallelogram. This symbol represented an input taken from the user. & output given to the user.
-The input *AND* output is denoted by parallelogram This is how it looks: 
+1. Terminal: The terminal is represented by a rectangle it has at rounded ends. This symbol is used to identify indicate the beginning (Start & end) termination (end) of the algorithm. Terminal is denoted by around rectangle or vowel shape.
+2. Input / output OR I/O: The input (&) output is represented by a parallelogram. This symbol represented an input taken from the user & output given to the user.
 3. Flow line: The flow line are represented by array/whiteads that are used connect symbol. These lines indicated the sequence of steps and flow of operations The flow line is denoted by array symbol and here's an image of it.
 4. Processing: The processing is represented by a rectangle ![](.....). This symbol used for representing all arithmetic and data moment instructions. This symbol is used logic process of moving data from one memory location to another.
-5. Decisions & conditions: A program may have multiple execution parts in order to select the direction of program control. The decision is denoted by diamond shape. ![Diamond Shape](https://i.imgur.com/qJ6q99V.png). The program should continue one of two routes (if and else) that 'yes' & 'no'.
-6. Connector: The connector is used to join different flow charts in a program. The connector is denoted circle shape. ![Circle Shape](https://i.imgur.com/qJ6q99V.png)
+5. Decisions & conditions: A program may have multiple execution parts in order to select the direction of program control. The decision is denoted by diamond shape. The program should continue one of two routes (if and else) that 'yes' & 'no'.
+6. Connector: The connector is used to join different flow charts in a program. The connector is denoted circle shape.
 
-E.g
+1. Rectangle
+<img width="960" height="720" alt="rectangle" src="https://github.com/user-attachments/assets/9a3e1611-b490-4dbd-a575-da2e69af512c"/>
+
+2. Parallelogram
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/4ba41868-ee21-4063-b3cd-2b6fcfe207ea"/>
+
+3. Array
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/90dd9959-923a-4f35-89e1-4230fce4df98" />
+
+4. Diamond
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/a4a955bf-84f9-4f60-ae5e-3c098133aee7" />
+
+5. Circle
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/0d149840-2c9f-427e-b59e-9eebeb0f53f2"/>
+
+
+*Figs.1.4-1.8 symbols in Flow Charts.*
+
+**Examples**
+
 1. Draw a flow chart to find the sum of any two numbers.
-
 ![Flowchart 1](https://i.imgur.com/qJ6q99V.png)
+
 ![Flowchart 2](https://i.imgur.com/qJ6q99V.png)
 
 $$Sum = a + b$$
