@@ -137,6 +137,17 @@ C is a general-purpose programming language which is an extremely popular. It is
 # Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variables
 
 # Keywords
+ :
+
+(1) **Key words** : key words have standard, pre-defined meanings in 'c'
+
+* This keywords can be used only for there intended purpose.
+* Key words are an essential part of a language definition.
+* They implement & specific features of the language
+* Every 'c' word is classified as either a key word or an identified
+* A key word is a sequence of characters.. Note: that the key words are all lower case
+* These keywords also called "reserved words".
+*   keywords of the words whose meaning has already been explained to the 'c' compiled and they meaning can be change.
 * Keywords *can not* be used as user defined variables
 * There are 32 keywords available in 'C':
 | S.No. | Keywords |
@@ -177,26 +188,24 @@ C is a general-purpose programming language which is an extremely popular. It is
 # Identifiers
 * Identifiers has the name suggest help us to identify data and other object in the programme.
 * Identifiers are basically the names given to programme elements such as variables, functions etc.
-
-  
 # Rules for naming Identifiers names
 Some rules have to be followed by using Identifiers. They are as followed:
 - It can't included any special characters like (#, *, ?, ...) etc.
 - Except the underscore `_`
-- There cannot be two successive underscores ~__~.
-- Key words can not be used as identifiers.
+- There cannot be two successive underscores ~~__~~~.
+- Key words can *not* be used as identifiers.
 - Identifiers can be of any reasonable length. There should not contain more than 31 characters. It can actually longer than 31, but the compiler looks at only first 31 characters.
 - **e.g., of identifiers**: roll_numbers, marks, emp_numbers, EMP_No, base_pay, Dept_code.
 - Identifiers consisting letters, numbers and Data types of in 'C':
-
-`C' data types are defined as the data storage format that a variable can store a data to perform a specific operation.
+# Data Types in C
+In `C' data types are defined as the data storage format that a variable can store a data to perform a specific operation.
 * Data types are used to defined a variable become fore to use in a programme.
-
 * Size of variables can be determine by data types.
+<img width="747" height="146" alt="image" src="https://github.com/user-attachments/assets/af653eca-0ddb-407e-8ab4-384e183bef9f"/>
 
 
 # Operators
-
+????????
 
 # Flowcharts and Algorithms
 What is a Algorithm?
