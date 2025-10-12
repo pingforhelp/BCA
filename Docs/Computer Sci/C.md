@@ -208,23 +208,17 @@ The basic symbols used in flow chart design are given below:
 **Examples**
 
 1. Draw a flow chart to find the sum of any two numbers.
-![Flowchart 1](https://i.imgur.com/qJ6q99V.png)
+<img width="327" height="747" alt="image" src="https://github.com/user-attachments/assets/db131ec7-5470-4709-96cc-fd2edc3539a6" />
 
-![Flowchart 2](https://i.imgur.com/qJ6q99V.png)
-
-$$Sum = a + b$$
-
-
-![c5b951d4](https://github.com/user-attachments/assets/db3121c9-c1af-47fc-85c9-649a22c04faf)
-*Fig 1.3* 
+*Fig.1.9 Flow chart to find the sum of any two numbers.*
 
 # Structure of a Program in C  
-```c
-#include <stdio.h>
-int main() {
-    printf("Hello, World!");
-    return 0;
-}
+```
+1. #include <stdio.h>
+2. int main() {
+3.   printf("Hello, World!");
+4.    return 0;
+5. }
 ````
 The components of the above structure are:
 1. **Header files:** The first and foremost component in a C program is the header file.
@@ -236,6 +230,12 @@ The components of the above structure are:
 # Input/output statements 
 
 # Formatted and Unformatted I/O (Input and output)
+
+
+
+
+
+
 > [!NOTE]
 > This content changed or modified for better readable, editing of Facial and language wherever mistakes are made by the Teacher.
 
@@ -247,4 +247,9 @@ Img/pdf cnverted to .md using:
           ██║╚██╗██║██║   ██║   ██║   ██╔══╝  ██║  ██║   ██║╚██╔╝██║██║  ██║
           ██║ ╚████║╚██████╔╝   ██║   ███████╗██████╔╝██╗██║ ╚═╝ ██║██████╔╝
           ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚══════╝╚═════╝ ╚═╝╚═╝     ╚═╝╚═════╝
+
+
+<img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/267dee10-dbf4-4726-9549-ad1430b1879e" />
+
+
 
