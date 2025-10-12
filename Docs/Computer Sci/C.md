@@ -266,9 +266,6 @@ In `C' data types are defined as the data storage format that a variable can sto
 * Data types are used to defined a variable become fore to use in a programme.
 * Size of variables can be determine by data types.
 <img width="747" height="146" alt="image" src="https://github.com/user-attachments/assets/af653eca-0ddb-407e-8ab4-384e183bef9f"/>
-# Data Types in 'C'
-
-![Data Types in C Diagram](https://i.imgur.com/your_image_url_here.png)
 
 1. Primitive data types
 - char
@@ -306,13 +303,21 @@ In `C' data types are defined as the data storage format that a variable can sto
 - we can use up to 6 digits after decimal using float data type.
 - e.g., 10.586789. Can be store in float data type.
 - double data type is also same as float data type which allows up to 10 digits.
-
+# Comments:
+- Comments are just a way of explaining what a program does.
+- The compiler ignores the comments while using in our program.
+- This means that the comments are non executable statements.
+- C supports two types of comments:
+1. `//` is used to comment a single statement.
+- This is also known as "line comment"
+2. `/*` is used to comment multiple statements and its must be ended with `*/`.
+    - These type of comment is known as "block comment".
 
 # Constants in C
 - Does *not* get changed in the program even by mistake.
 - C allows the programmer to specify constants of integer type, floating point, type, character, and string types
 
-*Fig.1.x. Constants of C program*
+*Fig.1.11. Constants of C program*
 <img width="747" height="135" alt="image" src="https://github.com/user-attachments/assets/3c1cf632-89b8-4e48-878e-da8f4bd61dec" />
 
 **Integer Constant:**
@@ -326,17 +331,6 @@ In `C' data types are defined as the data storage format that a variable can sto
 - where the const names are usually return in capital letters to distinguish between other variables.
 - No blanks. Space can be used between `#define` `#` Hashtag and define.
 - `#define` is pre-processor directive and not a statement, therefore it does not end with a `;` semicolon.
-
-**format specifier for I/O**
-
-we the use:
-- ` %.d` for int
-- `%.f` for float
-- `%c` for char
-- `%s` for string
-- `%li` for long int
-- `%lu` unsigned long int
-- `%Lf` long double.
 
 
 
@@ -364,7 +358,17 @@ The components of the above structure are:
 # Input/output statements 
 ?????
 # Formatted and Unformatted I/O (Input and output)
-??????
+
+**format specifier for I/O**
+
+we the use:
+- ` %.d` for int
+- `%.f` for float
+- `%c` for char
+- `%s` for string
+- `%li` for long int
+- `%lu` unsigned long int
+- `%Lf` long double.
 
 
 
