@@ -371,7 +371,7 @@ The components of the above structure are:
 
 
 > [!NOTE]
-> This content changed or modified for better readable, editing of Facial and language wherever mistakes are made by the Teacher.
+> This content changed or modified for better readable, editing of Facts and language wherever mistakes are made by the Teacher.
 
 Img/pdf con,verted to `.md` using:
 ```
