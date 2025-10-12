@@ -1,6 +1,5 @@
 # Problem Solving using C
 Breakout of Units, and Sub-topics:
-
 **Unit 1. Introduction to computer programming:**
 - Introduction: Types of software, Compiler and interpreter, Concepts of Machine level, Assembly
 level and high-level programming, Flowcharts and Algorithms.
@@ -13,8 +12,8 @@ level and high-level programming, Flowcharts and Algorithms.
 ---------
 **Unit 3. Derived data types in C:**
 - Arrays: One Dimensional arrays - Declaration, Initialization and Memory representation; Two
-Dimensional arrays -Declaration, Initialization and Memory representation. Strings: Declaring &
-Initializing string variables; String handling functions, Character handling functions
+- Dimensional arrays -Declaration, Initialization and Memory representation. Strings: Declaring & 
+- Initializing string variables; String handling functions, Character handling functions
 ----
 **Unit 4. Functions:**
 - Pointers: Pointer data type, Pointer declaration, initialization, accessing values using pointers. Pointer arithmetic, Pointers and arrays. Function Prototype, definition and calling. Return statement. Nesting of functions. Categories of functions. Recursion (Basic Concept only). Parameter Passing by address & by value. Local and Global variables. Storage classes: automatic, external, static and register.
@@ -29,8 +28,9 @@ functions, structures and pointers.
 **Unit 1. Introduction to computer programming**
 
 # Types of software
+
 Introduction Computer Programming is the process of designing and writing a sequence of instructions（a program) that tells a computer how to perform tasks. A program translates human logic into a form that hardware can execute.
-Think of it likewriting a recipe for a computer. The recipe is the program, the ingredients are the data, and the steps are the instructions. The person who writes these instructions is called a programmer, and they write them in a special language called a programming language.The entire set of instructions written in a programming language is called source code.
+Think of it like a writing recipe  the Computer. The recipe is the program, the ingredients are the data, and the steps are the instructions. The person who writes these instructions is called a **Programmer**, and they write them in a special language called a <u>programming language</u>. The entire set of instructions written in a programming language is called Source code.
 
 programming matters:
 - Automates tasks, performs computations fast.
@@ -40,7 +40,7 @@ programming matters:
 Types of software: Software is a collection of programs and data that tells a computer what to do. It is broadly
 divided into two main categories:
 1. System Software: This software acts as an intermediary between the computer hardware and the user's applications. Its main purpose is to manage the computer's resources. Examples:
-   - Operating Systems (OS): Windows, MacOS, Linux, Android. They manage all
+   - Operating Systems (OS): Windows, MacOS, Linux, Android. They manage all.
 other software and hardware on the computer.
    - Device Drivers: Software that allows the OS to communicate with hardware
 devices like printers, keyboards, and webcams.
@@ -78,7 +78,6 @@ Computers only understand machine code (binary O’s and 1’s). Since we write 
 - Advantage of compiler:
 - Execution Speed: Generally faster because the translation is done only once.
 - Examples: C, C++, Java use compilers.
-
 ![PROBLEM SOLVING USING C_3](https://github.com/user-attachments/assets/485c995f-3d76-4d01-9d16-7178735ef45c)
 *Fig.1.2 Compiler VS Interpreter.*
 
@@ -141,7 +140,7 @@ What is a Algorithm?
 1. **Input**:  Input  An algorithm must have '0' or more no. of well defined inputs. Example: ```print("Hello, world!");```. There no input but it provided an output ```Hello, world!```
 2. **Output:** The algorithm must have at least one output, we cannot say that zero outputs. Example: ``print("Hello, world!");`` There is no input but it has one output.//edit typos.
 3. **Finiteness:**   The algorithm must terminate after a finite number of steps. to each instruction & step in a algorithm must have clear meaning Example:  `while ( ) { Set of Statements; }` This loope executes finite no. of times/types.
-4. **Unambiguous:** The algorithm must have unambigies instructions, every instructions must have clear meaning. The algorithm should not have any unambigies instructions.
+4. **Unambiguous:** The algorithm must have Unambiguous instructions, every instructions must have clear meaning. The algorithm should not have any unambigies instructions.
 5. **Effectiveness:** The algorithm must provide effective result. To make a effective algorithm we must follow sequence of steps.
 
 **Example of algorithm Write a algorithm to find the sum of any two numbers:**
@@ -163,14 +162,16 @@ The basic symbols used in flow chart design are given below:
 1. Terminal: The terminal is represented by a rectangle it has at rounded ends. This symbol is used to identify indicate the beginning (Start & end) termination (end) of the algorithm. Terminal is denoted by around rectangle or vowel shape.
 2. Input / output OR I/O: The input (&) output is represented by a parallelogram. This symbol represented an input taken from the user & output given to the user.
 3. Flow line: The flow line are represented by array/whiteads that are used connect symbol. These lines indicated the sequence of steps and flow of operations The flow line is denoted by array symbol and here's an image of it.
-4. Processing: The processing is represented by a rectangle ![](.....). This symbol used for representing all arithmetic and data moment instructions. This symbol is used logic process of moving data from one memory location to another.
-5. Decisions & conditions: A program may have multiple execution parts in order to select the direction of program control. The decision is denoted by diamond shape. The program should continue one of two routes (if and else) that 'yes' & 'no'.
-6. Connector: The connector is used to join different flow charts in a program. The connector is denoted circle shape.
+4. Processing: The processing is represented by a rectangle ![](.....
+5. 
+This symbol used for representing all arithmetic and data moment instructions. This symbol is used logic process of moving data from one memory location to another.
+6. Decisions & conditions: A program may have multiple execution parts in order to select the direction of program control. The decision is denoted by diamond shape. The program should continue one of two routes (if and else) that 'yes' & 'no'.
+7. Connector: The connector is used to join different flow charts in a program. The connector is denoted circle shape.
 
-01. Rectangle
+8. Rectangle
 <img width="960" height="720" alt="rectangle" src="https://github.com/user-attachments/assets/9a3e1611-b490-4dbd-a575-da2e69af512c"/>
 
-2. Parallelogram
+8. Parallelogram
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/4ba41868-ee21-4063-b3cd-2b6fcfe207ea"/>
 
 3. Array
@@ -180,10 +181,7 @@ The basic symbols used in flow chart design are given below:
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/a4a955bf-84f9-4f60-ae5e-3c098133aee7" />
 
 5. Circle
-<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/0d149840-2c9f-427e-b59e-9eebeb0f53f2"/>
-
-
-*Figs.1.4-1.8 symbols in Flow Charts.*
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/0d149840-2c9f-427e-b59e-9eebeb0f53f2"/>*Figs.1.4-1.8 symbols in Flow Charts.*
 
 **Examples**
 
@@ -311,7 +309,7 @@ In `C' data types are defined as the data storage format that a variable can sto
 1. `//` is used to comment a single statement.
 - This is also known as "line comment"
 2. `/*` is used to comment multiple statements and its must be ended with `*/`.
-    - These type of comment is known as "block comment".
+- These type of comment is known as "block comment".
 
 # Constants in C
 - Does *not* get changed in the program even by mistake.
@@ -389,6 +387,5 @@ Img/pdf con,verted to `.md` using:
 ```
 
 <img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/267dee10-dbf4-4726-9549-ad1430b1879e" />
-
-
+<img width="474" height="107" alt="image" src="https://github.com/user-attachments/assets/3b33da70-55e8-4cde-8296-39ec2114b095" />
 
