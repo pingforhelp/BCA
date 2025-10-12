@@ -348,11 +348,11 @@ we the use:
 
 # Structure of a Program in C  
 ```
-1. #include <stdio.h>
-2. int main() {
-3.   printf("Hello, World!");
-4.    return 0;
-5. }
+#include <stdio.h>
+int main() {
+printf("Hello, World!");
+return 0;
+}
 ````
 The components of the above structure are:
 1. **Header files:** The first and foremost component in a C program is the header file.
