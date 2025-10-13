@@ -198,17 +198,18 @@ C is a general-purpose programming language which is an extremely popular. It is
 - In **1972**, a new computer programming language was created for scientific and commercial purposes. **Dennis Ritchie** created a new programming language called **'C'** at Bell Labs.  
 - 'C' became a popular and powerful programming language. It remained standardised when the **American National Standards Institute (ANSI)** defined a commercial standard for the C language in **1989**. Later, it was approved by the **International Standards Organisation (ISO)** in **1990**, so this version of the language is called **ANSI C**.
 
-.# Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variables
+# Tokens-variables
+???
 
 # Keywords
- **Key words** : key words have standard, pre-defined meanings in 'c'
+ key words have standard, pre-defined meanings in 'c'
 * This keywords can be used only for there intended purpose.
 * Key words are an essential part of a language definition.
 * They implement & specific features of the language
 * Every 'c' word is classified as either a key word or an identified
 * A key word is a sequence of characters.. Note: that the key words are all lower case
 * These keywords also called "reserved words".
-*   keywords of the words whose meaning has already been explained to the 'c' compiled and they meaning can be change.
+*   keywords of the words whose meaning has already been explained to the 'C' compiled and they meaning can be change.
 * Keywords *can not* be used as user defined variables
 * There are 32 keywords available in 'C':
 
@@ -329,15 +330,8 @@ In `C' data types are defined as the data storage format that a variable can sto
 - where the const names are usually return in capital letters to distinguish between other variables.
 - No blanks. Space can be used between `#define` `#` Hashtag and define.
 - `#define` is pre-processor directive and not a statement, therefore it does not end with a `;` semicolon.
-
-
-
-
-
 # Operators
 ????????
-
-
 # Structure of a Program in C  
 ```C
 #include <stdio.h>
@@ -354,8 +348,38 @@ The components of the above structure are:
 4. **Return Statement:** This command is used to terminate a C program from the main function, and it returns the value **0**.
 
 # Input/output statements 
-?????
-# Formatted and Unformatted I/O (Input and output)
+- In 'c' the input/output functions can be classified in two categories on the basis of how they handle the input/output in terms of formatting or structure.
+- formatted I/O functions help to display the output to the user in different formats using 'the format specifiers'. These I/O support all datatypes like int, float, char and many more.
+
+The formatted I/O functions in c are discussed below:
+
+1. `printf()`
+printf() function is used in a c program to display any value like float, integer, character, string etc on the console screen. It is a pre-defined function that is already declared in the `stdio.h` (header file).
+e.g.,
+```c
+#include <stdio.h>
+int main() {
+  // creating an int type variable
+  int a = 20;
+
+  // Printing the value of a variable
+  printf("%d\n", a);
+
+  // Printing a string
+  printf("This is a String");
+  return 0;
+}
+```
+Output:
+```bash
+20
+This is a String
+```
+2. `Scanf()`
+Scanf() function is used in the 'c' program for reading or taking any value from the keyboard by the user these value can be of any data type like integer, float, character, string and many more. This is a pre-defined function declared in `Studio.h` (header file). In Scanf() function we use `&` (address - of operator) which is used to store the variable value on the memory location of that variable.
+
+Syntax:
+`Scanf("format specifier", &Var1, &Var2,...&Var n)`
 
 **format specifier for I/O**
 
