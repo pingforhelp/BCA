@@ -339,8 +339,7 @@ In `C' data types are defined as the data storage format that a variable can sto
 
 
 # Structure of a Program in C  
-```
-C
+```C
 #include <stdio.h>
 int main() {
 printf("Hello, World!");
@@ -361,7 +360,7 @@ The components of the above structure are:
 **format specifier for I/O**
 
 we the use:
-- ` %d` for int
+- `%d` for int
 - `%f` for float
 - `%c` for char
 - `%s` for string
@@ -376,7 +375,7 @@ we the use:
 > [!NOTE]
 > This content changed or modified for better readable, editing of Facts and language wherever mistakes are made by the Teacher.
 
-Img/pdf con,verted to `.md` using:
+Img/pdf converted to `.md` using:
 ```
 ███╗   ██╗ ██████╗ ████████╗███████╗██████╗    ███╗   ███╗██████╗
 ████╗  ██║██╔═══██╗╚══██╔══╝██╔════╝██╔══██╗   ████╗ ████║██╔══██╗
