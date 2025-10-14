@@ -330,6 +330,17 @@ In `C' data types are defined as the data storage format that a variable can sto
 - where the const names are usually return in capital letters to distinguish between other variables.
 - No blanks. Space can be used between `#define` `#` Hashtag and define.
 - `#define` is pre-processor directive and not a statement, therefore it does not end with a `;` semicolon.
+
+**format specifier for I/O**
+
+we the use:
+- `%d` for int
+- `%f` for float
+- `%c` for char
+- `%s` for string
+- `%li` for long int
+- `%lu` unsigned long int
+- `%Lf` long double.
 # Operators
 ????????
 # Structure of a Program in C  
@@ -380,17 +391,6 @@ Scanf() function is used in the 'c' program for reading or taking any value from
 
 Syntax:
 `Scanf("format specifier", &Var1, &Var2,...&Var n)`
-
-**format specifier for I/O**
-
-we the use:
-- `%d` for int
-- `%f` for float
-- `%c` for char
-- `%s` for string
-- `%li` for long int
-- `%lu` unsigned long int
-- `%Lf` long double.
 
 
 
