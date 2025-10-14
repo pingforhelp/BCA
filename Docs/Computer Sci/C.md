@@ -413,3 +413,10 @@ Img/pdf converted to `.md` using:
 <img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/267dee10-dbf4-4726-9549-ad1430b1879e" />
 <img width="474" height="107" alt="image" src="https://github.com/user-attachments/assets/3b33da70-55e8-4cde-8296-39ec2114b095" />
 
+
+
+**Unit 2. Control statements:**
+
+- Decision making statements: if, if else, else if ladder, switch statements.
+- Loop control statements: while loop, for loop and do-while loop.
+- Jump Control statements: break,continue and got
