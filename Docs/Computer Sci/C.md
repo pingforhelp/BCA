@@ -598,4 +598,8 @@ Img/pdf converted to `.md` using:
 ```
 
 <img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/267dee10-dbf4-4726-9549-ad1430b1879e" />
-<img width="474" height="307" alt="img" src="https://github.com/user-attachments/assets/2b3d6a70-55e0-4cda-8296-39ce2114b085" />
+
+<img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/b170ff3d-94e4-4359-8d5d-6592b31662d7" />
+
+[Nexto Unit-2!](https://www.rx.ds)
+
