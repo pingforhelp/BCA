@@ -598,4 +598,4 @@ Img/pdf converted to `.md` using:
 ```
 
 <img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/267dee10-dbf4-4726-9549-ad1430b1879e" />
-<img width="474" height="307" alt="A descriptive text for the image" src="https://github.com/user-attachments/assets/2b3d6a70-55e0-4cda-8296-39ce2114b085" />
+<img width="474" height="307" alt="img" src="https://github.com/user-attachments/assets/2b3d6a70-55e0-4cda-8296-39ce2114b085" />
