@@ -29,6 +29,23 @@ functions, structures and pointers.
 ----
 
 **Unit 1. Introduction to computer programming**
+- [Types of software](#types-of-software)
+- [Compiler and interpreter](#compiler-and-interpreter)
+- [Concepts of Machine level, Assembly level, High-level programming](#concepts-of-machine-level-assembly-level-high-level-programming)
+- [Flowcharts and Algorithms](#flowcharts-and-algorithms)
+- [History and Features of C](#history-and-features-of-c)
+- [Keywords](#keywords)
+- [Identifiers](#identifiers)
+- [Rules for naming- Identifiers names](#rules-for-naming--identifiers-names)
+- [Data Types in C](#data-types-in-c)
+- [Comments](#comments)
+- [Constants in C](#constants-in-c)
+- [Operators](#operators)
+- [Types of Operators in C](#types-of-operators-in-c)
+- [Structure of a Program in C  ](#structure-of-a-program-in-c-)
+- [I/O statements and formatted I/O](#io-statements-and-formatted-io)
+- [Unformatted I/O Functions](#unformatted-io-functions)
+
 
 # Types of software
 
