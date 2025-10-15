@@ -26,6 +26,6 @@ Subject list:
 > ```+``` means in addition to.
 
 > [!WARNING]
-> This is a student-made project. If you see any mistakes/typos or want to give feedback then, please email me @ [tamimtasira@gmail.com](mailto:tamimtasira@gmail.com) with ```BCA Notes Repo``` in the [Subject field](https://www.cliently.com/blog/what-is-subject-in-email-with-examplev).   
+> <mark> This is a student-made project. If you see any mistakes/typos or want to give feedback then, please email me @ [tamimtasira@gmail.com](mailto:tamimtasira@gmail.com) with ```BCA Notes Repo``` in the [Subject field](https://www.cliently.com/blog/what-is-subject-in-email-with-examplev). </mark>  
 
 
