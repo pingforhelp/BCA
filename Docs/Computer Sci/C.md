@@ -474,7 +474,7 @@ return 0;
 The components of the above structure are:
 1. **Header files:** The first and foremost component in a C program is the header file.
 * A header file is a file with the extension **.h**, which contains C function declarations. For example, **stdio.h** defines standard input and output functionalities.
-2. **Main Method or Function Declaration:** The next part of a C program is the main function. The declaration of the main function is written as **int main()**.
+2. **Main Method or Function Declaration:** The next part of a C program is the main function. The declaration of the main function is written as <mark> int main()/<mark>.
 3. **Body:** The body of a function in a C program refers to the operations performed within the function. It can include actions like searching, sorting, or printing. In this example, the body of the main function prints a statement called “Hello, World!” using the function **printf("Hello, World!");**
 4. **Return Statement:** This command is used to terminate a C program from the main function, and it returns the value **0**.
 
