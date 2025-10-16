@@ -8,7 +8,7 @@ Sarojini Naidu was born on February 13, **1879**, Hyderabad in India and died on
 
 Sarojini Chatto Pathyay was the eldest daughter of Aghornath Chattopadhyay a bengal brahmin who was the Principle of Nizam college Hyderabad she was the eldest of eight sibling - Virendranath Chattopadhyay, a revolutionary leader and Haridranath Chatto Path yay a Poet and actor were her brothers - She entered the university of madras at the age of 12 and studied in england at kings college, london and then Girton college Cambridge from 1895 to 1898 with a Scholarship from the Nizam of Hyderabad. During this Period was involved in the sufferogisent in england. She returned to India in 1898 and married Govindarajulu Naidu whom she had met in england daughter Padma Naidu.
 
-# <mark style="background-color: red; color: white;">Poem</mark>
+# Poem
 
 
 
