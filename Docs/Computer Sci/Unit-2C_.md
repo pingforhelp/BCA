@@ -7,7 +7,8 @@
 
 # if, if else, else if ladder, and switch statements.
 
-[23/10, 11:25 am] +91 70953 16935: #include <stdio.h>
+``` c
+#include <stdio.h>
 int main() {
     int num = 10;
     
@@ -17,6 +18,7 @@ int main() {
     
     return 0; 
 }
+```
 ``` C
 #include <stdio.h>
 int main() {
@@ -31,6 +33,7 @@ int main() {
     return 0;
 }
 ```
+``` c
 #include <stdio.h>
 
 int main() {
@@ -63,7 +66,7 @@ int main() {
     return 0;
 }
 ````
-```C
+```c
 #include <stdio.h>
 int main() {
     int day = 3;
@@ -78,5 +81,6 @@ int main() {
     }
     
     return 0;
+```
 }
 ```
