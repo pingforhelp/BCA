@@ -787,26 +787,19 @@ Syntax:
 ``` c
 getch();
 ```
-
-Img/pdf converted to `.md` using:
-```
-███╗   ██╗ ██████╗ ████████╗███████╗██████╗    ███╗   ███╗██████╗
-████╗  ██║██╔═══██╗╚══██╔══╝██╔════╝██╔══██╗   ████╗ ████║██╔══██╗
-██╔██╗ ██║██║   ██║   ██║   █████╗  ██║  ██║   ██╔████╔██║██║  ██║
-██║╚██╗██║██║   ██║   ██║   ██╔══╝  ██║  ██║   ██║╚██╔╝██║██║  ██║
-██║ ╚████║╚██████╔╝   ██║   ███████╗██████╔╝██╗██║ ╚═╝ ██║██████╔╝
-╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚══════╝╚═════╝ ╚═╝╚═╝     ╚═╝╚═════╝
-
-```
-
 <img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/267dee10-dbf4-4726-9549-ad1430b1879e" />
 
 <img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/b170ff3d-94e4-4359-8d5d-6592b31662d7" />
 
-[Next: Unit-2!](https://github.com/pingforhelp/BCA/blob/main/Docs/Computer%20Sci/Unit-2C_.md)
+[Next time Unit-2!](https://github.com/pingforhelp/BCA/blob/main/Docs/Computer%20Sci/Unit-2C_.md)
 
 
 Software used:
+<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/100f850d-c1bd-41b4-b962-928aacdaaefe" />
+<img width="474" height="485" alt="image" src="https://github.com/user-attachments/assets/f4638950-4597-438b-a6f2-e99e22edea1f" />
+<img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/f68f20f2-ffa6-4a10-a605-94bd51d1b231" />
+<img width="474" height="237" alt="image" src="https://github.com/user-attachments/assets/f0e883ef-51d0-4d45-9933-870d51f172e7" />
+
 1. VS code, GitHub, and Obsidian for writing and formatting.
 2. Noted.md (Home brew) with Gemini.
 3. Images from GeeksforGeeks.com,  Excalidraw's AI, and Internet archive.
