@@ -1,5 +1,6 @@
 # Problem Solving using C
-Breakout of Units, and Sub-topics:
+
+Breakdown of Units, and Sub-topics:
 
 ---
 **Unit 1. Introduction to computer programming:**
@@ -7,35 +8,18 @@ Breakout of Units, and Sub-topics:
 level and high-level programming, Flowcharts and Algorithms.
 - Fundamentals of C: History of C, Features of C, C Tokens-variables and keywords and identifiers, constants and Data types, Rules for constructing variable names, Operators.
 - Structure of C program, Input/output statements in C-Formatted and Unformatted I/O.
------------
-**Unit 2. Control statements:**
-- Decision making statements: if, if else, else if ladder, switch statements. 
-- Loop control statements: while loop, for loop and do-while loop.
-- Jump Control statements: break,continue and goto.
----------
-**Unit 3. Derived data types in C:**
-- Arrays: One Dimensional arrays - Declaration, Initialization and Memory representation; Two
-- Dimensional arrays -Declaration, Initialization and Memory representation. Strings: Declaring & 
-- Initializing string variables; String handling functions, Character handling functions
-----
-**Unit 4. Functions:**
-- Pointers: Pointer data type, Pointer declaration, initialization, accessing values using pointers. Pointer arithmetic, Pointers and arrays. Function Prototype, definition and calling. Return statement. Nesting of functions. Categories of functions. Recursion (Basic Concept only). Parameter Passing by address & by value. Local and Global variables. 
-- Storage classes: automatic, external, static and register.
----
-**Unit 5. Dynamic Memory Management:**
-- Introduction: Functions-malloc, calloc, realloc, free Structures: Basics of structure, structure
-members, accessing structure members, nested structures, array of structures, structure and
-functions, structures and pointers.
-- Unions: Union definition; difference between Structures and Unions. Working with text files - modes: opening, reading, writing and closing .txt files.
-----
-
+-------
 **Unit 1. Introduction to computer programming**
 Index
+
+- [Problem Solving using C](#problem-solving-using-c)
 - [Types of software](#types-of-software)
 - [Compiler and interpreter](#compiler-and-interpreter)
 - [Concepts of Machine level, Assembly level, High-level programming](#concepts-of-machine-level-assembly-level-high-level-programming)
 - [Flowcharts and Algorithms](#flowcharts-and-algorithms)
 - [History and Features of C](#history-and-features-of-c)
+- [Variables in C](#variables-in-c)
+- [Rules for constructing variable Names](#rules-for-constructing-variable-names)
 - [Keywords](#keywords)
 - [Identifiers](#identifiers)
 - [Rules for naming- Identifiers names](#rules-for-naming--identifiers-names)
@@ -44,17 +28,15 @@ Index
 - [Constants in C](#constants-in-c)
 - [Operators](#operators)
 - [Types of Operators in C](#types-of-operators-in-c)
-- [Structure of a Program in C  ](#structure-of-a-program-in-c-)
+- [Structure of a Program in C](#structure-of-a-program-in-c)
 - [I/O statements and formatted I/O](#io-statements-and-formatted-io)
 - [Unformatted I/O Functions](#unformatted-io-functions)
 
 
 # Types of software
+Introduction Computer Programming is the process of designing and writing a sequence of instructions（a program) that tells a computer how to perform tasks. A program translates human logic into a form that hardware can execute. Think of it like writing a recipe for the computer. The recipe is the program, the ingredients are the data, and the steps are the instructions. The person who writes these instructions is called a **Programmer**, and they write them in a special language called a <u>programming language</u>. The entire set of instructions written in a programming language is called Source code.
 
-Introduction Computer Programming is the process of designing and writing a sequence of instructions（a program) that tells a computer how to perform tasks. A program translates human logic into a form that hardware can execute.
-Think of it like a writing recipe  the Computer. The recipe is the program, the ingredients are the data, and the steps are the instructions. The person who writes these instructions is called a **Programmer**, and they write them in a special language called a <u>programming language</u>. The entire set of instructions written in a programming language is called Source code.
-
-programming matters:
+Programming matters:
 - Automates tasks, performs computations fast.
 - Builds software systems (apps, OS, games, web services).
 - Bridges problem-solving (algorithmic thinking) and machine execution.
@@ -81,13 +63,13 @@ Examples:
 3. Language processor.
 4. General purpose.
 5. Customised Software and device drivers:
-- Iinux.
+- Linux.
 - Interpreter.
 - MS-word.
 - Railways reservation.
 - Windows.
 - Compiler.
-- Photshop.
+- Photoshop.
 - "System".
 
 ![PROBLEM SOLVING USING C_2](https://github.com/user-attachments/assets/1686b63e-c5ca-4d3c-ac39-4824755c6eeb)
@@ -161,14 +143,14 @@ What is a Algorithm?
 *Fig.1.3 An image describing a Flow chart*
 
 **Properties of algorithm The algorithm has five properties such as:**
-1. **Input**:  Input  An algorithm must have '0' or more no. of well defined inputs. Example: ```print("Hello, world!");```. There no input but it provided an output ```Hello, world!```
-2. **Output:** The algorithm must have at least one output, we cannot say that zero outputs. Example: ``print("Hello, world!");`` There is no input but it has one output.//edit typos.
-3. **Finiteness:**   The algorithm must terminate after a finite number of steps. to each instruction & step in a algorithm must have clear meaning Example:  `while ( ) { Set of Statements; }` This loope executes finite no. of times/types.
-4. **Unambiguous:** The algorithm must have Unambiguous instructions, every instructions must have clear meaning. The algorithm should not have any unambigies instructions.
+1. **Input**:  Input  An algorithm must have '0' or more no. of well defined inputs. Example: ```printf("Hello, world!");```. There is no input but it provides an output ```Hello, world!```
+2. **Output:** The algorithm must have at least one output, we cannot say that zero outputs. Example: 
+3. **Finiteness:**   The algorithm must terminate after a finite number of steps. To each instruction & step in an algorithm must have clear meaning. Example:  `while ( ) { Set of Statements; }` This loop executes a finite number of times.
+4. **Unambiguous:** The algorithm must have Unambiguous instructions, every instructions must have clear meaning. The algorithm should not have any unambigies  instructions.
 5. **Effectiveness:** The algorithm must provide effective result. To make a effective algorithm we must follow sequence of steps.
 
 **Example of algorithm Write a algorithm to find the sum of any two numbers:**
-```
+``` Pseudocode
 Step-1: Start.
 Step-2: declare variable a, b, sum.
 Step-3: Read or assign value to variable, sum = a+b
@@ -182,15 +164,14 @@ Step-6: End or Stop.
 **Flow charts**
 
 > [!IMPORTANT]
-> **"Flow chart use different symbols to perform different operations in a program."**
+> **Flow chart use different symbols to perform different operations in a program.**
 
 The basic symbols used in flow chart design are given below:
 1. Terminal: The terminal is represented by a rectangle it has at rounded ends. This symbol is used to identify indicate the beginning (Start & end) termination (end) of the algorithm. Terminal is denoted by around rectangle or vowel shape.
 2. Input / output OR I/O: The input (&) output is represented by a parallelogram. This symbol represented an input taken from the user & output given to the user.
 3. Flow line: The flow line are represented by array/whiteads that are used connect symbol. These lines indicated the sequence of steps and flow of operations The flow line is denoted by array symbol and here's an image of it.
 4. Processing: The processing is represented by a rectangle
-5. 
-This symbol used for representing all arithmetic and data moment instructions. This symbol is used logic process of moving data from one memory location to another.
+5. This symbol used for representing all arithmetic and data moment instructions. This symbol is used logic process of moving data from one memory location to another.
 6. Decisions & conditions: A program may have multiple execution parts in order to select the direction of program control. The decision is denoted by diamond shape. The program should continue one of two routes (if and else) that 'yes' & 'no'.
 7. Connector: The connector is used to join different flow charts in a program. The connector is denoted circle shape.
 
@@ -224,8 +205,61 @@ C is a general-purpose programming language which is an extremely popular. It is
 - In **1972**, a new computer programming language was created for scientific and commercial purposes. **Dennis Ritchie** created a new programming language called **'C'** at Bell Labs.  
 - 'C' became a popular and powerful programming language. It remained standardised when the **American National Standards Institute (ANSI)** defined a commercial standard for the C language in **1989**. Later, it was approved by the **International Standards Organisation (ISO)** in **1990**, so this version of the language is called **ANSI C**.
 
+# Variables in C
+
+A variable in C is a named memory location used to store data that can be changed during program execution.
+
+Example,
+```C
+int age = 20;
+float salary = 25000.50;
+char grade = 'A';
+/*Here,
+- Age is an integer variable. 
+- salary is a floating-point variable.
+- grade is a character variable.
+*/
+```
+# Rules for constructing variable Names
+
+The following rules apply to constructing variable names in C:
+
+**Start with a Letter or Underscore:** Variable names must begin with an alphabet (a-z, A-Z) or an underscore (\_). They cannot start with a digit.
+```c
+int age; // Valid
+float _salary; // Valid
+int 1name; // Invalid
+```
+**Allowed Characters:** After the first character, variable names can contain letters, digits (0-9), and underscores (_).  special characters (like $, #, %, @) *are not* allowed.
+```c
+char name1; // Valid
+int employee_id; // Valid
+float total$amount; // Invalid
+```
+- No Spaces: Variable names cannot contain spaces or blank characters.
+
+```c
+int user_age; // Valid
+int user age; // Invalid
+```
+
+==Case-Sensitive: C is a case-sensitive language, meaning that uppercase and lowercase letters are treated as distinct. Thus, `age`, `Age`, and `AGE` are considered different variables.==
+
+```c
+int age;
+int Age; // This is a different variable
+```
+- No Keywords: Reserved words or keywords of the C language (e.g., `int`, `float`, `if`, `for`, `while`) *cannot* be used as variable names.
+
+``` c
+int for; // Invalid - 'for' is a keyw
+```
+- Length: While the C standard recognizes a length of ==at least 31 characters for a variable name, it is generally recommended to keep names meaningful and concise==. Some older compilers might only consider the first few characters as significant.
+
+
 # Keywords
- key words have standard, pre-defined meanings in 'c'
+
+key words have standard, ==pre-defined meanings in C==
 * This keywords can be used only for there intended purpose.
 * Key words are an essential part of a language definition.
 * They implement & specific features of the language
@@ -357,25 +391,29 @@ In `C' data types are defined as the data storage format that a variable can sto
 - `#define` is pre-processor directive and not a statement, therefore it does not end with a `;` semicolon.
 
 # Operators
-Operators are the basic components of C programming.They are symbols that represent some kind of operation, such as ==mathematical, relational, bitwise,====conditional, or logical computations==, which are to be performed on values or variables. SThe values and variables used with operators are called operands.
+Operators are the basic components of C programming.They are symbols that represent some kind of operation, such as ==mathematical, relational, bitwise,====conditional, or logical computations==, which are to be performed on values or variables. The values and variables used with operators are called operands==.
 ``` C
-＃include <stdio.h>
+#include <stdio.h>
 int main() {
-／／ Expression for getting
+// Expression for getting
 sum
 int sum = 10 + 20;
 printf("%d", sum);
-return 0;
+return 0; }
+```
+Output:
+``` bash
+30
 ```
 **Unary, Binary, and Ternary Operators**
 
 On the basis of the number of operands they work on, operators can be classified into three types:
 
-1. **Unary Operators**: Operators that work on single operand.
+**Unary Operators**: Operators that work on single operand.
 
 **Example:** Increment(++), Decrement(-)
 
-2. **Binary Operators**: Operators that work on two operands.
+**Binary Operators**: Operators that work on two operands.
 
 **Example:** Addition (+), Subtraction( -), Multiplication(*).
 
@@ -384,28 +422,27 @@ On the basis of the number of operands they work on, operators can be classified
 **Example:** Conditional Operator( ? :).
 
 -> The following are the built in operators in C language:
-* Arithmetic operators
-* Relational operators
-* Equality operators
-* Logical operators
-* Unary operators
-* Conditional operators
-* Assignment operators...etc
+1. Arithmetic operators
+2. Relational operators
+3. Equality operators
+4.  Logical operators
+5.  Unary operators
+6. Conditional operators
+7. Assignment operators.
 
 # Types of Operators in C
 C language provides a wide range of built in operators that can be classified into 6
 types based on their functionality:
 
-**Arithmetic Operators**
-The <u\ arithmetic operators u/> are used to perform arithmetic/mathematical
-operations on operands. There are 
+1.**Arithmetic Operators**
+The __arithmetic operators__ are used to perform ==arithmetic/mathematical
+operations on operands. There are ==
 
-**arithmetic operators in C language:**
-``` C
+```c
 ＃include <stdio.h>
 int main() {
-int a = 25, b=5
-／／ using operators and printing results
+int a = 25, b=5;
+// using operators and printing results
 
 printf("a + b = %d\n", a ＋ b);
 printf("a - b = %d\n", a － b);
@@ -422,20 +459,18 @@ return 0;
 ```
 Output:
 ``` bash
-a+b=30
-a-b=20
-a*b=125
-C
-a/b=5
-％b=0
-0
-＋a =25
-－a =-25
-a++=25
-a--=26
+a + b = 30
+a - b = 20
+a * b = 125
+a /b = 5
+a % b = 0
++a = 25
+-a = -25
+a++ = 25
+a-- = 26
 ```
 
-**Relational Operators**
+2.**Relational Operators**
 The relational operators in C are used for the comparison of the two operands. All these operators are binary operators that return true or false values as the result of comparison.
 ``` C
 ＃include <stdio.h>
@@ -443,18 +478,17 @@ int main() {
 
 int a = 25, b = 5;
 
-    // Using relational operators and printing results
-    printf("a < b  : %d\n", a < b);
-    printf("a > b  : %d\n", a > b);
-    printf("a <= b : %d\n", a <= b);
-    printf("a >= b : %d\n", a >= b);
-    printf("a == b : %d\n", a == b);
-    printf("a != b : %d\n", a != b);
-
-    return 0;
+// Using relational operators and printing results
+printf("a < b  : %d\n", a < b);
+printf("a > b  : %d\n", a > b);
+printf("a <= b : %d\n", a <= b);
+printf("a >= b : %d\n", a >= b);
+printf("a == b : %d\n", a == b);
+printf("a != b : %d\n", a != b);
+return 0;
 }
 ```
-**Output:**
+Output:
 ``` bash
 a < b  : 0
 a > b  : 1
@@ -463,22 +497,177 @@ a >= b : 1
 a == b : 0
 a != b : 1
 ```
+3.**Logical Operators:**
+- 'C' language supports three logical operators: (&, |, !), (logical NOT AND), logical OR (||) and logical NOT (!).
+- Has in case of arithmetic expressions the logical expressions are evaluated from left to right.
 
-# Structure of a Program in C  
+**Logical AND:**
+- logical AND is a binary operator which simultaneously evaluates 2 relational expression, if both are True. When the whole expression is true.
+- If both (OR) one of the operators is false, whole expression evaluates to false. 
 
-``` C
+**Truth table of logical AND:**
+| A | B | A & & B |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
+
+For example, $$(a<b) \&\& (b>c)$$The whole expression is true only if both expression are true, i.e., if $b>a$ and $c$ (b is greater than a and c)
+
+**Logical OR (||):**
+logical OR (||) returns a false value if both the operators are false. otherwise it returns a true value
+
+**Truth table of logical OR (||):**
+| A | B | A || B |
+|---|---|---|
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
+
+For example, 
+``` c
+int a = 10 b;
+b = !a;
+```
+- The whole expression is true if either
+- b is greater than a (or) b is greater than c
+- (or) b is greater than both a and c.
+
+**Logical NOT (!):**
+- The logical NOT operator takes a single expression and negates the value of the expression.
+
+**Truth table of logical NOT (!):**
+| A | !A |
+|---|---|
+| 0 | 1 |
+| 1 | 0 |
+
+For example, 
+```C
+int a = 10, b;
+b = !a;
+```
+- Now the value of b ≠ c.
+- This is because value of a = 10.
+- !a = 0. the ⊲ value of !a is assign. to be, hence the result
+
+4.**Unary Operators:**
+- Unary operators act as on single operands. C language supports three unary operator unary minus, increment and decrement operators.
+
+**Unary minus (-):**
+- unary minus (-), is different from the arithmetic operator
+- when an operand is preceeded by a minus sign, the unary operator negates its value.
+- for example, if a number is positive then it becomes negative when preceeded with a unary minus operator. Similarly, if the number is negative, it becomes positive after applying the unary minus operator.
+
+For example, 
+```C
+int a, b = 10
+a = - (b)
+```
+- The result of the expression a = 10 because a variable was a positive an 
+Value by applying unary minus - the value becomes -10.
+
+**Increment operator (++) and Decrement operator (--):**
+- The increment operator (++) is unary operator that increases the value of its operand by 1.
+- Similarly, The decrement operator decreases the value of its operand by 1.
+- The increment / decrement operators have two variants they are prefix and postfix.
+- Therefore, an important point above unary increment and decrement operator is that ++x is not the same as x++. Similarly, --x is not the same as x--.
+- Both ++x and x++ 'increment the value of x by '1'.
+
+For example,
+```C
+int x = 10, y;
+y = x++;
+```
+is equate to 
+- y = x;
+- x = x + 1; 
+- x = 10 + 1;
+- x = 11
+``` c
+int x = 10, y;
+y = x + x;
+x = x + 1
+x = 10 + 1
+x = 11
+y = x;
+y = 11
+```
+
+There has `y = x + x;` is equaluated to 
+
+x = x + 1;
+y = x;
+
+- The same principle applies to unary decrement operators.
+
+5.**Conditional operators:**
+So The ==conditional operators (or) ternary operator (?)== is just like an if else statements that can be with in expressions. 
+> [!NOTE]
+> More on If statements in Unit-2.
+- The syntax of the conditional operator is 
+$$exp_1 ? exp_2 : exp_3$$
+- $exp_1$ is evaluated first. if it is true, then $exp_2$ evaluated and becomes the result of the expression, other wise $exp_3$ is evaluated and becomes the result of the expression.
+For example,
+```C
 #include <stdio.h>
+#include <conio.h>
 int main() {
-printf("Hello, World!");
+int age;
+char ch;
+clrscr(); // This clears the Output.
+printf ("Enter your age: ");
+scanf ("%d", &age);
+ch = (age >= 18) ? 'Yes' : 'No';
+printf ("eligible to Vote : %c", ch); 
+// Pls check last topic in this Unit for Explanation about `%c`.
+
 return 0;
 }
 ```
+6.**Assignment Operators:**
+- In 'C' the assignment operation is responsible for assigning values to the variables.
+- Then the equal sign is uncounted in an expression - the compiler process the statement on the right side of the sign and assigns the result to the variable on the left side. 
+
+For example,
+```c
+int x;
+x = 10;
+```
+```bash       
+assigns the value 10 to variable x
+```
+
+**Equality Operators:**
+- C language support 10 kinds of two equality operators to compare. There operators for strict equality (&) inequality. 
+- They are equal (=) and not equal (!=) operators. They equality to operand( (=) returns true(1) if operands on the both sides of the operator have the same value; other wise, it returns false (0). On the contrary than not equal operand (!=) returns true(1) if the operands do not have the same value, as else it returns false (0).
+
+| Operator | Meaning |
+|---|---|------------
+| == | Returns 1 if both operands are equal, 0 otherwise |
+| != | Returns 1 if operands do not have the same value, 0 otherwise |
+
+
+# Structure of a Program in C  
+
+``` c
+#include <stdio.h>
+int main() {
+printf("Hello, world!");
+return 0;
+}
+```
+``` bash
+Hello, world!
+```
 The components of the above structure are:
-1. **Header files:** The first and foremost component in a C program is the header file.
-* A header file is a file with the extension **.h**, which contains C function declarations. For example, **stdio.h** defines standard input and output functionalities.
-2. **Main Method or Function Declaration:** The next part of a C program is the main function. The declaration of the main function is written as <mark> int main()/<mark>.
-3. **Body:** The body of a function in a C program refers to the operations performed within the function. It can include actions like searching, sorting, or printing. In this example, the body of the main function prints a statement called “Hello, World!” using the function **printf("Hello, World!");**
-4. **Return Statement:** This command is used to terminate a C program from the main function, and it returns the value **0**.
+1. **Header files:** The first and foremost component in a C program is the header file. A header file is a file with the extension **.h**, which contains C function declarations. For example, **stdio.h** defines standard input and output functionalities.
+2. **Main Method or Function Declaration:** The next part of a C program is the main function. The
+3. declaration of the main function is written as  int main().
+4.  **Body:** The body of a function in a C program refers to the operations performed within the function. It can include actions like searching, sorting, or printing. In this example, the body of the main function prints a statement called “Hello, World!” using the function **printf("Hello, World!");**
+5. **Return Statement:** This command is used to terminate a C program from the main function, and it returns the value **0**.
 
 # I/O statements and formatted I/O
 - In 'C' the input/output functions can be classified in two categories on the basis of how they handle the input/output in terms of formatting or structure.
@@ -512,12 +701,10 @@ Scanf() function is used in the 'c' program for reading or taking any value from
 
 Syntax:
 ``` C
-Scanf("format specifier", &Var1, &Var2,...&Var n)
+Scanf("format specifier", &Var1, &Var2,...&Var3);
 ```
 
-**format specifier for I/O**
-
-we the use:
+**format specifier for I/O we the use:**
 - `%d` for int
 - `%f` for float
 - `%c` for char
@@ -527,15 +714,14 @@ we the use:
 - `%Lf` long double.
 
 Example:
-``` C
-＃include <stdio.h>
+``` c
+#include <stdio.h>
 int main()
-｛
+{
 int num1;
 ／/ Printing a message on
 ／／ the output screen
 printf("Enter a integer number: \n");
-I
 ／／ Taking an integer value
 ／／ from keyboard
 scanf("%d",&num1);
@@ -547,40 +733,42 @@ return θ;
 Output:
 ``` bash
 Enter a integer number:
-You have entered: 0
+You have entered: 13
 ```
 3. getch()
 getch() function reads a single character from the keyboard by the user and displays it on the console
 screen and immediately returns without pressing the enter key. This ==function is declared in== conio.h (header file).
 
-Syntax: getch();
+Syntax: `getch();`
 
 Example:
 ``` C
-＃include <conio.h>
-＃include <stdio.h>
+#include <conio.h>
+#include <stdio.h>
 int main()
 ｛
 printf("Enter any character:");
-／／ Reads a character and
-／／ displays immediately
-getche();
+/* Reads a character and
+displays immediately
+*/
+getch();
 return 0;
 ｝
-```
+}
 Output:
 ``` bash
 Enter any character: g
 ```
 Example:
-``` C
-＃include <conio.h>
-＃include <stdio.h>
+``` c
+#include <conio.h>
+#include <stdio.h>
 int main()
 ｛
 printf("Enter any character: ");
-／／ Reads a character but
-／／ not displays
+/* Reads a character but 
+doses not displays
+*/
 getch();
 return 0;
 ｝
@@ -592,18 +780,13 @@ Enter any character:
 ```
 
 # Unformatted I/O Functions 
-Unformatted I/O functions are used only for character data type or character array/string and cannot be
-used for any other datatype. These functions are used to read single input from the user at the console and it allows to display the value at the console. The unformatted I/O functions in C are discussed below:
-
+Unformatted I/O functions are used only for character data type or character array/string and cannot be used for any other datatype. These functions are used to read single input from the user at the console and it allows to display the value at the console. The unformatted I/O functions in C are discussed below:
 
 getch() function reads a single character from the keyboard by the user but doesn't display that character on the console screen and immediately returned without pressing enter key. This function is declared in conio.h(header file). getch() is also used for hold the screen.
 Syntax:
-``` C
+``` c
 getch();
 ```
-
-> [!NOTE]
-> This content changed or modified for better readable, editing of Facts and language wherever mistakes are made by the Teacher.
 
 Img/pdf converted to `.md` using:
 ```
@@ -620,5 +803,10 @@ Img/pdf converted to `.md` using:
 
 <img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/b170ff3d-94e4-4359-8d5d-6592b31662d7" />
 
-[Nexto Unit-2!](https://www.rx.ds)
+[Next: Unit-2!](https://github.com/pingforhelp/BCA/blob/main/Docs/Computer%20Sci/Unit-2C_.md)
 
+
+Software used:
+1. VS code, GitHub, and Obsidian for writing and formatting.
+2. Noted.md (Home brew) with Gemini.
+3. Images from GeeksforGeeks.com,  Excalidraw's AI, and Internet archive.
