@@ -30,6 +30,7 @@ functions, structures and pointers.
 ----
 
 **Unit 1. Introduction to computer programming**
+Index
 - [Types of software](#types-of-software)
 - [Compiler and interpreter](#compiler-and-interpreter)
 - [Concepts of Machine level, Assembly level, High-level programming](#concepts-of-machine-level-assembly-level-high-level-programming)
