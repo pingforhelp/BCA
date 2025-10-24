@@ -40,15 +40,15 @@ int main() {
     int i = 10;
 
     if (i > 18) {
-        printf("Eligible for vote");
+        printf("Eligible for casting vote");
     }
     else {
-        printf("Not Eligible for vote");
+        printf("Not Eligible, return when you're 18+.");
     }
     return 0;
 }
 ```
-``` C
+``` c
 #include <stdio.h>
 int main() {
     int marks = 75;
@@ -81,6 +81,4 @@ int main() {
     }
     
     return 0;
-```
-}
 ```
