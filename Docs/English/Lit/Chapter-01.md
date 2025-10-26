@@ -55,6 +55,7 @@ Ans: ??
 
 Q3. How does Sarojini Naidu describe a day in the lives of the Fishermen?  
 
+Ans:
 A) In the poem "the Coramandel Fishers" she describes the beauty of nature & the folk culture of the Coramandel Coast of India. It depicts the relationship of fishermen with nature. Nature stands as a symbol of beauty that expresses the optimistic view of life. The fishermen of Coramandel Coast rise at dawn to the Call of their leader. They gather their fishing nets from the shore, set their fishing boats free, and sail away to capture the fish they follow the Call of the Seagull Sea-gull where they can get plenty of fish. They face the storms and rising fights bravely they find pleasure in rowing to the werge of the sea where
 
 Ans: ??
@@ -83,9 +84,9 @@ Ans: The Poem "**Coromandel fisher's**" by *Sarojini Naidu* inspire corog and co
 
 Q6. What do you find most appealing in the Poem; It's rhythm, imagery (or) message?
 
-Ans: In "**Coromandel fisher's**" by *Sarojini Naidu* what many readers find appealing is "its rhythm" the Poem has a Song-Like Quality, almost like a chant, which refers the fishermen call to begin their day to steady musical rhythm matches the rise and fall of the sea waves creating a sense of movement & energy this rhythm makes the Poem, memorable and gives it a natural floo, Almost like the sea itself calling the fishermen.
+Ans: In "**Coromandel fisher's**" by *Sarojini Naidu* what many readers find appealing is "it's rhythm" the Poem has a Song-Like Quality, almost like a chant, which refers the fishermen call to begin their day to steady musical rhythm matches the rise and fall of the sea waves creating a sense of movement & energy this rhythm makes the Poem, memorable and gives it a natural floo, Almost like the sea itself calling the fishermen.
 
-The imagery is also striking. "The sea is a mother." The cloud as a friend, the waves as Playmates But it is the rhythm that ties everything together and makes the call to action both Persavasive and instreing. So the rhythm is the most appealing because it captures the spirit of the fishermen's life & makes the Poem feel alive and musical.
+The imagery is also striking. "The sea is a mother." "The cloud as a friend", the waves as Playmates" But it is the rhythm that ties everything together and makes the call to action both Persavasive and instreing. So, the rhythm is the most appealing because it captures the spirit of the fishermen's life & makes the Poem feel alive and musical.
 
 Q7. What are the Rhyming words in the Poem?
 
@@ -97,6 +98,6 @@ The Poem "**Coromandel fisher's**" by *Sarojini Naidu*, has a consistent "AABB" 
 The rise of this rhyme scheme gives the Poem alyrical song- like quality that is easy to read and remembers rein forming is thences of Unity, a shared Porlose & the  fishermen's connection to the nature.
 
 
-Due Q1,Q2, and Q3. | Last updated on **Time: 05:14 PM Dt. 3/Oct/2025.**
+Due Q1,Q2, and Q3. | Last updated on **Time: 05:14 PM Dt.24/Oct/2025.**
 
 
