@@ -66,12 +66,11 @@ Ans: In the poem "the Coramandel Fisher's" she describes the beauty of nature & 
 
 # Q4. The Poet compares the sea to a mother, what does this metaphor tell us about the fisherman attitude towards the sea?
 
-Ans: In the Poem "**Coramandel fisher's**", the metaphor as the sea as a mother revell's a deab-seated attitude of reverence, trust and intimacy the fisherman have for the sea. This comparison tells us that the sea is not meraly a sour source of lively food. But, a living entity that provides, nurtures, and protect them.
+Ans: In the Poem "**Coramandel fisher's**", the metaphor as the sea as a mother revell's a deab-seated attitude of reverence, trust and intimacy the fisherman have for the sea. This comparison tells us that the sea is not meraly a source of livelyhood. But, as a living entity that provides, nurtures, and protects them.
 
 The fisherman's attitude toward the sea:
-1.  The sea as a provider or just as a mother provides food for her children, the sea offers the fishermen (testing/leaping) which they defend for survival.
-2.  The sea as a protector. Despite the intense dangers of the sea, the fisherman possesses a fearless attitude. Because they believe the sea will protect them. In the face of a strome, they believe that." He who holds the storm by the ther will hide in his breast our lives".
-3. A sence of kin time with money on By Personifying the sea as a mother, the Poet emphasis The fishermen's profound connections to the nature world. They don't see on the sky as hostile force, but as family.
+1.  The sea as a provider or just as a mother provides food for her children, the sea offers the fishermen (testing/leaping) which they depend for survival.
+2.  The sea as a protector. Despite the intense dangers of the sea, the fisherman possesses a fearless attitude. Because they believe the sea will protect them. In the face of a strome, they believe that: "He who holds the storm by the hair, will hide in his breast our lives." sence of kin time with money on By Personifying the sea as a mother, the Poet emphasis that the fishermen's profound connections to the nature world. They don't see on the sky as hostile force, but as family.
 
 # Q5. Which lines of the Poem inspire courage and confidence in the fisher men? explain.
 
