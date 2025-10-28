@@ -11,8 +11,6 @@ level and high-level programming, Flowcharts and Algorithms.
 -------
 **Unit 1. Introduction to computer programming**
 Index
-
-- [Problem Solving using C](#problem-solving-using-c)
 - [Types of software](#types-of-software)
 - [Compiler and interpreter](#compiler-and-interpreter)
 - [Concepts of Machine level, Assembly level, High-level programming](#concepts-of-machine-level-assembly-level-high-level-programming)
@@ -31,6 +29,7 @@ Index
 - [Structure of a Program in C](#structure-of-a-program-in-c)
 - [I/O statements and formatted I/O](#io-statements-and-formatted-io)
 - [Unformatted I/O Functions](#unformatted-io-functions)
+- [ Bonus
 
 
 # Types of software
@@ -787,6 +786,14 @@ Syntax:
 ``` c
 getch();
 ```
+
+# How to setup a IDE for C? (Bonus Topic)
+- For web-based IDE you can use: [Programiz](https://www.programiz.com/c-programming/online-compiler) (No setup needed).
+- For android devices you can use: [Coding In C](https://play.google.com/store/apps/details?id=com.kvassyu.coding2.c&hl=en-IN)
+- For Windows you can use: [VS Code](https://code.visualstudio.com/download) [follow this guide to setup A C/C++ Environment on VS Code](https://code.visualstudio.com/docs/languages/cpp) OR Turbo C++ (THIS is *not* recommended) OR web-based version of [Turbo C++](https://sounddrill31.github.io/TurboCPP-Web).
+> [!WARRING]
+> If you run into any problems "Just look it up", you web browser is your best friend. If you're going to ask A LLM (AI) make that remove "Personal Info" such as File names OR run a model on your machine [Here's How](https://www.reddit.com/search/?q=How+to+run+a+AI+model+locally&cId=d502bcb0-6e15-49b9-9f0c-17bf5f0a6fcf&iId=d6722066-c8f5-4da1-bdeb-1454ae7a6d36)
+
 <img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/267dee10-dbf4-4726-9549-ad1430b1879e" />
 
 <img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/b170ff3d-94e4-4359-8d5d-6592b31662d7" />
@@ -803,3 +810,5 @@ Software used:
 1. VS code, GitHub, and Obsidian for writing and formatting.
 2. Noted.md (Home brew) with Gemini.
 3. Images from GeeksforGeeks.com,  Excalidraw's AI, and Internet archive.
+
+
