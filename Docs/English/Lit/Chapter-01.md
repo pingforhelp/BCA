@@ -1,9 +1,7 @@
 # Coromandel Fishers - *by Sarojini Naidu*
-
-- [Coromandel Fishers - *by Sarojini Naidu*](#coromandel-fishers---by-sarojini-naidu)
 - [About the Poet](#about-the-poet)
 - [Poem](#poem)
-- [Q\&A  (1-7)](#qa--1-7)
+- [Q&A  (1-7)](#qa--1-7)
 - [Q1. What are the figures of speech used in the following lines:?](#q1-what-are-the-figures-of-speech-used-in-the-following-lines)
 - [Q2. ??](#q2-)
 - [Q3. How does Sarojini Naidu describe a day in the lives of the Fishermen?](#q3-how-does-sarojini-naidu-describe-a-day-in-the-lives-of-the-fishermen)
