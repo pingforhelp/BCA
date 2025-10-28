@@ -62,7 +62,7 @@ Ans: ??
 
 # Q3. How does Sarojini Naidu describe a day in the lives of the Fishermen?  
 
-Ans: In the poem "the Coramandel Fisher's" she describes the beauty of nature & the folk culture of the Coramandel Coast of India. It depicts the relationship of fishermen with nature. Nature stands as a symbol of beauty that expresses the optimistic view of life. The fishermen of Coramandel Coast rise at dawn to the Call of their leader. They gather their fishing nets from the shore, set their fishing boats free, and sail away to capture the fish they follow the Call of the Seagull Sea-gull where they can get plenty of fish. They face the storms and rising fights bravely they find pleasure in rowing to the werge of the sea where
+Ans: In the poem "the Coramandel Fisher's" she describes the beauty of nature & the folk culture of the Coramandel Coast of India. It depicts the relationship of fishermen with nature. Nature stands as a symbol of beauty that expresses the optimistic view of life. The fishermen of Coramandel Coast rise at dawn to the Call of their leader. They gather their fishing nets from the shore, set their fishing boats free, and sail away to capture the fish they follow the Call of the Seagull Sea-gull where they can get plenty of fish. They face the storms and rising fights bravely they find pleasure in rowing to the werge of the sea where is-
 
 # Q4. The Poet compares the sea to a mother, what does this metaphor tell us about the fisherman attitude towards the sea?
 
