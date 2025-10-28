@@ -791,8 +791,8 @@ getch();
 - For web-based IDE you can use: [Programiz](https://www.programiz.com/c-programming/online-compiler) (No setup needed).
 - For android devices you can use: [Coding In C](https://play.google.com/store/apps/details?id=com.kvassyu.coding2.c&hl=en-IN)
 - For Windows you can use: [VS Code](https://code.visualstudio.com/download) [follow this guide to setup A C/C++ Environment on VS Code](https://code.visualstudio.com/docs/languages/cpp) OR Turbo C++ (THIS is *not* recommended) OR web-based version of [Turbo C++](https://sounddrill31.github.io/TurboCPP-Web).
-> [!WARRING]
-> If you run into any problems "Just look it up", you web browser is your best friend. If you're going to ask A LLM (AI) make that remove "Personal Info" such as File names OR run a model on your machine [Here's How](https://www.reddit.com/search/?q=How+to+run+a+AI+model+locally&cId=d502bcb0-6e15-49b9-9f0c-17bf5f0a6fcf&iId=d6722066-c8f5-4da1-bdeb-1454ae7a6d36)
+> [!NOTE]
+> If you run into any problems "Just look it up", your web browser is your best friend. If you're going to ask A LLM (AI) make that remove "Personal Info" such as File names OR run a model on your machine [Here's How](https://www.reddit.com/search/?q=How+to+run+a+AI+model+locally&cId=d502bcb0-6e15-49b9-9f0c-17bf5f0a6fcf&iId=d6722066-c8f5-4da1-bdeb-1454ae7a6d36)
 
 <img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/267dee10-dbf4-4726-9549-ad1430b1879e" />
 
@@ -802,13 +802,15 @@ getch();
 
 
 Software used:
+
 <img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/100f850d-c1bd-41b4-b962-928aacdaaefe" />
+
 <img width="474" height="485" alt="image" src="https://github.com/user-attachments/assets/f4638950-4597-438b-a6f2-e99e22edea1f" />
+
 <img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/f68f20f2-ffa6-4a10-a605-94bd51d1b231" />
+
 <img width="474" height="237" alt="image" src="https://github.com/user-attachments/assets/f0e883ef-51d0-4d45-9933-870d51f172e7" />
 
 1. VS code, GitHub, and Obsidian for writing and formatting.
 2. Noted.md (Home brew) with Gemini.
 3. Images from GeeksforGeeks.com,  Excalidraw's AI, and Internet archive.
-
-
