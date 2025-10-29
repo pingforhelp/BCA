@@ -1,5 +1,4 @@
 # Problem Solving using C
-
 Breakdown of Units, and Sub-topics:
 
 ---
@@ -31,25 +30,22 @@ Index
 - [Unformatted I/O Functions](#unformatted-io-functions)
 - [Bonus](#how-to-setup-a-ide-for-c-bonus-topic)
 
-
 # Types of software
 Introduction Computer Programming is the process of designing and writing a sequence of instructions（a program) that tells a computer how to perform tasks. A program translates human logic into a form that hardware can execute. Think of it like writing a recipe for the computer. The recipe is the program, the ingredients are the data, and the steps are the instructions. The person who writes these instructions is called a **Programmer**, and they write them in a special language called a <u>programming language</u>. The entire set of instructions written in a programming language is called Source code.
-
 Programming matters:
-- Automates tasks, performs computations fast.
-- Builds software systems (apps, OS, games, web services).
-- Bridges problem-solving (algorithmic thinking) and machine execution.
+- Automates tasks, performs, computations, fast.
+- Builds software systems (apps, OS, games, web-services).
+- Bridges **problem-solving** (algorithmic thinking) and machine execution.
 
 Types of software: Software is a collection of programs and data that tells a computer what to do. It is broadly
 divided into two main categories:
 1. System Software: This software acts as an intermediary between the computer hardware and the user's applications. Its main purpose is to manage the computer's resources. Examples:
    - Operating Systems (OS): Windows, MacOS, Linux, Android. They manage all.
 other software and hardware on the computer.
-   - Device Drivers: Software that allows the OS to communicate with hardware
+    - Device Drivers: Software that allows the OS to communicate with hardware
 devices like printers, keyboards, and webcams.
-   - Utilities: Programs designed for system maintenance, like antivirus software or disk cleanup tools.
+    - Utilities: Programs designed for system maintenance, like antivirus software or disk cleanup tools.
 2. Application Software: This software is designed to perform specific tasks for the end-user. It runs on top of the system software.
-
 Examples:
 - Web Browsers: Mozilla Firefox, DuckDuckgo.
 - Word Processors: Microsoft Word, Google Docs, LibreOffice.
@@ -100,11 +96,9 @@ Computers only understand machine code (binary O’s and 1’s). Since we write 
 | Debugging | Harder | Easier |
 
 # Concepts of Machine level, Assembly level, High-level programming
-
 Programming languages are categorized into three levels based on their abstraction from
 the hardware:
-1. Machine Language (also called Machine Code) Machine language is the lowest-level programming language, directly understood by the computer's central processing unit (CPU). It consists entirely of binary code (1s and Os)
-and represents the raw instructions that the CPU can execute.
+1. Machine Language (also called Machine Code) Machine language is the lowest-level programming language, directly understood by the computer's central processing unit (CPU). It consists entirely of binary code (1s and Os) and represents the raw instructions that the CPU can execute:
 - This is the lowest level, consisting of binary digits (Os and 1s).
 - It is the only language a computer's CPU can directly understand.
 - It is extremely difficult for humans to read and write.
@@ -205,11 +199,10 @@ C is a general-purpose programming language which is an extremely popular. It is
 - 'C' became a popular and powerful programming language. It remained standardised when the **American National Standards Institute (ANSI)** defined a commercial standard for the C language in **1989**. Later, it was approved by the **International Standards Organisation (ISO)** in **1990**, so this version of the language is called **ANSI C**.
 
 # Variables in C
-
 A variable in C is a named memory location used to store data that can be changed during program execution.
 
 Example,
-```C
+```c 
 int age = 20;
 float salary = 25000.50;
 char grade = 'A';
@@ -219,45 +212,38 @@ char grade = 'A';
 - grade is a character variable.
 */
 ```
+
 # Rules for constructing variable Names
-
 The following rules apply to constructing variable names in C:
-
-**Start with a Letter or Underscore:** Variable names must begin with an alphabet (a-z, A-Z) or an underscore (\_). They cannot start with a digit.
+- **Start with a Letter or Underscore:** Variable names must begin with an alphabet (a-z, A-Z) or an underscore (\_). They cannot start with a digit.
 ```c
 int age; // Valid
 float _salary; // Valid
 int 1name; // Invalid
 ```
-**Allowed Characters:** After the first character, variable names can contain letters, digits (0-9), and underscores (_).  special characters (like $, #, %, @) *are not* allowed.
+- **Allowed Characters:** After the first character, variable names can contain letters, digits (0-9), and underscores (_).  special characters (like $, #, %, @) *are not* allowed.
 ```c
 char name1; // Valid
 int employee_id; // Valid
 float total$amount; // Invalid
 ```
 - No Spaces: Variable names cannot contain spaces or blank characters.
-
 ```c
 int user_age; // Valid
 int user age; // Invalid
 ```
-
-==Case-Sensitive: C is a case-sensitive language, meaning that uppercase and lowercase letters are treated as distinct. Thus, `age`, `Age`, and `AGE` are considered different variables.==
-
+- Case-Sensitive: C is a case-sensitive language, meaning that uppercase and lowercase letters are treated as distinct. Thus, `age`, `Age`, and `AGE` are considered different variables.==
 ```c
 int age;
 int Age; // This is a different variable
 ```
 - No Keywords: Reserved words or keywords of the C language (e.g., `int`, `float`, `if`, `for`, `while`) *cannot* be used as variable names.
-
 ``` c
 int for; // Invalid - 'for' is a keyw
 ```
 - Length: While the C standard recognizes a length of ==at least 31 characters for a variable name, it is generally recommended to keep names meaningful and concise==. Some older compilers might only consider the first few characters as significant.
 
-
 # Keywords
-
 key words have standard, ==pre-defined meanings in C==
 * This keywords can be used only for there intended purpose.
 * Key words are an essential part of a language definition.
@@ -308,7 +294,7 @@ key words have standard, ==pre-defined meanings in C==
 * Identifiers has the name suggest help us to identify data and other object in the programme.
 * Identifiers are basically the names given to programme elements such as variables, functions etc.
 
-# Rules for naming- Identifiers names
+# Rules for naming, Identifiers names
 Some rules have to be followed by using Identifiers. They are as followed:
 - It can't included any special characters like (#, *, ?, ...) etc.
 - Except the underscore `_`
@@ -324,23 +310,23 @@ In `C' data types are defined as the data storage format that a variable can sto
 * Size of variables can be determine by data types.
 <img width="747" height="146" alt="image" src="https://github.com/user-attachments/assets/af653eca-0ddb-407e-8ab4-384e183bef9f"/>
 
-1. Primitive data types
+1. **Primitive data types:**
 - char
 - float
 - int
 - void
-3. User-defined data types
+
+2. **User-defined data types:**
 - enum
 - typedef
 
-4. Derived data types
+3. **Derived data types:**
 - Pointers
 - Arrays
 - Structures
 - Union
 
 **Basic primitive data types are:**
-
 1. **Integer data type:** 
 - Integer data type allows a variable to store numerical values.
 - `int` key word is used to refer integer data type.
@@ -353,7 +339,7 @@ In `C' data types are defined as the data storage format that a variable can sto
 - we can store only one character using character data type.
 - `char` keyword is used to refer character data type.
 - Character can store values range from -128 to +127.
-3. Floating point data type:
+3. **Floating point data type:**
 - `float` type allows a variable to store decimal values.
 - Storage size of float data type is 4.
 - These also value depend up on the processor.
@@ -391,7 +377,7 @@ In `C' data types are defined as the data storage format that a variable can sto
 
 # Operators
 Operators are the basic components of C programming.They are symbols that represent some kind of operation, such as ==mathematical, relational, bitwise,====conditional, or logical computations==, which are to be performed on values or variables. The values and variables used with operators are called operands==.
-``` C
+``` c
 #include <stdio.h>
 int main() {
 // Expression for getting
@@ -415,8 +401,7 @@ On the basis of the number of operands they work on, operators can be classified
 **Binary Operators**: Operators that work on two operands.
 
 **Example:** Addition (+), Subtraction( -), Multiplication(*).
-
-3. **Ternary Operators**: Operators that work on three operands.
+**Ternary Operators**: Operators that work on three operands.
 
 **Example:** Conditional Operator( ? :).
 
@@ -432,7 +417,6 @@ On the basis of the number of operands they work on, operators can be classified
 # Types of Operators in C
 C language provides a wide range of built in operators that can be classified into 6
 types based on their functionality:
-
 1.**Arithmetic Operators**
 The __arithmetic operators__ are used to perform ==arithmetic/mathematical
 operations on operands. There are ==
@@ -544,7 +528,7 @@ b = !a;
 | 1 | 0 |
 
 For example, 
-```C
+```c
 int a = 10, b;
 b = !a;
 ```
@@ -576,7 +560,7 @@ Value by applying unary minus - the value becomes -10.
 - Both ++x and x++ 'increment the value of x by '1'.
 
 For example,
-```C
+``` c
 int x = 10, y;
 y = x++;
 ```
@@ -676,7 +660,7 @@ The formatted I/O functions in C are discussed below:
 1. `printf()`
 printf() function is used in a c program to display any value like float, integer, character, string etc on the console screen. It is a pre-defined function that is already declared in the `stdio.h` (header file).
 e.g.,
-```C
+``` c
 #include <stdio.h>
 int main() {
   // creating an int type variable
@@ -691,7 +675,7 @@ int main() {
 }
 ```
 Output:
-```bash
+``` bash
 20
 This is a String
 ```
@@ -699,7 +683,7 @@ This is a String
 Scanf() function is used in the 'c' program for reading or taking any value from the keyboard by the user these value can be of any data type like integer, float, character, string and many more. This is a pre-defined function declared in `Studio.h` (header file). In `Scanf();` function we use `&` (address - of operator) which is used to store the variable value on the memory location of that variable.
 
 Syntax:
-``` C
+``` c
 Scanf("format specifier", &Var1, &Var2,...&Var3);
 ```
 
@@ -734,14 +718,14 @@ Output:
 Enter a integer number:
 You have entered: 13
 ```
-3. getch()
+3. `getch()`
 getch() function reads a single character from the keyboard by the user and displays it on the console
 screen and immediately returns without pressing the enter key. This ==function is declared in== conio.h (header file).
 
 Syntax: `getch();`
 
 Example:
-``` C
+``` c
 #include <conio.h>
 #include <stdio.h>
 int main()
@@ -754,6 +738,7 @@ getch();
 return 0;
 ｝
 }
+```
 Output:
 ``` bash
 Enter any character: g
@@ -802,11 +787,10 @@ getch();
 
 
 Software used:
+----
 
 <img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/100f850d-c1bd-41b4-b962-928aacdaaefe" />
-
 <img width="474" height="485" alt="image" src="https://github.com/user-attachments/assets/f4638950-4597-438b-a6f2-e99e22edea1f" />
-
 <img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/f68f20f2-ffa6-4a10-a605-94bd51d1b231" />
 
 <img width="474" height="237" alt="image" src="https://github.com/user-attachments/assets/f0e883ef-51d0-4d45-9933-870d51f172e7" />
