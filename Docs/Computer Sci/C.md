@@ -29,7 +29,7 @@ Index
 - [Structure of a Program in C](#structure-of-a-program-in-c)
 - [I/O statements and formatted I/O](#io-statements-and-formatted-io)
 - [Unformatted I/O Functions](#unformatted-io-functions)
-- [Bonus]()
+- [Bonus](#how-to-setup-a-ide-for-c-bonus-topic)
 
 
 # Types of software
