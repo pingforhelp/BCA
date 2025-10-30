@@ -5,6 +5,20 @@
 - Jump Control statements: break, continue and goto.
 
 **Unit 2. Control statements:**
+Index
+- [Decision control and looping Statements](#decision-control-and-looping-statements)
+- [if Statement](#if-statement)
+- [if-else Statement](#if-else-statement)
+- [if else if else Ladder (else if ladder)](#if-else-if-else-ladder-(else-if-ladder))
+- [Switch Statements](#switch-statements)
+- [Loop Control Statements](#loop-control-statements)
+- [While Loop in C](#while-loop-in-c)
+- [do-while Loop](#do-while-loop)
+- [for Loop In C](#for-loop-in-c)
+- [Jump Control statements](#jump-control-statements)
+- [break Statement](#break-statement)
+- [continue Statement:](#continue-statement)
+- [goto Statement](#goto-statement)
 
 # Decision control and looping Statements
 -> C program is executed sequentially.
@@ -371,7 +385,7 @@ Skipping even number 4
 Processing odd number 5
 ```
 
-# goto Statement:
+# goto Statement
 The goto statement transfers control unconditionally to a labeled statement within the same function. A label is just a name followed by a colon (e.g., myLabel).
 
 > [!IMPORTANT]
