@@ -89,7 +89,7 @@ True --> Statement Block 1 --> Statement x
 False --> Statement Block 2 --> Statement x
 ```
 
-# if...else if...else Ladder (else if ladder)
+# if else if else Ladder (else if ladder)
 This is used to check multiple conditions in sequence.
 As soon as one condition is met, its block is executed, and the rest of the "ladder" is skipped. The final else block is optional and runs if none of the previous conditions were true.
 
@@ -130,7 +130,7 @@ int main() {
 ``` bash
 Grade: B
 ```
-**B) Unconditional Type**
+**Unconditional Type**
 
 # Switch Statements
 The switch case statement is an alternative to the if else if ladder that can be used to execute the conditional code based on the value of the variable specified in the switch statement. The switch block consists of cases to be executed based on the value of the switch variable.
