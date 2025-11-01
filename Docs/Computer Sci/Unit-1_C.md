@@ -61,11 +61,10 @@ Examples:
 - Linux.
 - Interpreter.
 - MS-word.
-- Railways reservation.
+- Railways Reservation System.
 - Windows.
 - Compiler.
 - Photoshop.
-- "System".
 
 ![PROBLEM SOLVING USING C_2](https://github.com/user-attachments/assets/1686b63e-c5ca-4d3c-ac39-4824755c6eeb)
 *Fig.1.1 A Image showing types of Software.*
