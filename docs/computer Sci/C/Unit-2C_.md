@@ -46,8 +46,6 @@ Statement n;
 }
 Statement x;
 ```
-<img width="337" height="280" alt="image" src="https://github.com/user-attachments/assets/13d5eec4-a72a-4f72-9a8a-7d85a51ade8d" />
-
 ```
         ┌────────────┐
         │ Test Expr  │
@@ -97,7 +95,8 @@ main()
     }
 }
 ```
-<img width="509" height="662" alt="image-1" src="https://github.com/user-attachments/assets/3306fee0-7a3b-4569-b8ee-af6de851943d" />
+<img width="509" height="662" alt="image-1" src="https://github.com/user-attachments/assets/ec69b92b-d82d-4f9c-b791-989ebbc7831c" />
+
 ```
 True --> Statement Block 1 --> Statement x
 False --> Statement Block 2 --> Statement x
