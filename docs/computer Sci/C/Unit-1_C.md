@@ -66,7 +66,7 @@ Examples:
 - Compiler.
 - Photoshop.
 
-![PROBLEM SOLVING USING C_2](https://github.com/user-attachments/assets/1686b63e-c5ca-4d3c-ac39-4824755c6eeb)
+![Unit_1_C pdf-image-000](https://github.com/user-attachments/assets/41f390e5-91ec-496d-bd94-235dec1add27)
 *Fig.1.1 A Image showing types of Software.*
 
 # Compiler and interpreter
@@ -77,7 +77,7 @@ Computers only understand machine code (binary O’s and 1’s). Since we write 
 - Execution Speed: Generally faster because the translation is done only once.
 - Examples: C, C++, Java use compilers.
 
-![PROBLEM SOLVING USING C_3](https://github.com/user-attachments/assets/485c995f-3d76-4d01-9d16-7178735ef45c)
+![Unit_1_C pdf-image-001](https://github.com/user-attachments/assets/a7e3b081-177a-4e49-8015-f0d5da58bbc0)
 *Fig.1.2 Compiler VS Interpreter.*
 
 - Interpreter: An interpreter reads the source code one line at a time, translates that line into machine code, and immediately executes it before moving to the next line.
@@ -130,7 +130,7 @@ What is a Algorithm?
 - An algorithm written in simple English language.
 - To make an effective algorithm the steps must be define with finite sequence of instruction.
 
-<img width="264" height="454" alt="PROBLEM SOLVING USING C_4" src="https://github.com/user-attachments/assets/1e0661ef-00a2-4fa2-9c24-ef9f19d14994"/>
+<img width="264" height="454" alt="Unit_1_C pdf-image-002" src="https://github.com/user-attachments/assets/ee093cab-6c8d-4451-977b-8473cf74bfe3" />
 
 *Fig.1.3 An image describing a Flow chart*
 
@@ -167,27 +167,10 @@ The basic symbols used in flow chart design are given below:
 6. Decisions & conditions: A program may have multiple execution parts in order to select the direction of program control. The decision is denoted by diamond shape. The program should continue one of two routes (if and else) that 'yes' & 'no'.
 7. Connector: The connector is used to join different flow charts in a program. The connector is denoted circle shape.
 
-Rectangle
-<img width="960" height="720" alt="rectangle" src="https://github.com/user-attachments/assets/9a3e1611-b490-4dbd-a575-da2e69af512c"/>
-
-Parallelogram
-<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/4ba41868-ee21-4063-b3cd-2b6fcfe207ea"/>
-
-Array
-<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/90dd9959-923a-4f35-89e1-4230fce4df98" />
-
-Diamond
-<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/a4a955bf-84f9-4f60-ae5e-3c098133aee7" />
-
-Circle
-<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/0d149840-2c9f-427e-b59e-9eebeb0f53f2"/>   
-
-*Figs.1.4-1.8 symbols in Flow Charts.*
-
 **Example Draw a flow chart to find the sum of any two numbers.**
-<img width="327" height="747" alt="image" src="https://github.com/user-attachments/assets/db131ec7-5470-4709-96cc-fd2edc3539a6" />
+<img width="327" height="747" alt="Unit_1_C pdf-image-008" src="https://github.com/user-attachments/assets/ed77d8b0-4e8a-4ad6-b955-f5312e47e58c" />
 
-*Fig.1.9 Flow chart to find the sum of any two numbers.*
+*Fig.1.4 Flow chart to find the sum of any two numbers.*
 
 # History and Features of C
 C is a general-purpose programming language which is an extremely popular. It is known for being simple and flexible. It is a structured programming language used to write various applications like operating systems, compilers, Windows, Linux, Unix, Game development, and more. 
@@ -307,7 +290,8 @@ Some rules have to be followed by using Identifiers. They are as followed:
 In `C' data types are defined as the data storage format that a variable can store a data to perform a specific operation.
 * Data types are used to defined a variable become fore to use in a programme.
 * Size of variables can be determine by data types.
-<img width="747" height="146" alt="image" src="https://github.com/user-attachments/assets/af653eca-0ddb-407e-8ab4-384e183bef9f"/>
+*Fig.1.5 A Image showing a flow chart of data types*
+<img width="747" height="146" alt="Unit_1_C pdf-image-009" src="https://github.com/user-attachments/assets/c12ab26e-7e5f-40b5-a43b-feb3b295cdac" />
 
 1. **Primitive data types:**
 - char
@@ -360,8 +344,9 @@ In `C' data types are defined as the data storage format that a variable can sto
 - Does *not* get changed in the program even by mistake.
 - C allows the programmer to specify constants of integer type, floating point, type, character, and string types
 
-*Fig.1.11. Constants of C program*
-<img width="747" height="135" alt="image" src="https://github.com/user-attachments/assets/3c1cf632-89b8-4e48-878e-da8f4bd61dec" />
+*Fig.1.6 Constants of C program*
+<img width="747" height="135" alt="Unit_1_C pdf-image-010" src="https://github.com/user-attachments/assets/82138a1f-86ad-4cb3-a868-7b846f1e182d" />
+
 **Integer Constant:**
 - A constant of integer type consists of a sequence of digits.
 - For example 1, 34, 748 are valid integer constants.
@@ -778,21 +763,20 @@ getch();
 > [!NOTE]
 > If you run into any problems "Just look it up", your web browser is your best friend. If you're going to ask A LLM (AI) make that remove "Personal Info" such as File names OR run a model on your machine [Here's How](https://www.reddit.com/search/?q=How+to+run+a+AI+model+locally&cId=d502bcb0-6e15-49b9-9f0c-17bf5f0a6fcf&iId=d6722066-c8f5-4da1-bdeb-1454ae7a6d36)
 
-<img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/267dee10-dbf4-4726-9549-ad1430b1879e" />
+<img width="555" height="559" alt="End_Card" src="https://github.com/user-attachments/assets/c521f37a-d3e4-4d6e-b279-eba4c3b67f25" />
 
-<img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/b170ff3d-94e4-4359-8d5d-6592b31662d7" />
 
-[Next time Unit-2!](https://github.com/pingforhelp/BCA/blob/main/Docs/Computer%20Sci/Unit-2C_.md)
+[Ne<img width="474" height="355" alt="Unit_1_C pdf-image-012" src="https://github.com/user-attachments/assets/af7a997b-916f-462d-b734-a54eefd43c13" />
+
+[Next time Unit-2!](Docs/)
 
 
 Software used:
 ----
-
-<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/100f850d-c1bd-41b4-b962-928aacdaaefe" />
-<img width="474" height="485" alt="image" src="https://github.com/user-attachments/assets/f4638950-4597-438b-a6f2-e99e22edea1f" />
-<img width="474" height="355" alt="image" src="https://github.com/user-attachments/assets/f68f20f2-ffa6-4a10-a605-94bd51d1b231" />
-
-<img width="474" height="237" alt="image" src="https://github.com/user-attachments/assets/f0e883ef-51d0-4d45-9933-870d51f172e7" />
+<img width="474" height="474" alt="Unit_1_C pdf-image-013" src="https://github.com/user-attachments/assets/806dbb06-eada-46e8-be30-5ec97d6bca21" />
+<img width="474" height="485" alt="Unit_1_C pdf-image-014" src="https://github.com/user-attachments/assets/b36a6303-b4fe-48eb-b68c-b345db879b72" />
+<img width="474" height="355" alt="Unit_1_C pdf-image-015" src="https://github.com/user-attachments/assets/ca197a1c-d354-4ac2-ae39-9a6e01ccf22e" />
+<img width="474" height="237" alt="Unit_1_C pdf-image-016" src="https://github.com/user-attachments/assets/afa4f439-0b68-461e-ba4d-54db482e3831" />
 
 1. VS code, GitHub, and Obsidian for writing and formatting.
 2. Noted.md (Home brew) with Gemini.
