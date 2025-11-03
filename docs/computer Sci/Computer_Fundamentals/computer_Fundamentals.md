@@ -35,7 +35,7 @@ It lists its main components and their interactions.
    * **Output Unit** – Converts processed data into a **human-readable** form.
 
 *Fig. 1: Block diagram of a computer*
-![block-diagram-of-computer](https://github.com/user-attachments/assets/cb323b4c-1eb9-4b91-b402-c4e8b1b278f9)
+<img width="474" height="283" alt="image" src="https://github.com/user-attachments/assets/28addfd1-7a17-47fd-bdb0-79fe1e1b4f07" />
 
 Different between h/s.  
 All are five Generations;  
