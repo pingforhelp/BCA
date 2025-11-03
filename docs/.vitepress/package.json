@@ -1,0 +1,13 @@
+{
+  "name": "bca-notes",
+  "version": "1.0.0",
+  "description": "BCA Notes site built with VitePress",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.3.3"
+  }
+}
