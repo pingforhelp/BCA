@@ -6,25 +6,26 @@ Browse by subject below to find study material, exercises, and helpful reference
 ---
 
 # 📘 Communication Skills
-- [Everyday Phrases](communication-skills/Everyday_Phrases.md)
-- [Mouth Yoga](communication-skills/Mouth_Yoga.md)
+- [Everyday Phrases](communication%20skills/everyday_phrases.md)
+- [Mouth Yoga](communication%20skills/mouth-yoga.md)
 
 ---
 
 # 💻 Computer Science
 
-# 🧮 Computer Fundamentals
-- [Unit 1](computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
-- [Office Automation Unit 1](computer-sci/computer-fundamentals/office_automation.md)
+## 🧮 Computer Fundamentals
+- [Unit 1](computer_sci/computer_fundamentals/computer_fundamentals_unit-1.md)
+- [Office Automation Unit 1](computer_sci/computer_fundamentals/office_automation.md)
 
-# ⚙️ Problem Solving Using C
-- [Unit 1](computer-sci/c/unit-1_c.md)
-- [Unit 2](computer-sci/c/unit-2_c.md)
+## ⚙️ Problem Solving Using C
+- [Unit 1](computer_sci/c/u-1c.md)
+- [Unit 2](computer_sci/c/u-2c.md)
+- [Unit 3](computer_sci/c/u-3c.md)
 
 ---
 
-# ✍️ More Coming Soon
-- English
+# ✍️ English
+- [Chapter 01](english/chapter-01.md)
 
 ---
 
