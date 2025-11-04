@@ -5,28 +5,37 @@ Browse by subject below to find study material, exercises, and helpful reference
 
 ---
 
-# 📘 Communication Skills
-- [Everyday Phrases](communication%20skills/everyday_phrases.md)
-- [Mouth Yoga](communication%20skills/mouth-yoga.md)
+# 📚 BCA Course Materials
+
+## 🧠 Computer Science
+
+### 🖥️ Computer Fundamentals
+- [Unit 1 – Computer Fundamentals](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
+- [Office Automation](./computer-sci/computer-fundamentals/office_automation.md)
+
+### 💻 C Programming
+- [Unit 1 – C Basics](./computer-sci/c/u-1c.md)
+- [Unit 2 – Control Structures](./computer-sci/c/u-2c.md)
+- [Unit 3 – Functions and Arrays](./computer-sci/c/u-3c.md)
 
 ---
 
-# 💻 Computer Science
-
-## 🧮 Computer Fundamentals
-- [Unit 1](computer_sci/computer_fundamentals/computer_fundamentals_unit-1.md)
-- [Office Automation Unit 1](computer_sci/computer_fundamentals/office_automation.md)
-
-## ⚙️ Problem Solving Using C
-- [Unit 1](computer_sci/c/u-1c.md)
-- [Unit 2](computer_sci/c/u-2c.md)
-- [Unit 3](computer_sci/c/u-3c.md)
+## 🗣️ Communication Skills
+- [Everyday Phrases](./communication-skills/everyday_phrases.md)
+- [Mouth Yoga](./communication-skills/mouth-yoga.md)
+- [Whiteboard Rips](./communication-skills/whiteborad%20rips/index.md)
 
 ---
 
-# ✍️ English
-- [Chapter 01](english/chapter-01.md)
+## 📖 English
+- [Chapter 01](./english/chapter-01.md)
 
 ---
 
-Built with ❤️ using [VitePress](https://vitepress.dev/)
+## 📘 Syllabus
+- [BCA Syllabus](./bca-syllabus.md)
+
+---
+
+## 🧾 Non-Study Resources
+- [Info about C50](./non-study%20resources/Info.abt.C50.md)
