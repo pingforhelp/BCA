@@ -19,10 +19,6 @@ export default {
           { text: 'Computer Fundamentals', link: '/computer-sci/computer-fundamentals/computer_fundamentals_unit-1' },
           { text: 'Unit 1 – C', link: '/computer-sci/c/u-1c' },
           { text: 'Unit 2 – C', link: '/computer-sci/c/u-2c' },
-          export default {
-  ignoreDeadLinks: true
-}
-
           
         ],
       },
