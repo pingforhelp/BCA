@@ -18,8 +18,6 @@ Browse by subject below to find study material, exercises, and helpful reference
 ## 🗣️ Communication Skills
 - [Everyday Phrases](./communication-skills/everyday_phrases.md)
 - [Mouth Yoga](./communication-skills/mouth-yoga.md)
-- [Whiteboard Rips](./communication-skills/whiteborad%20rips/index.md)
-
 ---
 
 ## 📖 English
