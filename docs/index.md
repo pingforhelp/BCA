@@ -7,18 +7,13 @@ Browse by subject below to find study material, exercises, and helpful reference
 
 # 📚 BCA Course Materials
 
-## 🧠 Computer Science
+# 🧮 Computer Fundamentals
+- [Unit 1](computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
+- [Office Automation Unit 1](computer-sci/computer-fundamentals/office_automation.md)
 
-### 🖥️ Computer Fundamentals
-- [Unit 1 – Computer Fundamentals](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
-- [Office Automation](./computer-sci/computer-fundamentals/office_automation.md)
-
-### 💻 C Programming
-- [Unit 1 – C Basics](./computer-sci/c/u-1c.md)
-- [Unit 2 – Control Structures](./computer-sci/c/u-2c.md)
-- [Unit 3 – Functions and Arrays](./computer-sci/c/u-3c.md)
-
----
+# ⚙️ Problem Solving Using C
+- [Unit 1](computer-sci/c/u-1c.md)
+- [Unit 2](computer-sci/c/u-2c.md)
 
 ## 🗣️ Communication Skills
 - [Everyday Phrases](./communication-skills/everyday_phrases.md)
