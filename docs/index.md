@@ -28,7 +28,3 @@ Browse by subject below to find study material, exercises, and helpful reference
 ## 📘 Syllabus
 - [BCA Syllabus](./bca-syllabus.md)
 
----
-
-## 🧾 Non-Study Resources
-- [Info about C50](./non-study%20resources/Info.abt.C50.md)
