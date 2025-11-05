@@ -768,7 +768,6 @@ getch();
 
 [Ne<img width="474" height="355" alt="Unit_1_C pdf-image-012" src="https://github.com/user-attachments/assets/af7a997b-916f-462d-b734-a54eefd43c13" />
 
-[Next time Unit-2!](Docs/)
 
 
 Software used:
