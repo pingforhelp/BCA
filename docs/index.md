@@ -8,19 +8,19 @@ Browse by subject below to find study material, exercises, and helpful reference
 # 📚 BCA Course Materials
 
 ## 🧮 Computer Fundamentals
-- [Unit 1](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
-- [Office Automation](./computer-sci/computer-fundamentals/office_automation.md)
+- [Unit 1](docs/computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
+- [Office Automation](docs/computer-sci/computer-fundamentals/office_automation.md)
 
 ## ⚙️ Problem Solving Using C
-- [Unit 1](./computer-sci/c/u-1c.md)
-- [Unit 2](./computer-sci/c/u-2c.md)
+- [Unit 1](docs/computer-sci/c/u-1c.md)
+- [Unit 2](docs/computer-sci/c/u-2c.md)
 
 ## 🗣️ Communication Skills
-- [Everyday Phrases](./communication-skills/everyday_phrases.md)
-- [Mouth Yoga](./communication-skills/mouth-yoga.md)
+- [Everyday Phrases](docs/communication-skills/everyday_phrases.md)
+- [Mouth Yoga](docs/communication-skills/mouth-yoga.md)
 
 ## 📖 English
-- [Chapter 01](./english/chapter-01.md)
+- [Chapter 01](docs/english/chapter-01.md)
 
 ## 📘 Syllabus
-- [BCA Syllabus](./bca-syllabus.md)
+- [BCA Syllabus](docs/bca-syllabus.md)
