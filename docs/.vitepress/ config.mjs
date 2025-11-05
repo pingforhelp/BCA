@@ -3,10 +3,10 @@ import { withSidebar } from "vitepress-sidebar"
 import { vitepressPythonEditor } from "vitepress-python-editor/vite-plugin"
 import { defineConfig } from "vitepress"
 
-const vitePressSidebarOptions = [
+const sidebarOptions = [
   {
     documentRootPath: "docs",
-    scanStartPath: "docs", // 🔥 auto-scans all subfolders
+    scanStartPath: "docs",
     resolvePath: "/",
     collapsed: true,
     hyphenToSpace: true,
@@ -23,18 +23,19 @@ const vitePressSidebarOptions = [
 export default withMermaid(
   withSidebar(
     defineConfig({
-      title: "BCA Notes",
-      description: "Notes and resources for BCA students",
-      ignoreDeadLinks: true, // ✅ prevents build errors on Cloudflare
+      // ✅ Must be at the top level
+      ignoreDeadLinks: true,
       cleanUrls: true,
       lastUpdated: true,
+
+      title: "BCA Notes",
+      description: "Notes and resources for BCA students",
 
       themeConfig: {
         nav: [
           { text: "Home", link: "/" },
           { text: "Syllabus", link: "/bca-syllabus" }
         ],
-        sidebar: vitePressSidebarOptions, // ← optional override
         socialLinks: [
           { icon: "github", link: "https://github.com/pingforhelp/BCA" }
         ]
@@ -51,10 +52,8 @@ export default withMermaid(
       },
 
       mermaid: {},
-      mermaidPlugin: {
-        class: "mermaid my-class"
-      }
+      mermaidPlugin: { class: "mermaid my-class" }
     }),
-    vitePressSidebarOptions
+    sidebarOptions
   )
 )
