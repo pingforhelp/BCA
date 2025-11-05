@@ -1,40 +1,27 @@
-import { withMermaid } from "vitepress-plugin-mermaid"
-import { withSidebar } from "vitepress-sidebar"
-import { vitepressPythonEditor } from "vitepress-python-editor/vite-plugin"
 import { defineConfig } from "vitepress"
-
-const sidebarOptions = [
-  {
-    documentRootPath: "docs",
-    scanStartPath: "docs",
-    resolvePath: "/",
-    collapsed: true,
-    hyphenToSpace: true,
-    capitalizeEachWords: true,
-    underscoreToSpace: true,
-    includeEmptyFolder: false,
-    excludeFilesByFrontmatterFieldName: "exclude",
-    sortMenusByFrontmatterOrder: true,
-    includeFolderIndexFile: true,
-    useTitleFromFrontmatter: true
-  }
-]
+import { withSidebar } from "vitepress-sidebar"
+import { withMermaid } from "vitepress-plugin-mermaid"
+import { vitepressPythonEditor } from "vitepress-python-editor/vite-plugin"
 
 export default withMermaid(
   withSidebar(
     defineConfig({
-      // ✅ Must be at the top level
-      ignoreDeadLinks: true,
-      cleanUrls: true,
-      lastUpdated: true,
-
       title: "BCA Notes",
       description: "Notes and resources for BCA students",
+
+      // ✅ this line ensures dead links never stop the build
+      ignoreDeadLinks: true,
+
+      cleanUrls: true,
+      lastUpdated: true,
 
       themeConfig: {
         nav: [
           { text: "Home", link: "/" },
-          { text: "Syllabus", link: "/bca-syllabus" }
+          { text: "Syllabus", link: "/bca-syllabus" },
+          { text: "Communication Skills", link: "/communication-skills/everyday_phrases" },
+          { text: "Computer Science", link: "/computer-sci/c/u-1c" },
+          { text: "English", link: "/english/chapter-01" }
         ],
         socialLinks: [
           { icon: "github", link: "https://github.com/pingforhelp/BCA" }
@@ -45,15 +32,15 @@ export default withMermaid(
         plugins: [
           vitepressPythonEditor({ assetsDir: "docs/.vitepress/dist/assets" })
         ]
-      },
-
-      markdown: {
-        math: true
-      },
-
-      mermaid: {},
-      mermaidPlugin: { class: "mermaid my-class" }
+      }
     }),
-    sidebarOptions
+    [
+      {
+        documentRootPath: "docs",
+        scanStartPath: "docs",
+        resolvePath: "/",
+        collapsed: true
+      }
+    ]
   )
 )
