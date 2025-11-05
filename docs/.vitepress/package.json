@@ -1,0 +1,16 @@
+{
+  "name": "bca-notes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "vitepress-plugin-mermaid": "^2.0.0",
+    "vitepress-sidebar": "^1.0.0",
+    "vitepress-python-editor": "^1.0.0"
+  }
+}
