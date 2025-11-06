@@ -1,4 +1,4 @@
-import { defineConfig } from "vitepress" // vitepress if breaks then type in vitepress
+import { defineConfig } from "bca" // vitepress if breaks then type in `vitepress`
 import { withSidebar } from "vitepress-sidebar"
 import { withMermaid } from "vitepress-plugin-mermaid"
 import { vitepressPythonEditor } from "vitepress-python-editor/vite-plugin"
