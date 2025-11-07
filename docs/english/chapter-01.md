@@ -104,5 +104,5 @@ Last updated on **xx:xx, xx-xx-2025**
 
 
 
-[Next](./english/chapter-02)
+[Next](/docs%2Fenglish%2Fchapter-02.md)
 
