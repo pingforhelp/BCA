@@ -3,7 +3,7 @@
 - [Poem](#poem)
 - [Q&A  (1-7)](#qa--1-7)
 - [Q1. What are the figures of speech used in the following lines:?](#q1-what-are-the-figures-of-speech-used-in-the-following-lines)
-- [Q2. ??](#q2-)
+- [Q2. ??](#q2-)/
 - [Q3. How does Sarojini Naidu describe a day in the lives of the Fishermen?](#q3-how-does-sarojini-naidu-describe-a-day-in-the-lives-of-the-fishermen)
 - [Q4. The Poet compares the sea to a mother, what does this metaphor tell us about the fisherman attitude towards the sea?](#q4-the-poet-compares-the-sea-to-a-mother-what-does-this-metaphor-tell-us-about-the-fisherman-attitude-towards-the-sea)
 - [Q5. Which lines of the Poem inspire courage and confidence in the fisher men? explain.](#q5-which-lines-of-the-poem-inspire-courage-and-confidence-in-the-fisher-men-explain)
