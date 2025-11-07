@@ -22,14 +22,15 @@ Browse by subject below to find study material, exercises, and helpful reference
 
 
 ## 📖 English
+
 **Unit-I:**
 - [Ch-01 Coromandel Fisher's *by arojini Naidu*](./english/Unit-I/chapter-01.md)
 - [Ch-02 The Night Train at Deoli *Ruskin Bond*](./english/Unit-I/chapter-02.md)
 - [Grammar: Parts of Speech](./english/Unit-I/parts_of_speech(grammar).md)
+
 **Unit-II:**
 - [Ch-01 Short Story: The Lost Child *by Mulk Raj Anand*](./english/Unit-II/chapter-01.md)
-- 
 
 
-## 📘 Syllabus
-- [BCA Syllabus](./bca-syllabus.md)
+[Syllabus Paper](./bca-syllabus.md) | [E-mail](mailto:tamimtasira@gmail.com) | License](https://github.com/pingforhelp/BCA/blob/main/LICENSE)
+https://github.com/pingforhelp/BCA/blob/main/LICENSE
