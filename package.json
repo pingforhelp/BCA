@@ -7,8 +7,10 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
+  "dependencies": {
+    "patch-package": "^8.0.1"
+  },
   "devDependencies": {
-    "patch-package": "^8.0.1",
     "vitepress": "^1.0.0",
     "vitepress-plugin-mermaid": "^2.0.0",
     "vitepress-python-editor": "^1.0.0",
