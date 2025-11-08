@@ -28,20 +28,17 @@ Ans: *The Night Train at Deoli* is a story about the narrator’s love for a poo
 Ans: The narrator felt restless and unhappy during his later visits to Dehra because he never saw the basket-selling girl again at the Deoli Station. He always hoped to meet her once more, and when she was never there, it made him feel disappointed and lonely. He realized that their brief meeting had left a deep emotional impact on him, and the thought that he might never meet her again made him sad and uneasy.
 
 # Q7. Why did the narrator feel disappointed?
-Ans: The next summer, soon after his college term finished, he hurriedly left for Dehra.
-His visit to see his grandmother was just an excuse—he was eager to meet the girl once again.
-But this time, she was not to be seen at the Deoli Station. Though he waited for a long time, this deeply disappointed him, and a sense of foreboding overcame him on his way back to Delhi. He again waited anxiously to see her, but in the end, it was in vain. Upon inquiry, he learned that the girl had stopped coming to the station to sell her baskets, and nobody knew about her. Once again, he had to run to catch his train. He made up his mind that he would definitely break his journey there someday, spend a day in the town, make inquiries, and find the girl who had stolen his heart.
+Ans: The next summer, soon after his college term finished, he hurriedly left for Dehra. His visit to see his grandmother was just an excuse—he was eager to meet the girl once again. But this time, she was not to be seen at the Deoli Station. Though he waited for a long time, this deeply disappointed him, and a sense of foreboding overcame him on his way back to Delhi. He again waited anxiously to see her, but in the end, it was in vain. Upon inquiry, he learned that the girl had stopped coming to the station to sell her baskets, and nobody knew about her. Once again, he had to run to catch his train. He made up his mind that he would definitely break his journey there someday, spend a day in the town, make inquiries, and find the girl who had stolen his heart.
 
 # Q8. How did the narrator try to find and meet the girl?
-Ans: The following year in summer, he again walked up and down the platform hoping to see the girl, but somehow he could not bring himself to break the train journey to look for her. He seemed afraid of discovering the truth about her—afraid that he might find out something unpleasant, which he did not want to know. He wanted to retain his sweet memories of her. He suggested to his readers that he did not want to project himself like a hero of a movie, where the hero would meet his beloved after hardships and finally win her over. He preferred to keep hoping and dreaming, waiting for the girl.
+Ans: The following year in summer, he again walked up and down the platform hoping to see the girl, but somehow he could not bring himself to break the train journey to look for her. He seemed afraid of discovering the truth about her—afraid that he might find out something
+unpleasant, which he did not want to know. He wanted to retain his sweet memories of her. He suggested to his readers that he did not want to project himself like a hero of a movie, where the hero would meet his beloved after hardships and finally win her over. He preferred to keep hoping and dreaming, waiting for the girl.
 
 We know very little about the young man’s family and circumstances, but we can see ourselves in him.
-We all remember moments of fantasy like love or feelings of strong attraction toward a person we barely know.
-We know what it’s like to build someone up in our imagination. The narrator never moved beyond that stage- he never acted, and he remained filled with memories because of it. narrator is a kind of “everyman,” easy for readers to empathize with.
+We all remember moments of fantasy like love or feelings of strong attraction toward a person we barely know. We know what it’s like to build someone up in our imagination. The narrator never moved beyond that stage- he never acted, and he remained filled with memories because of it. narrator is a kind of “everyman,” easy for readers to empathize with.
 
 # Q9. Why did the narrator never break his journey at Deoli, though he wished to meet the girl?
-Ans: Although the narrator wished to stop at Deoli, he feared destroying the idealized image he had created.
-The uncertainty and the possibility of reality not matching his dream held him back.
+Ans: Although the narrator wished to stop at Deoli, he feared destroying the idealized image he had created. The uncertainty and the possibility of reality not matching his dream held him back.
 
 **(i) Tenderness or Affection:**
 He remembered the girl fondly. Even though he met her only twice, the brief encounter touched his heart deeply.
@@ -55,6 +52,5 @@ There was sorrow in his heart because he never met her again and missed the chan
 He regretted not acting on impulse to know her better.
 
 **(iv) Nostalgia:**
-Over the years, the memory of the girl became a symbol of lost youth and innocent love.
-Thinking of her brought back emotions of that time—pure, simple, and unforgettable.
+Over the years, the memory of the girl became a symbol of lost youth and innocent love. Thinking of her brought back emotions of that time—pure, simple, and unforgettable.
 
