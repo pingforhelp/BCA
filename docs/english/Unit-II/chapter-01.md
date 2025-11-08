@@ -1,4 +1,18 @@
-# The Lost Child *By Mulk Raj Anand*
+# The Lost Child *By Mulk 
+Raj Anand*
+
+index 
+- [About the author](#about-the-author)
+- [Q&A (1-7)](#q-a-1-7)
+- [Q1. Where did the Parents sit and what happened there?](#q1-where-did-the-parents-sit-and-what-happened-there)
+- [Q2. What did the child do when he did not find his Parents?](#q2-what-did-the-child-do-when-he-did-not-find-his-parents)
+- [Q3. Describe the different feelings of the child in the fair?](#q3-describe-the-different-feelings-of-the-child-in-the-fair)
+- [Q4. Why do you think the child suppresses his desire for toys, sweets and night rides when he is with his parents? What does this reveal about his understanding of his parents?](#q4-why-do-you-think-the-child-suppresses-his-desire-for-toys-sweets-and-night-rides-when-he-is-with-his-parents-what-does-this-reveal-about-his-understanding-of-his-parents)Q4. Why do you think the child suppresses his desire for toys, sweets and night rides when he is with his parents? What does this reveal about his understanding of his parents?)
+- [Q5. How does the child's attitude toward material things (toys, sweets, balloons), change after he is separated from his parents? What lesson about human values does the story teach us here?](#q5-how-does-the-child-s-attitude-toward-material-things-toys-sweets-balloons-change-after-he-is-separated-from-his-parents-what-lesson-about-human-values-does-the-story-teach-us-here)
+- [Q6. Discuss the role of the stranger in the story? Why does the child refuse all that he offers. (sweets, toys and rides)?](#q6-discuss-the-role-of-the-stranger-in-the-story-why-does-the-child-refuse-all-that-he-offers-sweets-toys-and-rides)
+- [Q7. The festival setting is described with great detail and vivid imagery. How does the joys atmosphere of the fair contrast with the child’s sense of fear and loss?](#q7-the-festival-setting-is-described-with-great-detail-and-vivid-imagery-how-does-the-joys-atmosphere-of-the-fair-contrast-with-the-child-s-sense-of-fear-and-loss)
+
+# About the author 
 Mulk Raj Anand who was born on 12th December 1905 was an Indian writer and he was known for his depiction of the lives of the poor in traditional Indian society. He is considered as one of the pioneers of Indo-Anglian fiction he was one of the First India-based writers in English to gain an International readership. He is admired for his novels and short stories which are noted for their perceptive insight into the lives of the oppressed and their analyses of impoverishment exploitation and misfortune. Some of his important works are *Untouchable*, *Coolie* and *to leaves* and Bud he was honoured of the padma Bhushan. He died on 28th september 2004.
 
 # Q&A (1-7)
