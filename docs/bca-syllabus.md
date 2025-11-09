@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!note]
 > This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readable' on GitHub. This Doc only includes Sem.1 Syllabus for English, Computer Sci., and, Intro. to AI. 
 
 Sub Computer Sci. [Source](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf)
