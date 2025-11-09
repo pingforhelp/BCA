@@ -1,52 +1,23 @@
 .vp-callout {
-  border-left: 4px solid var(--callout-color, #999);
-  border-radius: 8px;
+  border-left: 4px solid var(--callout-color);
+  background: rgba(255, 255, 255, 0.05);
   padding: 1em 1.2em;
+  border-radius: 8px;
   margin: 1em 0;
-  background-color: var(--callout-bg, rgba(0, 0, 0, 0.03));
-  color: var(--vp-c-text-1);
-  display: flex;
-  align-items: flex-start;
-  gap: 0.75em;
-  line-height: 1.6;
-  transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
-.callout-icon {
-  font-size: 1.4rem;
-  color: var(--callout-color, #999);
-  flex-shrink: 0;
-  margin-top: 0.25em;
-}
-
-.callout-body {
-  flex: 1;
-}
-
-.callout-title {
-  font-weight: 600;
+.vp-callout .callout-title {
+  font-weight: 700;
   margin-bottom: 0.4em;
-  color: var(--callout-color, #999);
 }
 
-/* Highlight syntax ==text== */
+.vp-callout .iconify.callout-icon {
+  margin-right: 0.5em;
+  vertical-align: middle;
+}
+
 mark {
-  background-color: #ffea8a;
-  color: #222;
-  border-radius: 3px;
+  background-color: #fff59d;
   padding: 0 0.2em;
-}
-
-/* 🌞 Light mode */
-:root {
-  --callout-bg: rgba(0, 0, 0, 0.03);
-}
-
-/* 🌙 Dark mode */
-.dark {
-  --callout-bg: rgba(255, 255, 255, 0.06);
-  mark {
-    background-color: #ffc94b;
-    color: #000;
-  }
+  border-radius: 2px;
 }
