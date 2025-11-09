@@ -1,10 +1,10 @@
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
-import '@iconify/iconify' // only if you use icons in callouts
+import '@iconify/iconify'
 
 export default {
   ...DefaultTheme,
   enhanceApp({ app, router, siteData }) {
-    // you can leave this empty for now
+    // optional: leave empty for now
   }
 }
