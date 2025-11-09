@@ -1,23 +1,44 @@
 .vp-callout {
   border-left: 4px solid var(--callout-color);
-  background: rgba(255, 255, 255, 0.05);
-  padding: 1em 1.2em;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  padding: 1em 1.25em;
+  margin: 1.2em 0;
   border-radius: 8px;
-  margin: 1em 0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.vp-callout:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
 .vp-callout .callout-title {
   font-weight: 700;
   margin-bottom: 0.4em;
+  text-transform: uppercase;
+  color: var(--callout-color);
 }
 
 .vp-callout .iconify.callout-icon {
-  margin-right: 0.5em;
+  margin-right: 0.4em;
   vertical-align: middle;
+  color: var(--callout-color);
+}
+
+/* ✅ Light and dark theme adaptation */
+:root {
+  --vp-c-bg-soft: #f8f9fa;
+  --vp-c-text-1: #202124;
+}
+html.dark {
+  --vp-c-bg-soft: #2b2b2b;
+  --vp-c-text-1: #f5f5f5;
 }
 
 mark {
   background-color: #fff59d;
-  padding: 0 0.2em;
+  padding: 0 0.25em;
   border-radius: 2px;
 }
