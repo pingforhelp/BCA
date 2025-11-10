@@ -1,3 +1,4 @@
+``` txt
 Past Tense
 ┣ Simple Past tense 
 ┣ Past Continuous tense 
@@ -15,9 +16,8 @@ Future Tense
 ┣ Future Continuous tense
 ┣ Future Perfect tense
 ┗ Future Perfect Continuous tense.
-
+```
 # Present tense
-
 1. Simple Present tense
 Generally, it represents habits, day to tasks, univesal/general truths, prowords, and fixed arguments.
 
