@@ -22,6 +22,7 @@ Future Tense
 Generally, it represents habits, day to tasks, univesal/general truths, prowords, and fixed arguments.
 
 Subject + V¹ + SR/ES/IES + object.
+
 🗝️ Keywords: Always, Everyday, daily, often, always, once 
 
 Examples 
