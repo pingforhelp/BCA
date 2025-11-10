@@ -41,17 +41,13 @@ And an are indefinite articles and the is definite article.
 - The higher you go the cooler it gets.
 - The Japanese are known about their technology.
 
----
-
-## Proper Nouns
+# Proper Nouns
 - The USA, the UK, the Netherlands.
 - The flute, the thabala, the Bhagvathaita, the Oddisi, the Quran, the Bible, The taj mahal, the Red fort.
 - the south-west, the North-east.
 - the Indians, the English, the sikhs, etc...
 
----
-
-## Omission of articles
+# Omission of articles
 
 **Named and proper nouns:**
 - Mukesh ambani is the richest Indian.
@@ -82,9 +78,8 @@ And an are indefinite articles and the is definite article.
 - Sita went to temple.
 - He went to Hospital.
 
----
 
-## Exercise
+Exercise - 1
 - The old man want to see you in the morning.
 - Then build a yard for his cattle.
 - She only ate only an orange for her breakf.
@@ -105,3 +100,24 @@ And an are indefinite articles and the is definite article.
 - There is a Eucalyptus tree near my house.
 - She is an honorary secretary of the club.
 - We meet a European girl in Rubikash.
+
+# Prepositions
+A preposition is a word that relates to elements. Prepositions which indicate at, on, in, by, before, after, for, since, to.
+
+**Prepositions:** which indicate a place or direction on, to, from, up, down, within, beside, between, etc.
+
+Phrasal Preposition: due to, on account of, according to, inspite of, in order because of, according to, to, behalf of.
+
+**miscellaneous preposition**: among, until, above, below, under, length, beneath, over, behind, etc.
+
+# Activity-2
+1) The cat is hiding **under** the table.
+2) There is a beautiful painting hanging **both** the wall.
+3) She lives **in** Hyderabad with her family.
+4) Some is standing **at** the door.
+5) The load passed **over** the bridge.
+6) We have class **at** 9.00 A.M. everyday.
+7) They have been friends **since** their childhood.
+8) The festival will be celebrated **in** December.
+9) He stayed away **until** the night to finish his work.
+10) The train has been delayed **for** 2 hours.
