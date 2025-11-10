@@ -5,10 +5,11 @@ One of the groups that words are divided into nouns, pronouns, verbs, Adverbs, A
 
 Nouns are classified into proper nouns and common nouns:
 - **Proper nouns:** Gandhi, Ambedkar, Hyderabad, English, etc.,...
-- **Common nouns:** Father, poet, language, subject, mount river, etc.,...
+- **Common nouns:** Father, poet, language, subject, mount river, etc...
 
-Common nouns are countable or uncountable. Countable nouns have singular and plural forms.  **Examples:** Boy - Boys, town - towns, foot - feet  Foot - The tooth Tooth - teeth, man - men 
-woman - women. Uncountable nouns have no plural forms.
+Common nouns are countable or uncountable. Countable nouns have singular and plural forms.
+ 
+**Examples:** Boy - Boys, town - towns, foot - feet  Foot - The tooth Tooth - teeth, man - men woman - women. Uncountable nouns have no plural forms.
 
 **Example:** Milk, water, air, etc.,...
 
@@ -22,10 +23,9 @@ An adverb is a word used to modify a verb, an adjective or another adverb. It in
 2. Pashimala walked very fast to the office.
 
 Adverbs are classified as:
-
 **Adverbs of time, frequency and duration:** They answer the question *when*, *how often*, *how long*. Always, never, then, now, soon, tomorrow, last year.
 
-Adverb of place: Answers the question *where*? near, below, away, around, here, there, up and down, etc.,...
+Adverb of place: Answers the question *where*? near, below, away, around, here, there, up and down, etc....
 
 Adverbs of manner: Answers the question *how*? (neatly, calmly, eagerly, angrily, happily, etc.,...)
 
@@ -33,14 +33,14 @@ Adverbs of degree: Answers the question *to what extent*?
 
 (Just, quiet, very, hot, fast, well, etc.,...)
 
-# Activity-2
+# Activity-1
 
-Fill in the blanks with suitable adverbs, each adverb can used once. (quietly, always, often, here, how, carefully, yesterday, almost, quickly, very)
+Fill in the blanks with suitable adverbs, each adverb can used once. (quietly, always, often, here, how, carefully, yesterday, almost, quickly, very.)
 
 1. The students listened **quickly** during the lecture.
 2. She **has always** been late to class
-3. We often go to park on Sundays.
-4. Please come and sit here.
+3. We often go to park **on** Sundays.
+4. Please come **and** sit here.
 5. He is working on the project right now.
 6. Drive carefully on the busy road.
 7. I met him yesterday at the library.
@@ -67,10 +67,10 @@ Fill in the blanks with suitable adverbs, each adverb can used once. (quietly, a
 13. She loves Italian food.
 14. The Indian culture is rich.
 
-## Activity - 2
+# Activity
 1. The blue sky looked clear.
 2. She found several mistakes in the report.
-3. My brother lived/lives in a big city.
+3. My brother lives in a big city.
 4. I prefer strong tea.
 6. She was wearing a black hat.
 7. She was born with a weak heart.
@@ -84,33 +84,7 @@ Fill in the blanks with suitable adverbs, each adverb can used once. (quietly, a
 15. The bright sun.
 16. The silent night was disturbed by a loud noise.
 
-**Prepositions:** A preposition is a word that relates to elements. Prepositions which indicate at, on, in, by, before, after, for, since, to.
 
-**Prepositions:** which indicate a place or direction on, to, from, up, down, within, beside, between, etc.
-Phrasal Preposition: due to, on account of, according to, inspite of, in order because of, according to, to, behalf of,
-
-**miscellaneous** preposition: among, until, above, below, under, length, beneath, over, behind, etc.
-
-# Activity - 4.
-1) The cat is hiding **under** the table.
-2) There is a beautiful painting hanging **both** the wall.
-3) She lives **in** Hyderabad with her family.
-4) Some is standing **at** the door.
-5) The load passed **over** the bridge.
-6) We have class **at** 9.00 A.M. everyday.
-7) They have been friends **since** their childhood.
-8) The festival will be celebrated **in** December.
-9) He stayed away **until** the night to finish his work.
-10) The train has been delayed **for** 2 hours.
-
-# Conjunction: 
-A conjunction joins words, phrases or clauses. There are four types of conjunctions.
-
-1. **Co-ordinating Conjunctions:**
-2. **Co-ordinating conjunctions**
-3. **Co-relative conjunctions**
-4. **Sentence connectors**
-5. **Subordinating conjunctions**
 
 # Co-ordinating Conjunctions:
 These are used to joint words, phrases and clauses belonging to the same class or rank. Co-ordinating conjunctions are *and, but, or, neither, nor, yet, so, for, etc.*
@@ -149,14 +123,14 @@ These are used to relate meanings or idea of the sentences they connect. These a
 4) You will not succeed in your life unless you change your behaviour.
 5) He stayed at home because it was raining.
 
-Sentences
+Sentences:
 1. As far as I know the shop is closed today.
 2. I explained it clearly so that everyone could understand.
 3. He talks as if he knows everything.
 4. Take an umbrella in case it rains.
 5. They arrived after we had left.
 
-## Interjection
+# Interjection
 These are a few words which are used as exclamations to show strong feelings such as anger, surprise, excitement, etc.
 
 Examples:
@@ -164,9 +138,8 @@ Examples:
 2. Alas! He met with an accident.
 3. Hurray! We got through & passed.
 
-# Activity - 4
-Fill in the blanks with an appropriate conjunction given:
-and, and, nor, but, or, yet, so, because, although, since, if, unless, while, till, before, after, however, therefore, moreover, beside, hence, other wise, thus, meanwhile.
+# Activity
+Fill in the blanks with an appropriate conjunction given: (and, and, nor, but, or, yet, so, because, although, since, if, unless, while, till, before, after, however, therefore, moreover, beside, hence, other wise, thus, meanwhile.)
 
 1) I wanted to go for a walk, but it started raining heavily.
 2) The shop sells fruits and vegetables.
@@ -180,23 +153,21 @@ and, and, nor, but, or, yet, so, because, although, since, if, unless, while, ti
 
 # Concrete noun, Abstract noun, material noun, collective noun.
 
-## Concrete nouns:
+# Concrete nouns:
 words which represents object that can be seen, touched.
 
 Example: A student, A Room, An Ant, etc.
 
-## Abstract nouns:
+# Abstract nouns
 words which represents something that cannot be seen or touched, but can only be imagined or felt.
 
 Example: Air, beauty, disease, death, taste, softness, smells, happiness, goodness, worship.
 
-## Material nouns:
+# Material nouns
 Gold, Silver, Iron, Mercury, etc, one called material nouns.
 
-## Collective nouns:
-Committee, police, parliament, Assembly, team, etc.
-
-## A noun can function as Subjective, object, complement, etc.
+# Collective nouns:
+Committee, police, parliament, Assembly, team, etc. A noun can function as Subjective, object, complement, etc.
 
 Examples:
 1) Telugu is my first language.
@@ -207,13 +178,11 @@ Examples:
 
 3) My sister is a dancer.
    (complement)
+
 # Conjunctions
-
-1.  Although it was raining, they went ahead with the match.
-2.  He studied very hard, however, he could not clear the exam.
+1.  **Although**, it was raining, they went ahead with the match.
+2.  He studied very hard, **however**, he could not clear the exam.
 3.  The roads were flooded, therefore the buses stopped running.
-4.  She is talented moreover, she is also humble.
-5.  I was busy with office work, so I could not attend the party.
-6.  The bell rang yet the students kept talking in the class.
-
-$$ \int_{a}^{b} f(x) dx $$
+4.  She is talented **moreover**, she is also humble.
+5.  I was busy with office work, **so** I could not attend the party.
+6.  The bell rang **yet**, the students kept talking in the class.
