@@ -1,4 +1,4 @@
-``` txt
+pp``` txt
 Past Tense
 ┣ Simple Past tense 
 ┣ Past Continuous tense 
@@ -18,7 +18,7 @@ Future Tense
 ┗ Future Perfect Continuous tense.
 ```
 # Present tense
-1. Simple Present tense
+1 Simple Present tense
 Generally, it represents habits, day to tasks, univesal/general truths, prowords, and fixed arguments.
 
 Subject + V¹ + SR/ES/IES + object.
@@ -38,7 +38,7 @@ Univesal truths examples
 2. Humans need Oxygen to survive.
 3. 2 + 3 = 5. 
 
-2. Present Continuous / Present progress tense 
+2 Present Continuous / Present progress tense 
 It describes actions now, around or with a temporary nature.
 
 Subject + is/am/are + V¹ + V⁴ (ing) + Object.
@@ -54,7 +54,7 @@ Examples
 -They are listening to Present Continuous tense now.
 - It just woke up from a nap.
 
-3. Present Perfect Tense
+3 Present Perfect Tense
 It is used to connect a past action or state with the present. It often describes completed actions with present relevance, experiences, or actions continuing up to now.
 
 Subject + has/have + V³ + Object
@@ -65,7 +65,7 @@ Examples
 - I have just completed my breakfast.
 - He has just got back from work.
 
-4. Present Perfect Continuous Tense
+4 Present Perfect Continuous Tense
 It describes actions that began in the past and are still continuing in the present, or actions that were happening recently and have a present effect.
 
 Subject + has/have + been + V¹ + ing + Object
@@ -78,7 +78,7 @@ Examples
 
 # Past tense
 
-1. Simple Past Tense
+1 Simple Past Tense
 It describes actions that started and finished in the past. It is used for completed actions, habits, and events that happened at a specific point of time.
 
 Subject + V² + Object
@@ -89,7 +89,7 @@ Examples
 - I visited Delhi last year.
 - She watched a movie yesterday.
 
-2. Past Continuous Tense
+2 Past Continuous Tense
 It describes an action that was happening at a particular moment in the past.
 
 Subject + was/were + V¹+ ing + Object
@@ -100,7 +100,7 @@ Examples
 - I was reading when you called.
 - They were playing football at 5 pm yesterday.
 
-3. Past Perfect Tense
+3 Past Perfect Tense
 It describes an action that was completed before another action in the past.
 
 Subject + had + V³ + Object
@@ -111,7 +111,7 @@ Examples
 - I had finished homework before dinner.
 She had already left when I arrived.
 
-4. Past Perfect Continuous Tense
+4 Past Perfect Continuous Tense
 It describes an action that had been going on for some time in the past, before another past action or a specific time.
 
 Subject + had been + V¹+ ing + Object
@@ -122,7 +122,7 @@ Examples
 - I had been waiting for the bus for an hour before it arrived.She had been working in Delhi since 2019.They had been playing games for seven years.
 
 # Future tense
-1. Future Simple Tense
+1 Future Simple Tense
 It describes actions that will happen in the future.
 
 Subject + will/shall + V¹ + Object
@@ -133,7 +133,7 @@ Examples
 - I will visit London tomorrow.
 - She will call you later.
 
-2. Future Continuous Tense
+2 Future Continuous Tense
 It describes an action that will be ongoing at a specific time in the future.
 
 Subject + will/shall + be + V¹ + ing + Object
@@ -147,7 +147,7 @@ Examples
 - He will be traveling to Europe next week.
 - You will be traveling to Europe next week.
 
-3. Future Perfect Tense
+3 Future Perfect Tense
 It describes an action that will be completed before a specific time or event in the future.
 
 Subject + will/shall + have + V³ + Object
@@ -162,7 +162,7 @@ Examples
 - They will have finished their work by tomorrow.
 
 
-4.Future Perfect Continuous Tense
+4 Future Perfect Continuous Tense
 It describes an action that will be continuing up to a specific point in the future.
 
 Subject + will/shall + have been + V¹ + ing + Object
