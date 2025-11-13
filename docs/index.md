@@ -34,4 +34,6 @@ Browse by subject below to find study material, exercises, and helpful reference
 
 
 
+
+-----
 [Syllabus Paper](./bca-syllabus.md) | [E-mail](mailto:tamimtasira@gmail.com) | [License](https://github.com/pingforhelp/BCA/blob/main/LICENSE)
