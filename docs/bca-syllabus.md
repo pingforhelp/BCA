@@ -298,25 +298,26 @@ Unit I. AI and its Subfields
 Applications of AI, Challenges in AI.
 - Knowledge Engineering, Machine Learning, Computer Vision, Natural Language Processing,
 Robotics.
--------------
+---
 Unit 2. Applications of AI
 - Healthcare, Finance, Retail, Agriculture, Education, Transportation.
---------
+---
 Unit 3. Bias and Fairness in AI Systems
 - Ethics in AI, Bias and Fairness in AI Systems, Transparency in AI Systems, Accountability, Security,
 Privacy, Inclusivity, Sustainability, Robustness, Reliability.
-----------
+---
 Unit 4. AI in Research, Generative AI and prompt engineering
 AI in Experimentation and Multi-disciplinary research, Generative AI introduction, ChatGPT,
 Hugging Face, Gemini and other tools basics, Perplexity, Prompt engineering Definition and its
 importance, Role of Prompt Engineering in AI/ML Interaction, Emerging trends and Future Directions
 in AI.
----------
+---
 Unit 5. Applications of Prompt engineering
 Applications of Prompt Engineering: Education, Business & Commerce, Content Creation: AI for
 Creative Writing,AI for creative design, writing AI scripts for video, generating slides and slidesGPT
 usage, Designing thumbnails and channel branding with AI
-----------
+----
+
 Text Books:
 1. AI for Everyone: A Beginner's Handbook for Artificial Intelligence (AI) by Saptarsi Goswami, Amit Kumar Das , Amlan Chakrabarti
 2. Prompt Engineering for Beginners: by Kapila Arora, Geetu Garg, Gaurav Arora.
@@ -330,7 +331,7 @@ References:
 6. Learn Generative AI Prompt Engineering for everyone. [https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone?action=enroll](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone?action=enroll)
 7. Free Artificial Intelligence (AI) Tutorial - Hands-On Prompt Engineering for AI Beginners & Business UserUdemy, [https://www.udemy.com/course/prompt-engineering-for-ai-beginners-business-users](https://www.udemy.com/course/prompt-engineering-for-ai-beginners-business-users
 
-## COURSE 1p: AI FUNDAMENTALS [Practice]
+# COURSE 1p: AI FUNDAMENTALS [Practice]
 
 Practice Session 2 hrs/week
 
