@@ -215,3 +215,466 @@ b = 10.5;
 c = 'M';
 stockerid = "SSzxxc1";
 ```
+### ✅ Page 11/22 — Processed
+
+Below is the **Markdown transcription for Page 11**.
+
+---
+
+# **Rules for Naming Variables**
+
+### ✅ 1. Must start with a **letter (a–z or A–Z)** or **underscore (_)**
+
+* `1a = 10;` → ❌ Invalid
+* `A = 10;` → ✔️ Valid
+* `_a = 10;` → ✔️ Valid
+* `a = 10;` → ✔️ Valid
+
+Examples of valid identifiers:
+
+```c
+int age;
+int _height;
+```
+
+---
+
+### ✅ 2. Can contain only:
+
+* letters
+* digits
+* underscores `_`
+
+#### Examples:
+
+| Valid              | Invalid           |
+| ------------------ | ----------------- |
+| `int total_marks;` | `int total-mark;` |
+| `int sum1;`        | `int price#;`     |
+
+---
+
+### ✅ 3. No spaces allowed
+
+| Valid              | Invalid            |
+| ------------------ | ------------------ |
+| `int total_marks;` | `int total marks;` |
+
+---
+
+### ✅ 4. Cannot use keywords
+
+(Examples: `int`, `float`, `if`, `else` cannot be used as variable names)
+
+---
+
+Reply **next** for Page 12/22.
+
+### ✅ Page 12/22 — Processed
+
+Below is the **Markdown transcription for Page 12**.
+
+---
+
+# **More Rules for Naming Variables**
+
+## **1. Case Sensitive**
+
+C is a **case-sensitive language**, meaning uppercase and lowercase letters are treated as **different variables**.
+
+Example:
+
+```c
+int age = 10;
+Age = 25;
+printf("%d", age);   // Output: 10
+```
+
+Here, `age` and `Age` are different.
+
+---
+
+## **2. No Special Characters Allowed (Except Underscore _)**
+
+You **cannot** use characters like:
+
+* `@`
+* `%`
+* `-`
+* `#`
+* `$`
+
+### Examples:
+
+| Valid         | Invalid       |
+| ------------- | ------------- |
+| `total_marks` | `total-marks` |
+| `sum1`        | `sum@`        |
+
+---
+
+## **3. Length of Variable Name**
+
+(Continues on next page)
+
+---
+
+Reply **next** for Page 13/22.
+
+### ✅ Page 13/22 — Processed
+
+Below is the **Markdown transcription for Page 13**.
+
+---
+
+# **Length of Variable Name**
+
+There is **no strict limit**, but most compilers recognize only the **first 31 characters**.
+
+---
+
+# **Meaningful and Readable Names**
+
+Use meaningful names.
+
+❌ Avoid:
+
+```c
+int a, b, c;   // Meaningless
+```
+
+---
+
+# **Data Types**
+
+Data types define:
+
+* what kind of data a variable can store
+* how much memory it occupies
+
+---
+
+# **1) Primitive Data Types**
+
+| Data Type  | Size (bytes) | Format Specifier | Example            |
+| ---------- | ------------ | ---------------- | ------------------ |
+| **int**    | 2 or 4       | `%d`             | `int a = 10;`      |
+| **float**  | 4            | `%f`             | `float b = 10.5;`  |
+| **double** | 8            | `%lf`            | `double d = 8.54;` |
+| **char**   | 1            | `%c`             | `char c = 'M';`    |
+
+---
+
+Reply **next** for Page 14/22.
+
+### ✅ Page 14/22 — Processed
+
+Below is the **Markdown transcription for Page 14**.
+
+---
+
+# **2) Derived Data Types**
+
+| Derived Type     | Definition                                             | Example                              |
+| ---------------- | ------------------------------------------------------ | ------------------------------------ |
+| **1. Array**     | Group of same-type elements                            | `c int a[5];  a = {1, 2, 3, 4, 5}; ` |
+| **2. Pointer**   | A variable that stores the address of another variable | `c int *p; `                         |
+| **3. Structure** | Group of different data types                          | `c struct Student {   ... }; `       |
+| **4. Union**     | Shares the same memory location                        | `c union info {   ... }; `           |
+| **5. Function**  | Returns a value after execution                        | `c int add(int a, int b) {   ... } ` |
+
+---
+
+Reply **next** for Page 15/22.
+
+### ✅ Page 15/22 — Processed
+
+Below is the **Markdown transcription for Page 15**.
+
+---
+
+# **3) User-Defined Data Types**
+
+| Keyword     | Definition                           | Example                               |
+| ----------- | ------------------------------------ | ------------------------------------- |
+| **typedef** | Gives a new name to an existing type | `c typedef int num; `                 |
+| **enum**    | Defines a set of named constants     | `c enum day { Mon, Tue, Wed, ... }; ` |
+
+---
+
+# **Data Type Modifiers**
+
+Used to **change the size or range** of basic data types.
+
+| Modifier     | Used With   | Example            |
+| ------------ | ----------- | ------------------ |
+| **short**    | int         | `short int a;`     |
+| **long**     | int, double | `long int b;`      |
+| **signed**   | int, char   | `signed char c;`   |
+| **unsigned** | int, char   | `unsigned char c;` |
+
+---
+
+Reply **next** for Page 16/22.
+
+### ✅ Page 16/22 — Processed
+
+Below is the **Markdown transcription for Page 16**.
+
+---
+
+# **Structure of a C Program**
+
+A **C program** is divided into **6 sections**:
+
+1. **Documentation Section**
+2. **Link Section**
+3. **Definition Section**
+4. **Global Declaration Section**
+5. **main() Function Section**
+6. **Subprogram Section** (User-defined functions)
+
+---
+
+## **main() Function Section**
+
+``` c
+{
+    Declaration Part
+    Executable Part
+}
+
+
+// * The **declaration part** contains variable declarations
+// * The **executable part** contains statements to be executed
+
+
+
+// Subprogram Section
+// Contains user-defined functions:
+
+
+Function 1
+Function 2
+
+Function n
+```
+
+Reply **next** for Page 17/22.
+
+
+
+### ✅ Page 17/22 — Processed
+
+Below is the **Markdown transcription for Page 17**.
+
+---
+
+# **Documentation Section**
+
+* This part contains information about the program such as **name, purpose, author, and date**.
+* It is written as **comments**, and the compiler **ignores it**.
+
+---
+
+# **Preprocessor Section**
+
+* This section includes header files using the **#include statement**.
+* Header files contain predefined functions like `printf()` and `scanf()`.
+
+---
+
+## **Syntax**
+
+```c
+#include <stdio.h>   // stdio → standard input/output
+#include <math.h>    // math.h → mathematical functions
+```
+
+---
+
+Reply **next** for Page 18/22.
+
+### ✅ Page 18/22 — Processed
+
+Below is the **Markdown transcription for Page 18**.
+
+---
+
+# **Definition Section**
+
+* Used to define **constants** or **macros** before the main program.
+* `#define` keyword is used for constant definitions.
+
+### Example:
+
+```c
+#define PI 3.14
+```
+
+**Note:** Whenever the compiler finds `PI`, it replaces it with `3.14`.
+
+---
+
+# **Global Declaration Section**
+
+* Variables or functions declared here can be **used anywhere in the program**.
+* They are defined **outside the main()** function.
+
+### Example:
+
+```c
+int num = 10;
+```
+
+---
+
+# **main() Function Section**
+
+* This is the **starting point** of every C program.
+* The compiler starts execution from the **main()** function.
+
+---
+
+Reply **next** for Page 19/22.
+
+
+### ✅ Page 19/22 — Processed
+
+Below is the **Markdown transcription for Page 19**.
+
+---
+
+# **main() Function (continued)**
+
+* The main function can return a value (usually **int**).
+
+### **Syntax**
+
+```c
+int main()
+{
+    // variable declaration
+    // logic / process
+    
+    return 0;
+}
+```
+
+### **Note:**
+
+Everything that happens in a C program runs inside the `{ }` of the **main()** function.
+
+---
+
+# **Subprograms (User-Defined Functions)**
+
+* These are functions created by the **programmer** to perform specific tasks.
+* They make programs **modular** and **easier to reuse**.
+
+---
+
+Reply **next** for Page 20/22.
+
+### ✅ Page 21/22 — Processed
+
+Below is the **Markdown transcription for Page 21**.
+
+---
+
+# **I/O Statements in C**
+
+In C, **input and output** are done using certain functions.
+There are **2 types**:
+
+1. **Formatted I/O**
+2. **Unformatted I/O**
+
+---
+
+# **Formatted I/O**
+
+These allow formatted input and output using **format specifiers**.
+
+## **1) printf() → Output**
+
+### Syntax:
+
+```c
+printf("%d", a);
+```
+
+---
+
+# **Common Format Specifiers**
+
+| Format Specifier | Meaning |
+| ---------------- | ------- |
+| `%d`             | int     |
+| `%f`             | float   |
+| `%s`             | string  |
+| `%c`             | char    |
+
+---
+
+Reply **next** for Page 22/22 (final page).
+
+### ✅ Page 22/22 — **Final Page Processed**
+
+Below is the **Markdown transcription for Page 22**.
+
+---
+
+# **More Format Specifiers**
+
+| Format Specifier | Meaning |
+| ---------------- | ------- |
+| `%lf`            | double  |
+
+---
+
+### **Example (double output)**
+
+```c
+int a = 10;
+printf("%d", a);
+```
+
+---
+
+# **2) scanf() → Input**
+
+### **Syntax**
+
+```c
+scanf("format", &variable_name);
+```
+
+---
+
+### **Example**
+
+```c
+int a;
+scanf("%d", &a);
+```
+
+---
+
+# 🎉 **All 22 pages have been fully processed!**
+
+If you want, I can now:
+
+### ✅ Combine all pages into one clean Markdown file
+
+### ✅ Export the Markdown as a `.txt`, `.md`, `.pdf`, `.docx`, etc.
+
+### ✅ Summarize the entire Unit-1
+
+### ✅ Create flashcards / questions / diagrams
+
+### ✅ Prepare a structured study guide
+
+Just tell me what you want next!
+
+
