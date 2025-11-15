@@ -1,5 +1,5 @@
-# The Lost Child *By Mulk 
-Raj Anand*
+# The Lost Child By Mulk 
+Raj Anand
 
 index 
 - [About the author](#about-the-author)
