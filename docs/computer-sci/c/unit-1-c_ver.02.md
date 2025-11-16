@@ -1,17 +1,14 @@
-# **Purpose of C**
-
-Dennis Ritchie developed **C** to make *system software* (like operating systems).
-
-**UNIX** is one of the first operating systems written in **C**, which made it portable and efficient.
+# Purpose of C
+Dennis Ritchie developed **C** to make *system software* (like operating systems). **UNIX** is one of the first operating systems written in **C**, which made it portable and efficient.
 
 # Features of C
-
 C became popular because it:
 1. Combined the efficiency of assembly language with the simplicity of a high-level language.
 2. Allowed writing programs that can run on different computers portable.
 3. Became a foundation for many modern languages, such as C++, Java, and Python.
 
 # Versions of C
+
 | Version | Year | Description                                 |
 | ------- | ---- | ------------------------------------------- |
 | K&R C   | 1978 | First official version (by Dennis Ritchie). |
@@ -21,21 +18,19 @@ C became popular because it:
 | C11       | 2011      | Added multi-threading support                                        |
 | C17 / C18 | 2017–2018 | Minor updates & fixes                                                |
 
-
-
 # Why C is Important?
-1. **It's called the “Mother of Programming Languages.”**
-2. **Many modern languages** like **C++**, **Java**, **C#**, and **Python** were built on concepts of **C**.
+1. It's called the “**Mother of Programming Languages.**”
+2. Many modern languages like **C++**, **Java**, **C#**, and **Python** were built on concepts of C.
 3. **It's still used** in:
-System programming
- * Embedded programming
- * Compilers
- * Operating system development.
+- System programming
+  * Embedded programming
+  * Compilers
+  * Operating system development.
 
 >[!summary]
 > **Developed by:** Dennis Ritchie
 > **Year:** 1972
-> **Place:** Bell Laboratories
+> **Place:** Bell Laboratories (A&T)
 > **Purpose:** To develop the UNIX OS
 > **Derived from:** B & BCPL
 > **Known as:** *Mother of all modern programming languages*
@@ -53,138 +48,169 @@ System programming
 5. **Middle-Level Language** Supports both low-level and high-level programming.
 6. **Modular** Large programs can be broken into smaller functions.
 
+# Tokens In C
+Tokens are the smallest building blocks of a C program. They are like words in a language.
+
+# **Types of Tokens**
+
+1. **Keywords**
+2. **Identifiers**
+3. **Constants**
+4. **Operators**
+5. **Strings**
+6. **Special Symbols**
 
 
-# sC Tokens
-Tokens are the smallest building blocks of a C program.
-They are like words in a language.
+# 1 Keywords
+Keywords are reserved words with special meaning in C.
 
-# Types of Tokens
-1. Keywords
-2. Identifiers
-3. Constants
-4. Operators
-5. Special Symbols (, ; () etc...).
-6. Strings
 
-# Keywords
-* Keywords are reserved words with a special meaning.
-* **Rules:**
-1. You **cannot** use them as variable names.
+Rules
+1. You *cannot* use them as variable names.
 2. They tell the compiler what to do.
-**Examples:** `int`, `float`, `if`, `else`, `for`, `while`, `return`, `char`, `const`.
 
-# **Identifiers**
-Identifiers are **names given by the programmer** to:
+**Examples:** `int`, `float`, `if`, `else`, `for`, `while`, `return`, `char`, `const`, `void`, `switch`.
+
+
+# 2 Identifiers
+Identifiers are **names given by the programmer** to things like:
 * variables
 * functions
 * arrays
-* etc.
+* structures, etc...
 
-**Purpose:**
-They help us identify data in the program.
+**Purpose:** They help identify data and functions in a program.
 
-# Constants
-Constants are values that doses *not* change during a program’s execution.
 
-# Types of Constants
-| Type               | Example                      |
-| ------------------ | ---------------------------- |
-| **Integer Const**  | 10, -5, 2, 3, etc.           |
-| **Floating Const** | 5.55, 7.25, 3.00, 9.24, etc. |
-| **Char Const**     | 'A', 'B', 'C', etc.          |
-| **String Const**   | "My Name"                    |
+# 3 Constants
 
-# Operators in C
-An **operator** is a symbol that tells the compiler to perform a specific operation such as **addition, subtraction, comparison, assignment**, etc.
+Constants are values that **do not change** during program execution.
 
-# Types of Operators in C
+**Types of Constants**
+
+| Type               | Example             |
+| ------------------ | ------------------- |
+| **Integer Const**  | 10, -5, 2, 3        |
+| **Floating Const** | 5.55, 7.25, 9.24    |
+| **Char Const**     | `'A'`, `'B'`, `'C'` |
+| **String Const**   | `"My Name"`         |
+
+---
+
+# **4. Operators in C**
+An **operator** is a symbol that tells the compiler to perform an operation such as **addition, comparison, assignment (+, <, =.)** etc...
+
+**Types of Operators:**
+1. Arithmetic Operators (+, -, *, /, %).
+2. Relational Operators (==, !=, >, <, >=).
+3. Logical Operators (&&, !).
+4. Assignment Operators (=, +=, -=, *=, /=)
+5. Increment & Decrement Operators (i++, --i)
+6. Ternary Operator (? :)
 
 **1. Arithmetic Operators**
-| Operator | Meaning / Example |
-| -------- | ----------------- |
-| `+`      | Addition          |
-| `-`      | Subtraction       |
-| `*`      | Multiplication    |
-| `/`      | Division          |
-| `%`      | Modulus           |
 
+| Operator | Meaning             |
+| -------- | ------------------- |
+| `+`      | Addition            |
+| `-`      | Subtraction         |
+| `*`      | Multiplication      |
+| `/`      | Division            |
+| `%`      | Modulus (remainder) |
 
-**2 Relational Operators**
+**2. Relational Operators**
+
 | Operator | Meaning               |
 | -------- | --------------------- |
-| `==`     | Equal to (comparison) |
+| `==`     | Equal to              |
 | `!=`     | Not equal             |
 | `>`      | Greater than          |
 | `<`      | Less than             |
 | `>=`     | Greater than or equal |
 
+
 **3. Logical Operators**
-| Operator | Meaning / Example                         |
-| -------- | ----------------------------------------- |
-| `&&`     | Logical AND → Example: `(a > 0 && b > 0)` |
-| `!`      | Logical NOT → Example: `!(a > 0)`         |
 
-**4 Assignment Operators**
-| Operator | Meaning / Example                         |
-| -------- | ----------------------------------------- |
-| `=`      | Assigned value → Example: `a = 10`        |
-| `+=`     | Add & assign → Example: `a += 5` (a = 15) |
-| `-=`     | Subtract & assign → Example: `a -= 5`     |
-| `*=`     | Multiply & assign → Example: `a *= 5`     |
-| `/=`     | Divide & assign → Example: `a /= 5`       |
+| Operator | Meaning / Example                |
+| -------- | -------------------------------- |
+| `&&`     | Logical AND → `(a > 0 && b > 0)` |
+| `!`      | Logical NOT → `!(a > 0)`         |
 
-**5 Increment & Decrement Operators**
+
+**4. Assignment Operators**
+
+| Operator | Meaning / Example            |
+| -------- | ---------------------------- |
+| `=`      | Assign value → `a = 10`      |
+| `+=`     | Add & assign → `a += 5`      |
+| `-=`     | Subtract & assign → `a -= 5` |
+| `*=`     | Multiply & assign → `a *= 5` |
+| `/=`     | Divide & assign → `a /= 5`   |
+
+**5. Increment & Decrement Operators**
+
 | Form  | Meaning                                         |
-| ----- | ------------------------------------------------|
-| `i++` | **Post-increment** → First use, then add 1      |
-| `++i` | **Pre-increment** → First add 1, then use       |
-| `i--` | **Post-decrement** → First use, then subtract 1 |
+| ----- | ----------------------------------------------- |
+| `i++` | **Post-increment** → Use first, then add 1      |
+| `++i` | **Pre-increment** → Add 1 first, then use       |
+| `i--` | **Post-decrement** → Use first, then subtract 1 |
 | `--i` | **Pre-decrement** → Subtract 1, then use        |
 
-**6 Ternary Operator**
-Symbol: `? :` can used instead of simple if-else.
+
+**6. Ternary Operator**
+
+Symbol: `? :` It can be used instead of a simple **if–else**.
+
 **Example:**
-``` c
-a = 5
-b = 6
-a > b ? a : b 
-```
-Output:
-``` bash
-6
-```
-**7. Strings** A **string** is a sequence of characters inside **" "**
-
-Properties:
-* Always ends with a **null character (`\0`)** internally
-* Stored as an **array of characters**
-
-Example:
 ```c
-char name[] = 'c';
-printf("%s", name);
+a = 5;
+b = 6;
+a > b ? a : b;
 ```
 
 **Output:**
-``` bash
+
+```
+6
+```
+
+---
+
+# 5. Strings
+A **string** is a sequence of characters enclosed in **double quotes**.
+
+**Properties:**
+* Always ends with a **null character `\0`** internally
+* Stored as an **array of characters**
+
+**Correct Example:**
+```c
+char name[] = "c";
+printf("%s", name);
+```
+**Output:**
+
+```
 c
 ```
 
-**8. Special Symbols**
-| Symbol                 | Meaning                         |
-| ---------------------- | ------------------------------- |
-| `;`                    | End of statement                |
-| `{ }`                  | Start & end of block / function |
-| `( )`                  | Used in functions & conditions  |
-| `[ ]`                  | Arrays                          |
-| `,`                    | Separator between variables     |
-| `#` (e.g., `#include`) | Preprocessor directive          |
-| `' '`                  | Character constant              |
-| `" "`                  | String constant                 |
-| `\`                    | Escape character                |
+Fixed: strings must use **double quotes**, not single quotes.*
 
-# **Variables in C**
+# 6. Special Symbols
+
+| Symbol | Meaning                             |
+| ------ | ----------------------------------- |
+| `;`    | End of statement                    |
+| `{ }`  | Start & end of block / function     |
+| `( )`  | Used in functions & conditions      |
+| `[ ]`  | Arrays                              |
+| `,`    | Separator between variables         |
+| `#`    | Preprocessor directive (`#include`) |
+| `' '`  | Character constant                  |
+| `" "`  | String constant                     |
+| `\`    | Escape character                    |
+
+# Variables in C
 A variable is a **named memory location** used to store data that can change.
 
 **Why Variables Are Needed?** Variables store data during program execution.
@@ -215,15 +241,9 @@ b = 10.5;
 c = 'M';
 stockerid = "SSzxxc1";
 ```
-### ✅ Page 11/22 — Processed
 
-Below is the **Markdown transcription for Page 11**.
-
----
-
-# **Rules for Naming Variables**
-
-### ✅ 1. Must start with a **letter (a–z or A–Z)** or **underscore (_)**
+# Rules for Naming Variables
+Must start with a **letter (a–z or A–Z)** or **underscore (_)**
 
 * `1a = 10;` → ❌ Invalid
 * `A = 10;` → ✔️ Valid
@@ -236,65 +256,40 @@ Examples of valid identifiers:
 int age;
 int _height;
 ```
-
----
-
-### ✅ 2. Can contain only:
-
+Can contain only:
 * letters
 * digits
 * underscores `_`
 
-#### Examples:
+**Examples:**
 
 | Valid              | Invalid           |
 | ------------------ | ----------------- |
 | `int total_marks;` | `int total-mark;` |
 | `int sum1;`        | `int price#;`     |
 
----
-
-### ✅ 3. No spaces allowed
+**No spaces allowed**
 
 | Valid              | Invalid            |
 | ------------------ | ------------------ |
 | `int total_marks;` | `int total marks;` |
 
----
+**Cannot use keywords**: 
+Examples: `int`, `float`, `if`, `else` cannot be used as variable names
 
-### ✅ 4. Cannot use keywords
-
-(Examples: `int`, `float`, `if`, `else` cannot be used as variable names)
-
----
-
-Reply **next** for Page 12/22.
-
-### ✅ Page 12/22 — Processed
-
-Below is the **Markdown transcription for Page 12**.
-
----
-
-# **More Rules for Naming Variables**
-
-## **1. Case Sensitive**
-
+**Case Sensitive**
 C is a **case-sensitive language**, meaning uppercase and lowercase letters are treated as **different variables**.
 
 Example:
-
 ```c
 int age = 10;
 Age = 25;
 printf("%d", age);   // Output: 10
 ```
-
+> [!note]
 Here, `age` and `Age` are different.
 
----
-
-## **2. No Special Characters Allowed (Except Underscore _)**
+**No Special Characters Allowed (Except Underscore  `_`)**
 
 You *cannot* use characters like:
 * `@`
@@ -304,44 +299,27 @@ You *cannot* use characters like:
 * `$`
 
 **Examples:**
+
 | Valid         | Invalid       |
 | ------------- | ------------- |
 | `total_marks` | `total-marks` |
 | `sum1`        | `sum@`        |
 
----
-
-## **3. Length of Variable Name**
-
-(Continues on next page)
-
-
-
 **Length of Variable Name**
-
 There is **no strict limit**, but most compilers recognize only the **first 31 characters**.
 
----
-
-# **Meaningful and Readable Names**
-
-Use meaningful names.
-
-❌ Avoid:
-
+**Meaningful and Readable Names**
+Use meaningful names. Avoid:
 ```c
 int a, b, c;   // Meaningless
 ```
 
 # Data Types
-
 Data types define:
 * what kind of data a variable can store
 * how much memory it occupies
 
-
-
-# **1) Primitive Data Types**
+# 1 Primitive Data Types
 
 | Data Type  | Size (bytes) | Format Specifier | Example            |
 | ---------- | ------------ | ---------------- | ------------------ |
@@ -350,10 +328,7 @@ Data types define:
 | **double** | 8            | `%lf`            | `double d = 8.54;` |
 | **char**   | 1            | `%c`             | `char c = 'M';`    |
 
-
-
-
-# **2) Derived Data Types**
+# 2. Derived Data Types
 
 | Derived Type     | Definition                                             | Example                              |
 | ---------------- | ------------------------------------------------------ | ------------------------------------ |
@@ -363,16 +338,16 @@ Data types define:
 | **4. Union**     | Shares the same memory location                        | `c union info {   ... }; `           |
 | **5. Function**  | Returns a value after execution                        | `c int add(int a, int b) {   ... } ` |
 
----
+# 3. User-Defined Data Types
 
-
-**User-Defined Data Types**
 | Keyword     | Definition                           | Example                               |
 | ----------- | ------------------------------------ | ------------------------------------- |
 | **typedef** | Gives a new name to an existing type | `c typedef int num; `                 |
 | **enum**    | Defines a set of named constants     | `c enum day { Mon, Tue, Wed, ... }; ` |
+|             |                                      |                                       |
 
 **Data Type Modifiers** Used to **change the size or range** of basic data types.
+
 | Modifier     | Used With   | Example            |
 | ------------ | ----------- | ------------------ |
 | **short**    | int         | `short int a;`     |
@@ -388,12 +363,9 @@ A **C program** is divided into **6 sections**:
 3. **Definition Section**
 4. **Global Declaration Section**
 5. **main() Function Section**
-6. **Subprogram Section** (User-defined functions)
+6. **Sub-program Section** (User-defined functions)
 
----
-
-## **main() Function Section**
-
+**main() Function Section**
 ``` c
 {
     Declaration Part
@@ -424,7 +396,7 @@ Function n
 * Header files contain predefined functions like `printf()` and `scanf()`.
 
 **Syntax**
-```c
+```c#
 #include <stdio.h>   // stdio → standard input/output
 #include <math.h>    // math.h → mathematical functions
 ```
@@ -474,7 +446,6 @@ int main()
 * They make programs **modular** and **easier to reuse**.
 
 # I/O Statements in C
-
 In C, **input and output** are done using certain functions.
 There are **2 types**:
 1. **Formatted I/O**
@@ -482,7 +453,6 @@ There are **2 types**:
 
 # Formatted I/O
 These allow formatted input and output using **format specifiers**.
-
 **1) printf() → Output**
 **Syntax**:
 ```c
