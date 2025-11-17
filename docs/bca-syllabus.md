@@ -298,14 +298,14 @@ Unit I. AI and its Subfields
 Applications of AI, Challenges in AI.
 - Knowledge Engineering, Machine Learning, Computer Vision, Natural Language Processing,
 Robotics.
----
+
 Unit 2. Applications of AI
 - Healthcare, Finance, Retail, Agriculture, Education, Transportation.
----
+
 Unit 3. Bias and Fairness in AI Systems
 - Ethics in AI, Bias and Fairness in AI Systems, Transparency in AI Systems, Accountability, Security,
 Privacy, Inclusivity, Sustainability, Robustness, Reliability.
----
+
 Unit 4. AI in Research, Generative AI and prompt engineering
 AI in Experimentation and Multi-disciplinary research, Generative AI introduction, ChatGPT,
 Hugging Face, Gemini and other tools basics, Perplexity, Prompt engineering Definition and its
