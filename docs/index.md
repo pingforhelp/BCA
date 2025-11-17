@@ -9,11 +9,11 @@ Browse by subject below to find study material, exercises, and helpful reference
 
 ## 🧮 Computer Fundamentals
 - [Unit 1](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
-- [N/W Unit-2](/computer-sci/computer-fundamentals/unit-2.md)
+- [N/W Unit-2](./computer-sci/computer-fundamentals/unit-2.md)
 - [Office Automation Unit-3](./computer-sci/computer-fundamentals/office_automation.md)
 
 # ⚙️ Problem Solving Using C
-- [Unit 1](./computer-sci/c/u-1c.md)
+- [Unit 1](./computer-sci/c/u-1c.md) [ver.02](./computer-sci/c/.md)
 - [Unit 2](./computer-sci/c/u-2c.md)
 - [Unit 3](./computer-sci/c/u-2c.md)
 
