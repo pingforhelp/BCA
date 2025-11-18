@@ -34,6 +34,10 @@ Browse by subject below to find study material, exercises, and helpful reference
 - [Ch-01 Short Story: The Lost Child *by Mulk Raj Anand*](./english/Unit-II/chapter-01.md)
 - [Ch-02 A letter to the teacher](./english/Unit-II/chapter-02.md)
 
+# ? AI
+- [unit-1](docs/AI/u-1.md)
+
+
 
 
 
