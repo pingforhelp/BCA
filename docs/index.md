@@ -35,7 +35,7 @@ Browse by subject below to find study material, exercises, and helpful reference
 - [Ch-02 A letter to the teacher](./english/Unit-II/chapter-02.md)
 
 # ? AI
-- [unit-1](docs/AI/u-1.md)
+- [unit-1](./AI/u-1.md)
 
 
 
