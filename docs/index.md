@@ -1,11 +1,4 @@
-# 🧭 Welcome to BCA Docs
-
-This site contains **notes and resources** for the **Bachelor of Computer Applications (BCA)** course.  
-Browse by subject below to find study material, exercises, and helpful references.
-
----
-
-# 📚 BCA Course Materials
+# 📚  Notes
 
 # 🧮 Computer Fundamentals
 - [Unit 1](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
@@ -34,12 +27,4 @@ Browse by subject below to find study material, exercises, and helpful reference
 - [Ch-02 A letter to the teacher](./english/Unit-II/chapter-02.md)
 
 # ? AI
-- [unit-1](./AI/u-1.md)
-
-
-
-
-
-
------
-[Syllabus Paper](./bca-syllabus.md) | [E-mail](mailto:tamimtasira@gmail.com) | [License](https://github.com/pingforhelp/BCA/blob/main/LICENSE)
+- [unit-1](./AI/u-1.md) | [Overview](./AI/Overview.md)
