@@ -280,9 +280,7 @@ flowchart TD
     D --> D6[Data Privacy]
 ```
 
----
-
-## **6. Transport**
+**6. Transport**
 
 ```mermaid
 flowchart TD
