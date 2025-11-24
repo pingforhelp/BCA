@@ -1,6 +1,6 @@
 
 > [!info]
-> j Ironically this very doc was made by AI. I have just added "better/right" examples because the original ones for referring Software 'Apps' instead AI.
+> Ironically this very doc was made by AI. I have just added "better/right" examples because the original ones werereferring Software 'Apps' instead AI.
 
 # Unit-I
 
@@ -144,154 +144,168 @@ flowchart TD
 **1. Healthcare**
 
 ```mermaid
-mindmap
-  root((Healthcare))
-    Applications
-      "Disease Diagnosis (X-rays)"
-      "Drug Discovery"
-      "Surgery"
-      "Virtual Health"
-      "Epidemic"
-    "Why AI?"
-      "Early Disease Detection"
-      "Error Reduction"
-      "Handling Big Data"
-      "Faster Drug Development"
-      "Support in Rural Areas"
-    Challenges
-      "Data Privacy"
-      "High Cost"
-      "Dependence on Quality Data"
-      "Job Concerns"
+flowchart TD
+    A[Healthcare]
+
+    A --> B[Applications]
+    B --> B1[Disease Diagnosis (X-rays)]
+    B --> B2[Drug Discovery]
+    B --> B3[Surgery]
+    B --> B4[Virtual Health]
+    B --> B5[Epidemic Prediction]
+
+    A --> C[Why AI?]
+    C --> C1[Early Detection]
+    C --> C2[Error Reduction]
+    C --> C3[Handling Big Data]
+    C --> C4[Faster Drug Development]
+    C --> C5[Support in Rural Areas]
+
+    A --> D[Challenges]
+    D --> D1[Data Privacy]
+    D --> D2[High Cost]
+    D --> D3[Dependence on Quality Data]
+    D --> D4[Job Concerns]
+```
+**2. Finance**
+
+```mermaid
+flowchart TD
+    A[Finance]
+
+    A --> B[Applications]
+    B --> B1[Fraud Detection]
+    B --> B2[Loans]
+    B --> B3[Algorithms]
+    B --> B4[Customer Support (SBI Yono)]
+    B --> B5[Insurance Industry]
+
+    A --> C[Why AI?]
+    C --> C1[Fraud Reduction]
+    C --> C2[Speed]
+    C --> C3[Cost Reduction]
+    C --> C4[Risk Management]
+
+    A --> D[Challenges]
+    D --> D1[Data Privacy]
+    D --> D2[High Cost]
+    D --> D3[Job Loss]
+    D --> D4[Dependence on Technology]
+```
+
+
+**3. Retail**
+
+```mermaid
+flowchart TD
+    A[Retail]
+
+    A --> B[Why AI?]
+    B --> B1[Personalized Shopping]
+    B --> B2[Inventory Management]
+    B --> B3[Fraud Prevention]
+    B --> B4[Faster Customer Support]
+    B --> B5[Improved Decision Making]
+
+    A --> C[Applications]
+    C --> C1[Product Recommendation]
+    C --> C2[Customer Service (24/7)]
+    C --> C3[Supply Chain Management]
+    C --> C4[Dynamic Pricing]
+    C --> C5[Fraud Detection]
+
+    A --> D[Challenges]
+    D --> D1[High Cost]
+    D --> D2[Job Concerns]
+    D --> D3[Data Privacy]
+    D --> D4[Customer Trust]
+    D --> D5[Dependence on Internet]
+```
+
+**4. Agriculture**
+
+```mermaid
+flowchart TD
+    A[Agriculture]
+
+    A --> B[Why AI?]
+    B --> B1[Smart Farming]
+    B --> B2[Disease Detection]
+    B --> B3[Weather Prediction]
+    B --> B4[Soil & Crop Monitoring]
+    B --> B5[Market Price Prediction]
+
+    A --> C[Applications]
+    C --> C1[Crop Monitor (Plantix)]
+    C --> C2[Precision Farming (Smart Irrigation)]
+    C --> C3[Weather Prediction (IBM)]
+    C --> C4[Robotic Farming]
+    C --> C5[Livestock Monitoring]
+
+    A --> D[Challenges]
+    D --> D1[High Cost]
+    D --> D2[Job Concerns]
+    D --> D3[Data Privacy]
+    D --> D4[Customer Trust]
+    D --> D5[Dependence on Internet]
+```
+
+
+**5. Education**
+
+```mermaid
+flowchart TD
+    A[Education]
+
+    A --> B[Why AI?]
+    B --> B1[Personalized Learning]
+    B --> B2[24/7 Availability]
+    B --> B3[Quick Assessment]
+    B --> B4[Bridging Gaps]
+    B --> B5[Reducing Teacher Workload]
+
+    A --> C[Applications]
+    C --> C1[Personalized Learning Apps]
+    C --> C2[Intelligent Tutoring (Duolingo)]
+    C --> C3[Automated Grading]
+    C --> C4[Virtual Classrooms / Chatbots]
+    C --> C5[Special Education Support]
+
+    A --> D[Challenges]
+    D --> D1[Job Loss]
+    D --> D2[High Cost]
+    D --> D3[Digital Divide]
+    D --> D4[Reduced Human Interaction]
+    D --> D5[Dependence on Technology]
+    D --> D6[Data Privacy]
 ```
 
 ---
 
-**2️. Finance**
+## **6. Transport**
 
 ```mermaid
-mindmap
-  root((Finance))
-    Applications
-      "Fraud Detection"
-      "Loans"
-      "Algorithms"
-      "Customer Support (SBI Yono)"
-      "Insurance Industry"
-    "Why AI?"
-      "Fraud ↓"
-      "Speed"
-      "Cost Reduction"
-      "Risk Management"
-    Challenges
-      "Data Privacy"
-      "High Cost"
-      "Job Loss"
-      "Dependence on Technology"
+flowchart TD
+    A[Transport]
+
+    A --> B[Why AI?]
+    B --> B1[Traffic is Complex]
+    B --> B2[Safety is Important]
+    B --> B3[Efficiency Needed]
+    B --> B4[Future Transport System]
+
+    A --> C[Applications]
+    C --> C1[Self-Driving Vehicles]
+    C --> C2[Traffic Management Systems]
+    C --> C3[Air Transport Automation]
+    C --> C4[Railway Automation]
+    C --> C5[Smart Transport (Drones)]
+
+    A --> D[Challenges]
+    D --> D1[Job Loss]
+    D --> D2[High Cost]
+    D --> D3[Digital Divide]
+    D --> D4[Dependence on Technology]
+    D --> D5[Data Privacy]
 ```
-
-
-
-**3️. Retail**
-
-```mermaid
-mindmap
-  root((Retail))
-    "Why AI?"
-      "Personalized Shopping"
-      "Better Inventory Management"
-      "Fraud Prevention"
-      "Faster Customer Support"
-      "Improved Decision Making"
-    Applications
-      "Product Recommendation (Amazon, Flipkart)"
-      "Customer Service (24/7, tracking, refunds)"
-      "Supply Chain Management"
-      "Dynamic Pricing (Airlines, Hotels)"
-      "Fraud Detection (Fake Orders)"
-    Challenges
-      "High Cost"
-      "Job Concerns"
-      "Data Privacy"
-      "Customer Trust"
-      "Dependence on Internet"
-```
-
-**4️. Agriculture**
-
-```mermaid
-mindmap
-  root((Agriculture))
-    "Why AI?"
-      "Smart Farming"
-      "Disease Detection"
-      "Weather Prediction"
-      "Soil & Crop Monitoring"
-      "Market Price Prediction"
-    Applications
-      "Crop Monitor (Plantix)"
-      "Precision Farming (Smart Irrigation)"
-      "Weather & Import Prediction (IBM)"
-      "Robotic Farming"
-      "Livestock Monitoring"
-    Challenges
-      "High Cost"
-      "Job Concerns"
-      "Data Privacy"
-      "Customer Trust"
-      "Dependence on Internet"
-```
-
-**5️. Education**
-
-```mermaid
-mindmap
-  root((Education))
-    "Why AI?"
-      "Personalized Learning"
-      "24/7 Availability"
-      "Quick Assessment"
-      "Bridging Gaps"
-      "Reducing Teacher Workload"
-    Applications
-      "Personalized Learning (BYJU’S, Khan Academy)"
-      "Intelligent Tutoring (Duolingo)"
-      "Automated Grading"
-      "Virtual Classroom / Chatbots"
-      "Special Education Support (Text-to-Speech)"
-    Challenges
-      "Job Loss"
-      "High Cost"
-      "Digital Divide"
-      "Reduced Human Interaction"
-      "Dependence on Technology"
-      "Data Privacy"
-```
-
----
-
-**6️. Transport**
-
-```mermaid
-mindmap
-  root((Transport))
-    "Why AI?"
-      "Traffic is Complex"
-      "Safety is Important"
-      "Efficiency is Needed"
-      "Future Transport System"
-    Applications
-      "Self Driving (Tesla, Google)"
-      "Traffic Management Systems"
-      "Air Transport (boarding, luggage)"
-      "Railways (ticketing, support)"
-      "Smart Transport (Amazon Drones)"
-    Challenges
-      "Job Loss"
-      "High Cost"
-      "Digital Divide"
-      "Dependence on Technology"
-      "Data Privacy"
-```
-
 
