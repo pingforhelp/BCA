@@ -1,6 +1,6 @@
 
 > [!info]
-> Ironically this very doc was made by AI. I have just added "better/right" examples because the original ones werereferring Software 'Apps' instead AI.
+> Ironically this very doc was made by AI.
 
 # Unit-I
 
@@ -193,7 +193,7 @@ Copy and paste EXACTLY this into your page:
 
 # Unit–II
 
-## 1. Healthcare
+**1. Healthcare**
 
 ```mermaid
 flowchart TD
@@ -219,7 +219,7 @@ flowchart TD
 
 ---
 
-## 2. Finance
+**2. Finance**
 
 ```mermaid
 flowchart TD
@@ -244,7 +244,7 @@ flowchart TD
 
 ---
 
-## 3. Retail
+**3. Retail**
 
 ```mermaid
 flowchart TD
@@ -271,7 +271,7 @@ flowchart TD
 
 ---
 
-## 4. Agriculture
+**4. Agriculture**
 
 ```mermaid
 flowchart TD
@@ -298,7 +298,7 @@ flowchart TD
 
 ---
 
-## 5. Education
+**5. Education**
 
 ```mermaid
 flowchart TD
@@ -326,7 +326,7 @@ flowchart TD
 
 ---
 
-## 6. Transport
+**6. Transport**
 
 ```mermaid
 flowchart TD
