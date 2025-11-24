@@ -144,53 +144,50 @@ flowchart TD
 **1. Healthcare**
 
 ```mermaid
-flowchart TD
-    A[Healthcare]
+ flowchart TD
+    H["Healthcare"]
 
-    A --> B[Applications]
-    B --> B1[Disease Diagnosis (X-rays)]
-    B --> B2[Drug Discovery]
-    B --> B3[Surgery]
-    B --> B4[Virtual Health]
-    B --> B5[Epidemic Prediction]
+    H --> HA["Applications"]
+    HA --> HA1["Disease Diagnosis"]
+    HA --> HA2["Drug Discovery"]
+    HA --> HA3["Surgery"]
+    HA --> HA4["Virtual Health"]
+    HA --> HA5["Epidemic Prediction"]
 
-    A --> C[Why AI?]
-    C --> C1[Early Detection]
-    C --> C2[Error Reduction]
-    C --> C3[Handling Big Data]
-    C --> C4[Faster Drug Development]
-    C --> C5[Support in Rural Areas]
+    H --> HB["Why AI"]
+    HB --> HB1["Early Detection"]
+    HB --> HB2["Error Reduction"]
+    HB --> HB3["Big Data Handling"]
+    HB --> HB4["Faster Drug Development"]
+    HB --> HB5["Rural Support"]
 
-    A --> D[Challenges]
-    D --> D1[Data Privacy]
-    D --> D2[High Cost]
-    D --> D3[Dependence on Quality Data]
-    D --> D4[Job Concerns]
+    H --> HC["Challenges"]
+    HC --> HC1["Data Privacy"]
+    HC --> HC2["High Cost"]
+    HC --> HC3["Quality Data Dependence"]
+    HC --> HC4["Job Concerns"]
 ```
 **2. Finance**
 
 ```mermaid
 flowchart TD
-    A[Finance]
-
-    A --> B[Applications]
-    B --> B1[Fraud Detection]
-    B --> B2[Loans]
-    B --> B3[Algorithms]
-    B --> B4[Customer Support (SBI Yono)]
-    B --> B5[Insurance Industry]
-
-    A --> C[Why AI?]
-    C --> C1[Fraud Reduction]
-    C --> C2[Speed]
-    C --> C3[Cost Reduction]
-    C --> C4[Risk Management]
-
-    A --> D[Challenges]
-    D --> D1[Data Privacy]
-    D --> D2[High Cost]
-    D --> D3[Job Loss]
-    D --> D4[Dependence on Technology]
+F["Finance"]
+F --> FA["Applications"]
+FA --> FA1["Fraud Detection"]
+FA --> FA2["Loans"]
+FA --> FA3["Algorithms"]
+FA --> FA4["Customer Support"]
+FA --> FA5["Insurance Sector"]
+F --> FB["Why AI"]
+FB --> FB1["Fraud Reduction"]
+FB --> FB2["Speed"]
+FB --> FB3["Cost Reduction"]
+FB --> FB4["Risk Management"]
+F --> FC["Challenges"]
+FC --> FC1["Data Privacy"]
+FC --> FC2["High Cost"]
+FC --> FC3["Job Loss"]
+FC --> FC4["Tech Dependence"]
 ```
 
 
