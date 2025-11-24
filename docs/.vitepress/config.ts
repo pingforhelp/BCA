@@ -102,28 +102,16 @@ export default withMermaid(
         { text: "Computer Sci", link: "/computer-sci/" }
       ],
 
-      sidebar: {
-        "/computer-sci/": [
-          {
-            text: "Computer Science",
-            items: [
-              { text: "Overview", link: "/computer-sci/" },
-              { text: "C Programming", link: "/computer-sci/c/" }
-            ]
-          }
-        ]
-      },
-
+  
       socialLinks: [
         { icon: "github", link: "https://github.com/pingforhelp/BCA" },
         { icon: "linkedin", link: "https://linkedin.com/in/tamimtasira" },
-        { icon: "twitter", link: "https://x.com/TamimTweets" }
+        { icon: "twitter", link: "https://x.com/Tamim_056" }
       ],
 
       search: { provider: "local" },
 
       footer: {
-        message: "Released under MIT License.",
         copyright: "© 2025 Notes.Tamim's.Space"
       }
     }
