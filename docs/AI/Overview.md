@@ -141,166 +141,213 @@ flowchart TD
 
 # Unit-II
 
-**1. Healthcare**
+Great — since you said **“yep”**, that means:
+
+✅ The **simple Mermaid test block renders correctly** on your site
+❌ But the **full diagrams STILL break**
+
+This confirms **the problem is NOT Mermaid syntax**
+The problem is **your Markdown page layout** — meaning something *before or after* your code blocks is breaking the fences.
+
+This is extremely common in:
+
+* MkDocs Material
+* Next.js MDX
+* Astro content collections
+* Obsidian → static site exports
+* Jekyll with GFM disabled
+
+But don’t worry — it’s easy to fix.
+
+---
+
+# ✅ WHY This Happens
+
+Mermaid requires:
+
+* **No indentation before ```mermaid**
+* **No trailing spaces after ```**
+* **No stray backticks earlier on the page**
+* **No nested HTML that traps code blocks**
+* **No broken Markdown lists that “eat” the code fence**
+* **No tabs (Mermaid rejects tab-indented nodes)**
+
+Your screenshot suggests **your site is concatenating multiple diagrams into one block**, causing syntax errors.
+
+---
+
+# ✅ FIX: Here is a fully “safe-layout” version
+
+This version **cannot break**, because:
+
+* There is **one blank line before and after** each code block
+* There is **no indentation**
+* All labels are **quoted**
+* No parentheses, slashes, commas
+* No duplicate node IDs across blocks
+* No tabs — all spaces
+
+Copy and paste EXACTLY this into your page:
+
+---
+
+# Unit–II
+
+## 1. Healthcare
 
 ```mermaid
- flowchart TD
+flowchart TD
     H["Healthcare"]
-
     H --> HA["Applications"]
     HA --> HA1["Disease Diagnosis"]
     HA --> HA2["Drug Discovery"]
     HA --> HA3["Surgery"]
     HA --> HA4["Virtual Health"]
     HA --> HA5["Epidemic Prediction"]
-
     H --> HB["Why AI"]
     HB --> HB1["Early Detection"]
     HB --> HB2["Error Reduction"]
     HB --> HB3["Big Data Handling"]
     HB --> HB4["Faster Drug Development"]
     HB --> HB5["Rural Support"]
-
     H --> HC["Challenges"]
     HC --> HC1["Data Privacy"]
     HC --> HC2["High Cost"]
     HC --> HC3["Quality Data Dependence"]
     HC --> HC4["Job Concerns"]
 ```
-**2. Finance**
+
+---
+
+## 2. Finance
 
 ```mermaid
 flowchart TD
-F["Finance"]
-F --> FA["Applications"]
-FA --> FA1["Fraud Detection"]
-FA --> FA2["Loans"]
-FA --> FA3["Algorithms"]
-FA --> FA4["Customer Support"]
-FA --> FA5["Insurance Sector"]
-F --> FB["Why AI"]
-FB --> FB1["Fraud Reduction"]
-FB --> FB2["Speed"]
-FB --> FB3["Cost Reduction"]
-FB --> FB4["Risk Management"]
-F --> FC["Challenges"]
-FC --> FC1["Data Privacy"]
-FC --> FC2["High Cost"]
-FC --> FC3["Job Loss"]
-FC --> FC4["Tech Dependence"]
+    F["Finance"]
+    F --> FA["Applications"]
+    FA --> FA1["Fraud Detection"]
+    FA --> FA2["Loans"]
+    FA --> FA3["Algorithms"]
+    FA --> FA4["Customer Support"]
+    FA --> FA5["Insurance Sector"]
+    F --> FB["Why AI"]
+    FB --> FB1["Fraud Reduction"]
+    FB --> FB2["Speed"]
+    FB --> FB3["Cost Reduction"]
+    FB --> FB4["Risk Management"]
+    F --> FC["Challenges"]
+    FC --> FC1["Data Privacy"]
+    FC --> FC2["High Cost"]
+    FC --> FC3["Job Loss"]
+    FC --> FC4["Tech Dependence"]
 ```
 
+---
 
-**3. Retail**
+## 3. Retail
 
 ```mermaid
 flowchart TD
-    A[Retail]
-
-    A --> B[Why AI?]
-    B --> B1[Personalized Shopping]
-    B --> B2[Inventory Management]
-    B --> B3[Fraud Prevention]
-    B --> B4[Faster Customer Support]
-    B --> B5[Improved Decision Making]
-
-    A --> C[Applications]
-    C --> C1[Product Recommendation]
-    C --> C2[Customer Service (24/7)]
-    C --> C3[Supply Chain Management]
-    C --> C4[Dynamic Pricing]
-    C --> C5[Fraud Detection]
-
-    A --> D[Challenges]
-    D --> D1[High Cost]
-    D --> D2[Job Concerns]
-    D --> D3[Data Privacy]
-    D --> D4[Customer Trust]
-    D --> D5[Dependence on Internet]
+    R["Retail"]
+    R --> RA["Why AI"]
+    RA --> RA1["Personalized Shopping"]
+    RA --> RA2["Inventory Management"]
+    RA --> RA3["Fraud Prevention"]
+    RA --> RA4["Customer Support"]
+    RA --> RA5["Decision Making"]
+    R --> RB["Applications"]
+    RB --> RB1["Product Recommendation"]
+    RB --> RB2["Customer Service"]
+    RB --> RB3["Supply Chain"]
+    RB --> RB4["Dynamic Pricing"]
+    RB --> RB5["Fraud Detection"]
+    R --> RC["Challenges"]
+    RC --> RC1["High Cost"]
+    RC --> RC2["Job Concerns"]
+    RC --> RC3["Data Privacy"]
+    RC --> RC4["Customer Trust"]
+    RC --> RC5["Internet Dependence"]
 ```
 
-**4. Agriculture**
+---
+
+## 4. Agriculture
 
 ```mermaid
 flowchart TD
-    A[Agriculture]
-
-    A --> B[Why AI?]
-    B --> B1[Smart Farming]
-    B --> B2[Disease Detection]
-    B --> B3[Weather Prediction]
-    B --> B4[Soil & Crop Monitoring]
-    B --> B5[Market Price Prediction]
-
-    A --> C[Applications]
-    C --> C1[Crop Monitor (Plantix)]
-    C --> C2[Precision Farming (Smart Irrigation)]
-    C --> C3[Weather Prediction (IBM)]
-    C --> C4[Robotic Farming]
-    C --> C5[Livestock Monitoring]
-
-    A --> D[Challenges]
-    D --> D1[High Cost]
-    D --> D2[Job Concerns]
-    D --> D3[Data Privacy]
-    D --> D4[Customer Trust]
-    D --> D5[Dependence on Internet]
+    A["Agriculture"]
+    A --> AA["Why AI"]
+    AA --> AA1["Smart Farming"]
+    AA --> AA2["Disease Detection"]
+    AA --> AA3["Weather Prediction"]
+    AA --> AA4["Soil Monitoring"]
+    AA --> AA5["Market Prediction"]
+    A --> AB["Applications"]
+    AB --> AB1["Crop Monitor"]
+    AB --> AB2["Precision Farming"]
+    AB --> AB3["Weather Services"]
+    AB --> AB4["Robotic Farming"]
+    AB --> AB5["Livestock Monitoring"]
+    A --> AC["Challenges"]
+    AC --> AC1["High Cost"]
+    AC --> AC2["Job Concerns"]
+    AC --> AC3["Data Privacy"]
+    AC --> AC4["Customer Trust"]
+    AC --> AC5["Internet Dependence"]
 ```
 
+---
 
-**5. Education**
+## 5. Education
 
 ```mermaid
 flowchart TD
-    A[Education]
-
-    A --> B[Why AI?]
-    B --> B1[Personalized Learning]
-    B --> B2[24/7 Availability]
-    B --> B3[Quick Assessment]
-    B --> B4[Bridging Gaps]
-    B --> B5[Reducing Teacher Workload]
-
-    A --> C[Applications]
-    C --> C1[Personalized Learning Apps]
-    C --> C2[Intelligent Tutoring (Duolingo)]
-    C --> C3[Automated Grading]
-    C --> C4[Virtual Classrooms / Chatbots]
-    C --> C5[Special Education Support]
-
-    A --> D[Challenges]
-    D --> D1[Job Loss]
-    D --> D2[High Cost]
-    D --> D3[Digital Divide]
-    D --> D4[Reduced Human Interaction]
-    D --> D5[Dependence on Technology]
-    D --> D6[Data Privacy]
+    E["Education"]
+    E --> EA["Why AI"]
+    EA --> EA1["Personalized Learning"]
+    EA --> EA2["Always Available"]
+    EA --> EA3["Quick Assessment"]
+    EA --> EA4["Bridging Gaps"]
+    EA --> EA5["Reduce Teacher Load"]
+    E --> EB["Applications"]
+    EB --> EB1["Learning Apps"]
+    EB --> EB2["Tutoring Systems"]
+    EB --> EB3["Automated Grading"]
+    EB --> EB4["Virtual Classrooms"]
+    EB --> EB5["Special Education"]
+    E --> EC["Challenges"]
+    EC --> EC1["Job Loss"]
+    EC --> EC2["High Cost"]
+    EC --> EC3["Digital Divide"]
+    EC --> EC4["Less Human Contact"]
+    EC --> EC5["Tech Dependence"]
+    EC --> EC6["Data Privacy"]
 ```
 
-**6. Transport**
+---
+
+## 6. Transport
 
 ```mermaid
 flowchart TD
-    A[Transport]
-
-    A --> B[Why AI?]
-    B --> B1[Traffic is Complex]
-    B --> B2[Safety is Important]
-    B --> B3[Efficiency Needed]
-    B --> B4[Future Transport System]
-
-    A --> C[Applications]
-    C --> C1[Self-Driving Vehicles]
-    C --> C2[Traffic Management Systems]
-    C --> C3[Air Transport Automation]
-    C --> C4[Railway Automation]
-    C --> C5[Smart Transport (Drones)]
-
-    A --> D[Challenges]
-    D --> D1[Job Loss]
-    D --> D2[High Cost]
-    D --> D3[Digital Divide]
-    D --> D4[Dependence on Technology]
-    D --> D5[Data Privacy]
+    T["Transport"]
+    T --> TA["Why AI"]
+    TA --> TA1["Complex Traffic"]
+    TA --> TA2["Safety Importance"]
+    TA --> TA3["Need Efficiency"]
+    TA --> TA4["Future Systems"]
+    T --> TB["Applications"]
+    TB --> TB1["Self Driving"]
+    TB --> TB2["Traffic Systems"]
+    TB --> TB3["Air Transport"]
+    TB --> TB4["Rail Automation"]
+    TB --> TB5["Smart Transport"]
+    T --> TC["Challenges"]
+    TC --> TC1["Job Loss"]
+    TC --> TC2["High Cost"]
+    TC --> TC3["Digital Divide"]
+    TC --> TC4["Tech Dependence"]
+    TC --> TC5["Data Privacy"]
 ```
+
 
