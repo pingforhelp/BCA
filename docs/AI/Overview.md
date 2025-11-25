@@ -161,35 +161,6 @@ But don’t worry — it’s easy to fix.
 
 ---
 
-# ✅ WHY This Happens
-
-Mermaid requires:
-
-* **No indentation before ```mermaid**
-* **No trailing spaces after ```**
-* **No stray backticks earlier on the page**
-* **No nested HTML that traps code blocks**
-* **No broken Markdown lists that “eat” the code fence**
-* **No tabs (Mermaid rejects tab-indented nodes)**
-
-Your screenshot suggests **your site is concatenating multiple diagrams into one block**, causing syntax errors.
-
----
-
-# ✅ FIX: Here is a fully “safe-layout” version
-
-This version **cannot break**, because:
-
-* There is **one blank line before and after** each code block
-* There is **no indentation**
-* All labels are **quoted**
-* No parentheses, slashes, commas
-* No duplicate node IDs across blocks
-* No tabs — all spaces
-
-Copy and paste EXACTLY this into your page:
-
----
 
 # Unit–II
 
@@ -349,5 +320,7 @@ flowchart TD
     TC --> TC4["Tech Dependence"]
     TC --> TC5["Data Privacy"]
 ```
+
+7. Others
 
 
