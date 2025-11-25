@@ -324,7 +324,41 @@ flowchart TD
 **7. Others**
 
 ``` mermaid
-
+graph TD
+    A[Unit 2: Applications of AI] --> B[AI Complete]
+    
+    B --> C[Technologies]
+    C --> C1[H, L, F, R, A, T]
+    C1 --> C2[10M IoM]
+    
+    B --> D[Why AI]
+    D --> D1[APP]
+    D --> D2[Chat]
+    D1 --> D3[10M]
+    
+    A --> E[Other Applications]
+    
+    E --> F[Entertainment]
+    F --> F1[Netflix, Amazon]
+    
+    E --> G[Security]
+    G --> G1[AI powers, CCTV, cameras]
+    
+    E --> H[Smart Homes]
+    H --> H1[Amazon Alexa, Google Home]
+    H --> H2[Voice awares, AC, fan, control lights]
+    
+    E --> I[Space Exploration]
+    I --> I1[NASA and Mars mission]
+    I --> I2[Satellites, weather control]
+    
+    E --> J[Environmental]
+    J --> J1[Weather tracking, wildlife/endangered animals]
+    J --> J2[Disasters]
+    
+    style A fill:#e1f5ff
+    style E fill:#fff4e1
+    style B fill:#e8f5e9
 ```
 
 
