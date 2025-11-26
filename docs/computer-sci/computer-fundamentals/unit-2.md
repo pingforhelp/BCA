@@ -4,7 +4,7 @@
 - Networking Fundamentals: Definition, need for networks, types (LAN, WAN, MAN), topology (Star, Ring, Bus).
 - Internet Basics: IP Address, Domain Name, Web Browser, Email, WWW.
 
-# **Computer Organization**
+# Computer Organization
 Computer Organization refers to the operational structure of a computer system. It explains:
 * how hardware components work,
 * how they communicate with each other,
@@ -38,10 +38,7 @@ flowchart TB
   D --> E[Archive Storage / Cloud]
 ```
 
----
-
-# Input/Output Organisation
-
+Input/Output Organisation
 Includes:
 * I/O Interfaces
 * I/O Techniques (Programmed I/O, Interrupt, DMA)
@@ -52,7 +49,7 @@ Includes:
 3. **Addressing Modes**
 4. **Instruction Formats**
 
-# CPU Components
+CPU Components
 ```mermaid
 flowchart TD
   CPU[CPU]
@@ -65,7 +62,7 @@ flowchart TD
   CPU --> REG
 ```
 
-# ALU
+ALU Arithmetic logical unit 
 * Arithmetic (+, −, ×, ÷)
 * Logical (AND, OR, NOT, comparisons)
 
@@ -80,14 +77,14 @@ Registers
 * Examples: PC, ACC, IR
 
 
-# **I/O Interfaces**
+# I/O Interfaces
 
-### **Components**
+**Components**
 * I/O Module
 * Buffers
 * Control signals
 
-# Functions
+Functions
 * Communication bridge
 * Speed & synchronization
 * Data conversion
@@ -108,9 +105,7 @@ flowchart LR
   PR --> DEV
 ```
 
-
-# **I/O Techniques**
-
+I/O Techniques
 1. Programmed I/O
 * CPU polls device continuously
 * CPU waits until device is ready
@@ -131,18 +126,14 @@ flowchart LR
 ```
 
 
-# **Storage Unit**
+**Storage Unit Types**
 
-### **Types**
-
-#### **1. Primary Storage**
-
+**1. Primary Storage**
 * RAM, ROM
 * Fast, directly CPU accessible
 
-#### **2. Secondary Storage**
-
-* HDD, SSD
+2. Secondary Storage
+* HDD, SSD.
 * Larger but slower
 
 ```mermaid
@@ -155,17 +146,15 @@ flowchart TB
   S --> SEC
 ```
 
----
+# Networking Fundamentals
 
-# **Networking Fundamentals**
-
- # Definition
+Definition of a Network
 A network is a collection of interconnected devices that:
 * exchange data,
 * share resources,
 * use communication links & protocols.
 
-### **Why Networks Are Needed**
+**Why Networks Are Needed?**
 * Resource sharing
 * Communication & collaboration
 * Central services
@@ -175,13 +164,10 @@ A network is a collection of interconnected devices that:
 * Security
 * Business continuity
 
-# **Types of Networks**
+**Types of Networks**
 
-## **1. LAN (Local Area Network)**
+1. LAN (Local Area Network)
 
-### **Hand-drawn diagram recreated in Mermaid**
-
-(Reflects your *Computer 1 → Router → Ethernet/World* drawing.)
 
 ```mermaid
 flowchart LR
@@ -198,11 +184,7 @@ flowchart LR
   R -->|Ethernet| W
 ```
 
----
-
-## **2. MAN (Metropolitan Area Network)**
-
-### **Your original diagram: LAN clusters → MAN cloud**
+2. MAN (Metropolitan Area Network)
 
 ```mermaid
 flowchart TB
@@ -219,11 +201,7 @@ flowchart TB
   LAN4 --> MAN
 ```
 
----
-
-## **3. WAN (Wide Area Network)**
-
-### **Recreated from your WAN cloud diagram connecting Data Centers, Remote Office, etc.**
+3. WAN (Wide Area Network)
 
 ```mermaid
 flowchart TB
