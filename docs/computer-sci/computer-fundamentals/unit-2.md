@@ -44,10 +44,10 @@ Includes:
 * I/O Techniques (Programmed I/O, Interrupt, DMA)
 
 CPU Organisation
-1. **Registers**
-2. **Instruction Cycle**
-3. **Addressing Modes**
-4. **Instruction Formats**
+1. Registers
+2. Instruction Cycle
+3. Addressing Modes
+4. Instruction Formats
 
 CPU Components
 ```mermaid
@@ -104,7 +104,6 @@ flowchart LR
 ```
 
 # I/O Techniques
-
 1. Programmed I/O
 * CPU polls device continuously
 * CPU waits until device is ready
@@ -124,7 +123,7 @@ flowchart LR
   D[DMA] --> Mem[Memory Transfer Without CPU]
 ```
 
-**Storage Unit Types**
+# Storage Unit Types
 1. Primary Storage
 * RAM, ROM
 * Fast, ++directly CPU accessible++
@@ -142,6 +141,10 @@ flowchart TB
   S --> P
   S --> SEC
 ```
+
+# Memory hierarchy
+
+# Types of Computers
 
 # Networking Fundamentals
 
@@ -218,4 +221,15 @@ flowchart TB
 # Topologies
 A network topology is the arrangement of devices (nodes) and connections (links) in a computer network. It shows how computers, servers, and other devices are connected and how data flows between them. There are two main types of topology:
 1. Physical Topology: The actual physical layout of cables and devices.
-2.Logical Topology: How data moves across the network, regardless of physical layout
+2.Logical Topology: How data moves across the network, regardless of physical layout. 
+
+
+
+
+
+
+
+
+
+
+# Internet Basics
