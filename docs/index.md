@@ -28,4 +28,4 @@
 
 # ? AI
 - [Unit-1](./AI/u-1.md) | [Overview](./AI/Overview.md#unit-i)
-- [Unit-2](./AI/u-2.md) | [Overview](./AI/Overview.md#unit-ii)
+- [Unit-2](./AI/u-2.md) | [Overview](./AI/Overview#unit-ii)
