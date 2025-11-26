@@ -2,7 +2,7 @@
 
 # 🧮 Computer Fundamentals
 - [Unit 1](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
-- [N/W Unit-2](docs/computer-sci/computer-fundamentals/CO&NWunit-2.md)
+- [N/W Unit-2](./computer-sci/computer-fundamentals/CO&NWunit-2.md)
 - [Office Automation Unit-3](./computer-sci/computer-fundamentals/office_automation.md)
 
 # ⚙️ Problem Solving Using C
