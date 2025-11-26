@@ -139,29 +139,6 @@ flowchart TD
     E --> E1[Energy source]
 ```
 
-# Unit-II
-
-Great — since you said **“yep”**, that means:
-
-✅ The **simple Mermaid test block renders correctly** on your site
-❌ But the **full diagrams STILL break**
-
-This confirms **the problem is NOT Mermaid syntax**
-The problem is **your Markdown page layout** — meaning something *before or after* your code blocks is breaking the fences.
-
-This is extremely common in:
-
-* MkDocs Material
-* Next.js MDX
-* Astro content collections
-* Obsidian → static site exports
-* Jekyll with GFM disabled
-
-But don’t worry — it’s easy to fix.
-
----
-
-
 # Unit–II
 
 **1. Healthcare**
