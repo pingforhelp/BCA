@@ -10,7 +10,7 @@ Computer Organization refers to the operational structure of a computer system. 
 * how they communicate with each other,
 * how a computer executes instructions internally.
 
-Functional units
+# Functional units
 * Input Unit
 * Output Unit
 * CPU
@@ -43,7 +43,7 @@ Includes:
 * I/O Interfaces
 * I/O Techniques (Programmed I/O, Interrupt, DMA)
 
-**CPU Organisation**
+CPU Organisation
 1. **Registers**
 2. **Instruction Cycle**
 3. **Addressing Modes**
@@ -76,10 +76,8 @@ Registers
 * Stores data, instructions, addresses
 * Examples: PC, ACC, IR
 
-
-# I/O Interfaces
-
-**Components**
+I/O Interfaces
+Components
 * I/O Module
 * Buffers
 * Control signals
@@ -105,7 +103,8 @@ flowchart LR
   PR --> DEV
 ```
 
-I/O Techniques
+# I/O Techniques
+
 1. Programmed I/O
 * CPU polls device continuously
 * CPU waits until device is ready
@@ -125,16 +124,14 @@ flowchart LR
   D[DMA] --> Mem[Memory Transfer Without CPU]
 ```
 
-
 **Storage Unit Types**
-
-**1. Primary Storage**
+1. Primary Storage
 * RAM, ROM
-* Fast, directly CPU accessible
+* Fast, ++directly CPU accessible++
 
 2. Secondary Storage
 * HDD, SSD.
-* Larger but slower
+* ++Larger but slower++
 
 ```mermaid
 flowchart TB
@@ -152,17 +149,17 @@ Definition of a Network
 A network is a collection of interconnected devices that:
 * exchange data,
 * share resources,
-* use communication links & protocols.
+* use communication links & protocols (rules)
 
-**Why Networks Are Needed?**
-* Resource sharing
-* Communication & collaboration
+# Why Networks Are Needed?
+* ==Resource sharing
+* Communication & collaboration==
 * Central services
 * Scalability
 * Remote access & mobility
 * Performance
 * Security
-* Business continuity
+* ==Business continuity==
 
 **Types of Networks**
 
@@ -217,3 +214,8 @@ flowchart TB
   BO --> WAN
   REG --> WAN
 ```
+
+# Topologies
+A network topology is the arrangement of devices (nodes) and connections (links) in a computer network. It shows how computers, servers, and other devices are connected and how data flows between them. There are two main types of topology:
+1. Physical Topology: The actual physical layout of cables and devices.
+2.Logical Topology: How data moves across the network, regardless of physical layout
