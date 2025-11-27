@@ -1,3 +1,13 @@
+Unit 3. Word Processing and presentations:
+- Word Processing Basics: Using MS Word/Google Docs – formatting, styles, tables, mail merge.
+- Presentation Tools: Using PowerPoint/Google Slides – slide design, animations, transitions.
+- Applications: Creating resumes, reports, brochures, and presentations.
+- Keyboard Shortcuts
+
+
+
+
+
 
 Office automation means Computers, telecom and software tools to handle office tasks. 
 
@@ -7,6 +17,10 @@ It helps to:
 - storing files.
 - sending emails
 - printing.
+
+
+
+# Keyword Shortcuts
 
 | S. No. | Shortcuts              | Function                                          |
 |--------|-------------------------|--------------------------------------------------|
