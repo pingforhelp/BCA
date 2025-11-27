@@ -26,6 +26,9 @@
 - [Ch-01 Short Story: The Lost Child *by Mulk Raj Anand*](./english/Unit-II/chapter-01.md)
 - [Ch-02 A letter to the teacher](./english/Unit-II/chapter-02.md)
 
+**Unit-III**
+ - [Where a mind is without fear](](./english/Unit-II/chapter-1.md)
+
 # ? AI
 - [Unit-1](./AI/u-1.md) | [Overview](./AI/Overview.md#unit-i)
 - [Unit-2](./AI/u-2.md) | [Overview](./AI/Overview.md#unit-ii)
