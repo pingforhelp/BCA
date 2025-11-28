@@ -8,8 +8,7 @@
 Computer Organization refers to the operational structure of a Computer system. It explains how hardware components work, how they communicate with each other, and how a Computer execute instructions internally.
 
 C.O includes functional units of Computer:
-- Input unit, Output unit, CPU.
-- Memory, Storage devices.
+- Input unit, Output unit, CPU, Memory, Storage devices.
 
 Number System:
 - Binary (2)
@@ -36,7 +35,7 @@ flowchart TB
 ```
 
 
-*Input/Output Organization:
+Input/Output Organization:
 I/O interfaces & I/O Techniques
 (Interrupt, DMA)
 
@@ -48,55 +47,58 @@ CPU Organisation
 
 Data transfer and Control
 1. Control System
-2. BVS Control System
+2. Bus Control System
 
 Functional Components
 
-1. Input devices
+1. Input devices:
 * Takes data & instructions from the user & external environment
 * Converts them into a machine readable (Binary format)
-* Sends the converted data to the computer's memory or processor
-* e.g.,- Keyboard, Mouse, Scanner, Microphone, Touchscreen etc.
+* Sends the converted data to the computer's memory or processor.
+> [!example]
+> Keyboard, Mouse, Scanner, Microphone, Touch screen.
 
 2. Output Unit
 * Takes processed results from the computer.
-* Converts Machine readable data into a human - understandable form.
-* Displays (or) Outputs the data.
-* e.g., Monitor, Printer, Speakers, Projector etc.
+* Converts Machine readable data into a human understandable form.
+* Displays *or* Outputs the data.
+> [!example]
+> Monitor, Printer, Speakers, Projector etc.
 
-3. Storage Unit: -
+3. Storage/memory Unit:
 Used to store data and instructions either temporarily or permanently.
 * It is of 2 types:
 
-1. Primary Storage: 
+I. Primary Storage: 
 ++Fast, directly accessible by CPU.++
-e.g., RAM, ROM.
+> [!example]
+> RAM and ROM.
 
 2. Secondary Storage: 
 - ++Large Capacity, Slower not directly accessed by CPU.++
-- e.g., HDD, SSD
+> [!example]
+> HDD, SSD, SD cards.
 
-4. (CPU) Central Processing Unit
-The CPU is the brain of the computer it has 2 major Sub-units.
+4. Central Processing Unit (CPU)
+==++The CPU is the brain of the computer++==
 
-1. Arithmetic Logic Unit (ALU)
-Performs Arithmetic operations and Logical operations.
+it has 2 major Sub-units:
+
+I. Arithmetic Logic Unit (ALU): Performs Arithmetic operations and Logical operations.
 
 Arithmetic: -, +, \, x.
-
 Logic (AND, OR, NOT, Comparisons) and & !.
 
-2) Control Unit:
+II. Control Unit:
 - Controls and Coordinates all Components.
 - Fetches, decodes and executes instructions.
 - Maintain the sequence of operations.
 
-3. Registers 
-Smallest and fastest memory locations in CPU temporarily hold data, instructions, addresses.
+III. Registers: Smallest and fastest memory locations in CPU temporarily hold data, instructions, addresses.
+> [!example]
+> PC, ACC, Instructions Register (IR).
 
-e.g., PC, ACC, Instructions Register (IR).
-
-4. Interfaces
+IV. Interfaces
 Since CPU and I/O devices work at different speeds but interface helps in communication, Components.
 $\rightarrow$ I/O Module
 
@@ -131,10 +133,6 @@ I/O Functions:
 
 
 
-Active Interface Unit (AIU)
-
-(CO)
-
 
 # I/O & I/O Techniques
 
@@ -144,7 +142,7 @@ Active Interface Unit (AIU)
 
 I/O Techniques:
 1) Programmed I/O
-2) Interrupt-driven I/O
+2) Interrupt-driven 
 3) DMA.
 
 Programmed I/O:
@@ -162,25 +160,24 @@ $$
 - When the I/O device ready to transfer data, it sends an interrupt signal to the CPU.
 
 3. D.M.A:
-* Refers to Direct Memory Access
-* A dedicated DMA Controller handles the transfer of data between devices & memory, by passing the CPU entirely for the transfer itself
-* This is the most efficient method for large data transfers, as it frees up the CPU to focus on other tasks while the data is being moved
+* Refers to ++Direct Memory Access++
+* A dedicated DMA Controller handles the transfer of data ++between devices & memory, by passing the CPU entirely for the transfer itself.++
+* This is the most efficient method for large data transfers, as it frees up the CPU to focus on other tasks while the data is being moved.
 
 Computer Architecture
-Main Components
+Main Components:
 - CPU
 - Main Memory Unit
 - System Bus
 - I/O Processors
 - Printers
-- Magnetic Disk
+- Magnetic Disk (HDD)
 - Keyboard
 - I/O
 
 
 
 # Types of Computers
-
 Computer are generally classified by speed, memory size and power consumption
 - Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer.
 Personal computer: It is a small, relatively inexpensive computer designed for an individual's user.
@@ -193,7 +190,7 @@ applications that must handle very large databases. It is an extremely fast comp
 # Networking Fundamentals
 
 Definition of Network
-A Computer network is a connection of interconnected devices (Computers, Printers, Routers, Phones, Switches, servers, devices...etc.) that can exchange data and share resources using communication links and agreed rules (Protocols). Network allows devices to communicate both locally and across long distances forming the bases for services like email, web browsing, file sharing, streaming & remote access.
+A Computer network is a connection of interconnected devices (Computers, Printers, Routers, Phones, Switches, servers, devices...etc.) that can exchange data and share resources using communication links and agreed rules (Protocols). Network allows devices to communicate both locally and across long distances ==forming the bases for services like email, web browsing, file sharing, streaming & remote access.==
 
 # Why Networks are Needed?:
 1. Resource Sharing
@@ -201,17 +198,23 @@ A Computer network is a connection of interconnected devices (Computers, Printer
 * Reduces Duplication and Cost.
 
 2. Communication and Collaboration: Email, instant messaging, video conferencing Collaborative editing (Google Docs, MS 365).
+
 3. Centralises Data Management and Backup: Central serves make backups, updates access control and audits easier
 4. Scalability and Flexibility New devices can be added with minimal configuration (Depending on Topology / Protocols)
-5. Remote access and mobility VPN’s, wifi and cloud services allow access from remote locations & mobile devices
+
+5. Remote access and mobility VPN’s, wifi and cloud services allow access from remote locations & mobile devices.
+
 6. Performance and Efficiency: Local networks (LANs) provide low latency High throughput access to local resources
 
-7. Security and Control: Fire Walls, IDS/access Policies and Central authentication (Ex: LDAP, active directory)
+7. Security and Control: Fire Walls, IDS/access Policies and Central authentication
+> [!example]
+> LDAP, active directory.
+
 8. Business Continuity: Redundant network Paths laid over and WAN Support high availability
 
 
 
-## LAN - Local Area Networks
+# LAN - Local Area Networks
 - Area: Single building/office/home (Meters to few Kms)
 - Speed: High (100 Mbps - 100 Gbps)
 * Technologies: Ethernet (IEEE 802.3)
@@ -238,7 +241,7 @@ WiFi (IEEE 802.11) Power line
 ## Computer 2
 [Image of computer components]
 
-## Computer 3
+
 [Image of computer components]
 
 -> Router -> [World/Ethernet]
@@ -251,7 +254,7 @@ Hospital LAN        College LAN
 [LAN 4] -> MAN -> [LAN 3]
 School               Factory LAN
 
-C:\Users\tamim\Downloads\Com. Skills\OAT unit 2>type "OAT unit 2_13.md" 
+ 
 # WAN : Wide Area Network
 
 ![WAN Diagram](https://i.imgur.com/your_image_url_here.png)
@@ -275,34 +278,27 @@ There are 2 types of Topologies:
 
 # P Topology (Point-to-Point): 
 Point-to-point topology is a type of topology that works on the functionality of the sender and receiver. It is the simplest communication between two nodes, in which one is the sender and the other one is the receiver. Point-to-Point provides high bandwidth.
+
 ![Node 1 to Node 2](https://i.imgur.com/9q9q9q9.png)
-
-
 
 # Mesh Topology
 In a mesh topology, every device is connected to another device via a particular channel. Every device is connected to another via dedicated channels. These channels are known as links. In Mesh Topology, the protocols used are AHCP (Ad Hoc Configuration Protocols), DHCP (Dynamic Host Configuration Protocol), etc.
+
 ![Mesh Topology](https://i.imgur.com/9q9q9q9.png)
 
 # Star Topology
 All the devices are connected to a single hub through a cable. *This hub is the central node and all other nodes are connected to central node.*
-
 * The hub can be passive in nature - that is an intelligent hub such as broadcasting devices.
 * At the same time the hub can be intelligent - known as an active hub. 
-
 Active hubs have repeaters in them.
 
 ![Star Topology Diagram](https://i.imgur.com/your_image_url_here.png)
-
-
-
 
 # Bus Topology:
 Bus Topology is a network type in which every computer and network device is connected to a single cable.
 * It is a multi-point connection and a non-robust topology because if the back bone fails the topology crashes.
 
 ![Bus Topology Diagram](https://i.imgur.com/your_image_url_here.png) 
-
-Terminator
 
 # Ring Topology:
 It forms a ring connecting devices with exactly two neighboring devices.
@@ -311,16 +307,13 @@ It forms a ring connecting devices with exactly two neighboring devices.
 token passing is a network access method in which a special bit pattern called a token circulates around the ring. 
 
 
-Token and Token in Ring Topology
-
-Token and Token is a frame that circulates around the network operations in Ring Topology.
+Token and Token in Ring Topology Token and Token is a frame that circulates around the network operations in Ring Topology.
 
 Token Operations
 1) One Station is Known as a monitor station.
 2) To transmit the data, the station has to hold the token. Transmission is Completed then the token will released to the other station.
 3) When no station is transmitting the data, then the token will circulate in the ring.
 
-Ring Topology
 
 ![Ring Topology Diagram](https://i.imgur.com/your_image_url_here.png)
 
@@ -332,14 +325,14 @@ Physical model with logical
 
 (Notes about physical and logical models, possibly related to signal transmission and station connections - difficult to decipher fully from the image)
 
-# 6. Tree Topology!
+# 6. Tree Topology
 
 ![Tree Topology Diagram](https://i.imgur.com/your_image_url_here.png)
 
 Tree Topology is the variation of Star Topology. This Topology has an hierarchical flow of data.
 - Various Secondary Hubs are connected to the Central Hub which contains the repeater.
 - This data flows from top to bottom
-i.e,. from the Central Hub to the Secondary Hubs and then to the devices (or) from bottom to top that is i.e. devices to the secondary hub & then to the Central hub.
+i.e,. from the Central Hub to the Secondary Hubs and then to the devices (or) from bottom to top that is i.e., devices to the secondary hub & then to the Central hub.
 
 
 # IP Address
@@ -375,7 +368,7 @@ Network Communication Communication Protocols are really important for the funct
 
 # Network Communication Protocols
 
-1) HTTPHyper Text Transfer Protocol:
+1) HTTP Hyper Text Transfer Protocol:
 - 7-layer Protocol
 - Used to transfer
 - Works on Client - Server Model
@@ -385,7 +378,7 @@ Network Communication Communication Protocols are really important for the funct
 - Used for Communication over a network
 - Many applications, such as emails, FTP etc.
 
-3) UDP User Datagram Protocol
+3) UDP User Datagram Protocol:
 - It is a Connectionless layout Protocol that layout a basic but unreliable message service.
 - UDP adds no flow Control, reliability or error recovery functions.
 
