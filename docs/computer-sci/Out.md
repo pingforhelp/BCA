@@ -117,7 +117,34 @@ I/O Functions:
 4. Control & Management
 5. Error Checking
 
-![I/O Diagram](https://i.imgur.com/your_image_url_here.png)
+``` mermaid
+flowchart LR
+
+    CPU[CPU]
+
+    %% Interfaces below CPU
+    CPU --> IF1
+    CPU --> IF2
+    CPU --> IF3
+
+    subgraph IF1[Interface]
+    end
+
+    subgraph IF2[Interface]
+    end
+
+    subgraph IF3[Interface]
+    end
+
+    %% Devices
+    IF1 --> Monitor[Monitor]
+    IF2 --> Keyboard[Keyboard]
+    IF3 --> Hardware[Hardware]
+
+    %% Memory at right with shared buses
+    CPU ---|Address Bus| MEM[Memory]
+    CPU ---|Data Bus| MEM
+    CPU ---|Control Bus| MEM
 
 ***CPU** (10m)
     *   $A_0$
@@ -135,9 +162,8 @@ I/O Functions:
     *   Control Register
     *   Status Register
     *   Request
-
-# I/O Techniques
-![Interfaces Keyboard Harddisk](https://i.imgur.com/your_image_url_here.png)
+```
+I/O Techniques
 
 1. Programmed I/O
 2. Interrupt-driven 
