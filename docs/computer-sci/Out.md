@@ -60,23 +60,16 @@ Data transfer and Control:
 > Monitor, Printer, Speakers, Projector etc.
 
 3. Storage/memory Unit:
-Used to store ++data and instructions either temporarily or permanently.++
-
-It is of 2 types:
-. Primary Storage: 
-++Fast, directly accessible by CPU.++
+Used to store ++data and instructions either temporarily or permanently.++ It is of 2 types:
+1. Primary Storage: ++Fast, directly accessible by CPU.++
 > [!example]
 > RAM and ROM.
-
-2. Secondary Storage: 
-- ++Large Capacity, Slower not directly accessed by CPU.++
+2. Secondary Storage: ++Large Capacity, Slower not directly accessed by CPU.++
 > [!example]
 > HDD, SSD, SD cards.
+4. Central Processing Unit (CPU) ==++The CPU is the brain of the computer++==
 
-4. Central Processing Unit (CPU)
-==++The CPU is the brain of the computer++==
-
-it has 2 major Sub-units:
+It has 2 major Sub-units:
 I. Arithmetic Logic Unit (ALU): Performs Arithmetic operations and Logical operations. Arithmetic: -, +, \, x. Logic (AND, OR, NOT, Comparisons) and & !.
 
 II. Control Unit:
@@ -118,14 +111,11 @@ I/O Functions:
     *   Request
 
 # I/O Techniques
-
-
 ![Interfaces Keyboard Harddisk](https://i.imgur.com/your_image_url_here.png)
 
-
-1) Programmed I/O
-2) Interrupt-driven 
-3) DMA.
+1. Programmed I/O
+2. Interrupt-driven 
+3. DMA.
 
 I. Programmed I/O:
 * The CPU executes every instructions for an I/O operation.
@@ -136,7 +126,7 @@ II. Interrupt-driven I/O:
 - When the I/O device ready to transfer data, it sends an interrupt signal to the CPU.
 
 III. D.M.A:
-- efers to ++Direct Memory Access++
+- Refers to ++Direct Memory Access++
 - A dedicated DMA Controller handles the transfer of data ++between devices & memory, by passing the CPU entirely for the transfer itself.++
 - This is the most efficient method for large data transfers, as it frees up the CPU to focus on other tasks while the data is being moved.
 
@@ -157,6 +147,21 @@ levels of the memory hierarchy.
 Memory Hierarchy helps in optimizing the memory available in the computer. There are ++multiple levels present in the memory, each one having a different size, different cost, etc... ++Some types of memory like cache, and main memory are faster as compared to other types of memory but they are having a little less size and are also costly whereas some memory has alittle higher storage value, but they are a little slower. Accessing of data is not similar in all types of memory, some have faster access whereas some have slower access.++
 
 # Types of Memory Hierarchy
+This Memory Hierarchy Design is divided into 2 main types:
+- External Memory or Secondary Memory: Comprising of Magnetic Disk, Optical Disk, and Magnetic Tape i.e. peripheral storage devices which are accessible by the processor via an I/O Module.
+- Internal Memory or Primary Memory: Comprising of Main Memory, Cache Memory & CPU registers. This is directly accessible by the processor.
+
+Memory Hierarchy Design:
+1. Registers are small, high-speed memory units located in the CPU. They are used to store the most frequently used data and instructions. Registers have the fastest access time and the smallest storage capacity, typically ranging from 16 to 64 bits.
+2. Cache Memory is a small, fast memory unit located close to the CPU. It stores frequently used data and instructions that have been recently accessed from the main memory. Cache memory is designed to minimize the time it takes to access data by providing the CPU with quick access to frequently used data.
+3. Main Memory also known as RAM, is the primary memory of a Computer system. It has a larger storage capacity than cache memory, but it is slower. Main memory is used to store data and instructions that are currently in use by the CPU.
+
+# Types of Main Memory:
+- Static RAM Static RAM stores the binary information in flip flops and information remains valid until power is supplied. Static RAM has a faster access time and is used in implementing cache memory.
+- Dynamic RAM: It stores the binary information as a charge on the capacitor. It requires refreshing circuitry to maintain the charge on the capacitors after a few milliseconds. It contains more memory cells per unit area as compared to SRAM.
+4. Secondary Storage, such as hard disk drives (HDD) and solid-state drives (SSD), is a non-volatile memory unit that has a larger storage capacity than main memory. It is used to store data and instructions that are not currently in use by the CPU. Secondary storage has the slowest access time and is typically the least expensive type of memory in the memory hierarchy.
+5. Magnetic Disk are simply circular plates that are fabricated with either a metal or a plastic or a magnetized material. The Magnetic disks work at a high speed inside the computer and these are frequently used. Magnetic disks is Obsolete in favor of Cloud storage and improvements in technologies such as USB Drives, SD cards. However, they are used in the entertainment industry for "Extra/Special edition" content in addition to the content.  
+6. Magnetic Tape is simply a magnetic recording device that is covered with a plastic film. Magnetic Tape is generally used for the backup of data. In the case of a magnetic tape, the access time for a computer is a little slower and therefore, it requires some amount of time for accessing the strip. This old tech from 90s noone uses.
 
 # Types of Computers
 Computer are generally classified by speed, memory size and power consumption
