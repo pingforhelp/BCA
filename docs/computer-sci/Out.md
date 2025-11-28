@@ -172,14 +172,10 @@ levels of the memory hierarchy.
 
 # Why Memory Hierarchy is
 Required in the System?
+Memory Hierarchy helps in optimizing the memory available in the computer. There are ++multiple levels present in the memory,
+each one having a different size, different cost, etc... ++Some types of memory like cache, and main memory are faster as compared to other types of memory but they are having a little less size and are also costly whereas some memory has alittle higher storage value, but they are a little slower. Accessing of data is not similar in all types of memory, some have faster access whereas some have slower access.++
 
-Memory Hierarchy helps in optimizing the
-memory available in the computer. There
-are ++multiple levels present in the memory,
-each one having a different size, different
-cost, etc. Some types of memory like
-cache, and main memory are faster as compared to other types of memory but
-they are having a little less size and are also costly whereas some memory has a++
+# Types of Memory Hierarchy
 
 # Types of Computers
 Computer are generally classified by speed, memory size and power consumption
