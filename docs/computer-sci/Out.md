@@ -24,11 +24,39 @@ C.O includes functional units of Computer:
 - Memory Hierarchy
 
 ```mermaid
-flowchart TB
-  A[CPU / Registers] --> B[Cache]
-  B --> C[Main Memory (RAM)]
-  C --> D[Secondary Storage (HDD/SSD)]
-  D --> E[Archive Storage / Cloud]
+flowchart LR
+
+    subgraph CPU[CPU]
+        A0[A0]
+        A1[A1]
+    end
+
+    CPU --> DBB
+
+    subgraph DBB[Data Bus Buffer]
+        CS[CS]
+        RD[RD]
+        WR[WR]
+        RESET[RESET]
+        RDLW[RD/WR<br/>Control Logic Block]
+    end
+
+    DBB --> IB
+
+    subgraph IB[Internal Bus]
+    end
+
+    IB --> PORTA
+    IB --> PORTB
+    IB --> CTRL
+
+    PORTA[Port A]
+    PORTB[Port B]
+
+    subgraph CTRL[Control Register]
+        SR[Status Register]
+    end
+
 ```
 
 CPU Organisation:
