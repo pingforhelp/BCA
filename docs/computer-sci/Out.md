@@ -7,18 +7,16 @@
 # Computer Organization
 Computer Organization refers to the operational structure of a Computer system. It explains how hardware components work, how they communicate with each other, and how a Computer execute instructions internally.
 
-C.O includes functional units of Computer:
+C.O includes functional units of Computer: 
 - Input unit, Output unit, CPU, Memory, Storage devices.
-
-Number System:
+- Number System:
 - Binary (2)
 - Octal (8)
 - Decimal (10)
 - Hexadecimal (16)
 - Conversions and Complements.
 > [!tip]
-> Num = base
-
+> (xx) = base.
 - Memory Organization: 
 - RAM
 - ROM
