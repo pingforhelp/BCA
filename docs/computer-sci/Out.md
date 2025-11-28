@@ -143,7 +143,6 @@ flowchart TB
 
 ```
 I/O Techniques
-
 1. Programmed I/O
 2. Interrupt-driven 
 3. DMA.
@@ -160,6 +159,33 @@ III. D.M.A:
 - Refers to ++Direct Memory Access++
 - A dedicated DMA Controller handles the transfer of data ++between devices & memory, by passing the CPU entirely for the transfer itself.++
 - This is the most efficient method for large data transfers, as it frees up the CPU to focus on other tasks while the data is being moved.
+
+``` mermaid 
+flowchart TB
+
+    %% Top components
+    CPU[CPU]
+    MEM[Main Memory Unit]
+
+    %% System Bus (represented as a node)
+    BUS[System Bus]
+
+    CPU --> BUS
+    MEM --> BUS
+
+    %% I/O Processor
+    BUS --> IOP[IOP]
+
+    %% Lower bus
+    BUS2[ ]
+    IOP --> BUS2
+
+    %% Devices under IOP bus
+    BUS2 --> Printer[Printer]
+    BUS2 --> Disk[Magnetic Disk]
+    BUS2 --> Keyboard[Keyboard]
+
+```
 
 Computer Architecture main Components:
 - CPU
@@ -207,7 +233,6 @@ applications that must handle very large databases. It is an extremely fast comp
 # Networking Fundamentals
 
 Definition of Network-
-
 A Computer network is a connection of interconnected devices (Computers, Printers, Routers, Phones, Switches, servers, devices etc....) that can exchange data and share resources using communication links and agreed rules (Protocols). Network allows devices to communicate both locally and across long distances ==forming the bases for services like email, web browsing, file sharing, streaming & remote access.==
 
 # Why Networks are Needed?
@@ -228,7 +253,8 @@ A Computer network is a connection of interconnected devices (Computers, Printer
 * Technologies: Ethernet (IEEE 802.3) WiFi (IEEE 802.11) Power line)
 - Devices: Switches wireless APs, routers (edge), NICs
 - User cases: Office networks, Campus labs, home network
-
+``` me
+```
 # Metropolitan Area Network (MAN)
 - Area: City large Campus a metro area (a few 10's of Km's)
 - Speed: Medium to high (10's of mbps to multiple Gbps)
@@ -239,40 +265,10 @@ A Computer network is a connection of interconnected devices (Computers, Printer
 # Wide Area Network (WAN)
 * Area: Inter city national & global - The Internet is the Largest WAN
 * Speed: Variable (mbps to gbps); often higher than LAN
-
-# LAN: (Local Area Network)
-
-Computer 1
-[Image of computer components]
-
-Computer 2
-[Image of computer components]
-
-
-[Image of computer components]
-
--> Router -> [World/Ethernet]
-
-# MAN: 
-
-[LAN 1] -> MAN -> [LAN 2]
-Hospital LAN        College LAN
-
-[LAN 4] -> MAN -> [LAN 3]
-School               Factory LAN
-
- 
-# WAN : Wide Area Network
-
-![WAN Diagram](https://i.imgur.com/your_image_url_here.png)
-
-*Ownership* - Usually heterogeneous links leased from telecos, ISPs, Satellite Providers.
-
-*Technologies* - MPLS, ATM (Legacy) leased lines, DSL, Fiber-Optic, Satellite/Cellular (5G/4G)
-
-*Use Cases* - Connecting geographically dispersed branches, Internet, transport.
-
-*Characteristic features* - Routing across, multiple administrative domains, complex QOS often secure tunnels (VPN) for private traffic.
+- Ownership Usually heterogeneous links leased from telecos, ISPs, Satellite Providers.
+- Technologies MPLS, ATM (Legacy) leased lines, DSL, Fiber-Optic, Satellite/Cellular (5G/4G)
+- Use Cases Connecting geographically dispersed branches, Internet, transport.
+- Characteristic features Routing across, multiple administrative domains, complex QOS often secure tunnels (VPN) for private traffic.
 
 # Topologies
 In A network Topology is the arrangement of Devices (nodes) & Connections (links). In a Computer network. It shows how computers, servers, and other devices are connected and how data flows b/w them 
