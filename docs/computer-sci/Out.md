@@ -61,8 +61,9 @@ Data transfer and Control
 > Monitor, Printer, Speakers, Projector etc.
 
 3. Storage/memory Unit:
-Used to store data and instructions either temporarily or permanently.
-* It is of 2 types:
+Used to store ++data and instructions either temporarily or permanently.++
+
+It is of 2 types:
 
 I. Primary Storage: 
 ++Fast, directly accessible by CPU.++
@@ -78,6 +79,7 @@ I. Primary Storage:
 ==++The CPU is the brain of the computer++==
 
 it has 2 major Sub-units:
+
 I. Arithmetic Logic Unit (ALU): Performs Arithmetic operations and Logical operations. Arithmetic: -, +, \, x. Logic (AND, OR, NOT, Comparisons) and & !.
 
 II. Control Unit:
@@ -89,9 +91,8 @@ III. Registers: Smallest and fastest memory locations in CPU temporarily hold da
 > [!example]
 > PC, ACC, Instructions Register (IR).
 
-IV. Interfaces
-Since CPU and I/O devices work at different speeds but interface helps in communication, Components.
-$\rightarrow$ I/O Module
+IV. Interfaces:
+Since CPU and I/O devices work at different speeds but interface ++helps in communication, Components. I/O Module++
 
 2) Buffer
 3) Control Signals
@@ -128,7 +129,6 @@ I/O Functions:
 ![Interfaces Keyboard Harddisk](https://i.imgur.com/your_image_url_here.png)
 
 
-# I/O Techniques
 1) Programmed I/O
 2) Interrupt-driven 
 3) DMA.
@@ -163,12 +163,29 @@ Main Components:
 - Keyboard
 - I/O
 
+# Memory Hierarchy
+··
+In the Computer System Design, Memory Hierarchy is an enhancement to organize
+the memory such that it can minimize the access time. The Memory Hierarchy was
+developed based on a program behavior known as locality of references (same data or nearby data is likely to be accessed again and again). The figure below clearly demonstrates the different
+levels of the memory hierarchy.
 
+# Why Memory Hierarchy is
+Required in the System?
+
+Memory Hierarchy helps in optimizing the
+memory available in the computer. There
+are ++multiple levels present in the memory,
+each one having a different size, different
+cost, etc. Some types of memory like
+cache, and main memory are faster as compared to other types of memory but
+they are having a little less size and are also costly whereas some memory has a++
 
 # Types of Computers
 Computer are generally classified by speed, memory size and power consumption
-- Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer. Personal computer: It is a small, relatively inexpensive computer designed for an individual's user.
-Desktop computers: A computer that is used for home application and small office work, is Desktop computer. In this type of computer, monitor is put on the top of computer and it is broad and low. While in tower computer, CPU cases are tall and narrow. In our general life we interact with Desktop Computer.
+- Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer.
+- Personal computer: It is a small, relatively inexpensive computer designed for an individual's user.
+- Desktop computers: A computer that is used for home application and small office work, is Desktop computer. In this type of computer, monitor is put on the top of computer and it is broad and low. While in tower computer, CPU cases are tall and narrow. In our general life we interact with Desktop Computer.
 - Minicomputer: A multi-user computer capable of supporting up to hundreds of users simultaneously. These computers are bigger in size and costlier than Microcomputers. Minicomputers are used in universities and big organisations.
 - Mainframe computer: A mainframe computer is a very large computer capable of handling and processing very large amounts of data quickly. These are used by large institutions, such as government agencies and large corporations.
 - Supercomputers Or High Performance Computer (HPC): A supercomputer is typically used for scientific and engineering 
