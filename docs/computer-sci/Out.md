@@ -1,0 +1,392 @@
+# Unit 2. Basic organisation and Networking fundamentals
+- Computer Organization: Functional components – Input/Output devices, Storage types, Memory hierarchy.
+- Types of Computers: Micro, Mini, Mainframe, and Supercomputers.
+- Networking Fundamentals: Definition, need for networks, types (LAN, WAN, MAN), topology (Star, Ring, Bus).
+- Internet Basics: IP Address, Domain Name, Web Browser, Email, WWW.
+
+# Computer Organization
+Computer Organization refers to the operational structure of a Computer system. It explains how hardware components work, how they communicate with each other, and how a Computer execute instructions internally.
+
+C.O includes functional units of Computer:
+- Input unit, Output unit, CPU.
+- Memory, Storage devices.
+
+Number System:
+- Binary (2)
+- Octal (8)
+- Decimal (10)
+- Hexadecimal (16)
+- Conversions and Complements.
+
+> [!tip]
+> Num = base
+
+- Memory Organization: 
+- RAM
+- ROM
+- Cache
+- Memory Hierarchy
+
+```mermaid
+flowchart TB
+  A[CPU / Registers] --> B[Cache]
+  B --> C[Main Memory (RAM)]
+  C --> D[Secondary Storage (HDD/SSD)]
+  D --> E[Archive Storage / Cloud]
+```
+
+
+*Input/Output Organization:
+I/O interfaces & I/O Techniques
+(Interrupt, DMA)
+
+CPU Organisation
+1. Registers
+2. Instruction Cycle
+3. Addressing Modes
+4. Instruction formats
+
+Data transfer and Control
+1. Control System
+2. BVS Control System
+
+Functional Components
+
+1. Input devices
+* Takes data & instructions from the user & external environment
+* Converts them into a machine readable (Binary format)
+* Sends the converted data to the computer's memory or processor
+* e.g.,- Keyboard, Mouse, Scanner, Microphone, Touchscreen etc.
+
+2. Output Unit
+* Takes processed results from the computer.
+* Converts Machine readable data into a human - understandable form.
+* Displays (or) Outputs the data.
+* e.g., Monitor, Printer, Speakers, Projector etc.
+
+3. Storage Unit: -
+Used to store data and instructions either temporarily or permanently.
+* It is of 2 types:
+
+1. Primary Storage: 
+++Fast, directly accessible by CPU.++
+e.g., RAM, ROM.
+
+2. Secondary Storage: 
+- ++Large Capacity, Slower not directly accessed by CPU.++
+- e.g., HDD, SSD
+
+4. (CPU) Central Processing Unit
+The CPU is the brain of the computer it has 2 major Sub-units.
+
+1. Arithmetic Logic Unit (ALU)
+Performs Arithmetic operations and Logical operations.
+
+Arithmetic: -, +, \, x.
+
+Logic (AND, OR, NOT, Comparisons) and & !.
+
+2) Control Unit:
+- Controls and Coordinates all Components.
+- Fetches, decodes and executes instructions.
+- Maintain the sequence of operations.
+
+3. Registers 
+Smallest and fastest memory locations in CPU temporarily hold data, instructions, addresses.
+
+e.g., PC, ACC, Instructions Register (IR).
+
+4. Interfaces
+Since CPU and I/O devices work at different speeds but interface helps in communication, Components.
+$\rightarrow$ I/O Module
+
+2) Buffer
+3) Control Signals
+
+I/O Functions:
+1. Communication Bridge
+2. Speed and Synchronization
+3. Data Conversion
+4. Control & Management
+5. Error Checking
+
+![I/O Diagram](https://i.imgur.com/your_image_url_here.png)
+
+***CPU** (10m)
+    *   $A_0$
+    *   $A_1$
+    *   $CS$
+    *   $RS$
+    *   $WR$
+*   **Data Bus**
+*   **TS Buffer**
+*   **RD/WR Control Logic Block**
+*   **Internal Bus**
+*   **I/O Device**
+    *   Port A
+    *   Port B
+    *   Control Register
+    *   Status Register
+    *   Request
+
+
+
+Active Interface Unit (AIU)
+
+(CO)
+
+
+# I/O & I/O Techniques
+
+
+![Interfaces Keyboard Harddisk](https://i.imgur.com/your_image_url_here.png)
+
+
+I/O Techniques:
+1) Programmed I/O
+2) Interrupt-driven I/O
+3) DMA.
+
+Programmed I/O:
+* The CPU executes every instructions for an I/O operation.
+* The CPU must continuously Poll or check, the status of a device to see if it is ready to transfer data.
+
+```latex
+$$
+\text{Some Equation}
+$$
+```
+
+2. Interrupt-driven I/O:
+- The CPU issues a command & then moves on the other tasks.
+- When the I/O device ready to transfer data, it sends an interrupt signal to the CPU.
+
+3. D.M.A:
+* Refers to Direct Memory Access
+* A dedicated DMA Controller handles the transfer of data between devices & memory, by passing the CPU entirely for the transfer itself
+* This is the most efficient method for large data transfers, as it frees up the CPU to focus on other tasks while the data is being moved
+
+Computer Architecture
+Main Components
+- CPU
+- Main Memory Unit
+- System Bus
+- I/O Processors
+- Printers
+- Magnetic Disk
+- Keyboard
+- I/O
+
+
+
+# Types of Computers
+
+Computer are generally classified by speed, memory size and power consumption
+- Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer.
+Personal computer: It is a small, relatively inexpensive computer designed for an individual's user.
+Desktop computers: A computer that is used for home application and small office work, is Desktop computer. In this type of computer, monitor is put on the top of computer and it is broad and low. While in tower computer, CPU cases are tall and narrow. In our general life we interact with Desktop Computer.
+- Minicomputer: A multi-user computer capable of supporting up to hundreds of users simultaneously. These computers are bigger in size and costlier than Microcomputers. Minicomputers are used in universities and big organisations.
+- Mainframe computer: A mainframe computer is a very large computer capable of handling and processing very large amounts of data quickly. These are used by large institutions, such as government agencies and large corporations.
+- Supercomputers Or High Performance Computer (HPC): A supercomputer is typically used for scientific and engineering 
+applications that must handle very large databases. It is an extremely fast computer that can perform hundreds of millions of instructions per second. The speed of the supercomputer are measured by FLOPS (Floating point operations per second)
+
+# Networking Fundamentals
+
+Definition of Network
+A Computer network is a connection of interconnected devices (Computers, Printers, Routers, Phones, Switches, servers, devices...etc.) that can exchange data and share resources using communication links and agreed rules (Protocols). Network allows devices to communicate both locally and across long distances forming the bases for services like email, web browsing, file sharing, streaming & remote access.
+
+# Why Networks are Needed?:
+1. Resource Sharing
+* Share Printers, Scanner, Storage (NAS), Software licenses and data bases centrally.
+* Reduces Duplication and Cost.
+
+2. Communication and Collaboration: Email, instant messaging, video conferencing Collaborative editing (Google Docs, MS 365).
+3. Centralises Data Management and Backup: Central serves make backups, updates access control and audits easier
+4. Scalability and Flexibility New devices can be added with minimal configuration (Depending on Topology / Protocols)
+5. Remote access and mobility VPN’s, wifi and cloud services allow access from remote locations & mobile devices
+6. Performance and Efficiency: Local networks (LANs) provide low latency High throughput access to local resources
+
+7. Security and Control: Fire Walls, IDS/access Policies and Central authentication (Ex: LDAP, active directory)
+8. Business Continuity: Redundant network Paths laid over and WAN Support high availability
+
+
+
+## LAN - Local Area Networks
+- Area: Single building/office/home (Meters to few Kms)
+- Speed: High (100 Mbps - 100 Gbps)
+* Technologies: Ethernet (IEEE 802.3)
+WiFi (IEEE 802.11) Power line
+* Devices: Switches wireless APs, routers (edge), NICs
+* User cases: Office networks, Campus labs, home network
+
+2) MAN - Metropolitan Area Network
+* Area: City large Campus a metro area (a few 10's of Km's)
+* Speed: Medium to high (10's of mbps to multiple Gbps)
+* Ownership: Can be Private (University) or Provided by a telecom/City provider
+* Technologies: Metro Ethernet, fiber rings. Microwave links, leased lines
+* Use Cases: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
+
+3) WAN - Wide Area Network
+* Area: Inter city national & global - The Internet is the Largest WAN
+* Speed: Variable (mbps to gbps); often higher than LAN
+
+# LAN: (Local Area Network)
+
+## Computer 1
+[Image of computer components]
+
+## Computer 2
+[Image of computer components]
+
+## Computer 3
+[Image of computer components]
+
+-> Router -> [World/Ethernet]
+
+# MAN: 
+
+[LAN 1] -> MAN -> [LAN 2]
+Hospital LAN        College LAN
+
+[LAN 4] -> MAN -> [LAN 3]
+School               Factory LAN
+
+C:\Users\tamim\Downloads\Com. Skills\OAT unit 2>type "OAT unit 2_13.md" 
+# WAN : Wide Area Network
+
+![WAN Diagram](https://i.imgur.com/your_image_url_here.png)
+
+*Ownership* - Usually heterogeneous links leased from telecos, ISPs, Satellite Providers.
+
+*Technologies* - MPLS, ATM (Legacy) leased lines, DSL, Fiber-Optic, Satellite/Cellular (5G/4G)
+
+*Use Cases* - Connecting geographically dispersed branches, Internet, transport.
+
+*Characteristic features* - Routing across, multiple administrative domains, complex QOS often secure tunnels (VPN) for private traffic.
+
+# Topologies
+In A network Topology is the arrangement of Devices (nodes) & Connections (links). In a Computer network. It shows how computers, servers, and other devices are connected and how data flows b/w them
+
+There are 2 types of Topologies:
+1.  **Physical Topology**: The actual Physical layout of Cables and devices.
+2. **Logical Topology**: How data moves across the network, regardless of physical layout
+
+
+
+# P Topology (Point-to-Point): 
+Point-to-point topology is a type of topology that works on the functionality of the sender and receiver. It is the simplest communication between two nodes, in which one is the sender and the other one is the receiver. Point-to-Point provides high bandwidth.
+![Node 1 to Node 2](https://i.imgur.com/9q9q9q9.png)
+
+
+
+# Mesh Topology
+In a mesh topology, every device is connected to another device via a particular channel. Every device is connected to another via dedicated channels. These channels are known as links. In Mesh Topology, the protocols used are AHCP (Ad Hoc Configuration Protocols), DHCP (Dynamic Host Configuration Protocol), etc.
+![Mesh Topology](https://i.imgur.com/9q9q9q9.png)
+
+# Star Topology
+All the devices are connected to a single hub through a cable. *This hub is the central node and all other nodes are connected to central node.*
+
+* The hub can be passive in nature - that is an intelligent hub such as broadcasting devices.
+* At the same time the hub can be intelligent - known as an active hub. 
+
+Active hubs have repeaters in them.
+
+![Star Topology Diagram](https://i.imgur.com/your_image_url_here.png)
+
+
+
+
+# Bus Topology:
+Bus Topology is a network type in which every computer and network device is connected to a single cable.
+* It is a multi-point connection and a non-robust topology because if the back bone fails the topology crashes.
+
+![Bus Topology Diagram](https://i.imgur.com/your_image_url_here.png) 
+
+Terminator
+
+# Ring Topology:
+It forms a ring connecting devices with exactly two neighboring devices.
+* A no. of repeaters are used for Ring Topology with a large no. of nodes.
+* In Ring Topology, the token passing protocol is used by the workstations to transmit the data. 
+token passing is a network access method in which a special bit pattern called a token circulates around the ring. 
+
+
+Token and Token in Ring Topology
+
+Token and Token is a frame that circulates around the network operations in Ring Topology.
+
+Token Operations
+1) One Station is Known as a monitor station.
+2) To transmit the data, the station has to hold the token. Transmission is Completed then the token will released to the other station.
+3) When no station is transmitting the data, then the token will circulate in the ring.
+
+Ring Topology
+
+![Ring Topology Diagram](https://i.imgur.com/your_image_url_here.png)
+
+
+
+
+
+Physical model with logical 
+
+(Notes about physical and logical models, possibly related to signal transmission and station connections - difficult to decipher fully from the image)
+
+# 6. Tree Topology!
+
+![Tree Topology Diagram](https://i.imgur.com/your_image_url_here.png)
+
+Tree Topology is the variation of Star Topology. This Topology has an hierarchical flow of data.
+- Various Secondary Hubs are connected to the Central Hub which contains the repeater.
+- This data flows from top to bottom
+i.e,. from the Central Hub to the Secondary Hubs and then to the devices (or) from bottom to top that is i.e. devices to the secondary hub & then to the Central hub.
+
+
+# IP Address
+* It is a multi-point connection & a non-robust topology because if the backbone fails the topology crashes.
+
+
+# What is Internet?
+A) The Internet is a global network of interconnected computers & devices that allows users to access and share information & devices allowing them to communicate and exchange data. It enables users to access a wide range of services such as:
+
+1) Websites
+2) Emails
+3) Social Media
+4) Online applications
+5) Cloud storage
+
+Initial tools for World Wide Web
+1) Education
+2) Business
+3) Entertainment
+4) Personal Communication
+
+Network Protocol: 
+A network Protocol is a set of rules that govern data communication b/w different devices in a Network.
+
+Types of Network Protocols
+1) Network Communication
+2) Network Management
+3) Network Security
+
+Network Communication Communication Protocols are really important for the functioning of a network.
+* These Protocols formally set out of rules & format through which data is transferred.
+* These protocols handle Syntax, Semantics, Error-detection etc.
+
+# Network Communication Protocols
+
+1) HTTPHyper Text Transfer Protocol:
+- 7-layer Protocol
+- Used to transfer
+- Works on Client - Server Model
+
+2) TCP Transmission Control Protocol:
+- Connection Oriented Protocol & reliable
+- Used for Communication over a network
+- Many applications, such as emails, FTP etc.
+
+3) UDP User Datagram Protocol
+- It is a Connectionless layout Protocol that layout a basic but unreliable message service.
+- UDP adds no flow Control, reliability or error recovery functions.
+
+4) Internet Protocol (IP): IP is a protocol that- 
