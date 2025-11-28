@@ -253,7 +253,22 @@ A Computer network is a connection of interconnected devices (Computers, Printer
 * Technologies: Ethernet (IEEE 802.3) WiFi (IEEE 802.11) Power line)
 - Devices: Switches wireless APs, routers (edge), NICs
 - User cases: Office networks, Campus labs, home network
-``` me
+
+``` mermaid
+graph TD
+    C1[Computer 1]
+    C2[Computer 2]
+    C3[Computer 3]
+    R[Router]
+    
+    C1 ---|Connection| R
+    C2 ---|Connection| R
+    C3 ---|Connection| R
+    
+    style C1 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style C2 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style C3 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style R fill:#2d3748,stroke:#4299e1,stroke-width:3px,color:#fff
 ```
 # Metropolitan Area Network (MAN)
 - Area: City large Campus a metro area (a few 10's of Km's)
@@ -261,6 +276,29 @@ A Computer network is a connection of interconnected devices (Computers, Printer
 - Ownership: Can be Private (University) or Provided by a telecom/City provider
 - Technologies: Metro Ethernet, fiber rings. Microwave links, leased lines
 - Use Cases: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
+
+``` mermaid
+graph TD
+    MAN[MAN]
+
+    LAN1[Hospital LAN]
+    LAN2[College LAN]
+    LAN3[Factory LAN]
+    LAN4[School LAN]
+
+    MAN ---|Connects| LAN1
+    MAN ---|Connects| LAN2
+    MAN ---|Connects| LAN3
+    MAN ---|Connects| LAN4
+
+    style MAN fill:#2d3748,stroke:#63b3ed,stroke-width:3px,color:#fff
+    style LAN1 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style LAN2 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style LAN3 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style LAN4 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+
+```
+
 
 # Wide Area Network (WAN)
 * Area: Inter city national & global - The Internet is the Largest WAN
@@ -270,6 +308,27 @@ A Computer network is a connection of interconnected devices (Computers, Printer
 - Use Cases Connecting geographically dispersed branches, Internet, transport.
 - Characteristic features Routing across, multiple administrative domains, complex QOS often secure tunnels (VPN) for private traffic.
 
+``` mermaid
+graph TD
+    WAN[WAN]
+
+    DC[Data Center]
+    RO[Remote Office]
+    BO[Branch Office]
+    RG[Regional Office]
+
+    WAN ---|Link| DC
+    WAN ---|Link| RO
+    WAN ---|Link| BO
+    WAN ---|Link| RG
+
+    style WAN fill:#2d3748,stroke:#63b3ed,stroke-width:3px,color:#fff
+    style DC fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style RO fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style BO fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style RG fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+
+```
 # Topologies
 In A network Topology is the arrangement of Devices (nodes) & Connections (links). In a Computer network. It shows how computers, servers, and other devices are connected and how data flows b/w them 
 There are 2 types of Topologies:
