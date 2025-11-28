@@ -34,11 +34,6 @@ flowchart TB
   D --> E[Archive Storage / Cloud]
 ```
 
-
-Input/Output Organization:
-I/O interfaces & I/O Techniques
-(Interrupt, DMA)
-
 CPU Organisation
 1. Registers
 2. Instruction Cycle
@@ -49,11 +44,11 @@ Data transfer and Control
 1. Control System
 2. Bus Control System
 
-Functional Components
+# Functional Components
 
 1. Input devices:
 * Takes data & instructions from the user & external environment
-* Converts them into a machine readable (Binary format)
+* Converts them into a machine readable (Binary format 1’s and 0’s.)
 * Sends the converted data to the computer's memory or processor.
 > [!example]
 > Keyboard, Mouse, Scanner, Microphone, Touch screen.
@@ -83,11 +78,7 @@ I. Primary Storage:
 ==++The CPU is the brain of the computer++==
 
 it has 2 major Sub-units:
-
-I. Arithmetic Logic Unit (ALU): Performs Arithmetic operations and Logical operations.
-
-Arithmetic: -, +, \, x.
-Logic (AND, OR, NOT, Comparisons) and & !.
+I. Arithmetic Logic Unit (ALU): Performs Arithmetic operations and Logical operations. Arithmetic: -, +, \, x. Logic (AND, OR, NOT, Comparisons) and & !.
 
 II. Control Unit:
 - Controls and Coordinates all Components.
@@ -131,21 +122,18 @@ I/O Functions:
     *   Status Register
     *   Request
 
-
-
-
 # I/O & I/O Techniques
 
 
 ![Interfaces Keyboard Harddisk](https://i.imgur.com/your_image_url_here.png)
 
 
-I/O Techniques:
+# I/O Techniques
 1) Programmed I/O
 2) Interrupt-driven 
 3) DMA.
 
-Programmed I/O:
+I. Programmed I/O:
 * The CPU executes every instructions for an I/O operation.
 * The CPU must continuously Poll or check, the status of a device to see if it is ready to transfer data.
 
@@ -155,11 +143,11 @@ $$
 $$
 ```
 
-2. Interrupt-driven I/O:
+II. Interrupt-driven I/O:
 - The CPU issues a command & then moves on the other tasks.
 - When the I/O device ready to transfer data, it sends an interrupt signal to the CPU.
 
-3. D.M.A:
+III. D.M.A:
 * Refers to ++Direct Memory Access++
 * A dedicated DMA Controller handles the transfer of data ++between devices & memory, by passing the CPU entirely for the transfer itself.++
 * This is the most efficient method for large data transfers, as it frees up the CPU to focus on other tasks while the data is being moved.
@@ -179,8 +167,7 @@ Main Components:
 
 # Types of Computers
 Computer are generally classified by speed, memory size and power consumption
-- Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer.
-Personal computer: It is a small, relatively inexpensive computer designed for an individual's user.
+- Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer. Personal computer: It is a small, relatively inexpensive computer designed for an individual's user.
 Desktop computers: A computer that is used for home application and small office work, is Desktop computer. In this type of computer, monitor is put on the top of computer and it is broad and low. While in tower computer, CPU cases are tall and narrow. In our general life we interact with Desktop Computer.
 - Minicomputer: A multi-user computer capable of supporting up to hundreds of users simultaneously. These computers are bigger in size and costlier than Microcomputers. Minicomputers are used in universities and big organisations.
 - Mainframe computer: A mainframe computer is a very large computer capable of handling and processing very large amounts of data quickly. These are used by large institutions, such as government agencies and large corporations.
@@ -190,7 +177,7 @@ applications that must handle very large databases. It is an extremely fast comp
 # Networking Fundamentals
 
 Definition of Network
-A Computer network is a connection of interconnected devices (Computers, Printers, Routers, Phones, Switches, servers, devices...etc.) that can exchange data and share resources using communication links and agreed rules (Protocols). Network allows devices to communicate both locally and across long distances ==forming the bases for services like email, web browsing, file sharing, streaming & remote access.==
+A Computer network is a connection of interconnected devices (Computers, Printers, Routers, Phones, Switches, servers, devices etc....) that can exchange data and share resources using communication links and agreed rules (Protocols). Network allows devices to communicate both locally and across long distances ==forming the bases for services like email, web browsing, file sharing, streaming & remote access.==
 
 # Why Networks are Needed?:
 1. Resource Sharing
