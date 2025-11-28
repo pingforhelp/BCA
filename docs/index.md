@@ -18,8 +18,8 @@
 
 # 📖 English
 **Unit-I:**
-- [Ch-01 Coromandel Fisher's *by arojini Naidu*](./english/Unit-I/chapter-01.md)
-- [Ch-02 The Night Train at Deoli *Ruskin Bond*](./english/Unit-I/chapter-02.md)
+- [++Ch-01++ Coromandel Fisher's *by arojini Naidu*](./english/Unit-I/chapter-01.md)
+- [++Ch-02++ The Night Train at Deoli *Ruskin Bond*](./english/Unit-I/chapter-02.md)
 - [Grammar: Parts of Speech](./english/Unit-I/parts_of_speech(grammar).md)
 
 **Unit-II:**
@@ -27,7 +27,7 @@
 - [Ch-02 A letter to the teacher](./english/Unit-II/chapter-02.md)
 
 **Unit-III**
- - [Where a mind is without fear](](./english/Unit-II/chapter-1.md)
+ - [Where a mind is without fear](./english/Unit-II/chapter-1.md)
 
 # ? AI
 - [Unit-1](./AI/u-1.md) | [Overview](./AI/Overview.md#unit-i)
