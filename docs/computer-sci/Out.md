@@ -108,7 +108,10 @@ III. Registers: Smallest and fastest memory locations in CPU temporarily hold da
 > PC, ACC, Instructions Register (IR).
 
 IV. Interfaces:
-Since CPU and I/O devices work at different speeds but interface ++helps in communication, Components. I/O Module++ Buffer Control Signals
+Since CPU and I/O devices work at different speeds but interface helps in communication Components.
+1. I/O Module
+2. Buffer
+3. Control Signals
 
 I/O Functions:
 1. Communication Bridge
