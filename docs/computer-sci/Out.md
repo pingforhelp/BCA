@@ -121,50 +121,26 @@ I/O Functions:
 5. Error Checking
 
 ``` mermaid
-flowchart LR
+flowchart TB
 
+    %% Top bus connection (CPU side)
     CPU[CPU]
 
-    %% Interfaces below CPU
+    %% Three vertical connections from CPU to interfaces
     CPU --> IF1
     CPU --> IF2
     CPU --> IF3
 
-    subgraph IF1[Interface]
-    end
+    %% Interface blocks
+    IF1[Interface]
+    IF2[Interface]
+    IF3[Interface]
 
-    subgraph IF2[Interface]
-    end
-
-    subgraph IF3[Interface]
-    end
-
-    %% Devices
+    %% Devices below interfaces
     IF1 --> Monitor[Monitor]
     IF2 --> Keyboard[Keyboard]
     IF3 --> Hardware[Hardware]
 
-    %% Memory at right with shared buses
-    CPU ---|Address Bus| MEM[Memory]
-    CPU ---|Data Bus| MEM
-    CPU ---|Control Bus| MEM
-
-***CPU** (10m)
-    *   $A_0$
-    *   $A_1$
-    *   $CS$
-    *   $RS$
-    *   $WR$
-*   **Data Bus**
-*   **TS Buffer**
-*   **RD/WR Control Logic Block**
-*   **Internal Bus**
-*   **I/O Device**
-    *   Port A
-    *   Port B
-    *   Control Register
-    *   Status Register
-    *   Request
 ```
 I/O Techniques
 
