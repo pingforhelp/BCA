@@ -16,7 +16,6 @@ Number System:
 - Decimal (10)
 - Hexadecimal (16)
 - Conversions and Complements.
-
 > [!tip]
 > Num = base
 
@@ -34,13 +33,13 @@ flowchart TB
   D --> E[Archive Storage / Cloud]
 ```
 
-CPU Organisation
+CPU Organisation:
 1. Registers
 2. Instruction Cycle
 3. Addressing Modes
 4. Instruction formats
 
-Data transfer and Control
+Data transfer and Control:
 1. Control System
 2. Bus Control System
 
@@ -64,8 +63,7 @@ Data transfer and Control
 Used to store ++data and instructions either temporarily or permanently.++
 
 It is of 2 types:
-
-I. Primary Storage: 
+. Primary Storage: 
 ++Fast, directly accessible by CPU.++
 > [!example]
 > RAM and ROM.
@@ -79,7 +77,6 @@ I. Primary Storage:
 ==++The CPU is the brain of the computer++==
 
 it has 2 major Sub-units:
-
 I. Arithmetic Logic Unit (ALU): Performs Arithmetic operations and Logical operations. Arithmetic: -, +, \, x. Logic (AND, OR, NOT, Comparisons) and & !.
 
 II. Control Unit:
@@ -92,10 +89,7 @@ III. Registers: Smallest and fastest memory locations in CPU temporarily hold da
 > PC, ACC, Instructions Register (IR).
 
 IV. Interfaces:
-Since CPU and I/O devices work at different speeds but interface ++helps in communication, Components. I/O Module++
-
-2) Buffer
-3) Control Signals
+Since CPU and I/O devices work at different speeds but interface ++helps in communication, Components. I/O Module++ Buffer Control Signals
 
 I/O Functions:
 1. Communication Bridge
@@ -123,7 +117,7 @@ I/O Functions:
     *   Status Register
     *   Request
 
-# I/O & I/O Techniques
+# I/O Techniques
 
 
 ![Interfaces Keyboard Harddisk](https://i.imgur.com/your_image_url_here.png)
@@ -137,43 +131,30 @@ I. Programmed I/O:
 * The CPU executes every instructions for an I/O operation.
 * The CPU must continuously Poll or check, the status of a device to see if it is ready to transfer data.
 
-```latex
-$$
-\text{Some Equation}
-$$
-```
-
 II. Interrupt-driven I/O:
 - The CPU issues a command & then moves on the other tasks.
 - When the I/O device ready to transfer data, it sends an interrupt signal to the CPU.
 
 III. D.M.A:
-* Refers to ++Direct Memory Access++
-* A dedicated DMA Controller handles the transfer of data ++between devices & memory, by passing the CPU entirely for the transfer itself.++
-* This is the most efficient method for large data transfers, as it frees up the CPU to focus on other tasks while the data is being moved.
+- efers to ++Direct Memory Access++
+- A dedicated DMA Controller handles the transfer of data ++between devices & memory, by passing the CPU entirely for the transfer itself.++
+- This is the most efficient method for large data transfers, as it frees up the CPU to focus on other tasks while the data is being moved.
 
-Computer Architecture
-Main Components:
+Computer Architecture main Components:
 - CPU
 - Main Memory Unit
 - System Bus
-- I/O Processors
+- I/O & I/O Processors
 - Printers
 - Magnetic Disk (HDD)
 - Keyboard
-- I/O
 
 # Memory Hierarchy
-··
-In the Computer System Design, Memory Hierarchy is an enhancement to organize
-the memory such that it can minimize the access time. The Memory Hierarchy was
-developed based on a program behavior known as locality of references (same data or nearby data is likely to be accessed again and again). The figure below clearly demonstrates the different
+In the Computer System Design, Memory Hierarchy is an enhancement to organize the memory such that it can minimize the access time. The Memory Hierarchy was developed based on a program behavior known as locality of references (same data or nearby data is likely to be accessed again and again). The figure below clearly demonstrates the different
 levels of the memory hierarchy.
 
-# Why Memory Hierarchy is
-Required in the System?
-Memory Hierarchy helps in optimizing the memory available in the computer. There are ++multiple levels present in the memory,
-each one having a different size, different cost, etc... ++Some types of memory like cache, and main memory are faster as compared to other types of memory but they are having a little less size and are also costly whereas some memory has alittle higher storage value, but they are a little slower. Accessing of data is not similar in all types of memory, some have faster access whereas some have slower access.++
+# Why Memory Hierarchy is Required in the System? 
+Memory Hierarchy helps in optimizing the memory available in the computer. There are ++multiple levels present in the memory, each one having a different size, different cost, etc... ++Some types of memory like cache, and main memory are faster as compared to other types of memory but they are having a little less size and are also costly whereas some memory has alittle higher storage value, but they are a little slower. Accessing of data is not similar in all types of memory, some have faster access whereas some have slower access.++
 
 # Types of Memory Hierarchy
 
@@ -189,56 +170,46 @@ applications that must handle very large databases. It is an extremely fast comp
 
 # Networking Fundamentals
 
-Definition of Network
+Definition of Network-
+
 A Computer network is a connection of interconnected devices (Computers, Printers, Routers, Phones, Switches, servers, devices etc....) that can exchange data and share resources using communication links and agreed rules (Protocols). Network allows devices to communicate both locally and across long distances ==forming the bases for services like email, web browsing, file sharing, streaming & remote access.==
 
-# Why Networks are Needed?:
-1. Resource Sharing
-* Share Printers, Scanner, Storage (NAS), Software licenses and data bases centrally.
-* Reduces Duplication and Cost.
-
+# Why Networks are Needed?
+1. Resource Sharing: Share Printers, Scanner, Network attached storage (NAS), Software licenses and databases centrally Reduces Duplication and Cost.++
 2. Communication and Collaboration: Email, instant messaging, video conferencing Collaborative editing (Google Docs, MS 365).
-
-3. Centralises Data Management and Backup: Central serves make backups, updates access control and audits easier
-4. Scalability and Flexibility New devices can be added with minimal configuration (Depending on Topology / Protocols)
-
-5. Remote access and mobility VPN’s, wifi and cloud services allow access from remote locations & mobile devices.
-
+3. Centralises Data Management and Backup: Central serves make backups, updates access control and audits easier.
+4. Scalability and Flexibility New devices can be added with minimal configuration. Depending on Topology/Protocols (rules)
+5. Remote access and mobility VPN’s, Wi-Fi and cloud services allow access from remote locations and mobile devices.
 6. Performance and Efficiency: Local networks (LANs) provide low latency High throughput access to local resources
-
-7. Security and Control: Fire Walls, IDS/access Policies and Central authentication
+7. Security and Control: Fire Walls, IDS/access Policies and Central authentication.
 > [!example]
 > LDAP, active directory.
+8. Business Continuity: Redundant network Paths laid over and WAN Support high availability.
 
-8. Business Continuity: Redundant network Paths laid over and WAN Support high availability
-
-
-
-# LAN - Local Area Networks
+# Local Area Networks (LAN)
 - Area: Single building/office/home (Meters to few Kms)
 - Speed: High (100 Mbps - 100 Gbps)
-* Technologies: Ethernet (IEEE 802.3)
-WiFi (IEEE 802.11) Power line
-* Devices: Switches wireless APs, routers (edge), NICs
-* User cases: Office networks, Campus labs, home network
+* Technologies: Ethernet (IEEE 802.3) WiFi (IEEE 802.11) Power line)
+- Devices: Switches wireless APs, routers (edge), NICs
+- User cases: Office networks, Campus labs, home network
 
-2) MAN - Metropolitan Area Network
-* Area: City large Campus a metro area (a few 10's of Km's)
-* Speed: Medium to high (10's of mbps to multiple Gbps)
-* Ownership: Can be Private (University) or Provided by a telecom/City provider
-* Technologies: Metro Ethernet, fiber rings. Microwave links, leased lines
-* Use Cases: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
+# Metropolitan Area Network (MAN)
+- Area: City large Campus a metro area (a few 10's of Km's)
+- Speed: Medium to high (10's of mbps to multiple Gbps)
+- Ownership: Can be Private (University) or Provided by a telecom/City provider
+- Technologies: Metro Ethernet, fiber rings. Microwave links, leased lines
+- Use Cases: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
 
-3) WAN - Wide Area Network
+# Wide Area Network (WAN)
 * Area: Inter city national & global - The Internet is the Largest WAN
 * Speed: Variable (mbps to gbps); often higher than LAN
 
 # LAN: (Local Area Network)
 
-## Computer 1
+Computer 1
 [Image of computer components]
 
-## Computer 2
+Computer 2
 [Image of computer components]
 
 
@@ -268,13 +239,10 @@ School               Factory LAN
 *Characteristic features* - Routing across, multiple administrative domains, complex QOS often secure tunnels (VPN) for private traffic.
 
 # Topologies
-In A network Topology is the arrangement of Devices (nodes) & Connections (links). In a Computer network. It shows how computers, servers, and other devices are connected and how data flows b/w them
-
+In A network Topology is the arrangement of Devices (nodes) & Connections (links). In a Computer network. It shows how computers, servers, and other devices are connected and how data flows b/w them 
 There are 2 types of Topologies:
 1.  **Physical Topology**: The actual Physical layout of Cables and devices.
 2. **Logical Topology**: How data moves across the network, regardless of physical layout
-
-
 
 # P Topology (Point-to-Point): 
 Point-to-point topology is a type of topology that works on the functionality of the sender and receiver. It is the simplest communication between two nodes, in which one is the sender and the other one is the receiver. Point-to-Point provides high bandwidth.
@@ -283,7 +251,6 @@ Point-to-point topology is a type of topology that works on the functionality of
 
 # Mesh Topology
 In a mesh topology, every device is connected to another device via a particular channel. Every device is connected to another via dedicated channels. These channels are known as links. In Mesh Topology, the protocols used are AHCP (Ad Hoc Configuration Protocols), DHCP (Dynamic Host Configuration Protocol), etc.
-
 ![Mesh Topology](https://i.imgur.com/9q9q9q9.png)
 
 # Star Topology
@@ -291,22 +258,17 @@ All the devices are connected to a single hub through a cable. *This hub is the 
 * The hub can be passive in nature - that is an intelligent hub such as broadcasting devices.
 * At the same time the hub can be intelligent - known as an active hub. 
 Active hubs have repeaters in them.
-
 ![Star Topology Diagram](https://i.imgur.com/your_image_url_here.png)
 
-# Bus Topology:
-Bus Topology is a network type in which every computer and network device is connected to a single cable.
-* It is a multi-point connection and a non-robust topology because if the back bone fails the topology crashes.
-
+# Bus Topology
+Bus Topology is a network type in which every computer and network device is connected to a single cable. It is a multi-point connection and a non-robust topology because if the back bone fails the topology crashes.
 ![Bus Topology Diagram](https://i.imgur.com/your_image_url_here.png) 
 
-# Ring Topology:
-It forms a ring connecting devices with exactly two neighboring devices.
-* A no. of repeaters are used for Ring Topology with a large no. of nodes.
-* In Ring Topology, the token passing protocol is used by the workstations to transmit the data. 
+# Ring Topology
+- It forms a ring connecting devices with exactly two neighboring devices.
+- A no. of repeaters are used for Ring Topology with a large no. of nodes.
+- In Ring Topology, the token passing protocol is used by the workstations to transmit the data. 
 token passing is a network access method in which a special bit pattern called a token circulates around the ring. 
-
-
 Token and Token in Ring Topology Token and Token is a frame that circulates around the network operations in Ring Topology.
 
 Token Operations
@@ -314,18 +276,13 @@ Token Operations
 2) To transmit the data, the station has to hold the token. Transmission is Completed then the token will released to the other station.
 3) When no station is transmitting the data, then the token will circulate in the ring.
 
-
 ![Ring Topology Diagram](https://i.imgur.com/your_image_url_here.png)
-
-
-
-
 
 Physical model with logical 
 
 (Notes about physical and logical models, possibly related to signal transmission and station connections - difficult to decipher fully from the image)
 
-# 6. Tree Topology
+# Tree Topology
 
 ![Tree Topology Diagram](https://i.imgur.com/your_image_url_here.png)
 
@@ -335,51 +292,52 @@ Tree Topology is the variation of Star Topology. This Topology has an hierarchic
 i.e,. from the Central Hub to the Secondary Hubs and then to the devices (or) from bottom to top that is i.e., devices to the secondary hub & then to the Central hub.
 
 
-# IP Address
-* It is a multi-point connection & a non-robust topology because if the backbone fails the topology crashes.
+# Internet basics
+It is a multi-point connection & a non-robust topology because if the backbone fails the topology crashes.
 
 
 # What is Internet?
-A) The Internet is a global network of interconnected computers & devices that allows users to access and share information & devices allowing them to communicate and exchange data. It enables users to access a wide range of services such as:
+The Internet is a global network of interconnected computers & devices that allows users to access and share information & devices allowing them to communicate and exchange data. 
 
-1) Websites
-2) Emails
-3) Social Media
-4) Online applications
-5) Cloud storage
+It enables users to access a wide range of services such as:
+1. Websites
+2. Emails
+3. Social Media
+4. Online applications
+5. Cloud storage
 
 Initial tools for World Wide Web
-1) Education
-2) Business
-3) Entertainment
-4) Personal Communication
+1. Education
+2. Business
+3. Entertainment
+4. Personal Communication
 
-Network Protocol: 
-A network Protocol is a set of rules that govern data communication b/w different devices in a Network.
+Network Protocol: A network Protocol is a set of rules that govern data communication between different devices in a Network.
 
-Types of Network Protocols
-1) Network Communication
-2) Network Management
-3) Network Security
+Types of Network Protocols:
+1. Network Communication
+2. Network Management
+3. Network Security
 
-Network Communication Communication Protocols are really important for the functioning of a network.
-* These Protocols formally set out of rules & format through which data is transferred.
-* These protocols handle Syntax, Semantics, Error-detection etc.
+Network Communication Communication Protocols are really important for the functioning of a network:
+- These Protocols formally set out of rules & format through which data is transferred.
+- These protocols handle Syntax, Semantics, Error-detection etc.
 
 # Network Communication Protocols
 
-1) HTTP Hyper Text Transfer Protocol:
+1 HTTP Hyper Text Transfer Protocol:
 - 7-layer Protocol
-- Used to transfer
-- Works on Client - Server Model
+- Used to transfer data
+- Works on Client Server Model
 
 2) TCP Transmission Control Protocol:
 - Connection Oriented Protocol & reliable
 - Used for Communication over a network
-- Many applications, such as emails, FTP etc.
+- Many applications, such as emails, FTP etc...
 
 3) UDP User Datagram Protocol:
 - It is a Connectionless layout Protocol that layout a basic but unreliable message service.
 - UDP adds no flow Control, reliability or error recovery functions.
 
-4) Internet Protocol (IP): IP is a protocol that- 
+4) Internet Protocol (IP):
+- IP is a protocol that- 
