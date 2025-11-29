@@ -442,3 +442,10 @@ easily, using links that connect different pages together. The Web allows us to 
 All public websites or web pages that people may access on their local computers and other devices through the internet are collectively known as the
 World Wide Web or W3. Users can get further information by navigating to links
 interconnecting these pages and documents. This data may be presented in text, picture, audio, or video formats on the internet.
+
+
+The Web has three main building blocks that make it work:
+
+1. URL (Uniform Resource Locator): This is the address of a webpage, like https://www.example.com./ It tells your browser exactly where to find the page.
+2. HTTP (Hypertext Transfer Protocol): This is the set of rules that lets your browser and the server talk to each other to send and receive webpages.
+3. HTML (Hypertext Markup Language): This is the code that tells browsers how to display a webpage, including where to put text, pictures, and links.
