@@ -432,3 +432,13 @@ Network Communication Communication Protocols are really important for the funct
 
 4) Internet Protocol (IP):
 - IP is a protocol that- 
+
+
+# World Wide Web (WWW)
+
+The World Wide Web (WWW), often called the Web, is a system of interconnected
+webpages and information that you can access using the Internet. It was created to help people share and find information
+easily, using links that connect different pages together. The Web allows us to browse websites, watch videos, shop online, and connect with others around the world through our computers and phones. 
+All public websites or web pages that people may access on their local computers and other devices through the internet are collectively known as the
+World Wide Web or W3. Users can get further information by navigating to links
+interconnecting these pages and documents. This data may be presented in text, picture, audio, or video formats on the internet.
