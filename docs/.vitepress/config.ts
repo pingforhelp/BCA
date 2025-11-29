@@ -110,13 +110,17 @@ export default withMermaid(
       ],
 
       search: { provider: "local" },
-
       footer: {
-        copyright: "© 2025 Notes.Tamim's.Space",
-      Text: "Syllabus.md",
-      link: "./bca-syllabus.md"
-        
-      }
-    }
-  })
-);
+  copyright: "© 2025 Notes.Tamim's.Space",
+  links: [
+    {
+      title: "Clickyhere",
+      items: [
+        {
+          label: "Syllabus.md",
+          to: "./bca-syllabus.md",
+        },
+      ],
+    },
+  ],
+},
