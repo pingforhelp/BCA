@@ -221,15 +221,6 @@ flowchart TB
 # Topologies
 A network topology is the arrangement of devices (nodes) and connections (links) in a computer network. It shows how computers, servers, and other devices are connected and how data flows between them. There are two main types of topology:
 1. Physical Topology: The actual physical layout of cables and devices.
-2.Logical Topology: How data moves across the network, regardless of physical layout. 
-
-
-
-
-
-
-
-
-
+2. Logical Topology: How data moves across the network, regardless of physical layout. 
 
 # Internet Basics
