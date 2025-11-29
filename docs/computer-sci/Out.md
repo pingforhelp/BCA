@@ -337,24 +337,104 @@ There are 2 types of Topologies:
 
 # P Topology (Point-to-Point): 
 Point-to-point topology is a type of topology that works on the functionality of the sender and receiver. It is the simplest communication between two nodes, in which one is the sender and the other one is the receiver. Point-to-Point provides high bandwidth.
+````  mermaid
+graph LR
+    A[Node 1] ---|Link| B[Node 2]
 
-![Node 1 to Node 2](https://i.imgur.com/9q9q9q9.png)
+    style A fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style B fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
 
+````
 # Mesh Topology
 In a mesh topology, every device is connected to another device via a particular channel. Every device is connected to another via dedicated channels. These channels are known as links. In Mesh Topology, the protocols used are AHCP (Ad Hoc Configuration Protocols), DHCP (Dynamic Host Configuration Protocol), etc.
-![Mesh Topology](https://i.imgur.com/9q9q9q9.png)
+````  mermaid
+graph TD
+    N1[1]
+    N2[2]
+    N3[3]
+    N4[4]
+    N5[5]
+    N6[6]
+
+    N1 --- N2
+    N1 --- N3
+    N1 --- N4
+    N1 --- N5
+    N1 --- N6
+
+    N2 --- N3
+    N2 --- N4
+    N2 --- N5
+    N2 --- N6
+
+    N3 --- N4
+    N3 --- N5
+    N3 --- N6
+
+    N4 --- N5
+    N4 --- N6
+
+    N5 --- N6
+
+    style N1 fill:#4a5568,stroke:#718096,color:#fff
+    style N2 fill:#4a5568,stroke:#718096,color:#fff
+    style N3 fill:#4a5568,stroke:#718096,color:#fff
+    style N4 fill:#4a5568,stroke:#718096,color:#fff
+    style N5 fill:#4a5568,stroke:#718096,color:#fff
+    style N6 fill:#4a5568,stroke:#718096,color:#fff
+
+````
 
 # Star Topology
 All the devices are connected to a single hub through a cable. *This hub is the central node and all other nodes are connected to central node.*
 * The hub can be passive in nature - that is an intelligent hub such as broadcasting devices.
 * At the same time the hub can be intelligent - known as an active hub. 
 Active hubs have repeaters in them.
-![Star Topology Diagram](https://i.imgur.com/your_image_url_here.png)
 
+````  mermaid
+graph TD
+    HUB[Hub]
+
+    A[Node 1]
+    B[Node 2]
+    C[Node 3]
+    D[Node 4]
+    E[Node 5]
+
+    A --- HUB
+    B --- HUB
+    C --- HUB
+    D --- HUB
+    E --- HUB
+
+    style HUB fill:#2d3748,stroke:#63b3ed,stroke-width:3px,color:#fff
+    style A fill:#4a5568,stroke:#718096,color:#fff
+    style B fill:#4a5568,stroke:#718096,color:#fff
+    style C fill:#4a5568,stroke:#718096,color:#fff
+    style D fill:#4a5568,stroke:#718096,color:#fff
+    style E fill:#4a5568,stroke:#718096,color:#fff
+
+````
 # Bus Topology
 Bus Topology is a network type in which every computer and network device is connected to a single cable. It is a multi-point connection and a non-robust topology because if the back bone fails the topology crashes.
-![Bus Topology Diagram](https://i.imgur.com/your_image_url_here.png) 
 
+````  mermaid
+graph LR
+    T1[Terminator] --- BB[Backbone] --- T2[Terminator]
+
+    N1[Node 1] --- BB
+    N2[Node 2] --- BB
+    N3[Node 3] --- BB
+    N4[Node 4] --- BB
+
+    style T1 fill:#4a5568,stroke:#718096,color:#fff
+    style T2 fill:#4a5568,stroke:#718096,color:#fff
+    style BB fill:#2d3748,stroke:#63b3ed,color:#fff
+    style N1 fill:#4a5568,stroke:#718096,color:#fff
+    style N2 fill:#4a5568,stroke:#718096,color:#fff
+    style N3 fill:#4a5568,stroke:#718096,color:#fff
+    style N4 fill:#4a5568,stroke:#718096,color:#fff
+````
 # Ring Topology
 - It forms a ring connecting devices with exactly two neighboring devices.
 - A no. of repeaters are used for Ring Topology with a large no. of nodes.
@@ -367,21 +447,52 @@ Token Operations
 2) To transmit the data, the station has to hold the token. Transmission is Completed then the token will released to the other station.
 3) When no station is transmitting the data, then the token will circulate in the ring.
 
-![Ring Topology Diagram](https://i.imgur.com/your_image_url_here.png)
+``` mermaid
+graph TD
+    N1[1] --- N2[2]
+    N2 --- N3[3]
+    N3 --- N4[4]
+    N4 --- N5[5]
+    N5 --- N6[6]
+    N6 --- N1
 
-Physical model with logical 
-
-(Notes about physical and logical models, possibly related to signal transmission and station connections - difficult to decipher fully from the image)
+    style N1 fill:#4a5568,stroke:#718096,color:#fff
+    style N2 fill:#4a5568,stroke:#718096,color:#fff
+    style N3 fill:#4a5568,stroke:#718096,color:#fff
+    style N4 fill:#4a5568,stroke:#718096,color:#fff
+    style N5 fill:#4a5568,stroke:#718096,color:#fff
+    style N6 fill:#4a5568,stroke:#718096,color:#fff
+```
 
 # Tree Topology
-
-![Tree Topology Diagram](https://i.imgur.com/your_image_url_here.png)
-
 Tree Topology is the variation of Star Topology. This Topology has an hierarchical flow of data.
 - Various Secondary Hubs are connected to the Central Hub which contains the repeater.
-- This data flows from top to bottom
-i.e,. from the Central Hub to the Secondary Hubs and then to the devices (or) from bottom to top that is i.e., devices to the secondary hub & then to the Central hub.
+- This data flows from top to bottom i.e,. from the Central Hub to the Secondary Hubs and then to the devices (or) from bottom to top that is i.e., devices to the secondary hub & then to the Central hub.
 
+```mermaid
+graph TD
+    D1[D-1]
+    D2[D-2]
+    D3[D-3]
+    D4[D-4]
+    D5[D-5]
+    D6[D-6]
+
+    D1 --> D2
+    D1 --> D3
+
+    D2 --> D4
+    D2 --> D5
+
+    D3 --> D6
+
+    style D1 fill:#2d3748,stroke:#63b3ed,color:#fff
+    style D2 fill:#4a5568,stroke:#718096,color:#fff
+    style D3 fill:#4a5568,stroke:#718096,color:#fff
+    style D4 fill:#4a5568,stroke:#718096,color:#fff
+    style D5 fill:#4a5568,stroke:#718096,color:#fff
+    style D6 fill:#4a5568,stroke:#718096,color:#fff
+```
 
 # Internet basics
 It is a multi-point connection & a non-robust topology because if the backbone fails the topology crashes.
@@ -389,7 +500,6 @@ It is a multi-point connection & a non-robust topology because if the backbone f
 
 # What is Internet?
 The Internet is a global network of interconnected computers & devices that allows users to access and share information & devices allowing them to communicate and exchange data. 
-
 It enables users to access a wide range of services such as:
 1. Websites
 2. Emails
