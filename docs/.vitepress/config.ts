@@ -2,8 +2,9 @@ import { defineConfig } from "vitepress";
 import { withMermaid } from "vitepress-plugin-mermaid";
 import markdownItMark from "markdown-it-mark";
 import markdownItIns from "markdown-it-ins";
+
 // -----------------------------------------------------
-// Obsidian Callouts (Admonitions Style)
+// Obsidian Callouts
 // -----------------------------------------------------
 function obsidianCallouts(md) {
   const regex = /^\[!(\w+)\]([+-])?\s*(.*)$/;
@@ -39,16 +40,16 @@ function obsidianCallouts(md) {
 
     if (MAP[type]) type = MAP[type];
 
-    const isFoldable = foldable === '+' || foldable === '-';
-    const isCollapsed = foldable === '-';
+    const isFoldable = foldable === "+" || foldable === "-";
+    const isCollapsed = foldable === "-";
 
     const open = state.push("html_block", "", 0);
     open.content = `
-<div class="callout callout-${type}${isFoldable ? ' is-collapsible' : ''}${isCollapsed ? ' is-collapsed' : ''}" data-callout="${type}">
+<div class="callout callout-${type}${isFoldable ? " is-collapsible" : ""}${isCollapsed ? " is-collapsed" : ""}" data-callout="${type}">
   <div class="callout-title">
     <div class="callout-icon"></div>
     <div class="callout-title-inner">${title}</div>
-    ${isFoldable ? '<div class="callout-fold"></div>' : ''}
+    ${isFoldable ? '<div class="callout-fold"></div>' : ""}
   </div>
   <div class="callout-content">`;
 
@@ -89,9 +90,8 @@ export default withMermaid(
       }
     },
 
-    // Mermaid config
     mermaid: {
-      theme: 'default'
+      theme: "default"
     },
 
     themeConfig: {
@@ -99,10 +99,9 @@ export default withMermaid(
 
       nav: [
         { text: "Home", link: "/" },
-        { text: "Computer Sci", link: "/computer-sci/" }
+        { text: "Syllabus", link: "/bca-syllabus" }
       ],
 
-  
       socialLinks: [
         { icon: "github", link: "https://github.com/pingforhelp/BCA" },
         { icon: "linkedin", link: "https://linkedin.com/in/tamimtasira" },
@@ -110,17 +109,10 @@ export default withMermaid(
       ],
 
       search: { provider: "local" },
+
       footer: {
-  copyright: "© 2025 Notes.Tamim's.Space",
-  links: [
-    {
-      title: "Clickyhere",
-      items: [
-        {
-          label: "Syllabus.md",
-          to: "./bca-syllabus.md",
-        },
-      ],
-    },
-  ],
-},
+        message: "© 2025 Notes.Tamim's.Space"
+      }
+    }
+  })
+);
