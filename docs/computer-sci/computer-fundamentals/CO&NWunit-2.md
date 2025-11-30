@@ -488,5 +488,6 @@ The Web is amazing, but it has some problems that you should know about:
 - Too Much Screen Time: Spending too much time online can make it hard to focus on school or sleep well. Again NOT CAN it is a real thing
 - Access Issues: Not everyone has fast Internet, especially in some countries, which makes it harder to use the Web.
 
+![WhatsApp Image 2025-11-29 at 11 42 52_2b50bdd8](https://github.com/user-attachments/assets/3da8c3ef-a82a-487a-982f-84568a592a32)
 
 
