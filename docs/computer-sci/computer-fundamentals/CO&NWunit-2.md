@@ -338,10 +338,21 @@ There are 2 types of Topologies:
 # P Topology (Point-to-Point): 
 Point-to-point topology is a type of topology that works on the functionality of the sender and receiver. It is the simplest communication between two nodes, in which one is the sender and the other one is the receiver. Point-to-Point provides high bandwidth.
 ````  mermaid
+graph LR
+  A[Node A] --- B[Node B]
+  %% Point-to-point: single dedicated link between two nodes
 ````
 # Mesh Topology
 In a mesh topology, every device is connected to another device via a particular channel. Every device is connected to another via dedicated channels. These channels are known as links. In Mesh Topology, the protocols used are AHCP (Ad Hoc Configuration Protocols), DHCP (Dynamic Host Configuration Protocol), etc.
 ````  mermaid
+graph LR
+  A[Node A] --- B[Node B]
+  A --- C[Node C]
+  A --- D[Node D]
+  B --- C
+  B --- D
+  C --- D
+  %% Full mesh: every node connected to every other node
 
 ````
 
@@ -352,11 +363,27 @@ All the devices are connected to a single hub through a cable. *This hub is the 
 Active hubs have repeaters in them.
 
 ````  mermaid
+graph LR
+  Hub[Central Hub / Switch]
+  A[Node A] --- Hub
+  B[Node B] --- Hub
+  C[Node C] --- Hub
+  D[Node D] --- Hub
+  %% Star: central hub with spokes to each device
+
 ````
 # Bus Topology
 Bus Topology is a network type in which every computer and network device is connected to a single cable. It is a multi-point connection and a non-robust topology because if the back bone fails the topology crashes.
 
 ````  mermaid
+graph LR
+  Backbone[Backbone Cable]
+  Backbone --- A[Device A]
+  Backbone --- B[Device B]
+  Backbone --- C[Device C]
+  Backbone --- D[Device D]
+  %% Bus: single shared backbone with drop lines to devices
+
 ````
 # Ring Topology
 - It forms a ring connecting devices with exactly two neighboring devices.
@@ -371,6 +398,10 @@ Token Operations:
 3) When no station is transmitting the data, then the token will circulate in the ring.
 
 ``` mermaid
+graph LR
+  A[Node A] --- B[Node B] --- C[Node C] --- D[Node D] --- A
+  %% Ring: closed loop; token-passing schemes often used
+
 ```
 
 # Tree Topology
@@ -379,6 +410,15 @@ Tree Topology is the variation of Star Topology. This Topology has an hierarchic
 - This data flows from top to bottom i.e,. from the Central Hub to the Secondary Hubs and then to the devices (or) from bottom to top that is i.e., devices to the secondary hub & then to the Central hub.
 
 ```mermaid
+graph TD
+  Root[Root Hub]
+  Root --- S1[Secondary Hub 1]
+  Root --- S2[Secondary Hub 2]
+  S1 --- A[Device A]
+  S1 --- B[Device B]
+  S2 --- C[Device C]
+  S2 --- D[Device D]
+  %% Tree: hierarchical star-variation with root -> secondary hubs -> devices
 ```
 
 # Internet basics
