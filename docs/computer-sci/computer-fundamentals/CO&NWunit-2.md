@@ -338,50 +338,10 @@ There are 2 types of Topologies:
 # P Topology (Point-to-Point): 
 Point-to-point topology is a type of topology that works on the functionality of the sender and receiver. It is the simplest communication between two nodes, in which one is the sender and the other one is the receiver. Point-to-Point provides high bandwidth.
 ````  mermaid
-graph LR
-    A[Node 1] ---|Link| B[Node 2]
-
-    style A fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
-    style B fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
-
 ````
 # Mesh Topology
 In a mesh topology, every device is connected to another device via a particular channel. Every device is connected to another via dedicated channels. These channels are known as links. In Mesh Topology, the protocols used are AHCP (Ad Hoc Configuration Protocols), DHCP (Dynamic Host Configuration Protocol), etc.
 ````  mermaid
-graph TD
-    N1[1]
-    N2[2]
-    N3[3]
-    N4[4]
-    N5[5]
-    N6[6]
-
-    N1 --- N2
-    N1 --- N3
-    N1 --- N4
-    N1 --- N5
-    N1 --- N6
-
-    N2 --- N3
-    N2 --- N4
-    N2 --- N5
-    N2 --- N6
-
-    N3 --- N4
-    N3 --- N5
-    N3 --- N6
-
-    N4 --- N5
-    N4 --- N6
-
-    N5 --- N6
-
-    style N1 fill:#4a5568,stroke:#718096,color:#fff
-    style N2 fill:#4a5568,stroke:#718096,color:#fff
-    style N3 fill:#4a5568,stroke:#718096,color:#fff
-    style N4 fill:#4a5568,stroke:#718096,color:#fff
-    style N5 fill:#4a5568,stroke:#718096,color:#fff
-    style N6 fill:#4a5568,stroke:#718096,color:#fff
 
 ````
 
@@ -392,48 +352,11 @@ All the devices are connected to a single hub through a cable. *This hub is the 
 Active hubs have repeaters in them.
 
 ````  mermaid
-graph TD
-    HUB[Hub]
-
-    A[Node 1]
-    B[Node 2]
-    C[Node 3]
-    D[Node 4]
-    E[Node 5]
-
-    A --- HUB
-    B --- HUB
-    C --- HUB
-    D --- HUB
-    E --- HUB
-
-    style HUB fill:#2d3748,stroke:#63b3ed,stroke-width:3px,color:#fff
-    style A fill:#4a5568,stroke:#718096,color:#fff
-    style B fill:#4a5568,stroke:#718096,color:#fff
-    style C fill:#4a5568,stroke:#718096,color:#fff
-    style D fill:#4a5568,stroke:#718096,color:#fff
-    style E fill:#4a5568,stroke:#718096,color:#fff
-
 ````
 # Bus Topology
 Bus Topology is a network type in which every computer and network device is connected to a single cable. It is a multi-point connection and a non-robust topology because if the back bone fails the topology crashes.
 
 ````  mermaid
-graph LR
-    T1[Terminator] --- BB[Backbone] --- T2[Terminator]
-
-    N1[Node 1] --- BB
-    N2[Node 2] --- BB
-    N3[Node 3] --- BB
-    N4[Node 4] --- BB
-
-    style T1 fill:#4a5568,stroke:#718096,color:#fff
-    style T2 fill:#4a5568,stroke:#718096,color:#fff
-    style BB fill:#2d3748,stroke:#63b3ed,color:#fff
-    style N1 fill:#4a5568,stroke:#718096,color:#fff
-    style N2 fill:#4a5568,stroke:#718096,color:#fff
-    style N3 fill:#4a5568,stroke:#718096,color:#fff
-    style N4 fill:#4a5568,stroke:#718096,color:#fff
 ````
 # Ring Topology
 - It forms a ring connecting devices with exactly two neighboring devices.
@@ -442,26 +365,12 @@ graph LR
 token passing is a network access method in which a special bit pattern called a token circulates around the ring. 
 Token and Token in Ring Topology Token and Token is a frame that circulates around the network operations in Ring Topology.
 
-Token Operations
+Token Operations:
 1) One Station is Known as a monitor station.
 2) To transmit the data, the station has to hold the token. Transmission is Completed then the token will released to the other station.
 3) When no station is transmitting the data, then the token will circulate in the ring.
 
 ``` mermaid
-graph TD
-    N1[1] --- N2[2]
-    N2 --- N3[3]
-    N3 --- N4[4]
-    N4 --- N5[5]
-    N5 --- N6[6]
-    N6 --- N1
-
-    style N1 fill:#4a5568,stroke:#718096,color:#fff
-    style N2 fill:#4a5568,stroke:#718096,color:#fff
-    style N3 fill:#4a5568,stroke:#718096,color:#fff
-    style N4 fill:#4a5568,stroke:#718096,color:#fff
-    style N5 fill:#4a5568,stroke:#718096,color:#fff
-    style N6 fill:#4a5568,stroke:#718096,color:#fff
 ```
 
 # Tree Topology
@@ -470,28 +379,6 @@ Tree Topology is the variation of Star Topology. This Topology has an hierarchic
 - This data flows from top to bottom i.e,. from the Central Hub to the Secondary Hubs and then to the devices (or) from bottom to top that is i.e., devices to the secondary hub & then to the Central hub.
 
 ```mermaid
-graph TD
-    D1[D-1]
-    D2[D-2]
-    D3[D-3]
-    D4[D-4]
-    D5[D-5]
-    D6[D-6]
-
-    D1 --> D2
-    D1 --> D3
-
-    D2 --> D4
-    D2 --> D5
-
-    D3 --> D6
-
-    style D1 fill:#2d3748,stroke:#63b3ed,color:#fff
-    style D2 fill:#4a5568,stroke:#718096,color:#fff
-    style D3 fill:#4a5568,stroke:#718096,color:#fff
-    style D4 fill:#4a5568,stroke:#718096,color:#fff
-    style D5 fill:#4a5568,stroke:#718096,color:#fff
-    style D6 fill:#4a5568,stroke:#718096,color:#fff
 ```
 
 # Internet basics
@@ -513,7 +400,8 @@ Initial tools for World Wide Web
 3. Entertainment
 4. Personal Communication
 
-Network Protocol: A network Protocol is a set of rules that govern data communication between different devices in a Network.
+Network Protocol: 
+A network Protocol is a set of rules that govern data communication between different devices in a Network.
 
 Types of Network Protocols:
 1. Network Communication
@@ -530,32 +418,21 @@ Network Communication Communication Protocols are really important for the funct
 - 7-layer Protocol
 - Used to transfer data
 - Works on Client Server Model
-
 2) TCP Transmission Control Protocol:
 - Connection Oriented Protocol & reliable
 - Used for Communication over a network
 - Many applications, such as emails, FTP etc...
-
 3) UDP User Datagram Protocol:
 - It is a Connectionless layout Protocol that layout a basic but unreliable message service.
 - UDP adds no flow Control, reliability or error recovery functions.
-
 4) Internet Protocol (IP):
-- IP is a protocol that- 
-
+- IP is a protocol that-
 
 # World Wide Web (WWW)
-
 The World Wide Web (WWW), often called the Web, is a system of interconnected
-webpages and information that you can access using the Internet. It was created to help people share and find information
-easily, using links that connect different pages together. The Web allows us to browse websites, watch videos, shop online, and connect with others around the world through our computers and phones. 
-All public websites or web pages that people may access on their local computers and other devices through the internet are collectively known as the
-World Wide Web or W3. Users can get further information by navigating to links
-interconnecting these pages and documents. This data may be presented in text, picture, audio, or video formats on the internet.
-
+webpages and information that you can access using the Internet. It was created to help people share and find information easily, using links that connect different pages together. The Web allows us to browse websites, watch videos, shop online, and connect with others around the world through our computers and phones.  All public websites or web pages that people may access on their local computers and other devices through the internet are collectively known as the World Wide Web or W3. Users can get further information by navigating to links interconnecting these pages and documents. This data may be presented in text, picture, audio, or video formats on the internet.
 
 The Web has three main building blocks that make it work:
-
 1. URL (Uniform Resource Locator): This is the address of a webpage, like https://www.example.com./ It tells your browser exactly where to find the page.
 2. HTTP (Hypertext Transfer Protocol): This is the set of rules that lets your browser and the server talk to each other to send and receive webpages.
 3. HTML (Hypertext Markup Language): This is the code that tells browsers how to display a webpage, including where to put text, pictures, and links.
