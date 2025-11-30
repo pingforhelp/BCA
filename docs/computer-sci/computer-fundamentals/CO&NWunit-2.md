@@ -207,6 +207,7 @@ Memory Hierarchy helps in optimizing the memory available in the computer. There
 This Memory Hierarchy Design is divided into 2 main types:
 - External Memory or Secondary Memory: Comprising of Magnetic Disk, Optical Disk, and Magnetic Tape i.e. peripheral storage devices which are accessible by the processor via an I/O Module.
 - Internal Memory or Primary Memory: Comprising of Main Memory, Cache Memory & CPU registers. This is directly accessible by the processor.
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/06af35b7-3b88-4f95-aa20-e8175925bd3e" />
 
 Memory Hierarchy Design:
 1. Registers are small, high-speed memory units located in the CPU. They are used to store the most frequently used data and instructions. Registers have the fastest access time and the smallest storage capacity, typically ranging from 16 to 64 bits.
@@ -472,7 +473,20 @@ Network Communication Communication Protocols are really important for the funct
 The World Wide Web (WWW), often called the Web, is a system of interconnected
 webpages and information that you can access using the Internet. It was created to help people share and find information easily, using links that connect different pages together. The Web allows us to browse websites, watch videos, shop online, and connect with others around the world through our computers and phones.  All public websites or web pages that people may access on their local computers and other devices through the internet are collectively known as the World Wide Web or W3. Users can get further information by navigating to links interconnecting these pages and documents. This data may be presented in text, picture, audio, or video formats on the internet.
 
+# Key points
 The Web has three main building blocks that make it work:
 1. URL (Uniform Resource Locator): This is the address of a webpage, like https://www.example.com./ It tells your browser exactly where to find the page.
 2. HTTP (Hypertext Transfer Protocol): This is the set of rules that lets your browser and the server talk to each other to send and receive webpages.
 3. HTML (Hypertext Markup Language): This is the code that tells browsers how to display a webpage, including where to put text, pictures, and links.
+![WhatsApp Image 2025-11-29 at 11 42 51_3db74717](https://github.com/user-attachments/assets/c3a043ed-8ca5-4b30-8698-f497a8e3304a)
+Challenges of the Web
+The Web is amazing, but it has some problems that you should know about:
+- Privacy: Some websites collect information about you, like what you search for, and might share it without asking.
+- Safety: Hackers can try to steal your information or send viruses through fake links or ads.
+- False Information: Not everything on the Web is true, so you need to check if a website is trustworthy.
+- Bullying: Some people use the Web to be mean or bully others, which can hurt feelings. NOT CAN it is a real thing.
+- Too Much Screen Time: Spending too much time online can make it hard to focus on school or sleep well. Again NOT CAN it is a real thing
+- Access Issues: Not everyone has fast Internet, especially in some countries, which makes it harder to use the Web.
+
+
+
