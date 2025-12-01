@@ -1,14 +1,14 @@
 # 📚  Notes
 
 # 🧮 Computer Fundamentals
-- [Unit 1](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
-- [CO & N/W Unit-2](./computer-sci/computer-fundamentals/CO&NWunit-2.md)
-- [Office Automation Unit-3](./computer-sci/computer-fundamentals/office_automation.md)
+- [U-01 Unit 1 Number Systems, Evolution , Block Diagram and Generations](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
+- [U-02 CO & N/W](./computer-sci/computer-fundamentals/CO&NWunit-2.md)
+- [U-03 Unit 3. Word Processing and presentations (Course-02)](./computer-sci/computer-fundamentals/office_automation.md)
 
 # ⚙️ Problem Solving Using C
-- [Unit 1](./computer-sci/c/u-1c.md) 
-- [Unit 2](./computer-sci/c/u-2c.md)
-- [Unit 3](./computer-sci/c/u-3c.md)
+- [U-01 Intro. to Computer programming](./computer-sci/c/u-1c.md) 
+- [U-2 Control statements](./computer-sci/c/u-2c.md)
+- [U-3 Unit 3. Derived data types in C](./computer-sci/c/u-3c.md)
 
 # 🗣️ Communication Skills
 - [Everyday Phrases](./communication-skills/everyday_phrases.md)
@@ -25,10 +25,23 @@
 **Unit-II:**
 - [Ch-01 Short Story: The Lost Child *by Mulk Raj Anand*](./english/Unit-II/chapter-01.md)
 - [Ch-02 A letter to the teacher](./english/Unit-II/chapter-02.md)
+- Articles and prepositions](./english/Unit-II/articles_&_prepositions(grammar).md)
 
 **Unit-III**
- - [Where a mind is without fear](./english/Unit-III/chapter-1.md)
+ - [Ch-01 Where the mind is without fear](./english/Unit-III/chapter-1.md)
+ - [Ch-02](./english/Unit-III/chapter-2.md)
+ - [Question tags](./english/Unit-III/Questiontags(Grammar).md)
 
-# ? AI
-- [Unit-1](./AI/u-1.md) | [Overview](./AI/Overview.md#unit-i)
-- [Unit-2](./AI/u-2.md) | [Overview](./AI/Overview.md#unit-ii)
+**Unit-IV**
+- [Ch-01 Night of the Scorpion *by Nissim Ezekiel*](./english/Unit-IV/Chapter-1.md)
+- [Ch-02 One Act Play: Refund *by Fritz Karinthy*](./english/Unit-IV/Chapter-2.md)
+- [Tenses (Grammar)](./english/Unit-IV/Tenses(Grammar).md)
+
+**Unit-V**
+- [Ch-01 An Astrologer’s Day  *by R.K.Narayan*](./english/Unit-V/chapter-1.md)
+- [Ch-02](./english/Unit-V/Phonetics_BasicSounds&WordStress.md)
+- [Ch-03](./english/Unit-V/Intonation&Homophones(Grammar).md)
+
+#  AI
+- [U-01 AI and its Subfields](./AI/u-1.md) | [Overview](./AI/Overview#unit-i)
+- [U-02 Applications of AI](./AI/u-2.md) | [Overview](./AI/Overview#unit-ii)
