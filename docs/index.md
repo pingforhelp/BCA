@@ -1,9 +1,11 @@
 # 📚  Notes
 
 # 🧮 Computer Fundamentals
-- [U-01 Unit 1 Number Systems, Evolution , Block Diagram and Generations](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
+- [U-01 Number Systems, Evolution, Block Diagram and Generations](./computer-sci/computer-fundamentals/computer_fundamentals_unit-1.md)
 - [U-02 CO & N/W](./computer-sci/computer-fundamentals/CO&NWunit-2.md)
-- [U-03 Unit 3. Word Processing and presentations (Course-02)](./computer-sci/computer-fundamentals/office_automation.md)
+- [U-03 Word Processing and presentations (Course-02)](./computer-sci/computer-fundamentals/office_automation.md)
+- [U-04 Spreadsheet Basics](./computer-sci/computer-fundamentals/Spreadsheet-Basics.md)
+- [U-05 Data Modelling](./computer-sci/computer-fundamentals/DataModelling.md)
 
 # ⚙️ Problem Solving Using C
 - [U-01 Intro. to Computer programming](./computer-sci/c/u-1c.md) 
@@ -28,20 +30,21 @@
 - [Grammar: Articles and prepositions](./english/Unit-II/articles_&_prepositions(grammar).md)
 
 **Unit-III**
- - [Ch-01 Where the mind is without fear](./english/Unit-III/chapter-1.md)
+ - [Ch-01 Where the mind is without fear *by Rabindranath Tagore*](./english/Unit-III/chapter-1.md)
  - [Ch-02](./english/Unit-III/chapter-2.md)
- - [Question tags](./english/Unit-III/qtags(Grammar).md)
+ - [Grammar: Question tags](./english/Unit-III/qtags(Grammar).md)
 
 **Unit-IV**
 - [Ch-01 Night of the Scorpion *by Nissim Ezekiel*](./english/Unit-IV/Chapter-1.md)
 - [Ch-02 One Act Play: Refund *by Fritz Karinthy*](./english/Unit-IV/Chapter-2.md)
-- [Tenses (Grammar)](./english/Unit-IV/Tenses(Grammar).md)
+- [Grammar: Tenses](./english/Unit-IV/Tenses(Grammar).md)
 
 **Unit-V**
 - [Ch-01 An Astrologer’s Day  *by R.K.Narayan*](./english/Unit-V/chapter-1.md)
-- [Ch-02](./english/Unit-V/Phonetics_BasicSounds&WordStress.md)
-- [Ch-03](./english/Unit-V/Intonation&Homophones(Grammar).md)
+- [Phonetics: Basic Sounds and Word Stress](./english/Unit-V/Phonetics_BasicSounds&WordStress.md)
+- [Grammar: Intonation and Homophones](./english/Unit-V/Intonation&Homophones(Grammar).md)
 
 #  AI
 - [U-01 AI and its Subfields](./AI/u-1.md) | [Overview](./AI/Overview#unit-i)
 - [U-02 Applications of AI](./AI/u-2.md) | [Overview](./AI/Overview#unit-ii)
+- [U-03](./AI/u-3.md) | [Overview](./AI/Overview#unit-iii)
