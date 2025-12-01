@@ -25,7 +25,7 @@
 **Unit-II:**
 - [Ch-01 Short Story: The Lost Child *by Mulk Raj Anand*](./english/Unit-II/chapter-01.md)
 - [Ch-02 A letter to the teacher](./english/Unit-II/chapter-02.md)
-- [Articles and prepositions](./english/Unit-II/articles_&_prepositions(grammar).md)
+- [Grammar: Articles and prepositions](./english/Unit-II/articles_&_prepositions(grammar).md)
 
 **Unit-III**
  - [Ch-01 Where the mind is without fear](./english/Unit-III/chapter-1.md)
