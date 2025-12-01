@@ -8,7 +8,7 @@
 # ⚙️ Problem Solving Using C
 - [U-01 Intro. to Computer programming](./computer-sci/c/u-1c.md) 
 - [U-2 Control statements](./computer-sci/c/u-2c.md)
-- [U-3 Unit 3. Derived data types in C](./computer-sci/c/u-3c.md)
+- [U-3 Derived data types in C](./computer-sci/c/u-3c.md)
 
 # 🗣️ Communication Skills
 - [Everyday Phrases](./communication-skills/everyday_phrases.md)
@@ -30,7 +30,7 @@
 **Unit-III**
  - [Ch-01 Where the mind is without fear](./english/Unit-III/chapter-1.md)
  - [Ch-02](./english/Unit-III/chapter-2.md)
- - [Question tags](./english/Unit-III/Questiontags(Grammar).md)
+ - [Question tags](./english/Unit-III/qtags(Grammar).md)
 
 **Unit-IV**
 - [Ch-01 Night of the Scorpion *by Nissim Ezekiel*](./english/Unit-IV/Chapter-1.md)
