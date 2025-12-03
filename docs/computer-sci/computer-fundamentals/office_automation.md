@@ -4,8 +4,17 @@
 - Applications: Creating resumes, reports, brochures, and presentations.
 - Keyboard Shortcuts.
 
-# Word processers
+# MS Office 
+MS office is a complete package it includes number of Application software like word, Excel, ppt, Access and much more. Each program serves a different prepsues and is complablbe with other programs included in the package. The suit of program is complablbe with both the Windows and Mac OS.
+* Office suite or MS word, MS Excel, MS PPT, MS acces, MS front page, MS Outlook, and MS pub
 
+1. MS word is a word processing program that enables users to create, edit, save, and print docs. 
+2. MS Excel is a Spest sh and allows users
+3. MS PPT is a perntion program which helps to create pertion for business meetings.
+3. MS access is a database management program that let's users to store and organise data in a set of Tables.
+4. MS fp it is a Web development tool that allows users to create and manage Webpages
+5. MS Outlook it is an email software program that looks users to sent and receive email
+6. MS pub it is used to make pro looking pubics with the layouts and Templates you can create news, letters, business cards. 
 
 
 
