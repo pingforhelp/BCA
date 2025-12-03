@@ -1,10 +1,10 @@
-Unit 3. Word Processing and presentations:
+# Unit 3. Word Processing and presentations
 - Word Processing Basics: Using MS Word/Google Docs – formatting, styles, tables, mail merge.
 - Presentation Tools: Using PowerPoint/Google Slides – slide design, animations, transitions.
 - Applications: Creating resumes, reports, brochures, and presentations.
-- Keyboard Shortcuts
+- Keyboard Shortcuts.
 
-
+# Word processers
 
 
 
@@ -87,7 +87,7 @@ It helps to:
 
 
 
-# Keyword Shortcuts
+# Keyword Shortcuts 
 
 | S. No. | Shortcuts              | Function                                          |
 |--------|-------------------------|--------------------------------------------------|
