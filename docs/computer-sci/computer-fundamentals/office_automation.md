@@ -9,6 +9,73 @@ Unit 3. Word Processing and presentations:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Office automation means Computers, telecom and software tools to handle office tasks. 
 
 It helps to:
