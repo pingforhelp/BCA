@@ -143,15 +143,15 @@ I/O Techniques
 2. Interrupt-driven 
 3. DMA.
 
-I. Programmed I/O:
+I. Programmed I/O
 * The CPU executes every instructions for an I/O operation.
 * The CPU must continuously Poll or check, the status of a device to see if it is ready to transfer data.
 
-II. Interrupt-driven I/O:
+II. Interrupt-driven I/O
 - The CPU issues a command & then moves on the other tasks.
 - When the I/O device ready to transfer data, it sends an interrupt signal to the CPU.
 
-III. D.M.A:
+III. D.M.A
 - Refers to ++Direct Memory Access++
 - A dedicated DMA Controller handles the transfer of data ++between devices & memory, by passing the CPU entirely for the transfer itself.++
 - This is the most efficient method for large data transfers, as it frees up the CPU to focus on other tasks while the data is being moved.
@@ -460,22 +460,16 @@ Network Communication Communication Protocols are really important for the funct
 - It is a Connectionless layout Protocol that layout a basic but unreliable message service.
 - UDP adds no flow Control, reliability or error recovery functions.
 4) Internet Protocol (IP):
-  
 
-# IP Address
-It is a Multipoint Connection & a non-robust topology because if the backbone fails the topology crashes.
-
-# IP address:
-## What is Internet?
+# What is Internet?
 The Internet is a global network of interconnected Computers & devices that allows users to access and share informations & devices, allowing them to communicate and exchange data. It enables uses to access a wide range of services such as:
-
 1) Websites
 2) Emails
 3) Social Media
 4) Online applications
 5) Cloud storage
 
-# Essential tools for World Wide Web
+Essential tools for World Wide Web
 1) Education
 2) Business
 3) Entertainment
