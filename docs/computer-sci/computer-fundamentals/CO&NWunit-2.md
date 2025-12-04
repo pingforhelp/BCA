@@ -193,7 +193,40 @@ Computer Architecture main Components:
 - Keyboard
 
 # Types of I/O & Storage devices
-Types of T
+1. Primary Memory: It is also known as internal memory and main memory. This is a section of the CPU that holds program instructions, input data, and intermediate results. It is generally smaller in size. RAM (Random Access Memory) and ROM (Read Only Memory) are examples of primary storage.
+2. Secondary Memory: Secondary storage is a memory that is stored external to the computer.  It is mainly used for the permanent and long-term storage of programs and data. Hard Disks, CDs, DVDs, Pen/Flash drives, SSD, etc, are examples of secondary storage.
+3. Tertiary Memory: Tertiary Memory is a type of Memory that is rarely used in personal computers and due to this, tertiary memory is not considered to be an important one. Tertiary memory works automatically without human intervention.
+
+RAM: It stands for Random Access Memory. It is used to store information that is used immediately or we can say that it is a temporary memory. Computers bring the software installed on a hard disk to RAM to process it and to be used by the user. Once, the computer is turned off, the data is deleted. With the help of RAM, computers can perform multiple tasks like loading applications, browsing the web, editing a spreadsheet, experiencing the newest game, etc. It allows you to modify quickly among these tasks, remembering where you're in one task once you switch to a different task. It is also used to load and run applications, like your spreadsheet program, answers commands, like all edits you made within the spreadsheet, or toggle between multiple programs, like once you left the spreadsheet to see the email. Memory is nearly always actively employed by your computer. It ranges from 1GB - 32GB/64GB depending upon the specifications. There are different types of RAM, and although they all serve the same purpose, the most common ones are : 
+SRAM: It stands for Static Random Access Memory. It consists of circuits that retain stored information as long as the power supply is on. It is also known as volatile memory. It is used to build Cache memory. The access time of SRAM is lower and it is much faster as compared to DRAM but in terms of cost, it is costly as compared to DRAM.
+DRAM: It stands for Dynamic Random Access Memory. It is used to store binary bits in the form of electrical charges that are applied to capacitors. The access time of DRAM is slower as compared to SRAM but it is cheaper than SRAM and has a high packaging density.
+SDRAM: It stands for Synchronous Dynamic Random Access Memory. It is faster than DRAM. It is widely used in computers and others. After SDRAM was introduced, the upgraded version of double data rate RAM, i.e., DDR1, DDR2, DDR3, and DDR4 was entered into the market and widely used in home/office desktops and laptops.
+ROM: It stands for Read-Only Memory. The data written or stored in these devices are non-volatile, i.e, once the data is stored in the memory cannot be modified or deleted. The memory from which will only read but cannot write it. This type of memory is non-volatile. The information is stored permanently during manufacture only once. ROM stores instructions that are used to start a computer. This operation is referred to as bootstrap. It is also used in other electronic items like washers and microwaves. ROM chips can only store a few megabytes (MB) of data, which ranges between 4 and 8 MB per ROM chip. There are two types of ROM: 
+PROM: PROM is Programmable Read-Only Memory. These are ROMs that can be programmed. A special PROM programmer is employed to enter the program on the PROM. Once the chip has been programmed, information on the PROM can't be altered. PROM is non-volatile, that is data is not lost when power is switched off.
+EPROM: Another sort of memory is the Erasable Programmable Read-Only Memory. It is possible to erase the info which has been previously stored on an EPROM and write new data onto the chip.
+EEPROM: EEPROM is Electrically erasable programmable read-only memory. Here, data can be erased without using ultraviolet light, with the use of just applying the electric field.
+Primary Storage Devices 
+
+2. Magnetic Storage Devices
+Floppy Disk: Floppy Disk is also known as a floppy diskette. It is generally used on a personal computer to store data externally. A Floppy disk is made up of a plastic cartridge and secured with a protective case. Nowadays floppy disk is replaced by new and effective storage devices like USB, etc.
+Hard Disk: Hard Disk is a storage device (HDD) that stores and retrieves data using magnetic storage. It is a non-volatile storage device that can be modified or deleted n number of times without any problem. Most computers and laptops have HDDs as their secondary storage device. It is actually a set of stacked disks, just like phonograph records. In every hard disk, the data is recorded electromagnetically in concentric circles or we can say track present on the hard disk, and with the help of a head just like a phonograph arm(but fixed in a position) to read the information present on the track. The read-write speed of HDDs is not so fast but decent. It ranges from a few GBs to a few and more TB.
+Magnetic Card: It is a card in which data is stored by modifying or rearranging the magnetism of tiny iron-based magnetic particles present on the band of the card. It is also known as a swipe card. It is used like a passcode(to enter the house or hotel room), credit card, identity card, etc. 
+Tape Cassette: It is also known as a music cassette. It is a rectangular flat container in which the data is stored in an analog magnetic tape. It is generally used to store audio recordings. 
+SuperDisk: It is also called LS-240 and LS-120. It is introduced by Imation Corporation and it is popular with OEM computers. It can store data up to 240 MB. 
+Magnetic Storage Devices
+Magnetic Storage Devices
+3. Flash Memory Devices
+It is a cheaper and more portable storage device. It is the most commonly used device to store data because is more reliable and efficient as compared to other storage devices. Some of the commonly used flash memory devices are:
+
+Pen Drive: It is also known as a USB flash drive that includes flash memory with an integrated USB interface. We can directly connect these devices to our computers and laptops and read/write data into them in a much faster and more efficient way. These devices are very portable. It ranges from 1GB to 256GB generally.
+SSD: It stands for Solid State Drive, a mass storage device like HDD. It is more durable because it does not contain optical disks inside like hard disks. It needs less power as compared to hard disks, is lightweight, and has 10x faster read and writes speed as compared to hard disks. But, these are costly as well. While SSDs serve an equivalent function as hard drives, their internal components are much different. Unlike hard drives, SSDs don't have any moving parts and thus they're called solid-state drives. Instead of storing data on magnetic platters, SSDs store data using non-volatile storage. Since SSDs haven't any moving parts, they do not need to "spin up". It ranges from 150GB to a few more TB.
+SD Card: It is known as a Secure Digital Card. It is generally used with electronic devices like phones, digital cameras, etc. to store larger data. It is portable and the size of the SD card is also small so that it can easily fit into electronic devices. It is available in different sizes like 2GB, 4GB, 8GB, etc.
+Memory Card: It is generally used in digital cameras. printers, game consoles, etc. It is also used to store large amounts of data and is available in different sizes. To run a memory card on a computer you require a separate memory card reader.  
+Multimedia Card: It is also known as MMC. It is an integrated circuit that is generally used in-car radios, digital cameras, etc. It is an external device to store data/information.
+Flash Memory Devices
+Flash Memory Devices
+ 
+
 # Memory Hierarchy
 In the Computer System Design, Memory Hierarchy is an enhancement to organize the memory such that it can minimize the access time. The Memory Hierarchy was developed based on a program behavior known as locality of references (same data or nearby data is likely to be accessed again and again). The figure below clearly demonstrates the different
 levels of the memory hierarchy.
@@ -207,7 +240,7 @@ This Memory Hierarchy Design is divided into 2 main types:
 - Internal Memory or Primary Memory: Comprising of Main Memory, Cache Memory & CPU registers. This is directly accessible by the processor.
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/06af35b7-3b88-4f95-aa20-e8175925bd3e" />
 
-Memory Hierarchy Design:
+Memory Hierarchy Design
 1. Registers are small, high-speed memory units located in the CPU. They are used to store the most frequently used data and instructions. Registers have the fastest access time and the smallest storage capacity, typically ranging from 16 to 64 bits.
 2. Cache Memory is a small, fast memory unit located close to the CPU. It stores frequently used data and instructions that have been recently accessed from the main memory. Cache memory is designed to minimize the time it takes to access data by providing the CPU with quick access to frequently used data.
 3. Main Memory also known as RAM, is the primary memory of a Computer system. It has a larger storage capacity than cache memory, but it is slower. Main memory is used to store data and instructions that are currently in use by the CPU.
@@ -625,24 +658,17 @@ Features:
 - Web browser is an application software used to explore the WWW.
 - It acts as a platform that allows users to access information from the internet by serving as an interface between the client (user) & the server.
 - It acts as a The browser sends requests to servers for web documents.
-images, links, styles & scripts
+images, links, styles & scripts.
 
 Popular web browsers include:
-
 1. **Google Chrome**: Developed by google, Chrome is one of the most widely-used web browsers in the world known for its speed & simplicity. SPYWARE.
 2. **Mozilla Firefox**: Developed by mozilla foundation, Firefox is an open-source browser, known for its privacy features & customisations.
 3. **Apple Safari**: Safari is the default browser on MAC & iOS known for speed integration.
 4. **Microsoft Edge**: Edge is the default browser on windows 10 & known for its integration with other microsoft services & products. Internet Explorer
 5. **Opera**: Opera is a web browser that is known for speed & built in VPN texture. CCP Spyware. 
 
----
-
-.00 -> DNS Server 52.85.42.233
-500 https: //precks request 
-(web browser)
-
 Architecture of Web Browser
-![Web Browser Architecture Diagram](https://i.imgur.com/your_image_url_here.png)
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/22ab17ec-e63a-401e-84e5-2825549d347e" />
 
 # Email
 The email refers to electronic one means of communicating and receiving messages over the internet mail is the most common form of communication for Corporate offices, Government organizations and other "Important" work.
@@ -653,12 +679,10 @@ The email refers to electronic one means of communicating and receiving messages
 3. **Email addresses:** An email address is just like a house address where the communication arrives for the sender & receiver & they communicate with each other.
 4. **Mailer:** A matter program Contains allows the ability to read, Write, Manage & delete.
 5. Mail Servers: It is for responsible for sending, receiving managing & recording all the data Proceeded by their respective mail Programs & happen Proceeding them to their users.
-6. **SMTP**:
-Simple mail Transfer Protocol. Uses the internet network connection to send receive email message over the internet.
+6. **SMTP**: Simple mail Transfer Protocol. Uses the internet network connection to send receive email message over the internet.
 
 Working of Email
-Sender/Email Client → Network → Incoming/Outgoing 
-Receiver/PC/Link → Network → Incoming Email / Outgoing Email -> Email Server
+Sender/Email Client → Network → Incoming/Outgoing Receiver/PC/Link → Network → Incoming Email / Outgoing Email -> Email Server
 
 
 # World Wide Web (WWW)
