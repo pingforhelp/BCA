@@ -70,32 +70,29 @@ Data transfer and Control:
 2. Bus Control System
 
 # Functional Components
-
 1. Input devices:
 * Takes data & instructions from the user & external environment
 * Converts them into a machine readable (Binary format 1’s and 0’s.)
 * Sends the converted data to the computer's memory or processor.
 > [!example]
 > Keyboard, Mouse, Scanner, Microphone, Touch screen.
-
 2. Output Unit
 * Takes processed results from the computer.
 * Converts Machine readable data into a human understandable form.
 * Displays *or* Outputs the data.
 > [!example]
 > Monitor, Printer, Speakers, Projector etc.
-
 3. Storage/memory Unit:
 Used to store ++data and instructions either temporarily or permanently.++ It is of 2 types:
-1. Primary Storage: ++Fast, directly accessible by CPU.++
+
+I Primary Storage: ++Fast, directly accessible by CPU.++
 > [!example]
 > RAM and ROM.
-2. Secondary Storage: ++Large Capacity, Slower not directly accessed by CPU.++
+II Secondary Storage: ++Large Capacity, Slower not directly accessed by CPU.++
 > [!example]
 > HDD, SSD, SD cards.
-4. Central Processing Unit (CPU) ==++The CPU is the brain of the computer++==
+4. Central Processing Unit (CPU) ==++The CPU is the brain of the computer++== It has 2 major Sub-units:
 
-It has 2 major Sub-units:
 I. Arithmetic Logic Unit (ALU): Performs Arithmetic operations and Logical operations. Arithmetic: -, +, \, x. Logic (AND, OR, NOT, Comparisons) and & !.
 
 II. Control Unit:
@@ -140,7 +137,6 @@ flowchart TB
     IF1 --> Monitor[Monitor]
     IF2 --> Keyboard[Keyboard]
     IF3 --> Hardware[Hardware]
-
 ```
 I/O Techniques
 1. Programmed I/O
@@ -197,6 +193,7 @@ Computer Architecture main Components:
 - Keyboard
 
 # Types of I/O & Storage devices
+Types of T
 # Memory Hierarchy
 In the Computer System Design, Memory Hierarchy is an enhancement to organize the memory such that it can minimize the access time. The Memory Hierarchy was developed based on a program behavior known as locality of references (same data or nearby data is likely to be accessed again and again). The figure below clearly demonstrates the different
 levels of the memory hierarchy.
