@@ -196,6 +196,7 @@ Computer Architecture main Components:
 - Magnetic Disk (HDD)
 - Keyboard
 
+# Types of I/O & Storage devices
 # Memory Hierarchy
 In the Computer System Design, Memory Hierarchy is an enhancement to organize the memory such that it can minimize the access time. The Memory Hierarchy was developed based on a program behavior known as locality of references (same data or nearby data is likely to be accessed again and again). The figure below clearly demonstrates the different
 levels of the memory hierarchy.
@@ -224,9 +225,7 @@ Memory Hierarchy Design:
 # Types of Computers
 Computer are generally classified by speed, memory size and power consumption
 - Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer.
-- Personal computer: It is a small, relatively inexpensive computer designed for an individual's user.
-- Desktop computers: A computer that is used for home application and small office work, is Desktop computer. In this type of computer, monitor is put on the top of computer and it is broad and low. While in tower computer, CPU cases are tall and narrow. In our general life we interact with Desktop Computer.
-- Minicomputer: A multi-user computer capable of supporting up to hundreds of users simultaneously. These computers are bigger in size and costlier than Microcomputers. Minicomputers are used in universities and big organisations.
+- Mini Computer: A multi-user computer capable of supporting up to hundreds of users simultaneously. These computers are bigger in size and costlier than Microcomputers. Minicomputers are used in universities and big organisations.
 - Mainframe computer: A mainframe computer is a very large computer capable of handling and processing very large amounts of data quickly. These are used by large institutions, such as government agencies and large corporations.
 - Supercomputers Or High Performance Computer (HPC): A supercomputer is typically used for scientific and engineering 
 applications that must handle very large databases. It is an extremely fast computer that can perform hundreds of millions of instructions per second. The speed of the supercomputer are measured by FLOPS (Floating point operations per second)
@@ -409,6 +408,7 @@ graph LR
 Tree Topology is the variation of Star Topology. This Topology has an hierarchical flow of data.
 - Various Secondary Hubs are connected to the Central Hub which contains the repeater.
 - This data flows from top to bottom i.e,. from the Central Hub to the Secondary Hubs and then to the devices (or) from bottom to top that is i.e., devices to the secondary hub & then to the Central hub.
+It is a multi-point connection & a non-robust topology because if the backbone fails the topology crashes.
 
 ```mermaid
 graph TD
@@ -423,21 +423,18 @@ graph TD
 ```
 
 # Internet basics
-It is a multi-point connection & a non-robust topology because if the backbone fails the topology crashes.
-
-
 # What is Internet?
 The Internet is a global network of interconnected computers & devices that allows users to access and share information & devices allowing them to communicate and exchange data. 
 It enables users to access a wide range of services such as:
 1. Websites
 2. Emails
-3. Social Media
+3. ++Social Media++
 4. Online applications
 5. Cloud storage
 
 Initial tools for World Wide Web
-1. Education
-2. Business
+1. +++Education++
+2. +++Business++
 3. Entertainment
 4. Personal Communication
 
@@ -466,7 +463,7 @@ Network Communication Communication Protocols are really important for the funct
 - It is a Connectionless layout Protocol that layout a basic but unreliable message service.
 - UDP adds no flow Control, reliability or error recovery functions.
 4) Internet Protocol (IP):
-- IP is a protocol that-
+  
 
 # IP Address
 It is a Multipoint Connection & a non-robust topology because if the backbone fails the topology crashes.
@@ -534,7 +531,7 @@ To extract & review data.
 
 # Protocols:
 1) Secure Socket Layer (SSL)
-2) Hypertext Transfer Protocol (HTTPS)
+2) Hypertext Transfer Protocol (HTTP)
 3) Transport layer Security (TLS)
 
 # IP Addresses:
@@ -543,30 +540,23 @@ An IP Address is an unique numerical label assigned to each device connected to 
 Two main purposes:
 1) Identifying a device on the network.
 2) Locating the device to enable communication with other devices over a network like The Internet.
-
-192.168.1.4 - Phone IP address
-
-* 192.168.1.1 - Phone
-* 192.168.1.2 - Tab
-* 192.168.1.3 - Laptop
-* 192.168.1.4 - Desktop
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/0aaa0f0a-2d11-4482-b986-1d90641b2c7f" />
 
 # Components of IP Address:
 1. **Network Portion** - Identifies the network to which the device belongs to.
 2. **Host Portion** - Identifies the individual device on the network.
 3. **Subnet Mask (for IPv4)** - Defines which part of the IP is network which part is host.
+> [!example]
+IP 192.168.1.10 with subnet mask 255.255.255.0
+- Network ID: 192.168.1.0
+- Host ID: 10
 
-e.g., IP 192.168.1.10 with subnet mask 255.255.255.0.
-
-Network ID: 192.168.1.0
-Host ID: 10
-
-# Versions of IP address:
-There are two versions of IP addresses.
+# Versions of IP address
+There are ++two++ versions of IP addresses.
 1. IPv4 (Internet Protocol Version 4)
 2. IPv6 (Internet Protocol Version 6)
 
-# IPv4: 
+# I IPv4
 It is the first version of Internet Protocol address.
 - The address size of IPv4 is a 32 bit number.
 - In this version Internet Protocol Security for network security is optional.
@@ -575,17 +565,13 @@ It is the first version of Internet Protocol address.
 - Each octet represents 8 bits or a byte & can take a value from zero to 255.
 - This range is derived from the possible combinations of 8 bits ($2^8 = 256$ combinations).
 
-## IPv4 address format
-
+IPv4 address format
 85.107.80.23
-
 1) ( ) (01010000) (11001111)
-
 - 192.168.1.1
 - $2^0$  $2^1$ $2^2$ $2^3$ $2^4$
 
-# IPv6
-
+# II IPv6
 IPv6 addresses were created to deal with the shortage of IPv4 addresses.
 - They use 128 bits instead of 32, offering a vastly greater no. of possible addresses.
 - This address are expressed as 8 groups of 4 hexadecimal digits, each group representing 16 bits.
@@ -593,23 +579,16 @@ IPv6 addresses were created to deal with the shortage of IPv4 addresses.
 
 `2001:0DCB:E004:0001:0000:0000:0001:F00A`
 
-![IPv6 Address Breakdown](https://i.imgur.com/your_image_url_here.png)
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/98bce53a-d392-4425-8486-2b569396b488" />
 
-16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits
-
-128 bits - IPv6 Address format
+16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits 128 bits - IPv6 Address format
 
 # Types of IP Addresses:
 1. **Public IP Address:** A public IP Address is assigned to every device that directly accesses internet.
 - This address is unique across the entire internet.
 - The address can be static or dynamic. i.e., can or can't be change.
 
-* 192.168.1.1 - Phone
-* 192.168.1.2 - Tab
-* 192.168.1.3 - Laptop
-* 192.168.1.4 - Desktop 
-[8.2.1.2.9.6.0.11]
-
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a4489e80-757e-4190-822f-1626af3692f9" />
 
 2. **Private IP Addresses**: 
 Private IP addresses are used within private network are not routable on the internet. This means that devices with Private IP addresses can’t directly communicate with devices on the internet without a translating mechanism - a router performing Network Address Translation Required Unique addresses.
@@ -620,16 +599,16 @@ Defined: range of IPv4
 - 192.168.0.0 to 192.168.255.255
 
 Defined range of IPv's
-Addresses starting with FD8A FC
+Addresses starting with 
 
-Static IP Address:
-*   Static IP Addresses are permanently assigned to a device typically, important for servers & devices that need a constant addresses.
-*   Reliable for network services that require regular access such as Websites, remote management.
+1. **Static IP Address**
+- Static IP Addresses are permanently assigned to a device typically, important for servers & devices that need a constant addresses.
+- Reliable for network services that require regular access such as Websites, remote management.
 
-Dynamic IP Addresses:
-*   Temporarily assigned from a pool of available addresses by the Dynamic Host Configuration Protocol (DHCP) Cost effective & efficient for providers, perfect for consumer devices that do not require permanent addresses.
+2. **Dynamic IP Addresses**:
+Temporarily assigned from a pool of available addresses by the Dynamic Host Configuration Protocol (DHCP) Cost effective & efficient for providers, perfect for consumer devices that do not require permanent addresses.
 
-# Domain Name
+# Domain Name System
 A Domain Name is a human readable name, "google.com", that is associated with the numerical IP addresses (e.g., 172.217.60.142) on a computer network. It is used to make it easier for people to access resources like websites and email addresses without having to remember complex IP address.
 
 The Domain Name System (DNS) is the system that translates these domain names into IP addresses, much like a phone-book translates a person's name into a phone number.
