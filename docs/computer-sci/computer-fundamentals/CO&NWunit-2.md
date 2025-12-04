@@ -2,7 +2,7 @@
 - Computer Organization: Functional components – Input/Output devices, Storage types, Memory hierarchy.
 - Types of Computers: Micro, Mini, Mainframe, and Supercomputers.
 - Networking Fundamentals: Definition, need for networks, types (LAN, WAN, MAN), topology (Star, Ring, Bus).
-- Internet Basics: IP Address, Domain Name, Web Browser, Email, WWW.
+- Internet Basics: IP Address, Domain Name or DNS, Web Browser, Email, WWW.
 
 # Computer Organization
 Computer Organization refers to the operational structure of a Computer system. It explains how hardware components work, how they communicate with each other, and how a Computer execute instructions internally.
@@ -454,7 +454,6 @@ Network Communication Communication Protocols are really important for the funct
 - These protocols handle Syntax, Semantics, Error-detection etc.
 
 # Network Communication Protocols
-
 1 HTTP Hyper Text Transfer Protocol:
 - 7-layer Protocol
 - Used to transfer data
@@ -468,6 +467,229 @@ Network Communication Communication Protocols are really important for the funct
 - UDP adds no flow Control, reliability or error recovery functions.
 4) Internet Protocol (IP):
 - IP is a protocol that-
+
+# IP Address
+It is a Multipoint Connection & a non-robust topology because if the backbone fails the topology crashes.
+
+# IP address:
+## What is Internet?
+The Internet is a global network of interconnected Computers & devices that allows users to access and share informations & devices, allowing them to communicate and exchange data. It enables uses to access a wide range of services such as:
+
+1) Websites
+2) Emails
+3) Social Media
+4) Online applications
+5) Cloud storage
+
+# Essential tools for World Wide Web
+1) Education
+2) Business
+3) Entertainment
+4) Personal Communication
+
+Network Protocol: A network Protocol is a set of rules that govern data Communication btw different devices in a Network.
+Types of Network Protocols:
+1. Network Communication
+2. Network Management
+3. Network Security
+
+Network Communications
+Communication Protocols are really important for the functioning of a network.
+* These Protocols formally set out rules & format through which data is transferred.
+* These protocols handle Syntax, Semantics, Error-detection etc.
+
+# Network Communication Protocols
+# HTTP -> Hyper Text Transfer Protocol:
+- 7-layer Protocol
+- Used to transfer
+- Works on client-server model
+
+# TCP -> Transmission Control Protocol:
+- Connection Oriented Protocol & reliable
+- Used for Communication over a network
+- Many applications, such as emails, FTP etc.
+
+# UDP -> User Datagram Protocol:
+- It is a Connectionless layout protocol that layout a basic but unreliable message service.
+- It adds no flow control, reliability or error recovery functions.
+
+# Internet Protocol (IP):
+It is a Protocol through data is sent from one host to another the internet.
+* It is used for addressing & routing data/packets so that they can reach their destination.
+
+# Network Management:
+These protocols assist in describing the procedures and policies that are used in monitoring, maintaining & managing computer network.
+-> Used to communicating requesting requirements across the network.
+-> Troubleshooting connections between host & a client
+
+# Protocols:
+* Internet Control Message Protocol (ICMP)
+* Simple Network Management Protocol (SNMP)
+* File Transfer Protocol (FTP).
+
+# Network Security:
+* These protocols secure the data in passage over a network.
+* These protocols also determine how the network secures data from any unauthorized attempts.
+To extract & review data.
+
+# Protocols:
+1) Secure Socket Layer (SSL)
+2) Hypertext Transfer Protocol (HTTPS)
+3) Transport layer Security (TLS)
+
+# IP Addresses:
+An IP Address is an unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.
+
+Two main purposes:
+1) Identifying a device on the network.
+2) Locating the device to enable communication with other devices over a network like The Internet.
+
+192.168.1.4 - Phone IP address
+
+* 192.168.1.1 - Phone
+* 192.168.1.2 - Tab
+* 192.168.1.3 - Laptop
+* 192.168.1.4 - Desktop
+
+# Components of IP Address:
+1. **Network Portion** - Identifies the network to which the device belongs to.
+2. **Host Portion** - Identifies the individual device on the network.
+3. **Subnet Mask (for IPv4)** - Defines which part of the IP is network which part is host.
+
+e.g., IP 192.168.1.10 with subnet mask 255.255.255.0.
+
+Network ID: 192.168.1.0
+Host ID: 10
+
+# Versions of IP address:
+There are two versions of IP addresses.
+1. IPv4 (Internet Protocol Version 4)
+2. IPv6 (Internet Protocol Version 6)
+
+# IPv4: 
+It is the first version of Internet Protocol address.
+- The address size of IPv4 is a 32 bit number.
+- In this version Internet Protocol Security for network security is optional.
+- It has 4,294,967,296 addresses.
+- It consists of 4 sets of numbers (octets) separated by dots.
+- Each octet represents 8 bits or a byte & can take a value from zero to 255.
+- This range is derived from the possible combinations of 8 bits ($2^8 = 256$ combinations).
+
+## IPv4 address format
+
+85.107.80.23
+
+1) ( ) (01010000) (11001111)
+
+- 192.168.1.1
+- $2^0$  $2^1$ $2^2$ $2^3$ $2^4$
+
+# IPv6
+
+IPv6 addresses were created to deal with the shortage of IPv4 addresses.
+- They use 128 bits instead of 32, offering a vastly greater no. of possible addresses.
+- This address are expressed as 8 groups of 4 hexadecimal digits, each group representing 16 bits.
+- The groups are separated by Colons:
+
+`2001:0DCB:E004:0001:0000:0000:0001:F00A`
+
+![IPv6 Address Breakdown](https://i.imgur.com/your_image_url_here.png)
+
+16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits
+
+128 bits - IPv6 Address format
+
+# Types of IP Addresses:
+1. **Public IP Address:** A public IP Address is assigned to every device that directly accesses internet.
+- This address is unique across the entire internet.
+- The address can be static or dynamic. i.e., can or can't be change.
+
+* 192.168.1.1 - Phone
+* 192.168.1.2 - Tab
+* 192.168.1.3 - Laptop
+* 192.168.1.4 - Desktop 
+[8.2.1.2.9.6.0.11]
+
+
+2. **Private IP Addresses**: 
+Private IP addresses are used within private network are not routable on the internet. This means that devices with Private IP addresses can’t directly communicate with devices on the internet without a translating mechanism - a router performing Network Address Translation Required Unique addresses.
+
+Defined: range of IPv4
+- 10.0.0.0 to 10.255.255.255
+- 172.16.0.0 to 172.31.255.255
+- 192.168.0.0 to 192.168.255.255
+
+Defined range of IPv's
+Addresses starting with FD8A FC
+
+Static IP Address:
+*   Static IP Addresses are permanently assigned to a device typically, important for servers & devices that need a constant addresses.
+*   Reliable for network services that require regular access such as Websites, remote management.
+
+Dynamic IP Addresses:
+*   Temporarily assigned from a pool of available addresses by the Dynamic Host Configuration Protocol (DHCP) Cost effective & efficient for providers, perfect for consumer devices that do not require permanent addresses.
+
+# Domain Name
+A Domain Name is a human readable name, "google.com", that is associated with the numerical IP addresses (e.g., 172.217.60.142) on a computer network. It is used to make it easier for people to access resources like websites and email addresses without having to remember complex IP address.
+
+The Domain Name System (DNS) is the system that translates these domain names into IP addresses, much like a phone-book translates a person's name into a phone number.
+
+It works as:
+1. User Input: Domain name `www.google.com` sends a request to a DNS server.
+2. DNS: DNS server translates the domain name into a Corresponding IP Address.
+3. Connection: Computer uses IP Address to connect to the server hosting the website.
+5. Result: Website is displayed on screen.
+
+# Components of Domain Name
+A domain name is structured hierarchically, with components separated by dots (.).
+1. Top-level Domain (TLD): The last part of the name, such as: .com, .org, .net etc..
+2. Second-level Domain (SLD): The name of the site itself, such as google in google.com.
+3. Subdomain: A part of the domain that can be created by owner to organise the content, such as mail in "mail-google.com".
+
+Features:
+1.  **Memorability:** Easier to understand by humans to remember than long strings of numbers.
+2.  **Functionality:** Computers with an IP address to communicate.
+3.  **Organisation:** They allow for the organization of online services & resources.
+
+# Web browser
+- Web browser is an application software used to explore the WWW.
+- It acts as a platform that allows users to access information from the internet by serving as an interface between the client (user) & the server.
+- It acts as a The browser sends requests to servers for web documents.
+images, links, styles & scripts
+
+Popular web browsers include:
+
+1. **Google Chrome**: Developed by google, Chrome is one of the most widely-used web browsers in the world known for its speed & simplicity. SPYWARE.
+2. **Mozilla Firefox**: Developed by mozilla foundation, Firefox is an open-source browser, known for its privacy features & customisations.
+3. **Apple Safari**: Safari is the default browser on MAC & iOS known for speed integration.
+4. **Microsoft Edge**: Edge is the default browser on windows 10 & known for its integration with other microsoft services & products. Internet Explorer
+5. **Opera**: Opera is a web browser that is known for speed & built in VPN texture. CCP Spyware. 
+
+---
+
+.00 -> DNS Server 52.85.42.233
+500 https: //precks request 
+(web browser)
+
+Architecture of Web Browser
+![Web Browser Architecture Diagram](https://i.imgur.com/your_image_url_here.png)
+
+# Email
+The email refers to electronic one means of communicating and receiving messages over the internet mail is the most common form of communication for Corporate offices, Government organizations and other "Important" work.
+
+# Components of Email
+**1. Sender:** The sender creates an email in which he records the information that needs to be transferred to the receiver.
+2. **Receiver:** The receiver acts the information sent by the sender via email.
+3. **Email addresses:** An email address is just like a house address where the communication arrives for the sender & receiver & they communicate with each other.
+4. **Mailer:** A matter program Contains allows the ability to read, Write, Manage & delete.
+5. Mail Servers: It is for responsible for sending, receiving managing & recording all the data Proceeded by their respective mail Programs & happen Proceeding them to their users.
+6. **SMTP**:
+Simple mail Transfer Protocol. Uses the internet network connection to send receive email message over the internet.
+
+Working of Email
+Sender/Email Client → Network → Incoming/Outgoing 
+Receiver/PC/Link → Network → Incoming Email / Outgoing Email -> Email Server
+
 
 # World Wide Web (WWW)
 The World Wide Web (WWW), often called the Web, is a system of interconnected
