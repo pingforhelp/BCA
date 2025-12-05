@@ -5,7 +5,7 @@
 - [U-02 CO & N/W](./computer-sci/computer-fundamentals/CO&NWunit-2.md)
 - [U-03 Word Processing and presentations (Course-02)](./computer-sci/computer-fundamentals/office_automation.md)
 - [U-04 Spreadsheet Basics](./computer-sci/computer-fundamentals/Spreadsheet-Basics.md)
-- [U-05 Data Modelling](./computer-sci/computer-fundamentals/DataModelling.md)
+- [U-05 Data Modelling](./computer-sci/computer-fundamentals/Data-Modelling.md)
 
 # ⚙️ Problem Solving Using C
 - [U-01 Intro. to Computer programming](./computer-sci/c/u-1c.md) 
