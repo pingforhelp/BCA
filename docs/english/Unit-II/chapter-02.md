@@ -44,4 +44,11 @@ Reforms:
 
 ---------------
 
+Q.6 What Did the School System Fail Children From Poor Families?
+Answer: The traditional school system was not built for the poor but rather for the middle and upper classes.
+ It privileged a specific type of cultural knowledge and formal language that the poor did not have.
+As a result, the system filtered out poorer children by labeling them as “not made for books”, forcing them to drop out.
+
+Q7. What Is the Real Reason for Student Failure?
+Answer: Students do not fail because they are unintelligent; they fail because the education system is designed to discriminate against them. The authors state that teachers often blame a student’s home environment for their failure, but the book argues that this is merely an excuse for the school’s own failings.
 
