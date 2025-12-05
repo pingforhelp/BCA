@@ -2,6 +2,17 @@
 
 # Poem
 
+Where the mind is without fear and the head is held high··
+Where knowledge is free··
+Where the world has not been broken up into fragments··
+By narrow domestic walls··
+Where words come out from the depth of truth··
+Where tireless striving stretches its arms towards perfection··
+Where the clear stream of reason has not lost its way··
+Into the dreary desert sand of dead habit··
+Where the mind is led forward by thee··
+Into ever-widening thought and action.··
+Into that heaven of freedom, my Father, let my country awake.··
 
 # About the Poet
 Where the Mind is Without Fear is a thought-provoking poem by Rabindranath Tagore, an Indian writer. He was born on ++7th May 1861 and died on 7th August 1941.++ Tagore was a poet, philosopher, novelist, playwright, painter, and educationist, often described as the ==“Gurudev of India.”== It is one of the best poems in the anthology Gitanjali, which was published in 1912 and ==won the prestigious Nobel Prize for Literature in 1913==. *Where the Mind is Without Fear* is the 35th poem in Gitanjali. In ==1901, he founded a school at Santiniketan, which later grew into Visva-Bharati University==. Beyond literature and education, he composed over ++2000++ songs, including: Jana Gana Mana the National Anthem of India and Amar Sonar (Bangla) the National Anthem of Bangladesh.
@@ -57,5 +68,7 @@ Tagore wants a nation guided by reason, not blind tradition.
 - Freedom from fear
 - Equality
 - Access to knowledge
+
+----------
 
 ------
