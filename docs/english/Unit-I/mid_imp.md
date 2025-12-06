@@ -99,5 +99,9 @@ Practical and Direct: the style of the book is described as unique and direct. T
 * These shortcomings create and maintain inequality within the school system.
 
 
+# Q5. What Did the School System Fail Children From Poor Families?
+Ans: The traditional school system was not built for the poor but rather for the middle and upper classes.
+ It privileged a specific type of cultural knowledge and formal language that the poor did not have.
+As a result, the system filtered out poorer children by labeling them as “not made for books”, forcing them to drop out.
 
 
