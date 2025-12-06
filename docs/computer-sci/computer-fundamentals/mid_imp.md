@@ -3,7 +3,6 @@
 # Unit-I
 
 # Q1. What is a computer? *++5 marks++*
-
 Ans: 
 
 - A computer is an electronic machine designed to take input (>>), process  it (+, -, etc...), and display output (<<). Based on ==pre-defined instructions== (Programs). 
@@ -13,7 +12,6 @@ Ans:
 - The computer operates using the IPO cycle Input processing and  output.
 - It saves time by doing repetitive tasks with litte or no human intervention.
 - e.g., of Desktops, Server, Mobile phones/Computer, IOT,  basically any electronic machine with screen on it.
-
 > [!note]
 > This is lazy writen please check the Unit-I notes.
 
