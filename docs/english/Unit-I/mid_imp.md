@@ -4,7 +4,21 @@
 Chapter-01
 
 Q2. 
-Ans
+Ans:
+The things described as *sweet*:
+- The shade of the coconut glade.  
+- The silent of the mango grove.  
+- The sands at the full moon, with the sound of the voices we love.
+
+However, the poem then contrasts these with what is considered *sweeter*.  
+The following are considered the *sweetest*:
+
+- The kiss of the spray (“The feel of the wild foam on their faces”).  
+- The dance of the wild foam on the sand.  
+- The movement of the wild foam on the shore.
+
+This contrast highlights the fishermen’s preference for the exciting and adventurous life over the comfortable pleasures of life.
+
 
 Q5.
 Ans:
