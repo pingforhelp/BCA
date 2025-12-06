@@ -2,14 +2,12 @@
 
 # Unit-I
 
-Q1. What is a computer? *++5 marks++*
+# Q1. What is a computer? *++5 marks++*
 
 Ans: 
 
 - A computer is an electronic machine designed to take input (>>), process  it (+, -, etc...), and display output (<<). Based on ==pre-defined instructions== (Programs). 
-
-- Nowadays IT (Computer) is everywhere from a smart locks to airplanes
-
+- Nowadays IT (Computer) is everywhere from a smart locks to airplanes.
 - The Computer works ==with== Software and Hardware to perform aformentioned "instructions".
 - It comes in all sizes and form factors based on the use-cases and power limitations.
 - The computer operates using the IPO cycle Input processing and  output.
@@ -35,7 +33,7 @@ Ans (pt.2): Output the processed information/data is delivered via output device
 
 e.g., of O/P devices:
 - Printer used to print out physical copies of documents.
-- Headphones used to listen to sound.
+- Headphones used to listen to sounds.
 - AV Receiver used send to audio to other speakers.
 - Monitor a device used to view the output returned by the computer/CPU.
 
@@ -100,7 +98,12 @@ The **fifth generation** computers are  manufactured in the year 1989 onwards.
 
 Q4. Types of computers?  /++*10 marks*++
 
-Ans: 
+Ans: Computer are generally classified by speed, memory size and power consumption
+
+- Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer.
+Mini Computer: A multi-user computer capable of supporting up to hundreds of users simultaneously. These computers are bigger in size and costlier than Microcomputers. Minicomputers are used in universities and big organisations.
+Mainframe computer: A mainframe computer is a very large computer capable of handling and processing very large amounts of data quickly. These are used by large institutions, such as government agencies and large corporations.
+Supercomputers Or High Performance Computer (HPC): A supercomputer is typically used for scientific and engineering applications that must handle very large databases. It is an extremely fast computer that can perform hundreds of millions of instructions per second. The speed of the supercomputer are measured by FLOPS (Floating point per second)
 
 
 Q5. Block diagram of CPU? & explain parts of CPU *++10 marks*++
