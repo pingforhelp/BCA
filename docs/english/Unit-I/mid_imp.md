@@ -62,7 +62,7 @@ Chapter-01
 # Q6. Discuss the role of the stranger in the story? Why does the child refuse all that he offers. (sweets, toys and rides)?
 Ans: The stranger acts as a kind and compassionate figure who tries to console the lost child. He represents a stark contrast to the child’s parents, offering him everything the child had previously desired. The child refuses the offers his fear and sense of loss have completely overwhelmed his earlier desires the material things are no longer important, all he wants mow that the comfort and security of his parents.
 
-# Q8. 
+
 
 
 
@@ -78,9 +78,19 @@ Key character traits: under privileged and marginalized : their origin in poor, 
 
 Practical and Direct: the style of the book is described as unique and direct. The authors are focussed on being "useful" And even includes foot notes to explain classical references like Cicesaro or homer, indicating a practical mindset and a desire to make knowledge accessible to their peers.
 
+# Q3. What, according to the authors, are the shortcomings of school education?
+**Ans** According to the authors, the major shortcomings of the school system are:
+* It favours the rich, not the poor.
+* Schools are structured so that children from wealthy, educated families succeed easily.
+* Poor or working-class children are left behind.
+* The system emphasizes memorization instead of meaningful learning.
+* Students are judged only on academic performance.
+* Teachers blame students instead of questioning unfair teaching methods.
+* There is too much rote learning and too little understanding, critical thinking, or problem-solving.
+* Teachers fail to understand the social and economic backgrounds of poor students.
+* Students do not receive the support, guidance, or resources they need, which often leads them to drop out.
+* These shortcomings create and maintain inequality within the school system.
 
 
 
-Q5.
-Ans:
 
