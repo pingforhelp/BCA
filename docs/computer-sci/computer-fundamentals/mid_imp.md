@@ -177,3 +177,28 @@ Terabyte 1024 gigabytes.
 
 # Unit-II
 
+Q1. What is CO? Write functional components. *++10 marks++*
+
+Q2. Write detail about memory hierarchy? *++5 marks++*
+
+Q3. What are storage types & input/output devices? *++10 marks++*
+
+Q4. Write about types of computers in detail? *++5 marks++*
+
+Q5. What is network? Types of networks in detail with examples & diagrams. *++10 marks++*
+
+Q6. What is topology? Types of topologies with diagrams. *++10 marks++*
+
+Q7. What is internet? What are IP addresses? *++5 marks++*
+
+Q8. Write detail on: *++5 marks++*
+
+a) Domain name  
+
+b) Email  
+
+Q9. What is web browser & domain name? *++5 marks++*
+
+Q10. Write about WWW in detail? *++10 marks++*
+
+
