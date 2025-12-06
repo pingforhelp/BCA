@@ -36,7 +36,7 @@ e.g., of O/P devices:
 - AV Receiver used send to audio to other speakers.
 - Monitor a device used to view the output returned by the computer/CPU.
 
-# Q3. Write about the Generations of computer?  /*++10 marks*++
+# Q3. Write about the Generations of computer? *++10 marks*++
 Ans: The "Generations" in this context means that the improvements in technology over a period of time.
 
 The **first generation** used vacuum tubes as the main electronic response for processing data.  
@@ -95,14 +95,16 @@ Ans: Computer are generally classified by speed, memory size and power consumpti
 Mainframe computer: A mainframe computer is a very large computer capable of handling and processing very large amounts of data quickly. These are used by large institutions, such as government agencies and large corporations.
 - Supercomputers Or High Performance Computer (HPC): A supercomputer is typically used for scientific and engineering applications that must handle very large databases. It is an extremely fast computer that can perform hundreds of millions of instructions per second. The speed of the supercomputer are measured by FLOPS (Floating point per second)
 
-# Q5. Block diagram of CPU? & explain parts of CPU *++10 marks*++
-Ans: It lists its main components and their interactions.
+# Q5. Draw block diagram of CPU? & explain parts of CPU *++10 marks*++
+Ans(pt.1):
+
+Ans(pt.2): It lists its main components and their interactions.
 * **Input Unit** Devices like the keyboard, mouse, and scanner **convert user data and instructions** into a format that the computer can understand.
+* **Output Unit** Converts processed data into a **human-readable** form.
 * **CPU** The brain of the computer, responsible for processing all instructions.
    - **ALU (Arithmetic Logic Unit)** – **Performs arithmetic and logical operations**, e.g., +, −, ×, <, >, !, &.
     - **CU (Control Unit)** – **Directs** the flow of data between input, memory, and output units.
     - **Memory Unit** – Stores data and instructions.
-* **Output Unit** Converts processed data into a **human-readable** form.
 
 # Q6. Characteristics of computer. ++*5 marks*++
 Ans: The Characteristics of Computer are: 
