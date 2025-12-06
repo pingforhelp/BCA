@@ -347,7 +347,7 @@ a) Domain name and b) Email
 Ans:
 
 # Q9. What is web browser & domain name? *++5 marks++*
-Ans:
+Ans: 
 # Q10. Write about WWW in detail? *++10 marks++*
 Ans:
 
