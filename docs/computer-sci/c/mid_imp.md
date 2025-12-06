@@ -1,6 +1,6 @@
 # Mid Problem Sloving using C
 
-# UNIT – I: INTRODUCTION TO COMPUTER PROGRAMMING
+# UNIT-I INTRODUCTION TO COMPUTER PROGRAMMING
 
 ++*10 Marks Questions*++
 - Explain the structure of a C program. Describe each part with an example.  
@@ -9,13 +9,12 @@
 - What is a flowchart? Explain symbols and draw a flowchart for greatest of three numbers.
 
 ++*5 Marks Questions*++
--;History of C and its versions.  
+- History of C and its versions.  
 - Explain formatted and unformatted I/O functions (printf, scanf, gets, puts).  
 - Short notes on Keywords, Identifiers, Variables, and Constants.
 
 
-
-# UNIT – II: CONTROL STATEMENTS
+# UNIT-II: CONTROL STATEMENTS
 
 ++*10 Marks Questions*++
 - Explain decision-making statements in C: if, if-else, else-if ladder, and switch with examples.  
@@ -25,8 +24,7 @@
 ++*5 Marks Questions*++
 - Explain break, continue, and goto statements with programs.
 
-
-# UNIT – III: DERIVED DATA TYPES – ARRAYS
+# UNIT-III: DERIVED DATA TYPES – ARRAYS
 
 ++*5 Marks Questions*++
 - Explain one-dimensional arrays: declaration, initialization, and memory representation.  
