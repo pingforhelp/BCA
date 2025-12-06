@@ -8,7 +8,7 @@ Ans:
 
 - A computer is an electronic machine designed to take input (>>), process  it (+, -, etc...), and display output (<<). Based on ==pre-defined instructions== (Programs). 
 
-- Nowadays IT (computer) is everywhere from a smart locks to airplanes
+- Nowadays IT (Computer) is everywhere from a smart locks to airplanes
 
 - The Computer works ==with== Software and Hardware to perform aformentioned "instructions".
 - It comes in all sizes and form factors based on the use-cases and power limitations.
@@ -160,14 +160,14 @@ In Primary Memory RAM (Random Access Memory) for temporary use. Usefull for retr
 Secondary Storage use for long-term storage. ROM (Read only Memory) e.g., hard disks. It is slow compared to RAM. The all stored data for future time use unless there is some physical damage or the data inside corrupted.
 
 Data representation:  
-Bit 0 or 1.  
-Byte 8 bits  
-Kilobyte 1024 bytes  
-Megabytes 1024 kilobytes.  
-Gigabyte  1024 megabytes  
+- Bit 0 or 1.  
+- Byte 8 bits  
+- Kilobyte 1024 bytes  
+- Megabytes 1024 kilobytes.  
+- Gigabyte  1024 megabytes  
 Terabyte 1024 gigabytes.  
 
-**Total: /60**
+
 
 # Unit-II
 
