@@ -104,4 +104,20 @@ Ans: The traditional school system was not built for the poor but rather for the
  It privileged a specific type of cultural knowledge and formal language that the poor did not have.
 As a result, the system filtered out poorer children by labeling them as “not made for books”, forcing them to drop out.
 
+1) Abolish student failure  
+   The most radical and critical reform is the demand to stop failing students.  
+   Since the children who fail are disproportionately from working-class and peasant families, the grading and selection system is viewed as a mechanism for excluding the poor and maintaining the class privilege.
+
+2) Implement full-time extended schooling  
+   To counter the disadvantages faced by poor students who lack cultural support and tutoring at home, the letter advocates for full-time schooling with long hours, including weekends and holidays.  
+   The Barbiana model itself operated for 12 hours a day, 365 days a year, effectively closing the gap between the privileged and the poor.
+
+3) Language mastery as empowerment  
+   A central reform is the intense focus on teaching students to master the dominant language (Italian).  
+   The authors argue that the poor are marginalized because they lack the linguistic tools to articulate their concerns and participate in political life.
+
+4) Curriculum relevance and critical thinking  
+   Curriculum must be drastically reformed to be relevant to the students’ lives and foster critical thinking and social awareness.
+
+The Barbiana students fundamentally proposed a school system that prioritizes equity over selection, and gives equality in time and resources to those who start with the least.
 
