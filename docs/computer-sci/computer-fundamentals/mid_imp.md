@@ -16,33 +16,32 @@ Ans:
 - It saves time by doing repetitive tasks with litte or no human intervention.
 - e.g., of Computers Server, Mobile phones, basically any electronic machine with screen on it.
 
----
+> [!note]
+> This is lazy writen please check the Unit-I notes.
 
-Q2. What are input and output devices?  /5 marks
+Q2. What are input and output devices? ++*5 marks*++
 
 Ans (pt.1): Input devices are used to "enter" or send data to convert into a format that the Computer can understand i.e., 0's and 1's.
 
 e.g., of I/P devices:
-
 - Mouse a device used to point to the screen to interact with the Computer.
 - Keyword a device that is used to type data into the system.
 -  Touch Pen used for making 'digital art' on a computer.
-- Sensors used for starting/stoping/ un-locking/locking e.g., a fingerprint sensors.
+- Sensors used for starting/stoping/ un-locking/locking e.g., a fingerprint sensor.
 - Gamepad/joypad used for playing video games.
 - Touch screens much like keyboard and mouse but can operated using one's fingers.
 
 Ans (pt.2): Output the processed information/data is delivered via output devices in hard or soft form.
 
 e.g., of O/P devices:
-
-- printer used to print out physical copies of documents.
+- Printer used to print out physical copies of documents.
 - Headphones used to listen to sound.
 - AV Receiver used send to audio to other speakers.
-- Monitor a device used to view the output returned by the computer.
+- Monitor a device used to view the output returned by the computer/CPU.
 
 ---
 
-Q3. Write about the Generations of computer?  /10 marks
+Q3. Write about the Generations of computer?  /*++10 marks*++
 
 Ans:
 
@@ -53,7 +52,7 @@ The **first generation** used vacuum tubes as the main electronic response for p
 - These computers were physically large and required huge rooms.
 - Used magnetic drums for memory storage.and punched cards or paper tapes for I/O.  
 
-Disadvantages:  
+**Disadvantages**:  
 - They consumed more power.  
 - These computers were large in size.  
 - These computers produced a large amount of heat.  
@@ -99,32 +98,31 @@ The **fifth generation** computers are  manufactured in the year 1989 onwards.
 
 -----
 
-Q4. Types of computers?  /10 marks
+Q4. Types of computers?  /++*10 marks*++
 
 Ans: 
 
-(Empty in source)
 
-Q5. Block diagram of CPU? & explain parts of CPU   /10 marks
+Q5. Block diagram of CPU? & explain parts of CPU *++10 marks*++
 
 Ans: It lists its main components and their interactions.
 
-* **Input Unit** – Devices like the keyboard, mouse, and scanner **convert user data and instructions** into a format that the computer can understand.
+* **Input Unit** Devices like the keyboard, mouse, and scanner **convert user data and instructions** into a format that the computer can understand.
 
-* **CPU** – The brain of the computer, responsible for processing all instructions.
-   - **ALU (Arithmetic Logic Unit)** – **Performs arithmetic and logical operations**, e.g., +, −, ×, <, >,
+* **CPU** The brain of the computer, responsible for processing all instructions.
+   - **ALU (Arithmetic Logic Unit)** – **Performs arithmetic and logical operations**, e.g., +, −, ×, <, >, !, &.
     - **CU (Control Unit)** – **Directs** the flow of data between input, memory, and output units.
     - **Memory Unit** – Stores data and instructions.
 
-* **Output Unit** – Converts processed data into a **human-readable** form.
+* **Output Unit** Converts processed data into a **human-readable** form.
 
 -----
 
-Q6. Characteristics of computer. /5 marks
+Q6. Characteristics of computer. ++*5 marks*++
 
-1. **Speed** – A computer can process *billions of instructions* per second. Modern processors have speed measured in ==GHz==, meaning they can handle **billions of cycles per second.  
-2. **Accuracy** – Computers follow instructions and produce all results without errors, except for bugs or human error.  
-3. **Automation** – Once programmed, a computer operates automatically.  
+1. **Speed** A computer can process *billions of instructions* per second. Modern processors have speed measured in ==GHz==, meaning they can handle **billions of cycles per second.  
+2. **Accuracy** Computers follow instructions and produce all results without errors, except for bugs or human error.  
+3. **Automation** Once programmed, a computer operates automatically.  
 4. **Storage** – Computers store vast amounts of data in primary memory.  
 5. **Versatility** – A simple computer can perform many tasks such as playing a movie or editing a document.  
 6. **Diligence** – A computer can perform repetitive tasks without a break.  
