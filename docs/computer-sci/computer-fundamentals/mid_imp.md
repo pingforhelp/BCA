@@ -14,7 +14,7 @@ Ans:
 - It comes in all sizes and form factors based on the use-cases and power limitations.
 - The computer operates using the IPO cycle Input processing and  output.
 - It saves time by doing repetitive tasks with litte or no human intervention.
-- e.g., of Computers Server, Mobile phones, basically any electronic machine with screen on it.
+- e.g., of Computers Server, Mobile phones, IOT,  basically any electronic machine with screen on it.
 
 > [!note]
 > This is lazy writen please check the Unit-I notes.
