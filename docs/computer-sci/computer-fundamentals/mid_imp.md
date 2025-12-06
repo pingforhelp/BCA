@@ -168,7 +168,10 @@ Data representation:
 - Kilobyte 1024 bytes  
 - Megabytes 1024 kilobytes.  
 - Gigabyte  1024 megabytes  
-Terabyte 1024 gigabytes.  
+Terabyte 1024 gigabytes.
+
+> [!help] 
+> For info check: [Memory in Chapter 02 CO](./computer-sci/computer-fundamentals/CO&NWunit-2#types-of-memory-hierarchy)
 
 
 
