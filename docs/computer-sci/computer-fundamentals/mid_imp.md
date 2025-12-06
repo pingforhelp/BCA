@@ -12,19 +12,18 @@ Ans:
 - It comes in all sizes and form factors based on the use-cases and power limitations.
 - The computer operates using the IPO cycle Input processing and  output.
 - It saves time by doing repetitive tasks with litte or no human intervention.
-- e.g., of Computers Server, Mobile phones, IOT,  basically any electronic machine with screen on it.
+- e.g., of Desktops, Server, Mobile phones/Computer, IOT,  basically any electronic machine with screen on it.
 
 > [!note]
 > This is lazy writen please check the Unit-I notes.
 
-Q2. What are input and output devices? ++*5 marks*++
-
+# Q2. What are input and output devices? ++*5 marks*++
 Ans (pt.1): Input devices are used to "enter" or send data to convert into a format that the Computer can understand i.e., 0's and 1's.
 
 e.g., of I/P devices:
 - Mouse a device used to point to the screen to interact with the Computer.
 - Keyword a device that is used to type data into the system.
--  Touch Pen used for making 'digital art' on a computer.
+- Touch Pen used for making 'digital art' on a computer.
 - Sensors used for starting/stoping/ un-locking/locking e.g., a fingerprint sensor.
 - Gamepad/joypad used for playing video games.
 - Touch screens much like keyboard and mouse but can operated using one's fingers.
@@ -37,13 +36,8 @@ e.g., of O/P devices:
 - AV Receiver used send to audio to other speakers.
 - Monitor a device used to view the output returned by the computer/CPU.
 
----
-
-Q3. Write about the Generations of computer?  /*++10 marks*++
-
-Ans:
-
-The "Generations" in this context means that the improvements in technology over a period of time.
+# Q3. Write about the Generations of computer?  /*++10 marks*++
+Ans: The "Generations" in this context means that the improvements in technology over a period of time.
 
 The **first generation** used vacuum tubes as the main electronic response for processing data.  
 - The first generations were from 1942–1955.  
@@ -94,20 +88,14 @@ The **fifth generation** computers are  manufactured in the year 1989 onwards.
 - These computers are user-friendly and supports multimedia.  
 - The goal of fifth generation devices is to respond to human languages such as English and Hindi.  
 
------
-
-Q4. Types of computers?  /++*10 marks*++
-
+# Q4. Types of computers?  /++*10 marks*++
 Ans: Computer are generally classified by speed, memory size and power consumption
-
 - Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer.
-Mini Computer: A multi-user computer capable of supporting up to hundreds of users simultaneously. These computers are bigger in size and costlier than Microcomputers. Minicomputers are used in universities and big organisations.
+- Mini Computer: A multi-user computer capable of supporting up to hundreds of users simultaneously. These computers are bigger in size and costlier than Microcomputers. Minicomputers are used in universities and big organisations.
 Mainframe computer: A mainframe computer is a very large computer capable of handling and processing very large amounts of data quickly. These are used by large institutions, such as government agencies and large corporations.
-Supercomputers Or High Performance Computer (HPC): A supercomputer is typically used for scientific and engineering applications that must handle very large databases. It is an extremely fast computer that can perform hundreds of millions of instructions per second. The speed of the supercomputer are measured by FLOPS (Floating point per second)
+- Supercomputers Or High Performance Computer (HPC): A supercomputer is typically used for scientific and engineering applications that must handle very large databases. It is an extremely fast computer that can perform hundreds of millions of instructions per second. The speed of the supercomputer are measured by FLOPS (Floating point per second)
 
-
-Q5. Block diagram of CPU? & explain parts of CPU *++10 marks*++
-
+# Q5. Block diagram of CPU? & explain parts of CPU *++10 marks*++
 Ans: It lists its main components and their interactions.
 * **Input Unit** Devices like the keyboard, mouse, and scanner **convert user data and instructions** into a format that the computer can understand.
 * **CPU** The brain of the computer, responsible for processing all instructions.
@@ -116,28 +104,24 @@ Ans: It lists its main components and their interactions.
     - **Memory Unit** – Stores data and instructions.
 * **Output Unit** Converts processed data into a **human-readable** form.
 
------
-
-Q6. Characteristics of computer. ++*5 marks*++
-
-1. **Speed** A computer can process *billions of instructions* per second. Modern processors have speed measured in ==GHz==, meaning they can handle **billions of cycles per second.  
+# Q6. Characteristics of computer. ++*5 marks*++
+Ans: The Characteristics of Computer are: 
+1. **Speed** A computer can process *billions of instructions* per second. Modern processors have speed measured in ==GHz==, meaning they can handle ++billions of cycles per second.++  
 2. **Accuracy** Computers follow instructions and produce all results without errors, except for bugs or human error.  
 3. **Automation** Once programmed, a computer operates automatically.  
-4. **Storage** – Computers store vast amounts of data in primary memory.  
-5. **Versatility** – A simple computer can perform many tasks such as playing a movie or editing a document.  
-6. **Diligence** – A computer can perform repetitive tasks without a break.  
-7. **Cost-effectiveness** – The automation and speed of computers reduce the time and manpower required to complete tasks.  
+4. **Storage** Computers store vast amounts of data in primary memory.  
+5. **Versatility** A simple computer can perform many tasks such as playing a movie or editing a document.  
+6. **Diligence** A computer can perform repetitive tasks without a break.  
+7. **Cost-effectiveness** The automation and speed of computers reduce the time and manpower required to complete tasks.  
 
-Q7. What is Number System? & types. ++*5 marks*++ 
-
+# Q7. What is Number System? & types. ++*5 marks*++ 
 Ans: number is nothing but giving value to a symbol. System is nothing how or from where we start assigning the value.
-
 1. Binary  
 2. Decimal  
 3. Octal  
 4. Hexadecimal  
 
-Q8. Explain types of number systems with suitable examples (like [2.3], [64], [24.23]).  (Binary, Octal, Decimal, Hexadecimal).  ++*10 marks*++
+# Q8. Explain types of number systems with suitable examples (like [2.3], [64], [24.23]).  (Binary, Octal, Decimal, Hexadecimal).  ++*10 marks*++
 
 Ans:  
 Binary: 'bi' meaning 2 (1 and 0.)  
