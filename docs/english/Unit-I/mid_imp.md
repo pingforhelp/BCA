@@ -3,21 +3,19 @@
 
 Chapter-01
 
-Q2. 
-Ans:
-The things described as *sweet*:
+# Q2. How ever, the poem then conman this things with what is considered sweeter - the following things considered the sweeter.
+Ans: The things described as *sweet*:
 - The shade of the coconut glade.  
 - The silent of the mango grove.  
 - The sands at the full moon, with the sound of the voices we love.
 
 However, the poem then contrasts these with what is considered *sweeter*.  
 The following are considered the *sweetest*:
-
 - The kiss of the spray (“The feel of the wild foam on their faces”).  
 - The dance of the wild foam on the sand.  
 - The movement of the wild foam on the shore.
 
-This contrast highlights the fishermen’s preference for the exciting and adventurous life over the comfortable pleasures of life.
+This contrast ==highlights== the fishermen’s preference for the exciting and adventurous life over the comfortable pleasures of life.
 
 
 # Q5. Which lines of the Poem inspire courage and confidence in the fisher men? explain.
@@ -63,6 +61,9 @@ Chapter-01
 
 # Q6. Discuss the role of the stranger in the story? Why does the child refuse all that he offers. (sweets, toys and rides)?
 Ans: The stranger acts as a kind and compassionate figure who tries to console the lost child. He represents a stark contrast to the child’s parents, offering him everything the child had previously desired. The child refuses the offers his fear and sense of loss have completely overwhelmed his earlier desires the material things are no longer important, all he wants mow that the comfort and security of his parents.
+
+# Q8. 
+
 
 
 
