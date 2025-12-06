@@ -193,7 +193,7 @@ Computer Architecture main Components:
 - Keyboard
 
 # Types of I/O & Storage devices
-Ans: Storage devices:
+Storage devices:
 - RAM: It stands for Random Access Memory. It is used to store information that is used immediately or we can say that it is a temporary memory. Computers bring the software installed on a hard disk to RAM to process it and to be used by the user. Once, the computer is turned off, the data is deleted. With the help of RAM, computers can perform multiple tasks like loading applications, browsing the web, editing a spreadsheet, experiencing the newest game, etc. It allows you to modify quickly among these tasks, remembering where you're in one task once you switch to a different task. It is also used to load and run applications, like your spreadsheet program, answers commands, like all edits you made within the spreadsheet, or toggle between multiple programs, like once you left the spreadsheet to see the email. Memory is nearly always actively employed by your computer. It ranges from 1GB - 32GB/64GB depending upon the specifications. There are different types of RAM, and although they all serve the same purpose, the most common ones are:
 - SRAM: It stands for Static Random Access Memory. It consists of circuits that retain stored information as long as the power supply is on. It is also known as volatile memory. It is used to build Cache memory. The access time of SRAM is lower and it is much faster as compared to DRAM but in terms of cost, it is costly as compared to DRAM.
 - DRAM: It stands for Dynamic Random Access Memory. It is used to store binary bits in the form of electrical charges that are applied to capacitors. The access time of DRAM is slower as compared to SRAM but it is cheaper than SRAM and has a high packaging density.
@@ -202,20 +202,16 @@ Ans: Storage devices:
 - PROM: PROM is Programmable Read-Only Memory. These are ROMs that can be programmed. A special PROM programmer is employed to enter the program on the PROM. Once the chip has been programmed, information on the PROM can't be altered. PROM is non-volatile, that is data is not lost when power is switched off.
 - EPROM: Another sort of memory is the Erasable Programmable Read-Only Memory. It is possible to erase the info which has been previously stored on an EPROM and write new data onto the chip.
 - EEPROM: EEPROM is Electrically erasable programmable read-only memory. Here, data can be erased without using ultraviolet light, with the use of just applying the electric field.
-
-Magnetic Storage Devices
 - Floppy Disk: Floppy Disk is also known as a floppy diskette. It is generally used on a personal computer to store data externally. A Floppy disk is made up of a plastic cartridge and secured with a protective case. Nowadays floppy disk is replaced by new and effective storage devices like USB, etc.
 - Hard Disk: Hard Disk is a storage device (HDD) that stores and retrieves data using magnetic storage. It is a non-volatile storage device that can be modified or deleted n number of times without any problem. Most computers and laptops have HDDs as their secondary storage device. It is actually a set of stacked disks, just like phonograph records. In every hard disk, the data is recorded electromagnetically in concentric circles or we can say track present on the hard disk, and with the help of a head just like a phonograph arm(but fixed in a position) to read the information present on the track. The read-write speed of HDDs is not so fast but decent. It ranges from a few GBs to a few and more TB.
 - Flash Memory Devices It is a cheaper and more portable storage device. It is the most commonly used device to store data because is more reliable and efficient as compared to other storage devices. Some of the commonly used flash memory devices are:
 - Pen Drive: It is also known as a USB flash drive that includes flash memory with an integrated USB interface. We can directly connect these devices to our computers and laptops and read/write data into them in a much faster and more efficient way. These devices are very portable. It ranges from 1GB to 256GB generally.
 - SSD: It stands for Solid State Drive, a mass storage device like HDD. It is more durable because it does not contain optical disks inside like hard disks. It needs less power as compared to hard disks, is lightweight, and has 10x faster read and writes speed as compared to hard disks. But, these are costly as well. While SSDs serve an equivalent function as hard drives, their internal components are much different. Unlike hard drives, SSDs don't have any moving parts and thus they're called solid-state drives. Instead of storing data on magnetic platters, SSDs store data using non-volatile storage. Since SSDs haven't any moving parts, they do not need to "spin up". It ranges from 150GB to a few more TB.
 - SD Card: It is known as a Secure Digital Card. It is generally used with electronic devices like phones, digital cameras, etc. to store larger data. It is portable and the size of the SD card is also small so that it can easily fit into electronic devices. It is available in different sizes like 2GB, 4GB, 8GB, etc.
-> [!fan fact]
-> SD Cards are 
-
-Memory Card: It is generally used in digital cameras. printers, game consoles, etc. It is also used to store large amounts of data and is available in different sizes. To run a memory card on a computer you require a separate memory card reader.  
+> [!note]
+> SD Cards are able to store TB of data.  
+- Memory Card: It is generally used in digital cameras. printers, game consoles, etc. It is also used to store large amounts of data and is available in different sizes. To run a memory card on a computer you require a separate memory card reader.  
 Multimedia Card: It is also known as MMC. It is an integrated circuit that is generally used in-car radios, digital cameras, etc. It is an external device to store data/information.
-
 
 # Memory Hierarchy
 In the Computer System Design, Memory Hierarchy is an enhancement to organize the memory such that it can minimize the access time. The Memory Hierarchy was developed based on a program behavior known as locality of references (same data or nearby data is likely to be accessed again and again). The figure below clearly demonstrates the different
