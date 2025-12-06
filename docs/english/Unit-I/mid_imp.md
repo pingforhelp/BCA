@@ -39,12 +39,10 @@ Over the years, the memory of the girl became a symbol of lost youth and innocen
 
 Chapter-01
 
-Q6. 
+# Q6. Discuss the role of the stranger in the story? Why does the child refuse all that he offers. (sweets, toys and rides)?
+Ans: The stranger acts as a kind and compassionate figure who tries to console the lost child. He represents a stark contrast to the child’s parents, offering him everything the child had previously desired. The child refuses the offers his fear and sense of loss have completely overwhelmed his earlier desires the material things are no longer important, all he wants mow that the comfort and security of his parents.
 
-Ans:
 
-Q8. 
-Ans:
 
 
 
