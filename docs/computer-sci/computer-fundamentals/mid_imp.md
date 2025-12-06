@@ -109,14 +109,11 @@ Supercomputers Or High Performance Computer (HPC): A supercomputer is typically 
 Q5. Block diagram of CPU? & explain parts of CPU *++10 marks*++
 
 Ans: It lists its main components and their interactions.
-
 * **Input Unit** Devices like the keyboard, mouse, and scanner **convert user data and instructions** into a format that the computer can understand.
-
 * **CPU** The brain of the computer, responsible for processing all instructions.
    - **ALU (Arithmetic Logic Unit)** – **Performs arithmetic and logical operations**, e.g., +, −, ×, <, >, !, &.
     - **CU (Control Unit)** – **Directs** the flow of data between input, memory, and output units.
     - **Memory Unit** – Stores data and instructions.
-
 * **Output Unit** Converts processed data into a **human-readable** form.
 
 -----
@@ -131,7 +128,7 @@ Q6. Characteristics of computer. ++*5 marks*++
 6. **Diligence** – A computer can perform repetitive tasks without a break.  
 7. **Cost-effectiveness** – The automation and speed of computers reduce the time and manpower required to complete tasks.  
 
-Q7. What is Number System? & types. */5 marks* 
+Q7. What is Number System? & types. ++*5 marks*++ 
 
 Ans: number is nothing but giving value to a symbol. System is nothing how or from where we start assigning the value.
 
@@ -140,7 +137,7 @@ Ans: number is nothing but giving value to a symbol. System is nothing how or fr
 3. Octal  
 4. Hexadecimal  
 
-Q8. Explain types of number systems with suitable examples (like [2.3], [64], [24.23]).  (Binary, Octal, Decimal, Hexadecimal).  /10 marks
+Q8. Explain types of number systems with suitable examples (like [2.3], [64], [24.23]).  (Binary, Octal, Decimal, Hexadecimal).  ++*10 marks*++
 
 Ans:  
 Binary: 'bi' meaning 2 (1 and 0.)  
@@ -148,19 +145,16 @@ Octal 'oct' from 0 to 7 Base is 8.
 Decimal 'Dec' 10 digits from 0 to 9 Base is 10 e.g., (101101)₁₀  
 Hexadecimal Hexa 16 digits 0 to 15 or A to F Base is 16 e.g., (1011011)₁₆  
 
-Q9. A) Features of computer.  
-
+# Q9. A) Features of computer.  
+???
 (OR)
 
-B) Explain memory units. */5 marks*
-
+# B) Explain memory units. ++*5 marks*++
 Ans: A Computer can store data for future use.
 
-Memory unit is divided into two parts 
-
-In Primary Memory RAM (Random Access Memory) for temporary use. Usefull for retreating data fast as possible however ones the system is shutdown all data in it is wiped clean.
-
-Secondary Storage use for long-term storage. ROM (Read only Memory) e.g., hard disks. It is slow compared to RAM. The all stored data for future time use unless there is some physical damage or the data inside corrupted.
+Memory unit is divided into two parts:
+1. In Primary Memory RAM (Random Access Memory) for temporary use. Usefull for retreating data fast as possible however ones the system is shutdown all data in it is wiped clean.
+2. Secondary Storage use for long-term storage. ROM (Read only Memory) e.g., hard disks. It is slow compared to RAM. The all stored data for future time use unless there is some physical damage or the data inside corrupted.
 
 Data representation:  
 - Bit 0 or 1.  
@@ -173,32 +167,32 @@ Terabyte 1024 gigabytes.
 > [!help] 
 > For info check: [Memory in Chapter 02 CO](./computer-sci/computer-fundamentals/CO&NWunit-2#types-of-memory-hierarchy)
 
-
-
 # Unit-II
 
-Q1. What is CO? Write functional components. *++10 marks++*
-
-Q2. Write detail about memory hierarchy? *++5 marks++*
-
-Q3. What are storage types & input/output devices? *++10 marks++*
-
-Q4. Write about types of computers in detail? *++5 marks++*
-
-Q5. What is network? Types of networks in detail with examples & diagrams. *++10 marks++*
-
-Q6. What is topology? Types of topologies with diagrams. *++10 marks++*
-
-Q7. What is internet? What are IP addresses? *++5 marks++*
-
-Q8. Write detail on: *++5 marks++*
+# Q1. What is CO? Write functional components. *++10 marks++*
+Ans:
+# Q2. Write detail about memory hierarchy? *++5 marks++*
+Ans:
+# Q3. What are storage types & input/output devices? *++10 marks++*
+Ans:
+# Q4. Write about types of computers in detail? *++5 marks++*
+Ans:
+# Q5. What is network? Types of networks in detail with examples & diagrams. *++10 marks++*
+Ans:
+# Q6. What is topology? Types of topologies with diagrams. *++10 marks++*
+Ans:
+# Q7. What is internet? What are IP addresses? *++5 marks++*
+Ans:
+# Q8. Write detail on: *++5 marks++*
 
 a) Domain name  
 
 b) Email  
 
-Q9. What is web browser & domain name? *++5 marks++*
+Ans:
 
-Q10. Write about WWW in detail? *++10 marks++*
-
+# Q9. What is web browser & domain name? *++5 marks++*
+Ans:
+# Q10. Write about WWW in detail? *++10 marks++*
+Ans:
 
