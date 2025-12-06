@@ -97,6 +97,7 @@ Mainframe computer: A mainframe computer is a very large computer capable of han
 
 # Q5. Draw block diagram of CPU? & explain parts of CPU *++10 marks*++
 Ans(pt.1):
+<img width="651" height="389" alt="image" src="https://github.com/user-attachments/assets/7f0f1501-9e42-4607-8739-134197c44b67" />
 
 Ans(pt.2): It lists its main components and their interactions.
 * **Input Unit** Devices like the keyboard, mouse, and scanner **convert user data and instructions** into a format that the computer can understand.
@@ -104,7 +105,7 @@ Ans(pt.2): It lists its main components and their interactions.
 * **CPU** The brain of the computer, responsible for processing all instructions.
    - **ALU (Arithmetic Logic Unit)** – **Performs arithmetic and logical operations**, e.g., +, −, ×, <, >, !, &.
     - **CU (Control Unit)** – **Directs** the flow of data between input, memory, and output units.
-    - **Memory Unit** – Stores data and instructions.
+    - **Memory Unit (MU)** – Stores data and instructions.
 
 # Q6. Characteristics of computer. ++*5 marks*++
 Ans: The Characteristics of Computer are: 
@@ -132,7 +133,7 @@ Decimal 'Dec' 10 digits from 0 to 9 Base is 10 e.g., (101101)₁₀
 Hexadecimal Hexa 16 digits 0 to 15 or A to F Base is 16 e.g., (1011011)₁₆  
 
 # Q9. A) Features of computer.  
-???
+Ans: No context can't find any info on this in the notes and Syllabus.
 (OR)
 
 # B) Explain memory units. ++*5 marks*++
@@ -141,25 +142,20 @@ Ans: A Computer can store data for future use.
 Memory unit is divided into two parts:
 1. In Primary Memory RAM (Random Access Memory) for temporary use. Usefull for retreating data fast as possible however ones the system is shutdown all data in it is wiped clean.
 2. Secondary Storage use for long-term storage. ROM (Read only Memory) e.g., hard disks. It is slow compared to RAM. The all stored data for future time use unless there is some physical damage or the data inside corrupted.
-
 Data representation:  
 - Bit 0 or 1.  
 - Byte 8 bits  
 - Kilobyte 1024 bytes  
 - Megabytes 1024 kilobytes.  
 - Gigabyte  1024 megabytes  
-Terabyte 1024 gigabytes.
-
-> [!help] 
-> For info check: [Memory in Chapter 02 CO](./computer-sci/computer-fundamentals/CO&NWunit-2#types-of-memory-hierarchy)
+Terabyte 1024 gigabytes
+[More info- Memory in Chapter 02 CO](./computer-sci/computer-fundamentals/CO&NWunit-2#types-of-memory-hierarchy)
 
 # Unit-II
-
 # Q1. What is CO? Write functional components. *++10 marks++*
 Ans (pt.1): Computer Organization (CO) refers to the operational structure of a Computer system. It explains how hardware components work, how they communicate with each other, and how a Computer execute instructions internally.
 
 Ans (pt.2): 
-
 1. Input devices:
 * Takes data & instructions from the user & external environment
 * Converts them into a machine readable (Binary format 1’s and 0’s.)
@@ -336,11 +332,11 @@ The two kinds of viewing screens used for monitors are described below:
 > [!info] 
 > Not to be confused with "Graphics card" well hardware wise is same but a "Video card" has less resources/Processing power.
 
-
 # Q4. Write about types of computers in detail? *++5 marks++*
 Ans: Check Unit-I Q4.
 # Q5. What is network? Types of networks in detail with examples & diagrams. *++10 marks++*
-Ans: 
+Ans(pt.1): A Computer network is a connection of interconnected devices (Computers, Printers, Servers etc...) that can exchange data and share resources using communication links and agreed rules (Protocols). Network allows devices to communicate both locally that in a room or office and across long distances such as over the Pacific. ==forming the bases for services like email, web browsing, file sharing, streaming, and remote access.==
+  
 # Q6. What is topology? Types of topologies with diagrams. *++10 marks++*
 Ans:
 # Q7. What is internet? What are IP addresses? *++5 marks++*
