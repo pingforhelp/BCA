@@ -20,8 +20,16 @@ The following are considered the *sweetest*:
 This contrast highlights the fishermen’s preference for the exciting and adventurous life over the comfortable pleasures of life.
 
 
-Q5.
-Ans:
+# Q5. Which lines of the Poem inspire courage and confidence in the fisher men? explain.
+Ans: The Poem "Coromandel fisher's" by Sarojini Naidu inspire corog and confidence in the fisher men through It's visit protrayel of their daily lives and there relationship with the sea:
+
+a) "lines inspireing courage and confidence": "Rise, brother, rise the wakening skies Prayer to the morning lights" In the opening line acts as a Powerfull call to action, urging that the fishermen to start their day with a sence of purpose and divience blessing.
+
+b) The sea is our mother, The cloud is our brother, The coaves are commrades all: - This line is central to the Poem's team of courage by personifying, nature in the family. The fishermen are shown to have a deep, intimate and trusting relationship with the sea. The sea isn't an emeny but a nurturing mother," and the woves aren't treads but commrades.
+
+c) what "Taough we task at the fall of the sun, where the tread of the sea":- This line show cases their bravery and residience A knowlege's the interint danger's of their Profestion while stmultaneously, dismissing then as trivial.
+
+d) He who hold's the storm by the hair will keep his secert well: This final insetts an unwavering faith in a higher Power it reassures the fishermen that there sercet" of finding fish is protected by a divine being who controls the mightly "storm" This belief in divine protection gives then the ultimate confidence the venture; out fearlessly; knowing their livelyhea lives are safe guarded.
 
 Chapter-02 
 
