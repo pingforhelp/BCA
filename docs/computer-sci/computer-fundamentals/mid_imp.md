@@ -95,6 +95,7 @@ Mainframe computer: A mainframe computer is a very large computer capable of han
 
 # Q5. Draw block diagram of CPU? & explain parts of CPU *++10 marks*++
 Ans(pt.1):
+
 <img width="651" height="389" alt="image" src="https://github.com/user-attachments/assets/7f0f1501-9e42-4607-8739-134197c44b67" />
 
 Ans(pt.2): It lists its main components and their interactions.
@@ -147,7 +148,7 @@ Data representation:
 - Megabytes 1024 kilobytes.  
 - Gigabyte  1024 megabytes  
 Terabyte 1024 gigabytes
-[More info- Memory in Chapter 02 CO](./computer-sci/computer-fundamentals/CO&NWunit-2#types-of-memory-hierarchy)
+[More info- Memory in Chapter 02 CO](./computer-sci/computer-fundamentals/CO&NWunit-2.md#types-of-memory-hierarchy)
 
 # Unit-II
 # Q1. What is CO? Write functional components. *++10 marks++*
