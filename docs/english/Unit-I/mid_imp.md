@@ -5,8 +5,9 @@ Chapter-01
 Sarojini Naidu was born on February 13, 1879, Hyderabad in India and died on March 2, 1949, Lucknow she was a Political activist, feminist and Poet she was the first Indian woman to be the President of the Indian national Congress Party and to be appointed as an Indian State Governor. She was called:
 “The nightingale of India.” by~ Mahatma Gandhi.
 
-# Q2. How ever, the poem then conman this things with what is considered sweeter - the following things considered the sweeter.
-Ans: The things described as *sweet*:
+# Q2. What is sweetest? 
+Ans: However, the poem then conman this things with what is considered sweeter - the following things considered the sweeter.
+The things described as *sweet*:
 - The shade of the coconut glade.  
 - The silent of the mango grove.  
 - The sands at the full moon, with the sound of the voices we love.
@@ -19,17 +20,16 @@ The following are considered the *sweetest*:
 
 This contrast ==highlights== the fishermen’s preference for the exciting and adventurous life over the comfortable pleasures of life.
 
-
 # Q5. Which lines of the Poem inspire courage and confidence in the fisher men? explain.
-Ans: The Poem "**Coromandel fisher's**" by *Sarojini Naidu* inspire corog and confidence in the fisher men through It's visit protrayel of their daily lives and there relationship with the sea:
+Ans: The poem **"Coromandel Fishers"** by *Sarojini Naidu* inspires courage and confidence in the fishermen through its vivid portrayal of their daily lives and their relationship with the sea:
 
-a) "lines inspireing courage and confidence": "Rise, brother, rise the wakening skies Prayer to the morning lights" In the opening line acts as a Powerfull call to action, urging that the fishermen to start their day with a sence of purpose and divience blessing.
+a) “Rise, brother, rise! The wakening skies pray to the morning light” The opening line acts as a powerful call to action, urging the fishermen to start their day with a sense of purpose and divine blessing.
 
-b) The sea is our mother, The cloud is our brother, The coaves are commrades all: - This line is central to the Poem's team of courage by personifying, nature in the family. The fishermen are shown to have a deep, intimate and trusting relationship with the sea. The sea isn't an emeny but a nurturing mother," and the woves aren't treads but commrades.
+b) “The sea is our mother, the cloud is our brother, the waves are comrades all” This line highlights their deep, trusting relationship with nature. The sea is shown as a nurturing mother, and the waves as comrades, not threats.
 
-c) what "Taough we task at the fall of the sun, where the tread of the sea":- This line show cases their bravery and residience A knowlege's the interint danger's of their Profestion while stmultaneously, dismissing then as trivial.
+c) “Though we toil at the fall of the sun, where the threat of the sea” This line shows their bravery and resilience, acknowledging the dangers of their profession while treating them as minor.
 
-d) He who hold's the storm by the hair will keep his secert well: This final insetts an unwavering faith in a higher Power it reassures the fishermen that there sercet" of finding fish is protected by a divine being who controls the mightly "storm" This belief in divine protection gives then the ultimate confidence the venture; out fearlessly; knowing their livelyhea lives are safe guarded.
+d) “He who holds the storm by the hair will keep his secret well” This line expresses strong faith in a higher power, reassuring the fishermen that divine protection gives them confidence to venture out fearlessly.
 
 Chapter-02 
 Ruskin Bond was born on **19 May 1934** at **Kasauli, Punjabi State Agency, British India**. He is considered an icon among Indian writers and children’s authors. He wrote his first novel *“The Room on the Roof”*, which won the **John Llewellyn Rhys Memorial Prize** in **1957**. Ruskin Bond has authored more than **500 short stories, essays, and novels**, including **69 books for children**. His first book for children *“Angry River”* was published in **1972**. In **1992**, he was awarded the **Sahitya Akademi Award** for *“Our Trees Still Grow in Dehra.”* In **1999**, he was awarded the **Padma Shri**, and in **2014**, the **Padma Bhushan**.
@@ -65,7 +65,7 @@ Ans: The title “++The Lost Child++” has both literal and symbolic significan
 
 Chapter-02
 
-The book letter to a teacher by the students of ++barbinania school++ it is not question and answer but powerful collaborative project the critically analysis how public schools replicate social inequality and discriminate against poor children through their research and old life experience and students use data and examples to demonstrate that the traditional school systems provided they second-rate education for the poor, making it difficult for them to succeed while favouring children with more support the students expressed their frustration with how schools produced illiterate children and demanded that education be planned to meet the urgent needs of the disadvantage.
+The book letter to a teacher by the students of ++Barbiana school++ it is not question and answer but powerful collaborative project the critically analysis how public schools replicate social inequality and discriminate against poor children through their research and old life experience and students use data and examples to demonstrate that the traditional school systems provided they second-rate education for the poor, making it difficult for them to succeed while favouring children with more support the students expressed their frustration with how schools produced illiterate children and demanded that education be planned to meet the urgent needs of the disadvantage.
 
 # Q1. attempt the character sketch of the author of the "letter" on the basis of information given by him about his home etc.
 Ans: Character sketch of authors the author, rather, the group of authors, is reveal to be children of the poor working class, primaryly peasent families living in the secluded, rural community of barbanania in the Mugello hills of Tuscany
@@ -78,7 +78,7 @@ Key character traits:
 - Practical and Direct: the style of the book is described as unique and direct. The authors are focussed on being "useful" And even includes foot notes to explain classical references like Cicesaro or homer, indicating a practical mindset and a desire to make knowledge accessible to their peers.
 
 # Q3. What, according to the authors, are the shortcomings of school education?
-**Ans** According to the authors, the major shortcomings of the school system are:
+**Ans:** According to the authors, the major shortcomings of the school system are:
 * It favours the rich, not the poor.
 * Schools are structured so that children from wealthy, educated families succeed easily.
 * Poor or working-class children are left behind.
