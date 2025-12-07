@@ -61,7 +61,9 @@ Mulk Raj Anand who was born on 12th December 1905 was an Indian writer and he wa
 Ans: The stranger acts as a kind and compassionate figure who tries to console the lost child. He represents a stark contrast to the child’s parents, offering him everything the child had previously desired. The child refuses the offers his fear and sense of loss have completely overwhelmed his earlier desires the material things are no longer important, all he wants now that the comfort and security of his parents.
 
 # Q8. What is the significance of the title “The Lost Child”? Do you think the story is about only a child lost in a fair, or does it symbolise something deeper about human life and relationships?
-Ans: The title “++The Lost Child++” has both literal and symbolic significance. Literally, it refers to the child who is physically lost in the fair. Symbolically, it represents a deeper truth about human relationships. The story suggests that without the security of love and family, all other worldly attractions and possessions are meaningless. The child’s experience also reveals a more fundamental “lostness” — the loss of his sense of self and belonging, which shows that being lost can be a deeper, more existential state.
+Ans: The title “++The Lost Child++” has both literal and symbolic significance: 
+- Literally, it refers to the child who is physically lost in the fair.
+- Symbolically, it represents a deeper truth about human relationships. The story suggests that without the security of love and family, all other worldly attractions and possessions are meaningless. The child’s experience also reveals a more fundamental “lostness” — the loss of his sense of self and belonging, which shows that being lost can be a deeper, more existential state.
 
 Chapter-02
 
