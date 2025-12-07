@@ -73,7 +73,7 @@ The **fourth generation** of computers were manufactured in the years 1975–198
 - They consumed less power than third generation computers.  
 - They used large primary and secondary storage compared to third generation.  
 - These computers used standard high-level languages such as C, C++, JAVA, and Data Structures.  
-- These systems could use GUI (Graphical User Interface).  
+- These systems could use ==GUI (Graphical User Interface).==  
 - They were more reliable and less prone to hardware failures than third generation.  
 - These computers could be networked (e.g., Printing, sharing files).  
 
