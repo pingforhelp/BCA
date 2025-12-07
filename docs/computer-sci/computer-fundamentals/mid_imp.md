@@ -86,7 +86,7 @@ The **fifth generation** computers are  manufactured in the year 1989 onwards.
 - These computers are user-friendly and supports multimedia.  
 - The goal of fifth generation devices is to respond to human languages such as English and Hindi.  
 
-# Q4. Types of computers?  /++*10 marks*++
+# Q4. Types of computers? ++*10 marks*++
 Ans: Computer are generally classified by speed, memory size and power consumption
 - Micro computer: It is based on microprocessor chip as CPU. This is smallest category of Digital Computer.
 - Mini Computer: A multi-user computer capable of supporting up to hundreds of users simultaneously. These computers are bigger in size and costlier than Microcomputers. Minicomputers are used in universities and big organisations.
@@ -94,8 +94,8 @@ Mainframe computer: A mainframe computer is a very large computer capable of han
 - Supercomputers Or High Performance Computer (HPC): A supercomputer is typically used for scientific and engineering applications that must handle very large databases. It is an extremely fast computer that can perform hundreds of millions of instructions per second. The speed of the supercomputer are measured by FLOPS (Floating point per second)
 
 # Q5. Draw block diagram of CPU? & explain parts of CPU *++10 marks*++
-Ans(pt.1):
 
+Ans(pt.1):
 <img width="651" height="389" alt="image" src="https://github.com/user-attachments/assets/7f0f1501-9e42-4607-8739-134197c44b67" />
 
 Ans(pt.2): It lists its main components and their interactions.
