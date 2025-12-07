@@ -334,9 +334,121 @@ The two kinds of viewing screens used for monitors are described below:
 Ans: Check Unit-I Q4.
 # Q5. What is network? Types of networks in detail with examples & diagrams. *++10 marks++*
 Ans(pt.1): A Computer network is a connection of interconnected devices (Computers, Printers, Servers etc...) that can exchange data and share resources using communication links and agreed rules (Protocols). Network allows devices to communicate both locally that in a room or office and across long distances such as over the Pacific. ==forming the bases for services like email, web browsing, file sharing, streaming, and remote access.==
+
+Ans(pt.2): 
+
+Local Area Networks (LAN)
+- Area: Single building/office/home (Meters to few Kms)
+- Speed: High (100 Mbps - 100 Gbps)
+* Technologies: Ethernet (IEEE 802.3) WiFi (IEEE 802.11) Power line)
+- Devices: Switches wireless APs, routers (edge), NICs
+- User cases: Office networks, Campus labs, home network
+
+``` mermaid
+graph TD
+    C1[Computer 1]
+    C2[Computer 2]
+    C3[Computer 3]
+    R[Router]
+    
+    C1 ---|Connection| R
+    C2 ---|Connection| R
+    C3 ---|Connection| R
+    
+    style C1 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style C2 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style C3 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style R fill:#2d3748,stroke:#4299e1,stroke-width:3px,color:#fff
+```
+Metropolitan Area Network (MAN)
+- Area: City large Campus a metro area (a few 10's of Km's)
+- Speed: Medium to high (10's of mbps to multiple Gbps)
+- Ownership: Can be Private (University) or Provided by a telecom/City provider
+- Technologies: Metro Ethernet, fiber rings. Microwave links, leased lines
+- Use Cases: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
+
+``` mermaid
+graph TD
+    MAN[MAN]
+
+    LAN1[Hospital LAN]
+    LAN2[College LAN]
+    LAN3[Factory LAN]
+    LAN4[School LAN]
+
+    MAN ---|Connects| LAN1
+    MAN ---|Connects| LAN2
+    MAN ---|Connects| LAN3
+    MAN ---|Connects| LAN4
+
+    style MAN fill:#2d3748,stroke:#63b3ed,stroke-width:3px,color:#fff
+    style LAN1 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style LAN2 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style LAN3 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style LAN4 fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+
+```
+Wide Area Network (WAN)
+* Area: Inter city national & global - The Internet is the Largest WAN
+* Speed: Variable (mbps to gbps); often higher than LAN
+- Ownership Usually heterogeneous links leased from telecos, ISPs, Satellite Providers.
+- Technologies MPLS, ATM (Legacy) leased lines, DSL, Fiber-Optic, Satellite/Cellular (5G/4G)
+- Use Cases Connecting geographically dispersed branches, Internet, transport.
+- Characteristic features Routing across, multiple administrative domains, complex QOS often secure tunnels (VPN) for private traffic.
+
+``` mermaid
+graph TD
+    WAN[WAN]
+
+    DC[Data Center]
+    RO[Remote Office]
+    BO[Branch Office]
+    RG[Regional Office]
+
+    WAN ---|Link| DC
+    WAN ---|Link| RO
+    WAN ---|Link| BO
+    WAN ---|Link| RG
+
+    style WAN fill:#2d3748,stroke:#63b3ed,stroke-width:3px,color:#fff
+    style DC fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style RO fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style BO fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+    style RG fill:#4a5568,stroke:#718096,stroke-width:2px,color:#fff
+
+```
   
 # Q6. What is topology? Types of topologies with diagrams. *++10 marks++*
-Ans:
+Ans: Topolgies are way we connect Computers to a network. There are 2 types of Topologies:
+1.  **Physical Topology**: The actual Physical layout of Cables and devices.
+2. **Logical Topology**: How data moves across the network, regardless of physical layout.
+
+
+Star Topology
+All the devices are connected to a single hub through a cable. *This hub is the central node and all other nodes are connected to central node.*
+* The hub can be passive in nature - that is an intelligent hub such as broadcasting devices.
+* At the same time the hub can be intelligent - known as an active hub. 
+Active hubs have repeaters in them.
+````  mermaid
+
+````
+
+Bus Topology
+Bus Topology is a network type in which every computer and network device is connected to a single cable. It is a multi-point connection and a non-robust topology because if the back bone fails the topology crashes.
+
+Ring Topology
+- It forms a ring connecting devices with exactly two neighboring devices.
+- A no. of repeaters are used for Ring Topology with a large no. of nodes.
+- In Ring Topology, the token passing protocol is used by the workstations to transmit the data. 
+token passing is a network access method in which a special bit pattern called a token circulates around the ring. 
+Token and Token in Ring Topology Token and Token is a frame that circulates around the network operations in Ring Topology.
+
+Token Operations:
+1) One Station is Known as a monitor station.
+2) To transmit the data, the station has to hold the token. Transmission is Completed then the token will released to the other station.
+3) When no station is transmitting the data, then the token will circulate in the ring.
+
+
 # Q7. What is internet? What are IP addresses? *++5 marks++*
 Ans:
 # Q8. Write detail on: *++5 marks++* 
