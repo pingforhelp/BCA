@@ -1,7 +1,5 @@
 # The Night Train at Deoli
 
-[[toc]]
-
 # About the Author
 Ruskin Bond was born on **19 May 1934** at **Kasauli, Punjabi State Agency, British India**.
 His parents were **Aubrey Alexander Bond** and **Edith Clarke**. The present story *“The Night Train at Deoli”* is taken from one of his collections and was published in **1988**. He is considered an icon among Indian writers and children’s authors. He wrote his first novel *“The Room on the Roof”*, which won the **John Llewellyn Rhys Memorial Prize** in **1957**. Ruskin Bond has authored more than **500 short stories, essays, and novels**, including **69 books for children**. His first book for children *“Angry River”* was published in **1972**. In **1992**, he was awarded the **Sahitya Akademi Award** for *“Our Trees Still Grow in Dehra.”*
