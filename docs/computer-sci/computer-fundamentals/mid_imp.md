@@ -148,7 +148,7 @@ Data representation:
 - Megabytes 1024 kilobytes.  
 - Gigabyte  1024 megabytes  
 Terabyte 1024 gigabytes
-[More info- Memory in Chapter 02 CO](./computer-sci/computer-fundamentals/CO&NWunit-2.md#types-of-memory-hierarchy)
+[More info- Memory in Chapter 02 CO](https://notes.tamims.space/computer-sci/computer-fundamentals/CO&NWunit-2.html#types-of-memory-hierarchy)
 
 # Unit-II
 # Q1. What is CO? Write functional components. *++10 marks++*
