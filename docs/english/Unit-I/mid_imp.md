@@ -2,6 +2,8 @@
 # Unit-I
 
 Chapter-01
+Sarojini Naidu was born on February 13, 1879, Hyderabad in India and died on March 2, 1949, Lucknow she was a Political activist, feminist and Poet she was the first Indian woman to be the President of the Indian national Congress Party and to be appointed as an Indian State Governor. She was called:
+“The nightingale of India.” by~ Mahatma Gandhi.
 
 # Q2. How ever, the poem then conman this things with what is considered sweeter - the following things considered the sweeter.
 Ans: The things described as *sweet*:
@@ -30,8 +32,9 @@ c) what "Taough we task at the fall of the sun, where the tread of the sea":- Th
 d) He who hold's the storm by the hair will keep his secert well: This final insetts an unwavering faith in a higher Power it reassures the fishermen that there sercet" of finding fish is protected by a divine being who controls the mightly "storm" This belief in divine protection gives then the ultimate confidence the venture; out fearlessly; knowing their livelyhea lives are safe guarded.
 
 Chapter-02 
+Ruskin Bond was born on **19 May 1934** at **Kasauli, Punjabi State Agency, British India**. He is considered an icon among Indian writers and children’s authors. He wrote his first novel *“The Room on the Roof”*, which won the **John Llewellyn Rhys Memorial Prize** in **1957**. Ruskin Bond has authored more than **500 short stories, essays, and novels**, including **69 books for children**. His first book for children *“Angry River”* was published in **1972**. In **1992**, he was awarded the **Sahitya Akademi Award** for *“Our Trees Still Grow in Dehra.”* In **1999**, he was awarded the **Padma Shri**, and in **2014**, the **Padma Bhushan**.
 
-# Q1. What kind of place was Deoli Station, and why did the narrator find it lonely?
+# Q1. WRuskin Bond was born on **19 May 1934** at **Kasauli, Punjabi State Agency, British India**hat kind of place was Deoli Station, and why did the narrator find it lonely?
 Ans: Deoli Station is described as a small, remote, and quiet railway station surrounded by hills and forests. It is not a busy place but rather isolated and peaceful. The narrator found Deoli Station lonely because it was far from urban areas, and there were very few people around. The station was often empty, and the stillness of the place gave a sense of solitude. The sparse human presence and the natural surroundings added to the feeling of loneliness that the narrator experienced while waiting.
 
 # Q4. How did the girl react when she saw the narrator again during his return journey?
@@ -58,6 +61,7 @@ Over the years, the memory of the girl became a symbol of lost youth and innocen
 # Unit-II
 
 Chapter-01
+Mulk Raj Anand who was born on 12th December 1905 was an Indian writer and he was known for his depiction of the lives of the poor in traditional Indian society. He is considered as one of the pioneers of Indo-Anglian fiction he was one of the First India-based writers in English to gain an International readership. He is admired for his novels and short stories which are noted for their perceptive insight into the lives of the oppressed and their analyses of impoverishment exploitation and misfortune. Some of his important works are *Untouchable*, *Coolie* and *to leaves* and Bud he was honoured of the padma Bhushan. He died on 28th september 2004.
 
 # Q6. Discuss the role of the stranger in the story? Why does the child refuse all that he offers. (sweets, toys and rides)?
 Ans: The stranger acts as a kind and compassionate figure who tries to console the lost child. He represents a stark contrast to the child’s parents, offering him everything the child had previously desired. The child refuses the offers his fear and sense of loss have completely overwhelmed his earlier desires the material things are no longer important, all he wants mow that the comfort and security of his parents.
@@ -70,13 +74,8 @@ Symbolically, it represents a deeper truth about human relationships. The story 
 
 The child’s experience also reveals a more fundamental “lostness” — the loss of his sense of self and belonging, which shows that being lost can be a deeper, more existential state.
 
-
-
-
-
-
-
 Chapter-02
+The book letter to a teacher by the students of ++barbinania school++ it is not question and answer but powerful collaborative project the critically analysis how public schools replicate social inequality and discriminate against poor children through their research and old life experience and students use data and examples to demonstrate that the traditional school systems provided they second-rate education for the poor, making it difficult for them to succeed while favouring children with more support the students expressed their frustration with how schools produced illiterate children and demanded that education be planned to meet the urgent needs of the disadvantage.
 
 # Q1. attempt the character sketch of the author of the "letter "on the basis of information given by him about his home etc.
 Ans: Character sketch of authors the author, rather, the group of authors, is reveal to be children of the poor working class, primaryly peasent Or farmer families living in the secluded, rural community of barbanania in the Mugello hills of Tuscany
