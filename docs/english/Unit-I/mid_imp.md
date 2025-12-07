@@ -21,7 +21,7 @@ This contrast ==highlights== the fishermen’s preference for the exciting and a
 
 
 # Q5. Which lines of the Poem inspire courage and confidence in the fisher men? explain.
-Ans: The Poem "Coromandel fisher's" by Sarojini Naidu inspire corog and confidence in the fisher men through It's visit protrayel of their daily lives and there relationship with the sea:
+Ans: The Poem "**Coromandel fisher's**" by *Sarojini Naidu* inspire corog and confidence in the fisher men through It's visit protrayel of their daily lives and there relationship with the sea:
 
 a) "lines inspireing courage and confidence": "Rise, brother, rise the wakening skies Prayer to the morning lights" In the opening line acts as a Powerfull call to action, urging that the fishermen to start their day with a sence of purpose and divience blessing.
 
@@ -34,55 +34,48 @@ d) He who hold's the storm by the hair will keep his secert well: This final ins
 Chapter-02 
 Ruskin Bond was born on **19 May 1934** at **Kasauli, Punjabi State Agency, British India**. He is considered an icon among Indian writers and children’s authors. He wrote his first novel *“The Room on the Roof”*, which won the **John Llewellyn Rhys Memorial Prize** in **1957**. Ruskin Bond has authored more than **500 short stories, essays, and novels**, including **69 books for children**. His first book for children *“Angry River”* was published in **1972**. In **1992**, he was awarded the **Sahitya Akademi Award** for *“Our Trees Still Grow in Dehra.”* In **1999**, he was awarded the **Padma Shri**, and in **2014**, the **Padma Bhushan**.
 
-# Q1. WRuskin Bond was born on **19 May 1934** at **Kasauli, Punjabi State Agency, British India**hat kind of place was Deoli Station, and why did the narrator find it lonely?
+# Q1. What kind of place was Deoli Station, and why did the narrator find it lonely?
 Ans: Deoli Station is described as a small, remote, and quiet railway station surrounded by hills and forests. It is not a busy place but rather isolated and peaceful. The narrator found Deoli Station lonely because it was far from urban areas, and there were very few people around. The station was often empty, and the stillness of the place gave a sense of solitude. The sparse human presence and the natural surroundings added to the feeling of loneliness that the narrator experienced while waiting.
 
 # Q4. How did the girl react when she saw the narrator again during his return journey?
 Ans: When the girl saw the narrator again during his return journey, she looked at him with a mixture of surprise and embarrassment. She seemed even more shy and startled upon seeing him and avoided direct eye contact.
 
 # Q9. Why did the narrator never break his journey at Deoli, though he wished to meet the girl?
-Ans: Although the narrator wished to stop at Deoli, he feared destroying the idealized image he had created. The uncertainty and the possibility of reality not matching his dream held him back.
+Ans: Although the narrator wished to stop at Deoli, he feared destroying the ++idealized image he had created++. The uncertainty and the possibility of reality not matching his dream held him back.
 
-**(i) Tenderness or Affection:**
-He remembered the girl fondly. Even though he met her only twice, the brief encounter touched his heart deeply.
+**(i) Tenderness or Affection:** He remembered the ++girl fondly++. Even though he met her only twice, the brief encounter touched his heart deeply.
 
+**(ii) Longing and Desire:** The narrator felt ++a deep sense of longing++ for the girl. He wished he could see her again or at least know what happened to her, but she remained only a beautiful memory.
 
-**(ii) Longing and Desire:**
-The narrator felt a deep sense of longing for the girl. He wished he could see her again or at least know what happened to her, but she remained only a beautiful memory.
+**(iii) Sadness and Regret:** There was ++sorrow++ in his heart because he never met her again and missed the chance to express his feelings. He regretted not acting on impulse to know her better.
 
-**(iii) Sadness and Regret:**
-There was sorrow in his heart because he never met her again and missed the chance to express his feelings. He regretted not acting on impulse to know her better.
-
-**(iv) Nostalgia:**
-Over the years, the memory of the girl became a symbol of lost youth and innocent love. Thinking of her brought back emotions of that time—pure, simple, and unforgettable.
-
-
+**(iv) Nostalgia:** Over the years, the memory of the girl became a symbol of lost youth and innocent love. Thinking of her brought back emotions of that time—pure, simple, and unforgettable.
 
 # Unit-II
 
 Chapter-01
-Mulk Raj Anand who was born on 12th December 1905 was an Indian writer and he was known for his depiction of the lives of the poor in traditional Indian society. He is considered as one of the pioneers of Indo-Anglian fiction he was one of the First India-based writers in English to gain an International readership. He is admired for his novels and short stories which are noted for their perceptive insight into the lives of the oppressed and their analyses of impoverishment exploitation and misfortune. Some of his important works are *Untouchable*, *Coolie* and *to leaves* and Bud he was honoured of the padma Bhushan. He died on 28th september 2004.
 
-# Q6. Discuss the role of the stranger in the story? Why does the child refuse all that he offers. (sweets, toys and rides)?
-Ans: The stranger acts as a kind and compassionate figure who tries to console the lost child. He represents a stark contrast to the child’s parents, offering him everything the child had previously desired. The child refuses the offers his fear and sense of loss have completely overwhelmed his earlier desires the material things are no longer important, all he wants mow that the comfort and security of his parents.
+Mulk Raj Anand who was born on 12th December 1905 was an Indian writer and he was known for his depiction of the lives of the poor in traditional Indian society. He is considered as one of the pioneers of Indo-Anglian fiction he was one of the First India-based writers in English to gain an International readership. He is admired for his novels and short stories which are noted for their perceptive insight into the lives of the oppressed and their analyses of impoverishment exploitation and misfortune. Some of his important works are *Untouchable*, *Coolie* and *to leaves* and Bud he was honoured of the padma Bhushan. He passed on ++28th september 2004.++
 
-# Q8. What is the significance of the title “The Lost Child”?  
-Do you think the story is about only a child lost in a fair, or does it symbolise something deeper about human life and relationships?
-Ans: The title “++The Lost Child++” has both literal and symbolic significance.  
-Literally, it refers to the child who is physically lost in the fair.  
-Symbolically, it represents a deeper truth about human relationships. The story suggests that without the security of love and family, all other worldly attractions and possessions are meaningless.  
+# Q6. Discuss the role of the stranger in the story? Why does the child refuse all that he offers. (sweets, toys, and rides)?
+Ans: The stranger acts as a kind and compassionate figure who tries to console the lost child. He represents a stark contrast to the child’s parents, offering him everything the child had previously desired. The child refuses the offers his fear and sense of loss have completely overwhelmed his earlier desires the material things are no longer important, all he wants now that the comfort and security of his parents.
 
-The child’s experience also reveals a more fundamental “lostness” — the loss of his sense of self and belonging, which shows that being lost can be a deeper, more existential state.
+# Q8. What is the significance of the title “The Lost Child”? Do you think the story is about only a child lost in a fair, or does it symbolise something deeper about human life and relationships?
+Ans: The title “++The Lost Child++” has both literal and symbolic significance. Literally, it refers to the child who is physically lost in the fair. Symbolically, it represents a deeper truth about human relationships. The story suggests that without the security of love and family, all other worldly attractions and possessions are meaningless. The child’s experience also reveals a more fundamental “lostness” — the loss of his sense of self and belonging, which shows that being lost can be a deeper, more existential state.
 
 Chapter-02
+
 The book letter to a teacher by the students of ++barbinania school++ it is not question and answer but powerful collaborative project the critically analysis how public schools replicate social inequality and discriminate against poor children through their research and old life experience and students use data and examples to demonstrate that the traditional school systems provided they second-rate education for the poor, making it difficult for them to succeed while favouring children with more support the students expressed their frustration with how schools produced illiterate children and demanded that education be planned to meet the urgent needs of the disadvantage.
 
-# Q1. attempt the character sketch of the author of the "letter "on the basis of information given by him about his home etc.
-Ans: Character sketch of authors the author, rather, the group of authors, is reveal to be children of the poor working class, primaryly peasent Or farmer families living in the secluded, rural community of barbanania in the Mugello hills of Tuscany
+# Q1. attempt the character sketch of the author of the "letter" on the basis of information given by him about his home etc.
+Ans: Character sketch of authors the author, rather, the group of authors, is reveal to be children of the poor working class, primaryly peasent families living in the secluded, rural community of barbanania in the Mugello hills of Tuscany
 
-Key character traits: under privileged and marginalized : their origin in poor, rural farm houses (barbanania being a community of about 20 farm houses) immediately establishes them as coming from a socio-ecnomically disadvantaged background Angry and frustrated : they express deep anger and frustation - the collective anger of the worker and peasent at an educational system perceived as unfair. Determine and hardworking : the fact that they attended they rigorous school run by Don Milani, which demanded a full time table of 8 hours of work, 6 or 7 days a week, indicates they are deligent and committed to learning when the teaching is tailored to there needs. Socially conscious and critical: the letter is not just a personal complaint but a systematic attack on the social and education system. They are keen observes of class bias and are out spoken in demanding change.
-
-Practical and Direct: the style of the book is described as unique and direct. The authors are focussed on being "useful" And even includes foot notes to explain classical references like Cicesaro or homer, indicating a practical mindset and a desire to make knowledge accessible to their peers.
+Key character traits: 
+- Under privileged and marginalized: their origin in poor, rural farm houses (barbanania being a community of about 20 farm houses) immediately establishes them as coming from a socio-ecnomically disadvantaged background.
+- Angry and frustrated: they express deep anger and frustation - the collective anger of the worker and peasent at an educational system perceived as unfair.
+- Determine and hardworking: the fact that they attended they rigorous school run by Don Milani, which demanded a full time table of 8 hours of work, 6 or 7 days a week, indicates they are deligent and committed to learning when the teaching is tailored to there needs.
+- Socially conscious and critical: the letter is not just a personal complaint but a systematic attack on the social and education system. They are keen observes of class bias and are out spoken in demanding change.
+- Practical and Direct: the style of the book is described as unique and direct. The authors are focussed on being "useful" And even includes foot notes to explain classical references like Cicesaro or homer, indicating a practical mindset and a desire to make knowledge accessible to their peers.
 
 # Q3. What, according to the authors, are the shortcomings of school education?
 **Ans** According to the authors, the major shortcomings of the school system are:
@@ -103,20 +96,12 @@ Ans: The traditional school system was not built for the poor but rather for the
  It privileged a specific type of cultural knowledge and formal language that the poor did not have.
 As a result, the system filtered out poorer children by labeling them as “not made for books”, forcing them to drop out.
 
-1) Abolish student failure  
-   The most radical and critical reform is the demand to stop failing students.  
-   Since the children who fail are disproportionately from working-class and peasant families, the grading and selection system is viewed as a mechanism for excluding the poor and maintaining the class privilege.
-
-2) Implement full-time extended schooling  
-   To counter the disadvantages faced by poor students who lack cultural support and tutoring at home, the letter advocates for full-time schooling with long hours, including weekends and holidays.  
-   The Barbiana model itself operated for 12 hours a day, 365 days a year, effectively closing the gap between the privileged and the poor.
-
-3) Language mastery as empowerment  
-   A central reform is the intense focus on teaching students to master the dominant language (Italian).  
-   The authors argue that the poor are marginalized because they lack the linguistic tools to articulate their concerns and participate in political life.
-
-4) Curriculum relevance and critical thinking  
-   Curriculum must be drastically reformed to be relevant to the students’ lives and foster critical thinking and social awareness.
+1. Abolish student failure The most radical and critical reform is the demand to stop failing students. Since the children who fail are disproportionately from working-class and peasant families, the grading and selection system is viewed as a mechanism for excluding the poor and maintaining the class privilege.
+2. Implement full-time extended schooling To counter the disadvantages faced by poor students who lack cultural support and tutoring at home, the letter advocates for full-time schooling with long hours, including weekends and holidays. The Barbiana model itself operated for 12 hours a day, 365 days a year, effectively closing the gap between the privileged and the poor.
+3. Language mastery as empowerment A central reform is the intense focus on teaching students to master the dominant language (Italian). The authors argue that the poor are marginalized because they lack the linguistic tools to articulate their concerns and participate in political life.
+4. Curriculum relevance and critical thinking Curriculum must be drastically reformed to be relevant to the students’ lives and foster critical thinking and social awareness.
 
 The Barbiana students fundamentally proposed a school system that prioritizes equity over selection, and gives equality in time and resources to those who start with the least.
 
+
+----------------------------------------
