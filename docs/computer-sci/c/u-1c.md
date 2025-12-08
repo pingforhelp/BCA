@@ -33,7 +33,7 @@ C became popular because it:
 > **Place:** Bell Laboratories (A&T)
 > **Purpose:** To develop the UNIX OS
 > **Derived from:** B & BCPL
-> **Known as:** *Mother of all modern programming languages*
+> **Known as:** ==Mother of all modern programming languages==
 
 # Purpose of Flowcharts
 1. To understand the logic of a program easily
