@@ -343,10 +343,10 @@ Data types define:
 | Keyword     | Definition                           | Example                               |
 | ----------- | ------------------------------------ | ------------------------------------- |
 | **typedef** | Gives a new name to an existing type | `c typedef int num; `                 |
-| **enum**    | Defines a set of named constants     | `c enum day { Mon, Tue, Wed, ... }; ` |
+| **enum**    | Defines a set of named constants     | `c enum day { Mon, Tue, Wed }; ` |
 |             |                                      |                                       |
 
-**Data Type Modifiers** Used to **change the size or range** of basic data types.
+**Data Type Modifiers** Used to **change the size or range** of basic data types:
 
 | Modifier     | Used With   | Example            |
 | ------------ | ----------- | ------------------ |
@@ -441,7 +441,7 @@ int main()
 > [!NOTE]
 > Everything that happens in a C program runs inside the `{}` of the **main()** function.
 
-# Subprograms (User-Defined Functions)
+**Subprograms (User-Defined Functions)**
 * These are functions created by the **programmer** to perform specific tasks.
 * They make programs **modular** and **easier to reuse**.
 
