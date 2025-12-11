@@ -111,7 +111,7 @@ systems, the historical evolution of computers, and identify key components in a
 hexadecimal) and illustrating the timeline of computer generations with key innovations.
 -----
 
-## COURSE 1p: COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION [Practical]
+# COURSE 1p: COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION [Practical]
 
 Practical Credits: 1 2 hrs/week
 
@@ -311,11 +311,14 @@ AI in Experimentation and Multi-disciplinary research, Generative AI introductio
 Hugging Face, Gemini and other tools basics, Perplexity, Prompt engineering Definition and its
 importance, Role of Prompt Engineering in AI/ML Interaction, Emerging trends and Future Directions
 in AI.
+
 ---
+
 Unit 5. Applications of Prompt engineering
 Applications of Prompt Engineering: Education, Business & Commerce, Content Creation: AI for
 Creative Writing,AI for creative design, writing AI scripts for video, generating slides and slidesGPT
 usage, Designing thumbnails and channel branding with AI
+
 ----
 
 Text Books:
@@ -391,8 +394,11 @@ Prompt: “Write a short motivational story for 10-year-old students in under 15
 Prompt: “Create a 5-slide presentation on ‘AI in Smart Farming’.”
 11. YouTube Thumbnails / Branding: Tool: Canva + Magic Media AI
 Design a thumbnail using Canva’s AI tools with a prompt like:
-“Design a YouTube thumbnail for a video titled ‘Top 5 AI Tools for Students’.”
+“Design a YouTube thumbnail for a video titled ‘Top 5 AI Tools for Students’
+
+
 -----------------
+
 > [!CAUTION]
 > This doc doesn't include Com. Skills because IT won't be on the Sem.1 (Dec.) exam. FOR resources/roadmaps please check- readme.md. Have a fun study sesh! Found any misstakes? make a PR request or email me at [tamimtasira@gmail.com](mailto:tamimtasira@gmail.com).
 
