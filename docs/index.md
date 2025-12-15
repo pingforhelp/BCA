@@ -11,11 +11,11 @@
 - [U-01 Intro. to Computer programming](./computer-sci/c/u-1c.md) 
 - [U-2 Control statements](./computer-sci/c/u-2c.md)
 - [U-3 Derived data types in C](./computer-sci/c/u-3c.md)
+- [U-4 Functions and pointers](/computer-sci/c/u-4c.md)
 
 # 🗣️ Communication Skills
 - [Everyday Phrases](./communication-skills/everyday_phrases.md)
 - [Mouth Yoga](./communication-skills/mouth-yoga.md)
-
 
 
 # 📖 English
@@ -48,3 +48,4 @@
 - [U-01 AI and its Subfields](./AI/u-1.md) | [Overview](./AI/Overview#unit-i)
 - [U-02 Applications of AI](./AI/u-2.md) | [Overview](./AI/Overview#unit-ii)
 - [U-03](./AI/u-3.md) | [Overview](./AI/Overview#unit-iii)
+- 
