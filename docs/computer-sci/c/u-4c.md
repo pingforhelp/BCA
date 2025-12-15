@@ -9,7 +9,14 @@ Here:
 - X stores val of 10
 - P stores the address of X. 
 
-# Pointer del
+# Pointer declaration
 it specifies the type of data the pointer will point to. 
 
 syntax:
+``` c
+int some = 67;
+```
+
+
+# Accessing values using pointers
+
