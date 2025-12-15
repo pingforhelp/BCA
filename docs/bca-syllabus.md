@@ -174,13 +174,15 @@ level and high-level programming, Flowcharts and Algorithms.
 ---------
 **Unit 3. Derived data types in C:**
 - Arrays: One Dimensional arrays - Declaration, Initialization and Memory representation; Two
-Dimensional arrays -Declaration, Initialization and Memory representation. Strings: Declaring &
+Dimensional arrays -Declaration, Initialization and Memory representation. 
+- Strings: Declaring &
 Initializing string variables; String handling functions, Character handling functions
 ----
 **Unit 4. Functions:**
 - Pointers: Pointer data type, Pointer declaration, initialization, accessing values using pointers. Pointer arithmetic, Pointers and arrays. Function Prototype, definition and calling. - Return statement. Nesting of functions.
 - Categories of functions. Recursion (Basic Concept only). 
-- Parameter Passing by address & by value. Local and Global variables. Storage classes: automatic, external, static and register.
+- Parameter Passing by address & by value. Local and Global variables. - 
+- Storage classes: automatic, external, static and register.
 -------------------
 **Unit 5. Dynamic Memory Management:**
 - Introduction: Functions-malloc, calloc, realloc, free Structures: Basics of structure, structure members, accessing structure members, nested structures, array of structures, structure and
