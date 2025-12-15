@@ -2,7 +2,7 @@
 
 A pointer is a valuable that stores the address of another valuable. Instead of storing the dircaily it stores the value localed in memory. 
 
-```` c
+``` c
 pointer;
 ```
 Here:
