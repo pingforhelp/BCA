@@ -158,7 +158,7 @@ d. Create a one-variable Data Table to analyze how different expenses affect sav
 - e. Finalize and format for interactivity.
 -----------------------------------------------------------------------
 
-## COURSE 2 : PROBLEM SOLVING USING C
+# COURSE 2 : PROBLEM SOLVING USING C
 
 Theory Credits: 3 3 hrs/week
 
@@ -178,18 +178,21 @@ Dimensional arrays -Declaration, Initialization and Memory representation. Strin
 Initializing string variables; String handling functions, Character handling functions
 ----
 **Unit 4. Functions:**
-- Pointers: Pointer data type, Pointer declaration, initialization, accessing values using pointers. Pointer arithmetic, Pointers and arrays. Function Prototype, definition and calling. Return statement. Nesting of functions. Categories of functions. Recursion (Basic Concept only). Parameter Passing by address & by value. Local and Global variables. Storage classes: automatic, external, static and register.
+- Pointers: Pointer data type, Pointer declaration, initialization, accessing values using pointers. Pointer arithmetic, Pointers and arrays. Function Prototype, definition and calling. - Return statement. Nesting of functions.
+- Categories of functions. Recursion (Basic Concept only). 
+- Parameter Passing by address & by value. Local and Global variables. Storage classes: automatic, external, static and register.
 -------------------
 **Unit 5. Dynamic Memory Management:**
-- Introduction: Functions-malloc, calloc, realloc, free Structures: Basics of structure, structure
-members, accessing structure members, nested structures, array of structures, structure and
+- Introduction: Functions-malloc, calloc, realloc, free Structures: Basics of structure, structure members, accessing structure members, nested structures, array of structures, structure and
 functions, structures and pointers.
 - Unions: Union definition; difference between Structures and
-- Unions. Working with text files - modes: opening, reading, writing and closing .txt files.
+- Unions. 
+- Working with text filesmodes: opening, reading, writing and closing `.txt` files.
 ----
 Text Books:
 1. Programming in ANSI C, E. Balagurusamy, Tata McGraw Hill, 6 th Edn,
 2. Computer fundamentals and programming in C, Reema Theraja, Oxford University Press.
+
 Reference Books:
 1. Let us C, Y Kanetkar, BPB publications
 2. Head First C: A Brain-Friendly Guide, David Griffiths, Dawn Griffiths
@@ -201,7 +204,7 @@ programs.
 (procedural, structured, object-oriented). Then, they write a structured C program (e.g., a
 calculator or student grade system) using proper syntax, indentation, and modular design.
 
-## COURSE 2p: PROBLEM SOLVING USING C [Practical]
+# COURSE 2p: PROBLEM SOLVING USING C [Practical]
 
 Practical Credits: 1 2 hrs/week
 
@@ -400,6 +403,6 @@ Design a thumbnail using Canva’s AI tools with a prompt like:
 -----------------
 
 > [!CAUTION]
-> This doc doesn't include Com. Skills because IT won't be on the Sem.1 (Dec.) exam. FOR resources/roadmaps please check- readme.md. Have a fun study sesh! Found any misstakes? make a PR request or email me at [tamimtasira@gmail.com](mailto:tamimtasira@gmail.com).
+> This doc doesn't include Com. Skills because IT won't be on the Sem.1 (Dec.) exam. FOR resources/roadmaps please check- readme.md. Have a fun study sesh! Found any misstakes? make a PR request or email me at [tamimtasira@duck.com](mailto:tamimtasira@duck.com)
 
 
