@@ -10,6 +10,28 @@ Demonstration of Assembling and Disaembling of Computer Systems.
 1. Identify and prepare notes on the type of Network topology of your institution. (Ring, Bus, Star, tree all in the notes.)
 2. Prepare your resume in Word.
 
+
+Top:
+- Name
+- email 
+- phone no
+
+Left: (table)
+Education 
+
+
+Name of School or exam year of passing and grade.
+
+Technical skills:
+
+Core:
+
+Pro: 
+
+Soft skills:
+
+Intership:
+
 Personal info:
 
 Father’s name
