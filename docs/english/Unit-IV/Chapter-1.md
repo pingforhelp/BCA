@@ -1,13 +1,11 @@
-The Night of the Scorpion
-
-# About the Poet:
+# The Night of the Scorpion
+# About the Poet
 Nissim Ezekiel (1924-2004) was Jewish-Indian famous poet, playwright, editor & critic who wrote in English. He is often called the "Father of modern Indian English poetry". He got the "Sahithya Academy Cultural Award" in 1983 & Padmashri Award in 1988. The poem "Night of the Scorpion" presents an Indian village and its Superstitions, Simplicity with the poet's own childhood experiences. Some of his well known poems are Enterprise, Poet, Lover - Birdwatcher.
 
 # Q1. Why does the Poet call the tail "diabolic"?
 Ans: In Nissim Ezekiel's Poem "Night of the Scorpion" 
 - the poet calls the scorpion's tail "diabolic" because it is the part of the insect that carries the deadly sting
-- the word "diabolic" means devilish, cruel or evil. By using is word, the poet ==highlights the dangerous and hurtful nature of the Scorpion's tail, which injected venom== into the mother's foot.  poison into his mother's body, does the tail is described as diabolic to show its association with suffering, danger and evil
-- ust like something connected with the devil. devil
+- the word "diabolic" means devilish, cruel or evil. By using is word, the poet ==highlights the dangerous and hurtful nature of the Scorpion's tail, which injected venom== into the mother's foot. poison into his mother's body, does the tail is described as diabolic to show its association with suffering, danger and evil ust like something connected with the devil. devil
 
 # Q2. Why does the poet refer to the Scorpion as the evil one?
 Ans: The poet refers to the Scorpion as “the evil one” because the Scorpion brought pain and suffering into his home by stinging his mother. In many cultures and traditions, Scorpions are seen as symbols of danger, poison & evil forces, since their sting causes int intense agony and can even be fatlle by calling it “the evil one”, the poet is not only describing the creatures harmful nature but also reflecting the villagers belief that the Scorpion was an agent of evil are misfortune does, the phrase shows both the physical danger of the Scorpion & the superstitious outlook of the villages who 
@@ -25,9 +23,10 @@ They said that the mother's suffering was the result of her past sins so that th
 
 # Q6. Why did the peasants find out the scorpion?
 Ans: The peasants tried to find out the scorpion because they believed that if the insect kept moving, the poison in the mother's body would also keep spreading according to their superstition. Only if this scorpion was caught and made to stay still would the poison in her blood stop moving. That is why they searched for it with candles and lanterns, hoping 
+
 Control mother's suffering. This shows how strongly the villagers depended on traditional beliefs and superstitions to explain the cause of pain.
 
-## List: The prayers that the peasants made for the mother?
+# List: The prayers that the peasants made for the mother?
 
 1. Peasants surrounded the poet's mother and prayed with deep faith. Their prayers reflected their superstitious beliefs:
     * They prayed that the poison might purify her flesh of the sins of her past life.
@@ -90,9 +89,3 @@ After hours of pain and suffering the poison finally looses its grip and mother 
 These activities - The scorpion’s entry, The peasant’s prayers & rituals, the father’s scientific experiments and the mother’s quite endurance - Together create a vivid picture of the event. 
 
 They show the clash between superstition and rationalism while finally highlighting the pure, selfless love of a mother. 
-
----
-
-$$ \text{Love} = \text{Selflessness} $$
----
-
