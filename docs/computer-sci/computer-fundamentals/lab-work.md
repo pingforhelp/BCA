@@ -9,4 +9,27 @@ Demonstration of Assembling and Disaembling of Computer Systems.
 -----
 
 
-3 
+3. Personal info:
+
+Father’s name
+
+DOB
+
+known Language(s).
+
+ Hobbies:
+
+Address for communication:
+
+I hereby certify that the information given above to the best of my knowledge.
+
+Right side:
+
+Date 
+
+Template: https://share.google/MuBthVxaqHLNibmqL
+
+-----
+
+4 Using Word, write a letter to your higher official seeking 10 days leave.
+
