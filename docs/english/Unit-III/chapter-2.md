@@ -1,42 +1,34 @@
 # How Dare You
 # About the Speaker: Greta Thunberg
-Greta Thunberg is a swedish climate activist, born in 2003. She began the “Friday’s for Future” movement to demand urgent action against climate change. Her bold speech “How Dare You” at the U.N in 2019 made her a global youth leader. She has inspired millions world wide she has received several international honors, including being nominated for the Nobel Peace prize, & was named “Times Person of the Year” in 2019. Greta represents the power of youth, truth & courage in bringing change to the world.
+Greta Thunberg is a swedish ==climate activist==, born in 2003. She began the 
+> “Friday’s for Future” movement to demand urgent action against climate change. Her bold speech ++“How Dare You”++ at the U.N in 2019 made her a global youth leader. She has inspired millions world wide she has received several international honors, including being nominated for the Nobel Peace prize, & was named “Times Person of the Year” in 2019. Greta represents the power of youth, truth & courage in bringing change to the world.
 
-you were a leader listening to Greta’s speech - What would you feel, & What steps would you take?
+# If you were a leader listening to Greta’s speech - What would you feel, & What steps would you take?
 # If I were a leader - Listening to Greta Thunberg's speech
 
-If I were a leader, I would feel a mix of a shock, guilt and urgency. Her words would make me realize how much young peoples future is at stake because of inaction and empty promises. I would feel personally responsible for the damage caused to the environment and the lives it threatens.
+Ans: If I were a leader, I would feel a mix of a shock, guilt and urgency. Her words would make me realize how much young peoples future is at stake because of inaction and empty promises. I would feel personally responsible for the damage caused to the environment and the lives it threatens.
 
 As a leader, I would want to take an immediate and concrete steps to fight climate change. These could include:
-
-* Reducing Carbon emissions by Promoting renewable energy and cleaner technologies
-* Protecting forest’s, oceans and wild life to maintain biodiversity.
-* Introducing stricter laws and policies against environmental destruction.
-# Investing in Climate Education to Create Awareness
-
-Investing in climate education to create awareness among citizens and working with other nations to address climate globally not locally. 
+- Reducing Carbon emissions by Promoting renewable energy and cleaner technologies
+- Protecting forest’s, ocans and wild life to maintain biodiversity.
+- Introducing stricter laws and policies against environmental destruction.
+- Investing in Climate Education to Create Awareness citizens and working with other nations to address climate globally not locally. 
 
 Listening to Greta would inspire me to act with honesty, responsibility & urgency ensuring that young people inherit safer healthier and sustainable world.
 
-## 2) Do you agree with Greta that young people should demand actions from leaders? Why or why not?
-
-### A) Yes, I agree with Greta Thunberg that young people should demand from leaders. 
+# Do you agree with Greta that young people should demand actions from leaders? Why or why not?
+Ans: Yes, I agree with Greta Thunberg that young people should demand from leaders. 
 
 The younger generation will face the climate change more than anyone else. So it is there right and responsibility to raise their voices by demanding 
 Would allow continued in action worsening the environmental crises and stealing the feature from those who are most effected.
 
 # What sacrifices should individual make to protect the environment?
-
-a) To protect the environment individuals need to make conscious and responsible sacrifices in their daily lifes. These includes:
-
-*   Reduce energy Consumption :- Using electricity wisely switching to renewable sources & minimizing wastage.
-*   Limiting use of Plastic :- Avoiding single use plastics and opting for eco-friendly alternatives
+Ans: To protect the environment individuals need to make conscious and responsible sacrifices in their daily lifes. These includes:
+- Reduce energy Consumption: using electricity wisely switching to renewable sources & minimizing wastage.
+- Limiting use of Plastic:Avoiding single use plastics and opting for eco-friendly alternatives
 *   Using Public transport (or) Eco-friendly vehicles :- Reducing Carbon emissions from personal vehicles.
-*   Conserving water and resources :- Avoiding waste.
+- Conserving water and resources :- Avoiding waste.
 
-$$
-\text{Example: } \frac{d}{dx} x^2 = 2x
-$$
 # Adopting Sustainable Lifestyle Choices
 * Eating less meat
 * Recycling
@@ -45,21 +37,20 @@ $$
 These sacrifices may require giving up convenience & extra comfort, but they are necessary to ensure a safe healthy & sustainable planet for present & future generations.
 
 # 4) How does economic growth conflict with environmental protection? Can both be balanced?
+Ans: Economic growth often focuses on industrialisation, mass production & increased consumption which can harm the environment. Activities like deforestation, mining, factory emissions & over use of resources boost the economy but lead to pollution, climate change & loss of biodiversity. In this way short-term profits often come at the cost of long-term environmental health.
 
-## A) 
-Economic growth often focuses on industrialisation, mass production & increased consumption which can harm the environment. Activities like deforestation, mining, factory emissions & over use of resources boost the economy but lead to pollution, climate change & loss of biodiversity. In this way short-term profits often come at the cost of long-term environmental health.
+* Balancing Both - It is possible to balance economic growth with environmental protection.
 
-# * Balancing Both - It is possible to balance economic growth with environmental protection.
-# Sustainability
+Sustainability
 
-*   Using renewable energy instead of fossil fuels
+- Using renewable energy instead of fossil fuels
 *   Promoting green technologies & eco-friendly industries
 *   Implementing strict environmental laws along side Economic Policies
 *   Encouraging responsible Consumption and Circular economy practices.
 
 By integrating sustainability into development nations can grow economically without destroying the planet ensuring resources & a healthy environment for future generations!
 
-## If you were in Greta’s place, What message would you give to world leaders?
+# If you were in Greta’s place, What message would you give to world leaders?
 
 If I were in Greta Thunberg’s place I would tell world leaders to stop ignoring the climate crises and take immediate, honest action. I would remain firm that young people’s future is at stake & that delaying action will lead to irreversible damage.
 
@@ -78,16 +69,3 @@ My message would be clear: The time to act is now. Your promises are not enough 
 ## Disc awareness and demand real change her. 
 Courage, clarity, and moral urgency made her a symbol of youth activism and hope for the planet.
 
----
-
-(illegible handwritten text - appears to be notes in another language)
-
----
-
-(illegible handwritten text - appears to be notes in another language)
-
-$$
-\text{Some equation or formula}
-$$
-
-(illegible handwritten text - appears to be notes in another language)
