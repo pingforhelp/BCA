@@ -88,15 +88,15 @@ MS office is a complete package it includes number of Application software like 
 Office automation means Computers, telecom and software tools to handle office tasks. 
 
 It helps to:
-- Improve com between people.
-- Reports and letters 
-- storing files.
-- sending emails
-- printing.
+- Improve com
 
 
 
-# Keyword Shortcuts 
+
+
+
+
+# Keyword Shortcuts
 
 | S. No. | Shortcuts              | Function                                          |
 |--------|-------------------------|--------------------------------------------------|
@@ -110,18 +110,18 @@ It helps to:
 | 8      | End                    | Jumps to the end of the line.                     |
 | 9      | Ctrl + C               | Copy.                                             |
 | 10     | Ctrl + V               | Paste.                                            |
-| 11     | Ctrl + W               | Close.                                            |
+| 11     | Ctrl + W               | Close document.                                   |
 | 12     | Ctrl + Z               | Undo.                                             |
 | 13     | Ctrl + Y               | Redo.                                             |
 | 14     | Ctrl + S               | Saves the document.                               |
-| 15     | F12                    | Save As (.pdf, .html, etc.).                      |
+| 15     | F12                    | Save As.                                          |
 | 16     | Ctrl + N               | Opens a new document.                             |
-| 17     | Ctrl + O               | Opens a document.                                 |
+| 17     | Ctrl + O               | Opens an existing document.                       |
 | 18     | Ctrl + P               | Prints the document.                              |
 | 19     | Alt                    | Shows access keys.                                |
 | 20     | Ctrl + F               | Find / Search.                                    |
 | 21     | Ctrl + R               | Replace.                                          |
-| 22     | Alt + Tab / Win + Tab  | Switch apps.                                      |
+| 22     | Alt + Tab / Win + Tab  | Switch applications.                              |
 | 23     | Shift + ←              | Select a character to the left.                   |
 | 24     | Shift + →              | Select a character to the right.                  |
 | 25     | Ctrl + Shift + ←       | Select a word to the left.                        |
@@ -130,12 +130,33 @@ It helps to:
 | 28     | Shift + Home           | Select from cursor to start of line.              |
 | 29     | Ctrl + B               | Bold.                                             |
 | 30     | Ctrl + U               | Underline.                                        |
-| 31     | Ctrl + Shift + W       | Underline words only (not spaces).                |
+| 31     | Ctrl + Shift + W       | Underline words only.                             |
 | 32     | Ctrl + Shift + D       | Double underline.                                 |
 | 33     | Ctrl + I               | Italic.                                           |
-| 34     | Ctrl + Shift + <       | Decrease the font size.                           |
-| 35     | Ctrl + Shift + >       | Increase the font size.                           |
-| 36     | Ctrl + G               | Go to a page, bookmark, footnote, table, etc.     |
-| 37     | Ctrl + Page Up         | Goes up one page.                                 |
-| 38     | Ctrl + Page Down       | Goes down one page.                               |
-
+| 34     | Ctrl + Shift + <       | Decrease font size.                               |
+| 35     | Ctrl + Shift + >       | Increase font size.                               |
+| 36     | Ctrl + G               | Go To (page, section, etc.).                      |
+| 37     | Ctrl + Page Up         | Go up one page.                                   |
+| 38     | Ctrl + Page Down       | Go down one page.                                 |
+| 39     | Ctrl + A               | Select all contents of the document.              |
+| 40     | Ctrl + D               | Open Font dialog box.                             |
+| 41     | Ctrl + E               | Align text to center.                             |
+| 42     | Ctrl + H               | Open Replace dialog box.                          |
+| 43     | Ctrl + J               | Justify alignment.                                |
+| 44     | Ctrl + K               | Insert hyperlink.                                 |
+| 45     | Ctrl + L               | Align text to left.                               |
+| 46     | Ctrl + M               | Indent the paragraph.                             |
+| 47     | Ctrl + Q               | Remove paragraph formatting.                     |
+| 48     | Ctrl + T               | Create hanging indent.                            |
+| 49     | Ctrl + X               | Cut selected text.                                |
+| 50     | Ctrl + Space           | Reset text to default font.                       |
+| 51     | Ctrl + 1               | Single line spacing.                              |
+| 52     | Ctrl + 2               | Double line spacing.                              |
+| 53     | Ctrl + 5               | 1.5 line spacing.                                 |
+| 54     | Ctrl + Backspace       | Delete word to the left of cursor.                |
+| 55     | Ctrl + Delete          | Delete word to the right of cursor.               |
+| 56     | F1                     | Open Help.                                        |
+| 57     | F5                     | Open Find, Replace, and Go To.                    |
+| 58     | F7                     | Spell check and grammar check.                    |
+| 59     | Shift + Alt + D        | Insert current date.                              |
+| 60     | Shift + Alt + T        | Insert current time.                              |
