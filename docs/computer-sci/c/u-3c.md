@@ -1,6 +1,6 @@
 
 # Unit-3 Derived Data Types in C
-- Arrays: One Dimensional arrays - Declaration, Initialization and Memory representation; Two Dimensional arrays -Declaration, Initialization and Memory representation.
+- Arrays: One Dimensional arrays Declaration, Initialization and Memory representation; Two Dimensional arrays -Declaration, Initialization and Memory representation.
 - Strings: Declaring & Initializing string variables; String handling functions, Character handling functions.
 
 # Array
