@@ -16,7 +16,7 @@ a[5] = {15, 20, 25, 30, 35}
 ``` c
 a[0] = 15, a[1] = 20, … a[4] = 35
 ```
-# Types of Arrays
+Types of Arrays
 1) One dimensional Array  
 2) Two dimensional Array  
 3) Multi dimensional Array  
@@ -27,7 +27,7 @@ a[0] = 15, a[1] = 20, … a[4] = 35
 
 # One Dimensional
 
-Declaration of Arrays
+# Declaration of Arrays
 C provides two different types of arrays based on their size.
 
 1. Fixed length array In fixed length array the size of the array is known when the program is written. An array should be declared before using it in our program.
@@ -48,13 +48,13 @@ scanf("%d", &n);
 int a[n];     => a[30];
 ```
 
-# Storing Values in Array
+Storing Values in Array
 In the declaration we just allocated space for the elements on those locations are empty. To store values in the array we have to follow either of the below ways.
 - Initialization  
 - Inputting values  
 - Assigning values  
 
-# Initialization of Arrays
+# Initialization of One Dimensional Arrays
 After declaring array it should be initialized with some values. Initialization of Array can be done in two ways.
 
 1) Compile time initialization In this we can assign values to array directly in the program using following syntax.
@@ -365,13 +365,12 @@ Example
 
 A string in C is a 1D array of characters that ends with a null character (`'\0'`).
 
-### Example
-
+Example
 ```
 VINAY\0
 ```
 
-### Declaring String Variables
+# Declaring String Variables
 
 ```
 char string_name[size];
@@ -441,10 +440,10 @@ Enter your name: Vinay
 #include <string.h>
 ```
 
-# `strlen()` – Length of String
+`strlen()` – Length of String
 Finds number of characters before null character (`'\0'`).
 
-# `strcat()` – Join Two Strings
+`strcat()` – Join Two Strings
 Appends source string to the end of destination string.
 
 ```c
@@ -467,13 +466,14 @@ Output:
 ``` bash
 HelloWorld
 ```
-# `strcpy()` – Copy One String to Another
+
+`strcpy()` – Copy One String to Another
 Copies the content of source string into destination string including null character (`'\0'`).
 
 String Comparison and Manipulation Functions in C
 
 
-# `strcmp()` – Compare Two Strings
+`strcmp()` – Compare Two Strings
 `strcmp()` compares two strings **character by character**.
 Return Values
 1. `0`  → Strings are equal  
@@ -506,10 +506,9 @@ int main()
     return 0;
 }
 ````
-# `strrev()` – Reverse a String
+
+`strrev()` – Reverse a String
 This function reverses a string. The first character becomes the last, the second becomes the second last, and so on.
-> [!IMPORTANT]
-> `strrev()` is **not part of standard C**, but works in some compilers (like Turbo C SO FUN WITH THAT WHILE I CHILL ON "MODEL IDE").
 
 Example Program
 ```c
@@ -533,10 +532,9 @@ Output:
 Input : 12345
 Output: 54321
 ```
-# `strupr()` – Convert String to Uppercase
+
+`strupr()` – Convert String to Uppercase
 This function converts all characters of a string into **uppercase letters**.
-> [!IMPORTANT]
-> ⚠️ `strupr()` is **not part of standard C**, but works in some compilers (like Turbo C SO FUN WITH THAT WHILE I CHILL ON "MODEL IDE").
 
 Example Program
 ```c
@@ -555,10 +553,9 @@ int main()
     return 0;
 }
 ```
-# `strlwr()` – Convert String to Lowercase
+
+`strlwr()` – Convert String to Lowercase
 This function converts all characters of a string into **lowercase letters**.
-> [!IMPORTANT] 
->  `strlwr()` is **non-standard** and may not work on all compilers.
 
 Example Program
 ```c
@@ -576,4 +573,12 @@ int main()
 
     return 0;
 }
+```
+
+Output: 
+``` bash
+Enter string:
+Test1 test2
+Lowercase string is:
+test1 test2
 ```
