@@ -54,16 +54,11 @@ However, the poem then contrasts these things with what is considered "sweeter".
 
 This contrast highlights the Fishermen’s preference for the exiting & adventurous life at sea over the comfortable pleasures of life on land.
 
-
-
 # Q2. How ever, the poem then conman this things with what is considered sweeter - the following things considered the sweeter.
 Ans:
 - The kiss of the spray (The feel of the sea spray on the face).
 - The dancer of the wild foam glow (The joyful moments of the wild foam on the waves).
 - This con-chart highlights the fisherman's preference for the exciting & adventure life at sea over the comfortable pleasures of life on land.
-
-
-
 
 # Q3. How does Sarojini Naidu describe a day in the lives of the Fishermen?  
 Ans: In the poem "the Coramandel Fisher's" she describes the beauty of nature & the folk culture of the Coramandel Coast of India. It depicts the relationship of fishermen with nature. Nature stands as a symbol of beauty that expresses the optimistic view of life. The fishermen of Coramandel Coast rise at dawn to the Call of their leader. They gather their fishing nets from the shore, set their fishing boats free, and sail away to capture the fish they follow the Call of the Seagull Sea-gull where they can get plenty of fish. They face the storms and rising fights bravely they find pleasure in rowing to the werge of the sea where is-
@@ -77,7 +72,6 @@ The fisherman's attitude toward the sea:
 
 # Q5. Which lines of the Poem inspire courage and confidence in the fisher men? explain.
 Ans: The Poem "**Coromandel fisher's**" by *Sarojini Naidu* inspire corog and confidence in the fisher men through It's visit protrayel of their daily lives and there relationship with the sea:
-
 - a) "lines inspireing courage and confidence": "Rise, brother, rise the wakening skies Prayer to the morning lights" In the opening line acts as a Powerfull call to action, urging that the fishermen to start their day with a sence of purpose and divience blessing.
 - b) The sea is our mother, The cloud is our brother, The coaves are commrades all: - This line is central to the Poem's team of courage by personifying, nature in the family. The fishermen are shown to have a deep, intimate and trusting relationship with the sea. The sea isn't an emeny but a nurturing mother," and the woves aren't treads but commrades.
 - c) what "Taough we task at the fall of the sun, where the tread of the sea":- This line show cases their bravery and residience A knowlege's the interint danger's of their Profestion while stmultaneously, dismissing then as trivial.
@@ -98,11 +92,4 @@ The Poem "**Coromandel fisher's**" by *Sarojini Naidu*, has a consistent "AABB" 
 [light, night - free, sea - call, au, - drives lines - groove, love - glee, sea]................
 
 The rise of this rhyme scheme gives the Poem alyrical song- like quality that is easy to read and remembers rein forming is thences of Unity, a shared Porlose & the  fishermen's connection to the nature.
-
-
-Last updated on **xx:xx, xx-xx-2025**
-
-
-
-[Next](https://tamims.space/)
 
