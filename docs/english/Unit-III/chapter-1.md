@@ -1,4 +1,4 @@
-# Where the mind is without fear
+# Where the mind is without fear *by Rabindranath Tagore*
 
 # Poem
 Where the mind is without fear and the head is held high;  
@@ -10,17 +10,13 @@ Where the clear stream of reason has not lost its way into the dreary desert san
 Where the mind is led forward by thee into ever-widening thought and action;  
 Into that heaven of freedom, my Father, let my country awake.  
 
-
-
 # About the Poet
 Where the Mind is Without Fear is a thought-provoking poem by Rabindranath Tagore, an Indian writer. He was born on ++7th May 1861 and died on 7th August 1941.++ Tagore was a poet, philosopher, novelist, playwright, painter, and educationist, often described as the ==“Gurudev of India.”== It is one of the best poems in the anthology Gitanjali, which was published in 1912 and ==won the prestigious Nobel Prize for Literature in 1913==. *Where the Mind is Without Fear* is the 35th poem in Gitanjali. In ==1901, he founded a school at Santiniketan, which later grew into Visva-Bharati University==. Beyond literature and education, he composed over ++2000++ songs, including: Jana Gana Mana the National Anthem of India and Amar Sonar (Bangla) the National Anthem of Bangladesh.
 
 # Q&A
 
 # Q1. What does Tagore mean by “the mind is without fear and the head is held high”? Do you think freedom from fear is essential for progress? Why or why not?
-**Ans**: Rabindranath Tagore’s line “the mind is without fear and the head is held high” conveys his vision of an ideal nation.
-Meaning. “The mind is without fear” — People should live without fear, oppression, discrimination, ignorance, or restrictions.
-“The head is held high” — Symbolizes dignity, self-respect, and equality. Every individual should feel valued, not bowed down by poverty, inequality, or suppression. Is freedom from fear essential for progress?
+**Ans**: Rabindranath Tagore’s line “the mind is without fear and the head is held high” conveys his vision of an ideal nation. Meaning. “The mind is without fear” — People should live without fear, oppression, discrimination, ignorance, or restrictions. “The head is held high” — Symbolizes dignity, self-respect, and equality. Every individual should feel valued, not bowed down by poverty, inequality, or suppression. Is freedom from fear essential for progress?
 Yes. Freedom from fear is essential for genuine progress because: It encourages creativity and innovation — people dare to think differently. It promotes equality — a fearless society ensures that everyone, regardless of background, can speak up and participate. It strengthens democracy — citizens can question authority and demand justice without fear. It builds confidence — individuals with dignity can work towards personal and national growth. Without freedom from fear, progress may be only material or outward, but not true progress of the mind and spirit.
 
 -------
