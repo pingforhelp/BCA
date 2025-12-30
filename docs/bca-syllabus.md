@@ -102,7 +102,7 @@ References:
 1. Excel 2021 Bible by Michael Alexander, Richard Kusleika – Wiley
 2. Networking All-in-One For Dummies by Doug Lowe – Wiley
 3. Microsoft Official Docs and Training: [https://learn.microsoft.com](https://learn.microsoft.com/)
-4. Google Workspace Learning Center: [https://support.google.com/a/users/](https://support.google.com/a/users/)
+4. Google Workspace Learning Center: [https://support.google.com](https://support.google.com/a/users/)
 
 Activities:
 - Outcome: At the End of the Course, The Students will be able to explain different number
@@ -187,8 +187,7 @@ Initializing string variables; String handling functions, Character handling fun
 **Unit 5. Dynamic Memory Management:**
 - Introduction: Functions-malloc, calloc, realloc, free Structures: Basics of structure, structure members, accessing structure members, nested structures, array of structures, structure and
 functions, structures and pointers.
-- Unions: Union definition; difference between Structures and
-- Unions. 
+- Unions: Union definition; difference between Structures and Unions. 
 - Working with text filesmodes: opening, reading, writing and closing `.txt` files.
 ----
 Text Books:
