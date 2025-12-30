@@ -42,11 +42,10 @@
 #  AI
 - [U-01 AI and its Subfields](./AI/u-1.md) | [Overview](./AI/Overview#unit-i)
 - [U-02 Applications of AI](./AI/u-2.md) | [Overview](./AI/Overview#unit-ii)
-- [U-03](./AI/u-3.md) | [Overview](./AI/Overview#unit-iii)
-- [U-4](./AI/u-4.md)  | [Overview](./AI/Overview)
-- [U-4](./AI/u-5.md)  | [Overview](./AI/Overview)
+- [U-03 Bias and Fairness in AI Systems](./AI/u-3.md) | [Overview](./AI/Overview#unit-iii)
+- [U-04 ](./AI/u-4.md)  | [Overview](./AI/Overview)
+- [U-05 Applications of Prompt engineering](./AI/u-5.md)  | [Overview](./AI/Overview)
 
  # 🗣️ Communication Skills
 - [Everyday Phrases](./communication-skills/everyday_phrases.md)
 - [Mouth Yoga](./communication-skills/mouth-yoga.md)
-
