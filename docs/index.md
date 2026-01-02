@@ -11,7 +11,8 @@
 - [U-01 Intro. to Computer programming](./computer-sci/c/u-1c.md) 
 - [U-2 Control statements](./computer-sci/c/u-2c.md)
 - [U-3 Derived data types in C](./computer-sci/c/u-3c.md)
-- [U-4 Functions and pointers](/computer-sci/c/u-4c.md)
+- [U-4 Functions and pointers](./computer-sci/c/u-4c.md)
+- [U-5 Dynamic Memory Management](./computer-sci/c/u-5c.md)
 
 # 📖 English
 **Unit-I:**
