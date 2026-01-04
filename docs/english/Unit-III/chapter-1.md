@@ -42,7 +42,7 @@ Every society aspires to remove divisions of class, caste, race, and religion th
 ------
 
 # Q4. What are the “narrow domestic walls”?
-Ans: They refer to divisions created by:
+**Ans:** They refer to divisions created by:
 - Caste
 - Class
 - Religion
@@ -64,5 +64,3 @@ Tagore wants a nation guided by reason, not blind tradition.
 - Access to knowledge
 
 ----------
-
-------
