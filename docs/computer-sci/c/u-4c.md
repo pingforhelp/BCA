@@ -5,7 +5,6 @@
 - Parameter Passing by address & by value. Local and Global variables. -
 - Storage classes: automatic, external, static and register.
 
-
 # Pointers
 A pointer is a variable that stores address of another variable. Instead of storing value directly, It stores ++where the value is located in memory.++
 ex
@@ -18,18 +17,19 @@ Here:
 - x stores value of 10.
 - p stores the address of x.
 
-Pointer Declaration
-pointer declaration specifies the type of data the pointer can point to.
-**Syntax:**
+# Pointer Declaration
+Pointer declaration specifies the type of data the pointer can point to.
+Syntax:
 ``` c
 *pointer_name;
 ```
 **ex:**
  ``` c
 int *p
- char *c
- float *f
- ```
+char *c
+float *f
+```
+
 # Pointer Initialization
 Pointer initialization means assigning the address of variable to pointer.
 **ex:**
@@ -54,8 +54,8 @@ printf("%d", *p);
 printf("%d", *p);
 ```
 # Pointers Arithmetic
-pointer Arithmetic allows pointer to pointer arithmetic move through memory location
-**Operation allowed :-**
+Pointer Arithmetic allows pointer to pointer arithmetic move through memory location
+**Operation allowed:**
 1. Increment
 2. Decrement
 3. Addition (p+n)
@@ -79,7 +79,7 @@ int arr[5] = {10,11,12,20,30};
 int *p = arr;
 ```
 
-# Accessing elements :-
+Accessing elements :-
 -> Array & 2 = 
 
 # Advantages of using pointers :-
