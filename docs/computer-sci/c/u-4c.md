@@ -7,45 +7,39 @@
 
 
 # Pointers And functions
-pointer <sup>o</sup>
-    - A pointer is a variable that stores address of another variable.
-    - Instead of storing value directly, It stores where the value is located in memory.
+A pointer is a variable that stores address of another variable. Instead of storing value directly, It stores ++where the value is located in memory.++
+ex
+ ``` c
+ int x = 10
+ int *p;
+ p = &x;
+ ```
+Here: 
+- x stores value of 10.
+- p stores the address of x.
 
-    **ex:**
-    ```
-    int x = 10
-    int *p;
-    p = &x;
-    ```
-    - Here x stores value of 10
-    - p stores the address of x
-
-* pointer declaration <sup>o</sup>
-    - pointer declaration specifies the type of data the pointer can point to.
-
-    **Syntax**
-    ```
-    *pointer_name;
-    ```
-
-    **ex:**
-    ```
-    int *p
-    char *c
-    float *f
-    ```
-
-pointer initialization<sup>o</sup>
-- pointer initialization means assigning the address of variable to pointer.
-
-**ex:**
+Pointer Declaration
+pointer declaration specifies the type of data the pointer can point to.
+**Syntax:**
+``` c
+*pointer_name;
 ```
+**ex:**
+ ``` c
+int *p
+ char *c
+ float *f
+ ```
+
+# Pointer Initialization
+Pointer initialization means assigning the address of variable to pointer.
+**ex:**
+``` c
 int x = 10
 int *p
 int *p = &x
 ```
-- the address of x gives the address of x
-# now points to X
+- the address of x gives the address of x now points to X
 
 ## accessing values using pointers :-
 -> accessing the values stored at the address using * or *(star) is called **Dereferencing**
