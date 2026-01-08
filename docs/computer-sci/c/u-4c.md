@@ -6,7 +6,7 @@
 - Storage classes: automatic, external, static and register.
 
 
-# Pointers And functions
+# Pointers
 A pointer is a variable that stores address of another variable. Instead of storing value directly, It stores ++where the value is located in memory.++
 ex
  ``` c
@@ -30,7 +30,6 @@ int *p
  char *c
  float *f
  ```
-
 # Pointer Initialization
 Pointer initialization means assigning the address of variable to pointer.
 **ex:**
@@ -39,41 +38,36 @@ int x = 10
 int *p
 int *p = &x
 ```
-- the address of x gives the address of x now points to X
+The address of x gives the address of x now points to X
 
-## accessing values using pointers :-
--> accessing the values stored at the address using * or *(star) is called **Dereferencing**
-
-```
+# Accessing values using pointers
+Accessing the values stored at the address using * or *(star) is called **Dereferencing**
+``` c
 printf("%d", *p);
 ```
+- Address of x
+- *p -> value of x
 
--> p -> Address of x
--> *p -> value of x
-
-## Modifying value using pointer :-
-```
+# Modifying value using pointer :-
+``` c
 *p = 20;
 printf("%d", *p);
 ```
-
-## pointers Arithmetic :-
--> pointer Arithmetic allows pointer to pointer arithmetic move through memory location
-
+# Pointers Arithmetic
+pointer Arithmetic allows pointer to pointer arithmetic move through memory location
 **Operation allowed :-**
-(i) increment
-(ii) Decrement
-(iii) Addition (p+n)
-(iv) Subtraction (p-n)
+1. Increment
+2. Decrement
+3. Addition (p+n)
+4. Subtraction (p-n)
 
-## Difference b/w two arrays :-
-
-```c++
+# Difference b/w two arrays
+```c
 int arr[5] = {5, 10, 15, 20, 30};
 *p = arr;
 printf("%d", *p);
 ```
-# Pointers & Arrays 
+ 
 
 -> relationship :-
   (i) array name acts as pointer to the first element
