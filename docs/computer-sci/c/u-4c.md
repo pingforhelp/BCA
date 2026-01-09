@@ -54,7 +54,7 @@ printf("%d", *p);
 printf("%d", *p);
 ```
 # Pointers Arithmetic
-Pointer Arithmetic allows pointer to pointer arithmetic move through memory location
+PointczMJer Arithmetic allows pointer to pointer arithmetic move through memory location
 **Operation allowed:**
 1. Increment
 2. Decrement
@@ -109,14 +109,15 @@ $$
 $$
 ?
 # Why do we need function prototype?
-A) (i) Compiler knows the function exists
-   (ii) Compiler checks number and type of arguments
-   (iii) Allowing writing a function definition after `main()`
+1. Compiler knows the function exists
+ 2. Compiler checks number and type of arguments
+3. Allowing writing a function definition after `main()`
 
-## Syntax :-
-`return-type function-name (data_type data_type)`
-
-## Ex :-
+Syntax
+``` c
+return-type function-name (data_type data_type)`
+```
+Ex
 ```c
 #include <stdio.h>
 #include <conio.h>
@@ -136,19 +137,19 @@ return int sum(int a, int b)
 }
 ```
 
-## Function definition :-
--> Function definition contains –
-   (i) return type
-   (ii) function name
-   (iii) parameter
-   (iv) actual statement (logic)
+# Function definition :-
+Function definition contains:
+1. Return type
+2. Function name
+3. Parameter
+4. actual statement (logic)
 
 ## Syn :-
 ```c
 
 ```
 ## Ex-
-```cpp
+```c
 int Multiply (int a, int b)
 {
   int result;
@@ -157,8 +158,7 @@ int Multiply (int a, int b)
 }
 ```
 
-## Function Calling 
--> Calling a function means asking the function to execute - How
+# Function Calling Calling a function means asking the function to execute - How
 function calling works internally:
   (i) Main function passes the function
   (ii) Control goes to the function
@@ -166,19 +166,18 @@ function calling works internally:
   (iv) Return value goes back to main function
   (v) Program Continues
 
-## Return Statement
--> (i) Sends a value back to the calling function
--> (ii) Ends function execution (a function)
+Return Statement
+1. Sends a value back to the calling function
+2. Ends function execution (a function)
 
-## IMPORTANT RULES
--> used only in NON-void functions
--> only one value can be returned
--> code after `return` is not executed
+> [!IMPORTANT]
+> Used only in NON-void functions.
+> only one value can be returned
+> code after `return` is not executed.
 
-## Nesting of functions
+# Nesting of functions
 When one function calls another function, 
-functions - allows calling, not defining inside another function.
-# C program
+functions - allows calling, not defining inside another function C program.
 ```c
 #include <stdio.h>
 
@@ -193,38 +192,36 @@ int main() {
 }
 ```
 
-## Categories of functions:
+# Categories of functions:
 1. Library functions
-2. User defined function
-3. Based on return value & arguments
+2. User defined functions
+3. Based on return value & arguments.
 
-### *Library functions:*
-(i) predefined
-(ii) Already available in headerfiles
+1 Library functions:
+Predefined. Already available in headerfiles i.e., `#include <headerfile.h>`
 
-ex: `printf()` -> output
-`scanf()` -> input
-`strlen()` -> 
+> [!example]
+> `printf()` -> output
+> `scanf()` -> input
+> `strlen()` -> 
 `sqrt()` -> 
 
-### *User defined function:*
-(i) created by programmer
-(ii) Improve code readability
-(iii) reusable
-# Work is done inside the function
+2 User defined function:
+- Created by programmer
+Improve code readability.
+- Reusable
+- Work is done inside the function
 
-## Syntax
+Syntax
 
-```
+``` c
 void function_name(void)
 {
   Statements;
 }
 ```
-
-## C++
-
-```c++
+C program 
+```c
 #include <stdio.h>
 void great(void)
 {
@@ -238,14 +235,11 @@ int main()
 }
 ```
 
-## ii) Arguments with return value
-
--> Function does not take any input
--> Function returns an integer value
-
-## C++
-
-```c++
+3 Arguments with return value
+- Function does not take any input.
+-> Function returns an integer value.
+C
+```c
 #include <stdio.h>
 int area(int a, int b)
 {
@@ -262,7 +256,7 @@ int main()
 }
 ```
 
-## Mathematical Equation
+Mathematical Equation
 
 $$area = a + b$$
 # Functions
