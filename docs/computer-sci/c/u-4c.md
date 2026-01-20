@@ -37,3 +37,32 @@ int *p
 p = &x
 ```
 The address of x gives the address of x.
+
+# Accessing values using pointers :-
+Accessing the values stored at the address using `*` (star) is called Dereferencing.
+```c
+printf("%d", *p);
+```
+P → Address of x
+*P → Value of x
+
+# Modifying value using pointer :-
+```c
+*p = 20;
+printf("%d", *p);
+```
+# Pointer Arithmetic
+Pointer Arithmetic allows pointers to perform arithmetic move through memory location.
+
+Operation allowed:
+(i) Increment
+(ii) Decrement
+(iii) Addition (P+n)
+(iv) Subtraction (P-n)
+
+Difference between two arrays
+```c
+int arr[5] = {5, 10, 15, 20, 30};
+*p = arr;
+printf("%d", *p);
+```
