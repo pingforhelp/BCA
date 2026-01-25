@@ -6,14 +6,16 @@ A web-based notes of BCA. Updated in **real-time**. Hosted on Github and Cloudfl
 # Quick Start
 Clone this repo:
 `git clone https://github.com/pingforhelp/BCA/`
+
 Change Path:
 `cd BCA`
-Run and install Dependencies:
+
+Install Dependencies
 ``` bash
 npm install
 npm run build
 ```
-
+Run Locally
 ``` bash
 npm run dev
 
@@ -29,9 +31,8 @@ npm run dev
 # Output
 <img width="1918" height="1079" alt="dws" src="https://github.com/user-attachments/assets/c8134889-814f-42e3-9f83-ad07167a851e" />
 
-
 # Usecases
 - Quick reference
 - Easy while exercising code.
-- 24/7 NO physical notebooks needed
+- 24/7 NO physical notebooks needed just internet.
 
