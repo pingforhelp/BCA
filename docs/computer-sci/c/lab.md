@@ -2,7 +2,7 @@ C PROGRAMS FOR PRACTICALS
 
 # 1 Program to check whether the given number is Armstrong or not
 
-Algorithm / pseudo code
+Algorithm / Pseudo code
 1. Read an integer number num.
 2. Store the number in temp.
 3. Count the number of digits in the number.
@@ -11,8 +11,7 @@ Algorithm / pseudo code
 6. Add the result to sum.
 7. Compare sum with original number.
 8.    If equal, print Armstrong number, 
-         else print Not Armstrong number.
-
+         else print Not Armstrong number
 
 Program
 ``` c  
@@ -192,7 +191,7 @@ Smallest number = 1
 
 # 5. Program to demonstrate Call by Value and Call by Address
 
-Algorithm / pesduo code
+Algorithm / Pesduo code
 1. Define a function swapValue() for Call by Value.
 2. Define a function swapAddress() for Call by Address.
 3. Pass values to swapValue() – values will not change.
