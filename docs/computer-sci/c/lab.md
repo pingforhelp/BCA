@@ -232,8 +232,10 @@ return 0 ;
 
 Output
 ``` bash
-Before swapping: x= 10 y= 20  
-Inside Call by Value: a= 20 b= 10  
-After Call by Value: x= 10 y= 20  
-After Call by Address: x= 20 y= 10
+./call
+Before swapping: x = 10 y = 20
+Inside Call by Value: a = 20 b = 10
+After Call by Value: x = 10 y = 20
+After Call by Address: x = 20 y = 10
+PS C:\Users\tamim\C> +
 ```
