@@ -21,10 +21,10 @@ Security Challenges in Al Systems:
 3. Insecure Data Handling.
 4. Model Theft
 
-Q3. Principles of ethical AI.  
+# Q3. Principles of ethical AI.
+Ans:  
 Q4. What are prompts?  
 Q5. Define the transparency in AI systems. Explain its importance.  
+Principles of ethical, applications, limitations & future directions.  
 
-Long Answers – 10M  
-Q1. Define ChatGPT. Explain its features, working, applications, limitations & future directions.  
-Q2. Explain the applications of AI in experimentation & research.
+# Q2. Explain the applications of AI in experimentation & research.
