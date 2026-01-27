@@ -126,9 +126,11 @@ Algorithm / Pesudo code
 Program
 ``` c
 #include <stdio.h>
-int main() {  
+#include <math.h>
+int main()
+ {  
 
- int n, a = 0 , b = 1 , c, i;
+  int n, a = 0 , b = 1 , c,   i;
 
   printf("Enter number of terms: ");  
   scanf("%d", &n);
@@ -141,10 +143,10 @@ int main() {
    printf("%d ", c);  
    a = b;  
    b = c;  
-        }
+  }
 
-return 0;  
-}
+   return 0;  
+   }
 ```
 Output
 ``` bash
@@ -165,31 +167,35 @@ Program
 ``` c
 #include <stdio.h>
 
-int main() {  
-int a[50], n, i;  
-int largest, smallest;
+int main() 
+{  
+  int a[50], n, i;  
+  int largest, smallest;
 
-printf("Enter number of elements: ");  
-scanf("%d", &n);
+   printf("Enter number of   elements: ");  
+  scanf("%d", &n);
 
-printf("Enter elements:\n");  
-for(i = 0 ; i < n; i++)  
-scanf("%d", &a[i]);
+  printf("Enter elements:\n");  
+  for(i = 0 ; i < n; i++)  
+  scanf("%d", &a[i]);
 
 largest = smallest = a[0];
 
-for(i = 1 ; i < n; i++) {  
-if(a[i] > largest)  
-largest = a[i];  
-if(a[i] < smallest)  
-smallest = a[i];  
+  for(i = 1 ; i < n; i++) 
+{  
+  if(a[i] > largest)  
+  largest = a[i];  
+
+  if(a[i] < smallest)  
+  smallest = a[i];  
 }
 
 printf("Largest number = %d\n", largest);  
 printf("Smallest number = %d", smallest);
 
-return 0 ;  
-}
+  return 0;  
+ 
+  }
 ```
 Output
 ``` bash
@@ -199,7 +205,7 @@ Largest number = 9
 Smallest number = 1
 ```
 
-# 5. Program to demonstrate Call by Value and Call by Address
+# 5 Program to demonstrate Call by Value and Call by Address
 
 Algorithm / Pesduo code
 1. Define a function swapValue() for Call by Value.
@@ -212,32 +218,35 @@ Program
 ``` c
 #include <stdio.h>
 #include <math.h>
-void swapValue(int a, int b) {  
-int temp = a;  
-a = b;  
-b = temp;  
-printf("Inside Call by Value: a=%d b=%d\n", a, b);  
-}
 
-void swapAddress(int *a, int *b) {  
-int temp = *a;  
-*a = *b;  
-*b = temp;  
-}
+void swapValue(int a, int b) 
+{  
+  int temp = a;  
+  a = b;  
+  b = temp;  
+  printf("Inside Call by   Value: a=%d b=%d\n", a, b);  
+ }
 
-int main() {  
-int x = 10 , y = 20 ;
+void swapAddress(int *a, int *b) {
+  
+  int temp = *a;  
+  *a = *b;  
+  *b = temp;  
+ }
 
-printf("Before swapping: x=%d y=%d\n", x, y);
+int main() 
+{  
+  int x = 10 , y = 20;
+  printf("Before swapping: x=%d y=%d\n", x, y);
 
-swapValue(x, y);  
-printf("After Call by Value: x=%d y=%d\n", x, y);
+  swapValue(x, y);  
+  printf("After Call by    Value: x=%d y=%d\n", x, y);
 
-swapAddress(&x, &y);  
-printf("After Call by Address: x=%d y=%d\n", x, y);
+  swapAddress(&x, &y);  
+  printf("After Call by    Address: x=%d y=%d\n", x, y);
 
-return 0 ;  
-}
+  return 0;  
+  }
 ```
 
 Output
@@ -249,7 +258,7 @@ After Call by Value: x = 10 y = 20
 After Call by Address: x = 20 y = 10
 PS C:\Users\tamim\C> +
 ```
-# 6. Program to perform various string operations
+# 6 Program to perform various string operations
 
 Algorithm / Pesudo code
 1. Read two strings.
@@ -280,7 +289,7 @@ int main()
    printf("Concatenated string = %s\n", s1);
 
   return 0; 
- }
+  }
 ```
 Output
 ``` bash
@@ -294,7 +303,7 @@ Concatenated string = HelloHello
 # 7 Program to search an element in a given list of values
 
 Algorithm / Pesduo code
-1. Read number of elements n.
+1. Read number of elements `n`.
 2. Read array elements.
 3. Read element to search.
 4. Compare each element with key.
@@ -304,33 +313,37 @@ Program
 ```c
 #include <stdio.h>
 
-int main() {
-int a[ 50 ], n, i, key, found = 0 ;
+int main()
+ {
+  int a[ 50 ], n, i, key,    found = 0 ;
 
-printf("Enter number of elements: ");
-scanf("%d", &n);
+   printf("Enter number of elements: ");
+   scanf("%d", &n);
 
-printf("Enter elements:\n");
-for(i = 0 ; i < n; i++)
-scanf("%d", &a[i]);
+  printf("Enter elements:\n");
+   for(i = 0 ; i < n; i++)
+   scanf("%d", &a[i]);
 
-printf("Enter element to search: ");
-scanf("%d", &key);
+  printf("Enter element to search: ");
+  scanf("%d", &key);
 
-for(i = 0 ; i < n; i++) {
-if(a[i] == key) {
-found = 1 ;
-break;
-}
-}
+  for(i = 0 ; i < n; i++)
+{
+  if(a[i] == key) {
+  found = 1 ;
+  break;
+  }
+   
+  }
 
-if(found)
-printf("Element found at position %d", i + 1 );
+ if(found)
+ printf("Element found at position %d", i + 1 );
 else
-printf("Element not found");
+  printf("Element not found");
 
-return 0 ;
-}
+   return 0;
+
+  }
 ```
 
 Output
