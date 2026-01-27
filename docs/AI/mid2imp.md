@@ -1,5 +1,5 @@
 Mid-2 (AI) – Imp Questions  
-Unit: 3, 4, 5  
+Unit: 3, 4, 5.  
 
 Short Answers – Each 5M 
 
@@ -23,7 +23,17 @@ Security Challenges in Al Systems:
 4. Model Theft
 
 # Q3. Principles of ethical AI.
-Ans:  
+Ans:  Ethical Principles:
+
+Fairness and Non-Discrimination: AI systems must avoid biases that lead to unfair treatment across race, gender, and socioeconomic groups. Ensuring fairness allows diversified datasets and diverse training data to contribute to accurate results and decisions.
+
+Accountability and Responsibility: Citizens and stakeholders bear Responsibility and outcomes by Measuing the AI behaviours. This avoids impact assessment into the system accountability.
+
+Transparency and Explainability: AI models should provide transparency, explaining key decisions, accessing the values through Explainability will help users, empowers developers in avoiding the harmful biases in models.
+
+Privacy and Data Protection: Respecting personal data collection, storage, and sharing practices are critical to avoid misuse. AI developers should adopt privacy-preserving techniques and regulatory guidelines for data usage and privacy.
+
+Human Agency and Oversight: Human control over AI decisions should be maintained. Humans need appropriate intervention rights, especially in high-risk domains, upholding dignity and preventing unchecked autonomous decision-making.
 # Q4. What are prompts?
 Ans: An AI prompt is a question, command or statement that a person gives to a model, such as a LLM, to guide it in generating a specific response or output.
   
