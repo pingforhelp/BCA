@@ -69,6 +69,7 @@ Data transfer and Control:
 1. Control System
 2. Bus Control System
 
+
 # Functional Components
 1. Input devices:
 * Takes data & instructions from the user & external environment
@@ -191,6 +192,7 @@ Computer Architecture main Components:
 - Printers
 - Magnetic Disk (HDD)
 - Keyboard
+
 
 # Types of I/O & Storage devices
 Storage devices:
