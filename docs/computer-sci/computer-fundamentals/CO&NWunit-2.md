@@ -633,9 +633,9 @@ It works as:
 
 # Components of Domain Name
 A domain name is structured hierarchically, with components separated by dots (.).
-1. Top-level Domain (TLD): The last part of the name, such as: .com, .org, .net etc..
-2. Second-level Domain (SLD): The name of the site itself, such as google in google.com.
-3. Subdomain: A part of the domain that can be created by owner to organise the content, such as mail in "mail-google.com".
+1. Top-level Domain (TLD): The last part of the name, such as: `.com`, `.org`, `.net` etc...
+2. Second-level Domain (SLD): The name of the site itself, such as google in `google.com`
+3. Subdomain: A part of the domain that can be created by owner to organise the content, such as mail in `mail.google.com`.
 
 Features:
 1.  **Memorability:** Easier to understand by humans to remember than long strings of numbers.
@@ -649,7 +649,7 @@ Features:
 images, links, styles & scripts.
 
 Popular web browsers include:
-1. **Google Chrome**: Developed by google, Chrome is one of the most widely-used web browsers in the world known for its speed & simplicity. SPYWARE.
+1. **Google Chrome**: Developed by google, Chrome is one of the most widely-used web browsers in the world known for it's speed & simplicity. SPYWARE.
 2. **Mozilla Firefox**: Developed by mozilla foundation, Firefox is an open-source browser, known for its privacy features & customisations.
 3. **Apple Safari**: Safari is the default browser on MAC & iOS known for speed integration.
 4. **Microsoft Edge**: Edge is the default browser on windows 10 & known for its integration with other microsoft services & products. Internet Explorer
@@ -659,7 +659,7 @@ Architecture of Web Browser
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/22ab17ec-e63a-401e-84e5-2825549d347e" />
 
 # Email
-The email refers to electronic one means of communicating and receiving messages over the internet mail is the most common form of communication for Corporate offices, Government organizations and other "Important" work.
+The e-mail refers to electronic one means of communicating and receiving messages over the internet mail is the most common form of communication for Corporate offices, Government organizations and other "Important" work.
 
 # Components of Email
 **1. Sender:** The sender creates an email in which he records the information that needs to be transferred to the receiver.
