@@ -23,7 +23,9 @@ Security Challenges in Al Systems:
 
 # Q3. Principles of ethical AI.
 Ans:  
-Q4. What are prompts?  
+# Q4. What are prompts?
+Ans: An AI prompt is a question, command or statement that a person gives to a model, such as a LLM, to guide it in generating a specific response or output.
+  
 Q5. Define the transparency in AI systems. Explain its importance.  
 Principles of ethical, applications, limitations & future directions.  
 
