@@ -35,22 +35,29 @@ int main() {
   temp = num; 
   while (temp != 0)  
    
-    {  
- digit = temp % 10;  
- sum = sum + pow(digit, count);  
- temp = temp / 10 ;  
- }
-
-  if (sum == num) {  
-  printf("It is Armstrong number.\n");  
-                 }   
-
-   else  
-   {
-   printf("Not Armstrong number.\n");  
+  {  
+     digit = temp % 10;  
+     sum = sum + pow(digit,           
+     count);  
+     temp = temp / 10;  
+       
     }
 
-return 0; }
+  if (sum == num) 
+{  
+  printf("It is Armstrong  number.\n");  
+            
+}   
+
+   
+   else {
+   printf("Not Armstrong number.\n");  
+    
+}
+
+     return 0; 
+
+ }
 ```
 Output (Armstrong If-case)
 ``` bash
@@ -65,7 +72,7 @@ Not Armstrong
 
 # 2. Program to find the sum of individual digits of a positive integer
 
-Algorithm / pseudo code
+Algorithm / Pseudo code
 1. Read a positive integer n.
 2. Initialize sum = 0.
 3. While n > 0:
@@ -84,7 +91,8 @@ int main() {
   printf("Enter a positive integer: ");  
   scanf("%d", &n);
 
-   while(n > 0) {  
+   while(n > 0) 
+{  
    digit = n % 10 ;  
    sum = sum + digit;  
    n = n / 10;
@@ -92,8 +100,10 @@ int main() {
    
    printf("Sum of digits = %d", sum);  
 
-return 0; 
-  }
+ return 0; 
+  
+   
+}
 ```
 Output
 ``` bash
