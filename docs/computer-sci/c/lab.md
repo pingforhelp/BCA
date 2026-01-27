@@ -20,7 +20,7 @@ Program
 
 int main() {  
   int num, digit, temp;  
-  int sum = 0 , count = 0 ;
+  int sum = 0 , count = 0;
 
    printf("Enter a number: ");  
    scanf("%d", &num);
@@ -661,6 +661,7 @@ Algorithm
 6. Delete book using ISBN.
 7. Display remaining books.
 Program
+``` c
 #include <stdio.h>
 
 struct Book {
@@ -741,10 +742,11 @@ rename("temp.dat", "books.dat");
 printf("Book deleted successfully");
 }
 }
-return 0 ;
+return 0;
 }
-
+```
 Output
+``` bash
 1.Add
 2.Search
 3.Update
@@ -752,6 +754,4 @@ Output
 5.Exit
 Book Found:
 CProgramming Dennis 450.00 300 Pearson
-
-This is a offline tool, your data stays locally and is not send to any server!
-Feedback & Bug Reports**
+```
