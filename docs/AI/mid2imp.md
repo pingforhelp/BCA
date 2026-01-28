@@ -46,5 +46,5 @@ Long answers ++10 marks++
 # Q1. Define ChatGPT and explain it's features, working, applications, limitations, and future advancements.
 
 # Q2. Explain the applications of AI in experimentation & research.
-
+Ans: AI improves research by making it more accurate, faster, and more efficient. Automated Data Analysis: AI can quickly analyze large and complex datasets to find patterns or trends that a human might miss. For example, an AI model can analyze thousands of genomic sequences to find potential disease markers.
 
