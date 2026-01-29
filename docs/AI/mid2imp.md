@@ -34,16 +34,30 @@ Transparency and Explainability: AI models should provide transparency, explaini
 Privacy and Data Protection: Respecting personal data collection, storage, and sharing practices are critical to avoid misuse. AI developers should adopt privacy-preserving techniques and regulatory guidelines for data usage and privacy.
 
 Human Agency and Oversight: Human control over AI decisions should be maintained. Humans need appropriate intervention rights, especially in high-risk domains, upholding dignity and preventing unchecked autonomous decision-making.
+
 # Q4. What are prompts?
 Ans: An AI prompt is a question, command or statement that a person gives to a model, such as a LLM, to guide it in generating a specific response or output.
   
 Q5. Define the transparency in AI systems. Explain its importance.  
 Principles of ethical, applications, limitations & future directions.  
-
+Ans: same answer.
 
 Long answers ++10 marks++
 
 # Q1. Define ChatGPT and explain it's features, working, applications, limitations, and future advancements.
+Ans: Chat GPT stands for ==Generative Pre-trained Transformer==. It is a chat bot, LLM Large Language Models,Generative AI. Aimed to act/think/reason more like or better so than Humans.
+
+Features of GPT
+- Memory it remebers your convocations key words, in them.
+- Computer vision / OCR You can covert handwritten documents into whatever you want format you want. It is better than a normal OCR because it can fix the mistakes by generating the missing words.
+
+Working of GPT:
+1. Input from the user
+2. Packing of said Input.
+3. Sending it to Open AI’s server it logs and then sends it goes to.
+4. Data centres where the input (prompt) is processed.
+5. The model then looks up for answers in it's training data and applying 
+
 
 # Q2. Explain the applications of AI in experimentation & research.
 Ans: AI improves research by making it more accurate, faster, and more efficient. Automated Data Analysis: AI can quickly analyze large and complex datasets to find patterns or trends that a human might miss. For example, an AI model can analyze thousands of genomic sequences to find potential disease markers.
