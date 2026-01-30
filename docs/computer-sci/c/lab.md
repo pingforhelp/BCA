@@ -523,10 +523,13 @@ return 0 ;
 }
 
 Output
+``` bash
 Sorted list:
 1 3 5 7 9
+```
 
-12. Program to calculate employee salary using structure
+# 12 Program to calculate employee salary using structure
+
 Algorithm
 1. Define Employee structure.
 2. Read employee details.
@@ -536,7 +539,10 @@ o HRA = 15% of Basic Pay
 o Deduction = 10% of (Basic + DA)
 4. Calculate Gross and Net Salary.
 5. Display salary details.
+
 Program
+
+``` c
 #include <stdio.h>
 
 struct Employee {
@@ -569,14 +575,17 @@ e.net = e.gross - e.deduction;
 printf("\nGross Salary = %.2f", e.gross);
 printf("\nNet Salary = %.2f", e.net);
 
-return 0 ;
+return 0;
 }
-
+```
 Output
+``` bash
 Gross Salary = 45500.
 Net Salary = 40950.
+```
 
-13. Program to read/write data from/to a file
+# 13 Program to read/write data from/to a file
+
 Algorithm
 1. Open a file in write mode.
 2. Read characters from keyboard and write into file until #.
@@ -584,7 +593,9 @@ Algorithm
 4. Open the file in read mode.
 5. Read and display file contents.
 6. Close the file.
+
 Program
+``` c
 #include <stdio.h>
 
 int main() {
@@ -606,15 +617,16 @@ while((ch = fgetc(fp)) != EOF)
 putchar(ch);
 
 fclose(fp);
-return 0 ;
+return 0;
 }
-
+```
 Output
+``` bash
 Enter text (end with #):
 Hello File#
 File contents:
 Hello File
-
+```
 14. Program to reverse the contents of a file and store in
 another file
 Algorithm
@@ -726,7 +738,7 @@ fwrite(&b, sizeof(b), 1 , fp);
 fclose(fp);
 }
 
-if(choice == 4 ) {
+if(choice == 4) {
 printf("Enter ISBN to delete: ");
 scanf("%d", &key);
 fp = fopen("books.dat", "rb");
