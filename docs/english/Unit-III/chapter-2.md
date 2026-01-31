@@ -2,7 +2,7 @@
 
 # About the Speaker
 Greta Thunberg is a swedish ==climate activist==, born in 2003. She began the 
-> ![quote] 
+> [!quote] 
 > “Friday’s for Future” 
 
 movement to demand urgent action against climate change.
