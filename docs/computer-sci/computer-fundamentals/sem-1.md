@@ -26,12 +26,21 @@ e) WWW
 5 What is computer? Write different types of programming languages.
 
 
-## Unit – 3
+# Unit-3
 
-1) What is Microsoft & write their components with explanation?
+Q1. What is Microsoft & write their components with explanation?
+Ans: Microsoft is a MNC which focused on Technology, OS, Cloud, Web hosting, and the MS office suite. The MS office suite now known as Microsoft office 365 has programs used for day-to-day tasks in a organisation from data-entry to making reports. 
 
-2) What is word processing?  
-   Explain M.S. Word and features of M.S. Word?
+It's components are:
+- MS word a word processor used for writing Documents.
+- MS Excel is spreadsheet program used for entering data.
+- MS PowerPoint this tool is for to ‘express’ ideas in the form of Visual info graphics.
+
+
+Q2. What is word processing? Explain M.S. Word and feres of M.S. Word?
+Ans: Word processor is a  program used to write reports, documents, articles, and much more on the Computer.
+
+MS Word is Microsoft’s word processor....
 
 3) What are the components of M.S. Word?
 
