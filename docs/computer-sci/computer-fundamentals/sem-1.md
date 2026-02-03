@@ -26,4 +26,46 @@ e) WWW
 5 What is computer? Write different types of programming languages.
 
 
-Unit-3
+## Unit – 3
+
+1) What is Microsoft & write their components with explanation?
+
+2) What is word processing?  
+   Explain M.S. Word and features of M.S. Word?
+
+3) What are the components of M.S. Word?
+
+4) Explain Ribbon menu in Word.
+
+5) What are the steps to open & save the document in M.S. Word?
+
+6) Write a note on formatting a word file?
+
+7) What is mail merge?  
+   Discuss the process of mail merge.
+
+8) How to insert a table?  
+   Write any five steps.
+
+9) What are the styles in M.S. Word?  
+   Write a paragraph in whitespace style in an innovative way.
+
+---
+
+## Presentation
+
+1) Define Presentation?
+
+2) Define M.S. PowerPoint?  
+   Explain its various features.
+
+3) What is slide?  
+   Explain components of slide.
+
+4) How to apply animation effects over different objects in PowerPoint presentation?
+
+5) What are transition effects and explain them?
+
+6) What are view buttons in PowerPoint & Slide Sorter view?
+
+7) What is multimedia in PowerPoint & how to add audio & video in P.P.T?
