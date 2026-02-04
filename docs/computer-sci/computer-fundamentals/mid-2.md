@@ -36,7 +36,8 @@ For instance, HR needs to inform all employees of a holiday.
 
 
 # Q6. Explain formatting a word file.
-Ans:
+Ans: Formatting a document refers to the way it is laid out on the page. It includes font selection, font size, presentation (**bold** or *italics*), spacing , margins, alignment, columns, indentation, and lists. Proper formatting impro-
+ves readability and the overall 𝔞𝔭𝔭𝔢𝔞𝔯𝔞𝔫𝔠𝔢 of the document.
 
 
 
