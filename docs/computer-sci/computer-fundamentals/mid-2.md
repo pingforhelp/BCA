@@ -17,6 +17,7 @@ Ans: MS Excel is spreadsheet software in the MS Office Suite widely used to perf
 ++5 marks++
 
 # Q1. Define Power Point and its Features.
+Ans: 
 
 # Q2.
 Ans:
