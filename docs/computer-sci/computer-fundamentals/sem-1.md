@@ -28,7 +28,7 @@ e) WWW
 
 # Unit-3
 
-Q1. What is Microsoft & write their components with explanation?
+# Q1. What is Microsoft & write their components with explanation?
 Ans: Microsoft is a MNC which focused on Technology, OS, Cloud, Web hosting, and the MS office suite. The MS office suite now known as Microsoft office 365 has programs used for day-to-day tasks in a organisation from data-entry to making reports. 
 
 It's components are:
@@ -37,12 +37,26 @@ It's components are:
 - MS PowerPoint this tool is for to ‘express’ ideas in the form of Visual info graphics.
 
 
-Q2. What is word processing? Explain M.S. Word and feres of M.S. Word?
-Ans: Word processor is a  program used to write reports, documents, articles, and much more on the Computer.
+# Q2. What is word processing? Explain M.S. Word and feres of M.S. Word?
+Ans: A word processor enables us to create a document, store it electronically on a disk, display it on a screen, modify it by entering commands and characters from the keyboard, and print it on a printer.
 
-MS Word is Microsoft’s word processor....
 
-3) What are the components of M.S. Word?
+Microsoft Word is a powerful word processing application software in the Microsoft Office Suite. It allows users to create a variety of professional-looking documents such as letters, brochures, and more. Documents can be stored electronically, modified on screen, and printed.
+
+
+
+Features of MS Word include:
+- WYSIWYG (What You See Is What You Get): A document appears on the display screen exactly as it will look when printed.
+- Text formatting: Allows formatting text in various ways including changing font, size, color, and alignment.
+- Paragraph formatting: Allows formatting paragraphs by changing spacing, indentation, and alignment.
+- Tables: Allows creation and formatting of tables.
+- Graphics: Allows insertion and formatting of graphics such as images, charts, and diagrams.
+- Mail Merge: Allows creation of mail merge documents for sending personalized letters or emails to many people.
+- Revision tracking: Allows tracking changes made to a document so users can see who made changes and when.
+- Collaboration: Allows multiple users to work on the same document at the same time.
+
+
+# Q3. What are the components of M.S. Word?
 
 4) Explain Ribbon menu in Word.
 
