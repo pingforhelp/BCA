@@ -79,14 +79,16 @@ Step-2 Locale a folder you wish to save your Doc. Click on 'open'.
 
 Saving a doc:
 ``` txt 
-Step-1 Press c
+Step-1 Press Ctrl + S
+```
 
 
+# Q6. Write a note on formatting a word file?
+Ans: Formatting a document refers to the way it is laid out on the page. It includes font selection, font size, presentation (**bold** or *italics*), spacing. , margins, alignment, columns, indentation, and lists. Proper formatting impro-
+ves readability and the overall appearance of the document.
 
-6) Write a note on formatting a word file?
-
-7) What is mail merge?  
-   Discuss the process of mail merge.
+# Q7. What is mail merge?  
+Discuss the process of mail merge.
 
 8) How to insert a table?  
    Write any five steps.
