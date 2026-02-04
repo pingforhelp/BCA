@@ -87,13 +87,12 @@ Step-1 Press Ctrl + S
 Ans: Formatting a document refers to the way it is laid out on the page. It includes font selection, font size, presentation (**bold** or *italics*), spacing. , margins, alignment, columns, indentation, and lists. Proper formatting impro-
 ves readability and the overall appearance of the document.
 
-# Q7. What is mail merge?  
-Discuss the process of mail merge.
+# Q7. What is mail merge Discuss the process of maimerge.
 
 8) How to insert a table?  
    Write any five steps.
 
-9) What are the styles in M.S. Word?  
+9) What are the styles in MS Word?  
    Write a paragraph in whitespace style in an innovative way.
 
 ---
