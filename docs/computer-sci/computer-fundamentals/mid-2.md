@@ -9,7 +9,9 @@ a) Sorting;
 b) Filterig; 
 c) Make a chart;
 
-Ans:
+Ans: MS Excel is spreadsheet software in the MS Office Suite widely used to perform ==mathematical calculations==. The data is spread in a tabular form consisting of rows and columns. It provides built-in features and tools such as formulas, functions and data analytics tools that make it easer to work with large amount of data.
+
+
 
 
 ++5 marks++
