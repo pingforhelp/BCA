@@ -57,10 +57,31 @@ Features of MS Word include:
 
 
 # Q3. What are the components of M.S. Word?
+Ans: Components of Microsoft Word are:
+- Microsoft Office Backstage View: Appears in all Office 2010 programs (in newer version as well.) and shows common file commands on a single screen. It replaces the File menu in older versions and the Office Button in Office 2007.
+- Quick Access Toolbar: A customizable toolbar containing commonly used commands such as Save, Undo, and Repeat.
+- Ribbon: A combination of menu bar and toolbar. Commands are organized into logical groups under different tabs.
+- Microsoft Office Help Button: Opens the Help window for Office programs.
+- Workspace: Displays the file being worked on (Word document, Excel workbook, Access database, or PowerPoint slide).
+- Status Bar: Provides information about the program, open file, or current task, along with view shortcuts and zoom controls.
+- Zoom Controls: Used to magnify or shrink the contents displayed in the workspace.
 
-4) Explain Ribbon menu in Word.
+# Q4. Explain Ribbon menu in Word.
+Ans: The Ribbon contains tabs such as Home, Insert, Page Layout, References, Mailings, Review, View, and Add-ins. Each tab contains groups of related commands.
 
-5) What are the steps to open & save the document in M.S. Word?
+# Q5. What are the steps to open & save the document in MS Word?
+Ans:
+Opening a doc:
+``` txt
+Step-1 Click on the file tab.
+Step-2 Locale a folder you wish to save your Doc. Click on 'open'.
+```
+
+Saving a doc:
+``` txt 
+Step-1 Press c
+
+
 
 6) Write a note on formatting a word file?
 
