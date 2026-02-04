@@ -1,15 +1,20 @@
 ++10 marks++
 
 # Q1. What is Marco? Explain the process to insert Headers and Footers in MS Word.
+Ans:
+
 
 # Q2. What is MS Excel and explain Features
-a) Sorting 
-b) Filtering 
-c) Make a chart.
+a) Sorting; 
+b) Filterig; 
+c) Make a chart;
+
+Ans:
+
 
 ++5 marks++
 
-# Q1. Define Power point and Features of PPT.
+# Q1. Define Power Point and its Features.
 
 # Q2.
 
@@ -24,6 +29,7 @@ It is a process of combining generic information (such as a form letter or mass 
 
 
 # Q6. Explain formatting a word file.
+Ans:
 
 
 
