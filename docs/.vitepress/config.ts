@@ -105,13 +105,14 @@ export default withMermaid(
       socialLinks: [
         { icon: "github", link: "https://github.com/pingforhelp/BCA" },
         { icon: "linkedin", link: "https://linkedin.com/in/tamimtasira" },
-        { icon: "twitter", link: "https://x.com/Tamim_056" }
+        { icon: "twitter", link: "https://x.com/Tamim_056" },
+        { icon: "e-mail", link; "mailto:bca-github@tamimtasira.in"}
       ],
 
       search: { provider: "local" },
 
       footer: {
-        message: "© 2025-2026 Notes.Tamim’s.Space"
+        message: "© 2025-2026 Notes.Tamim’s.Space / BCA.tamimtasira.in"
       }
     }
   })
