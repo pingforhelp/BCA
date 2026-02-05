@@ -106,7 +106,7 @@ export default withMermaid(
         { icon: "github", link: "https://github.com/pingforhelp/BCA" },
         { icon: "linkedin", link: "https://linkedin.com/in/tamimtasira" },
         { icon: "twitter", link: "https://x.com/Tamim_056" },
-        { icon: "e-mail", link: "mailto:bca-github@tamimtasira.in"}
+        { icon: "mail", link: "mailto:bca-github@tamimtasira.in"}
       ],
 
       search: { provider: "local" },
