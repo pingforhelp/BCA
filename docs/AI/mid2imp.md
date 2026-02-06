@@ -13,7 +13,7 @@ Types of Bias in Al:
 4. Generative Bias.
 5. Group Attribution Bias.
 
-Q2. Discuss security & privacy challenges in AI systems.
+# Q2. Discuss security & privacy challenges in AI systems.
 Ans: AI systems relies heavily on extensive data collection and complex algorithms, creating new and significant challenges to security and privacy.
 
 Security Challenges in Al Systems:
@@ -38,7 +38,7 @@ Human Agency and Oversight: Human control over AI decisions should be maintained
 # Q4. What are prompts?
 Ans: An AI prompt is a question, command or statement that a person gives to a model, such as a LLM, to guide it in generating a specific response or output.
   
-Q5. Define the transparency in AI systems. Explain its importance.  
+# Q5. Define the transparency in AI systems. Explain its importance.  
 Principles of ethical, applications, limitations & future directions.  
 Ans: same answer.
 
@@ -47,7 +47,7 @@ Long answers ++10 marks++
 # Q1. Define ChatGPT and explain it's features, working, applications, limitations, and future advancements.
 Ans: Chat GPT stands for ==Generative Pre-trained Transformer==. It is a chat bot, LLM Large Language Models,Generative AI. Aimed to act/think/reason more like or better so than Humans.
 
-Features of GPT
+Features of GPT:
 - Memory it remebers your convocations key words, in them.
 - Computer vision / OCR You can covert handwritten documents into whatever you want format you want. It is better than a normal OCR because it can fix the mistakes by generating the missing words.
 
