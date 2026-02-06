@@ -111,7 +111,7 @@ export default withMermaid(
       search: { provider: "local" },
 
       footer: {
-        message: "© 2025-2026 Notes.Tamim’s.Space"
+        message: "© 2025-2026 Notes.Tamim’s.Space / BCA.tamimtasira.in"
       }
     }
   })
