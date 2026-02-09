@@ -14,7 +14,7 @@ Ans:
 9.  End with Regards and your Name.
 
 # 2. what are types of topologies & explain?
-Ans: There are mainly 3 types of Network Topologies: Bus, Ring, and, Start.
+Ans: There are mainly 3 types of Network Topologies: Bus, Ring, and, Star.
 
 In A network Topology is the arrangement of Devices (nodes) & Connections (links). In a Computer network. It shows how computers, servers, and other devices are connected. In simple words it's a blueprint or Skelton of a computer network how will the data flow from one to other machine and "shape" of the network.
 
