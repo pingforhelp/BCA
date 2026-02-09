@@ -18,14 +18,9 @@ Ans: There are mainly 3 types of Network Topologies: Bus, Ring, and, Star.
 
 In A network Topology is the arrangement of Devices (nodes) & Connections (links). In a Computer network. It shows how computers, servers, and other devices are connected. In simple words it's a blueprint or Skelton of a computer network how will the data flow from one to other machine and "shape" of the network.
 
-
-
-
-
-
-
-
 #         Set-2
 
-1. with demonstration of assembling & dissembling of computer system.  
+# 1. With demonstration of assembling & dissembling of computer system.
+Assembling of a computer
+
 2. Prepare salary of an employee.
