@@ -21,6 +21,22 @@ In A network Topology is the arrangement of Devices (nodes) & Connections (links
 #         Set-2
 
 # 1. With demonstration of assembling & dissembling of computer system.
-Assembling of a computer
+Assembling of a computer 
+1 Prepare tools:
+  - Box opener
+  - Screwdriver.
+  - A flat surface.
+  
+2 Open the motherboard f m its box and remove it from the anit-static bag.
+
+3 Carefully observe on the centre of the motherboard you'll see a plastic plate pull the tap and keep the plate in a safe place in case of warranty/return.
+ 
+3 Unbox the CPU and replace it from little plastic box. now carefully place it on Centre where you removed the plastic plate from.
+
+4 Unbox the RAM / Memory and place it on the slot first open the two plastic tags and slowly move it in place and secure it.
+
+5 Unbox the SSD (if you have a M.2 then you can screw on the M.2 slot if not then follow along) opens you finished building the computer you can install it on the cabinet and connect via power and SATA cables.
+
+6 
 
 2. Prepare salary of an employee.
