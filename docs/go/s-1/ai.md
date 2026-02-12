@@ -1,8 +1,6 @@
 MODEL PAPER - I
 
 Time : 3 Hours
-W.E.F from 2025-2026
-Max.: 75 Marks
 
 SECTION – A (5 × 5 = 25 Marks)
 Answer any FIVE of the following questions.
@@ -16,8 +14,9 @@ Answer any FIVE of the following questions.
 7. Write a short note on self-driving cars as an AI application. [Q.No. 12, Pg No. 44]
 8. Write about the other AI tools? [Q.No. 18, Pg No. 92]
 
-SECTION – B (5 × 10 = 50 Marks)
-Answer any FIVE of the following questions.
+SECTION–B *(5 × 10 = 50 Marks)*
+
+Answer any **FIVE** of the following questions.
 
 9. a) Write a note on Artificial Intelligence. [Q.No. 1, Pg No. 1]
    (OR)
