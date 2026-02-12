@@ -8,8 +8,10 @@ Answer any ++FIVE++9 of the following questions.
 1. Applications of AI. [Q.No. 19, Pg No. 24]
 2. List any three applications of AI in healthcare. [Q.No. 7, Pg No. 41]
 3. Role of Robustness in Designing Reliable AI Systems. [Q.No. 23, Pg No. 69]
-4. Define Generative AI with an example. [Q.No. 11, Pg No. 88]
-5. What is SlidesGPT? Mention its uses in presentations. [Q.No. 15, Pg No. 116]
+4. Define Generative AI with an example. [Q.No. 11, Pg No. 88].
+Ans: Generative AI or Gen. AI is used to “Generate” content such as Text, Articles, Code, Videos, Images, Voice, Audio based on pre-trained Datasets. For example, Hey, Chat GPT generate a image of a class room in 1930s.
+
+5. What is SlidesGPT? Mention its uses in presentations. [Q.No. 15, Pg No. 116] (unit-5)
 6. Explain the types of AI used in Robotics. [Q.No. 30, Pg No. 29]
 7. Write a short note on self-driving cars as an AI application. [Q.No. 12, Pg No. 44]
 8. Write about the other AI tools? [Q.No. 18, Pg No. 92]
