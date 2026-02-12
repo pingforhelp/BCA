@@ -3,7 +3,7 @@ MODEL PAPER - I
 Time : 3 Hours
 
 SECTION – A (5 × 5 = 25 Marks)
-Answer any ++FIVE++9 of the following questions.
+Answer any ++FIVE++ 9 of the following questions.
 
 1. Applications of AI. [Q.No. 19, Pg No. 24]
 2. List any three applications of AI in healthcare. [Q.No. 7, Pg No. 41]
