@@ -57,34 +57,39 @@ This poem is a beautiful dream of a perfect world. The poet imagines a country w
 # About the Poet (Unit-3, Ch02)
 Where the Mind is Without Fear is a thought-provoking poem by Rabindranath Tagore, an Indian writer. He was born on ++7th May 1861 and died on 7th August 1941.++ Tagore was a poet, philosopher, novelist, playwright, painter, and educationist, often described as the ==“Gurudev of India.”== It is one of the best poems in the anthology Gitanjali, which was published in 1912 and ==won the prestigious Nobel Prize for Literature in 1913==. *Where the Mind is Without Fear* is the 35th poem in Gitanjali. In ==1901, he founded a school at Santiniketan, which later grew into Visva-Bharati University==. Beyond literature and education, he composed over ++2000++ songs, including: Jana Gana Mana the National Anthem of India and Amar Sonar (Bangla) the National Anthem of Bangladesh.
 
-
-
 ---
 
-# SUMMARY (Unit-4 Ch01)
+# SUMMARY (Unit-4, Ch01)
 Nissim Ezekiel’s poem Night of the Scorpion describes a night in a rural Indian village when the poet’s mother is stung by a scorpion. As soon as the scorpion disappears into the dark room, villagers gather at the house and begin to chant prayers and give superstitious explanations, believing that her suffering will burn away her sins. The poet’s father, who trusts in science rather than superstition, tries various methods—powder, herbs, and even pouring paraffin on the wound—to ease her pain. The mother continues to suffer for many hours until the poison finally loses its effect. At the end, she expresses gratitude that the scorpion stung her and not her children. The poem highlights the clash between superstition and rational thought, while also bringing out the deep love and sacrifice of a mother.
 
----
+# About the Poet (Unit-4, Ch01)
+Nissim Ezekiel (1924-2004) was Jewish-Indian famous poet, playwright, editor & critic who wrote in English. He is often called the "Father of modern Indian English poetry". He got the "Sahithya Academy Cultural Award" in 1983 & Padmashri Award in 1988. The poem "Night of the Scorpion" presents an Indian village and its Superstitions, Simplicity with the poet's own childhood experiences. Some of his well known poems are Enterprise, Poet, Lover - Birdwatcher.
 
-# SUMMARY (Unit-4 Ch02)
 
+# SUMMARY (Unit-4, Ch02)
 Refund by Fritz Karinthy is a humorous one-act play that satirizes the education system and human greed. The story revolves around Wasserkopf, a middle-aged man who returns to his old school demanding a refund of his tuition fees. He argues that his education was useless because he has failed in life and blames his teachers for not preparing him adequately.
 
 The principal, along with four teachers, decides to test Wasserkopf to see if he truly learned nothing. Ironically, Wasserkopf gives ridiculous and absurd answers to all the questions, but the teachers cleverly twist his answers to prove him “brilliant”. For example, when he gives a wrong answer, the teachers interpret it as clever thinking, logical reasoning, or originality.
 
-In the end, Wasserkopf, who expected to be declared unfit and refunded, is instead declared a genius by the teachers. The principal then tells him that since he has passed with distinction, he owes the school additional examination fees. Thus, the greedy man is tricked by the very teachers he wanted to outsmart.
+In the end, Wasserkopf, who expected to be declared unfit and refunded, is instead declared a genius by the teachers. The principal then tells him that since he has passed with distinction, he owes the school additional examination fees. Thus, the greedy man is tricked by the very teachers he wanted to outsmart. The play exposes the flaws of the education system, the tendency of teachers to justify their own teaching, and human foolishness driven by greed.
 
-The play exposes the flaws of the education system, the tendency of teachers to justify their own teaching, and human foolishness driven by greed.
+# About the Author (Unit-4, Ch02)
+Fritz Karinthy is a well-known short story writer who wrote the one-act play **Refund** in the year 1938. This is the story of a former student who studied in the school. Fritz Karinthy (1887–1938) is the most popular Hungarian playwright, poet, novelist, journalist, and translator. He published in 1912 *That’s How You Write*, a little parody that brought him instant fame. The play **Refund** is full of humour which deals with an extraordinary absurd situation.
+
 
 ---
 
 # SUMMARY (Unit-5 Ch01)
-
-“An Astrologer’s Day” is set in a busy marketplace where an astrologer sits every evening to earn his living. He does not have real knowledge of astrology but relies on shrewd observation, guesses, and people’s gullibility. He wears a turban, beard, and sacred ash, which gives him an air of mystery and helps him attract customers.
+*An Astrologer’s Day* is set in a busy marketplace where an astrologer sits every evening to earn his living. He does not have real knowledge of astrology but relies on shrewd observation, guesses, and people’s gullibility. He wears a turban, beard, and sacred ash, which gives him an air of mystery and helps him attract customers.
 
 One evening, as he is about to pack up, a stranger comes to him and challenges him to prove his skill. The man insists that the astrologer should either tell him the truth about his past or refund the money. Pressured, the astrologer begins his reading. He describes the man’s past with surprising accuracy—how he was once stabbed and left for dead by someone, and how he narrowly escaped death. He further warns the man never to return to his native village, or he will be killed. Shocked by the revelation, the stranger pays him and leaves.
 
 Afterward, the astrologer feels relieved. He confides to his wife that the man was his old enemy, whom he had attacked years ago and believed to be dead. That crime had forced him to leave his village and take up the life of an astrologer. Fate had brought them together again, but now the astrologer is free of his fear, as his enemy is alive and has gone away.
+
+# About the Author (Unit-5, Ch01)
+Rasipuram Krishnaswami Narayan (10 October 1906 – 13 May 2001) was one of India’s most famous English writers, known for his simple and natural storytelling. He was born in Madras and died in the same city. He created the fictional South Indian town of **Malgudi**, where many of his stories and novels are set.
+
+His works beautifully portray the lives of ordinary people using gentle humour and realistic situations. Some of his well-known books include *Swami and Friends*, *The English Teacher*, *Malgudi Days*, and *The Guide*, which won the Sahitya Academy Award. Narayan’s writing reflects Indian culture, values, and everyday experiences, making him one of the most beloved and influential figures in Indian literature.
 
 
 # Q&A
