@@ -1,14 +1,10 @@
 # How Dare You *by Greta Thunberg*
 
 # About the Speaker
-Greta Thunberg is a swedish ==climate activist==, born in 2003. She began the 
+Greta Thunberg is a swedish ==climate activist==, born in 2003. She began the: 
 > [!quote] 
 > “Friday’s for Future” 
-
-
-
-movement to demand urgent action against climate change.
-Her bold speech ++“How Dare You”++ at the U.N in 2019 made her a global youth leader. She has inspired millions world wide she has received several international honors, including being nominated for the Nobel Peace prize, & was named “Times Person of the Year” in 2019. Greta represents the power of youth, truth & courage in bringing change to the world.
+movement to demand urgent action against climate change. Her bold speech ++“How Dare You”++ at the U.N in 2019 made her a global youth leader. She has inspired millions world wide she has received several international honors, including being nominated for the Nobel Peace prize, & was named “Times Person of the Year” in 2019. Greta represents the power of youth, truth & courage in bringing change to the world.
 
 # Q&A (1-7)
 
