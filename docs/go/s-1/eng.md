@@ -1,4 +1,4 @@
-#.Eng Hope/Sem prep
+# Eng Hope/Sem prep
 
 About the Author 
 Sarojini Naidu was born on February 13, 1879, Hyderabad in India and died on March 2, 1949. She was a Political activist, feminist and Poet she was the first Indian woman to be the President of the Indian national Congress Party and to be appointed as an Indian State Governor. She was called:
@@ -20,6 +20,12 @@ In the final stanza, the poet says that the shade of the coconut glade, the scen
 
 In the last line, she asks the fishermen to depart for the point in the sea where the sun meets the sky i.e., horizon. Symbolically, it refers to infinity or a place without end. In this perspective, she asks the fishermen to dive into the infinite sea.
 
+# About the Author (Unit- Ch01) 
+Sarojini Naidu was born on February 13, 1879, Hyderabad in India and died on March 2, 1949. She was a Political activist, feminist and Poet she was the first Indian woman to be the President of the Indian national Congress Party and to be appointed as an Indian State Governor. She was called:
+> [!quote]
+> “The nightingale of India.” By Mahatma Gandhi.
+
+
 ---
 
 # SUMMARY (Unit-1 Ch02)
@@ -31,6 +37,8 @@ Though he first refuses to buy a basket, her persistence makes him purchase one,
 The following summer, eager to see her, he returns to Deoli. To his disappointment, the girl is gone. The station master and locals know nothing about her. Restless and disheartened, he continues to look for her each time he passes through Deoli, but she never reappears.
 
 He finally resigns himself to the mystery. Though he longs to know her fate, he chooses not to break his journey at Deoli. Instead, he prefers to keep her alive in memory and dream, fearing the truth might shatter the beauty of his cherished encounter.
+
+
 
 ---
 
