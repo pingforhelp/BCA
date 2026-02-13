@@ -105,9 +105,7 @@ export default withMermaid(
       socialLinks: [
         { icon: "github", link: "https://github.com/pingforhelp/BCA" },
         { icon: "linkedin", link: "https://linkedin.com/in/tamimtasira" },
-        { icon: "twitter", link: "https://x.com/Tamim_056" },
-     { icon: "YouTube" link: "https://youtube.com/" }
-      ],
+        { icon: "twitter", link: "https://x.com/Tamim_056" }
 
       search: { provider: "local" },
 
