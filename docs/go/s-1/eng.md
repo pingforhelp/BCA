@@ -1,12 +1,5 @@
 # Eng Hope/Sem prep
 
-About the Author 
-Sarojini Naidu was born on February 13, 1879, Hyderabad in India and died on March 2, 1949. She was a Political activist, feminist and Poet she was the first Indian woman to be the President of the Indian national Congress Party and to be appointed as an Indian State Governor. She was called:
-
-> [!quote]
-> “The nightingale of India.” By Mahatma Gandhi.
-
-
 # Chapter wise Summarises and About the authors
 
 # SUMMARY (Unit-1, Ch01)
@@ -91,6 +84,10 @@ The play exposes the flaws of the education system, the tendency of teachers to 
 One evening, as he is about to pack up, a stranger comes to him and challenges him to prove his skill. The man insists that the astrologer should either tell him the truth about his past or refund the money. Pressured, the astrologer begins his reading. He describes the man’s past with surprising accuracy—how he was once stabbed and left for dead by someone, and how he narrowly escaped death. He further warns the man never to return to his native village, or he will be killed. Shocked by the revelation, the stranger pays him and leaves.
 
 Afterward, the astrologer feels relieved. He confides to his wife that the man was his old enemy, whom he had attacked years ago and believed to be dead. That crime had forced him to leave his village and take up the life of an astrologer. Fate had brought them together again, but now the astrologer is free of his fear, as his enemy is alive and has gone away.
+
+
+# Q&A
+
 
 
 
