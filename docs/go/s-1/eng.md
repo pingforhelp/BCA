@@ -13,16 +13,12 @@ In the final stanza, the poet says that the shade of the coconut glade, the scen
 
 In the last line, she asks the fishermen to depart for the point in the sea where the sun meets the sky i.e., horizon. Symbolically, it refers to infinity or a place without end. In this perspective, she asks the fishermen to dive into the infinite sea.
 
-# About the Author (Unit- Ch01) 
+# About the Author (Unit-1, Ch01) 
 Sarojini Naidu was born on February 13, 1879, Hyderabad in India and died on March 2, 1949. She was a Political activist, feminist and Poet she was the first Indian woman to be the President of the Indian national Congress Party and to be appointed as an Indian State Governor. She was called:
 > [!quote]
 > “The nightingale of India.” By Mahatma Gandhi.
 
-
----
-
 # SUMMARY (Unit-1 Ch02)
-
 The narrator, a college student, spends his summers at his grandmother’s home in Dehra. On his way there, his train always halts for ten minutes at the small, lonely Deoli railway station, where hardly anyone gets on or off. One summer, he notices a young girl selling baskets on the platform. She is poor, barefoot, and simply dressed, but her beauty and dignity strike him deeply.
 
 Though he first refuses to buy a basket, her persistence makes him purchase one, and in that brief exchange, they silently form a connection. On his return journey two months later, he sees her again. Their reunion is filled with unspoken emotions; he even holds her hand and feels an urge to take her away with him. But the train departs, leaving him with only her memory.
@@ -31,12 +27,14 @@ The following summer, eager to see her, he returns to Deoli. To his disappointme
 
 He finally resigns himself to the mystery. Though he longs to know her fate, he chooses not to break his journey at Deoli. Instead, he prefers to keep her alive in memory and dream, fearing the truth might shatter the beauty of his cherished encounter.
 
+# About the Author (Unit-1, Ch02)
+Ruskin Bond was born on **19 May 1934** at **Kasauli, Punjabi State Agency, British India**.
+His parents were **Aubrey Alexander Bond** and **Edith Clarke**. The present story *“The Night Train at Deoli”* is taken from one of his collections and was published in **1988**. He is considered an icon among Indian writers and children’s authors. He wrote his first novel *“The Room on the Roof”*, which won the **John Llewellyn Rhys Memorial Prize** in **1957**. Ruskin Bond has authored more than **500 short stories, essays, and novels**, including **69 books for children**. His first book for children *“Angry River”* was published in **1972**. In **1992**, he was awarded the **Sahitya Akademi Award** for *“Our Trees Still Grow in Dehra.”*
+In **1999**, he was awarded the **Padma Shri**, and in **2014**, the **Padma Bhushan**.
 
-
----
+------
 
 # SUMMARY (Unit-2 Ch01)
-
 The story is set during the spring festival when people thronged to the fair in a joyful mood. Among them was a little boy who walked with his parents, fascinated by the toys, sweets, and attractions along the way. Each time he expressed a desire—for toys, sweets, garlands, balloons, or the roundabout—he knew his parents would refuse, so he suppressed his wishes and moved on.
 
 As they entered the fair, the child was captivated by the sights and sounds, but suddenly he realized his parents were not beside him. Fear and panic gripped him as he searched everywhere, crying “Mother, Father!” His joy and curiosity vanished, replaced only by the desperate longing to be with his parents.
@@ -45,22 +43,25 @@ A kind stranger noticed the weeping boy and tried to console him by offering rid
 
 The story highlights the innocence of childhood. While the child is initially drawn to material things, the moment he is separated from his parents, he realizes that nothing in the world matters more than the love and security of his parents.
 
----
+# About the author (Unit-2, Ch01)
+Mulk Raj Anand who was born on 12th December 1905 was an Indian writer and he was known for his depiction of the lives of the poor in traditional Indian society. He is considered as one of the pioneers of Indo-Anglian fiction he was one of the First India-based writers in English to gain an International readership. He is admired for his novels and short stories which are noted for their perceptive insight into the lives of the oppressed and their analyses of impoverishment exploitation and misfortune. Some of his important works are *Untouchable*, *Coolie* and *to leaves* and Bud he was honoured of the padma Bhushan. He died on 28th september 2004.
 
 # SUMMARY (Unit-2 Ch02)
-
 The letter is addressed to a teacher by a former student who feels neglected and failed by the education system. The student accuses the teacher of ignoring struggling pupils, pushing them out of school into labour, and showing little concern for their personal struggles. He contrasts the teacher’s formal education with his own practical knowledge of life, family, and community. While teachers boast of culture and bookish knowledge, they fail to understand or respect the lived experiences of working-class children. The student highlights the unfairness of judging them by irrelevant standards—such as knowing basketball—when their real skills, like hard physical labour and community ties, are dismissed. The letter urges humility from teachers, pointing out that their own culture has serious gaps, which make them less capable of understanding the majority of the world’s people.
 
 ---
 
-# SUMMARY (Unit-3 Ch01)
-
+# SUMMARY (Unit-3, Ch01)
 This poem is a beautiful dream of a perfect world. The poet imagines a country where people are brave and free to think for themselves. Everyone has access to the knowledge they want, and there are no barriers dividing people. People are honest and they always tell the truth. People there never give up and keep working to be the best they can be. They use clear and logical thinking instead of just following old traditions. The poet hopes that God will help his country become this ideal place, a land of freedom where everyone’s mind and spirit can truly soar high.
+
+# About the Poet (Unit-3, Ch02)
+Where the Mind is Without Fear is a thought-provoking poem by Rabindranath Tagore, an Indian writer. He was born on ++7th May 1861 and died on 7th August 1941.++ Tagore was a poet, philosopher, novelist, playwright, painter, and educationist, often described as the ==“Gurudev of India.”== It is one of the best poems in the anthology Gitanjali, which was published in 1912 and ==won the prestigious Nobel Prize for Literature in 1913==. *Where the Mind is Without Fear* is the 35th poem in Gitanjali. In ==1901, he founded a school at Santiniketan, which later grew into Visva-Bharati University==. Beyond literature and education, he composed over ++2000++ songs, including: Jana Gana Mana the National Anthem of India and Amar Sonar (Bangla) the National Anthem of Bangladesh.
+
+
 
 ---
 
 # SUMMARY (Unit-4 Ch01)
-
 Nissim Ezekiel’s poem Night of the Scorpion describes a night in a rural Indian village when the poet’s mother is stung by a scorpion. As soon as the scorpion disappears into the dark room, villagers gather at the house and begin to chant prayers and give superstitious explanations, believing that her suffering will burn away her sins. The poet’s father, who trusts in science rather than superstition, tries various methods—powder, herbs, and even pouring paraffin on the wound—to ease her pain. The mother continues to suffer for many hours until the poison finally loses its effect. At the end, she expresses gratitude that the scorpion stung her and not her children. The poem highlights the clash between superstition and rational thought, while also bringing out the deep love and sacrifice of a mother.
 
 ---
