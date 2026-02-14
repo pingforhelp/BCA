@@ -1,5 +1,17 @@
 # Eng Hope/Sem prep
 
+# Ch and Unit breakdown of Model Paper
+
+| SNO | Unit | Marks |
+|-----|------|-------|
+| 1   |  I   | Ch01&Ch02 Q&A = 10 grammar = 4 |
+| 2   | II   | Ch01&Ch02 Q&A = 10 grammar = 4      |
+| 3   | III   | Ch01&Ch02 Q&A = 10 grammar = 4      |
+| 4   |  IV   | Ch01&Ch02 Q&A = 10 grammar = 4      |
+| 5   |  V    | Ch01&Ch02 Q&A = 10 grammar = 4       |
+| 6   |   Suggested thingy | 5 Marks                                |
+
+
 # Chapter wise Summarises and About the authors
 
 # SUMMARY (Unit-1, Ch01)
