@@ -102,18 +102,41 @@ Afterward, the astrologer feels relieved. He confides to his wife that the man w
 His works beautifully portray the lives of ordinary people using gentle humour and realistic situations. Some of his well-known books include *Swami and Friends*, *The English Teacher*, *Malgudi Days*, and *The Guide*, which won the ==Sahitya Academy Award==. Narayan’s writing reflects Indian culture, values, and everyday experiences, making him one of the most beloved and influential figures in ++Indian literature++.
 
 
-# Unit wise Q& 
+# Unit wise Q&A 
 > [!note]
-> Based on Previous data from Class tests, Mid Exam, Model Paper and Textbook.
+> Based on Previous data from Class tests, Mid Exams, Model Paper and Textbook.
 
-Unit-I
+# Unit-I
 # How does Sarojini Naidu describe a day in the lives of the Fishermen? (Ch01 Model & Mid)
 Ans: In the poem "the Coramandel Fisher's" she describes the beauty of nature & the folk culture of the Coramandel Coast of India. It depicts the relationship of fishermen with nature. Nature stands as a symbol of beauty that expresses the optimistic view of life. The fishermen of Coramandel Coast rise at dawn to the Call of their leader. They gather their fishing nets from the shore, set their fishing boats free, and sail away to capture the fish they follow the Call of the Seagull Sea-gull where they can get plenty of fish. They face the storms and rising fights bravely they find pleasure in rowing to the werge of the sea where is-
+# How ever, the poem then conman this things with what is considered sweeter - the following things considered the sweeter. ( Ch01 2x on Class and Mid-1)
+- The kiss of the spray (The feel of the sea spray on the face).
+- The dancer of the wild foam glow (The joyful moments of the wild foam on the waves).
+- This con-chart highlights the fisherman's preference for the exciting & adventure life at sea over the comfortable pleasures of life on land.
 
-# What do you find most appealing in the Poem; It's rhythm, imagery (or) message? (Class)
+# What do you find most appealing in the Poem; It's rhythm, imagery (or) message? (Ch01 Class)
 Ans: In "Coromandel fisher's" by Sarojini Naidu what many readers find appealing is "it's rhythm" the Poem has a Song-Like Quality, almost like a chant, which refers the fishermen call to begin their day to steady musical rhythm matches the rise and fall of the sea waves creating a sense of movement & energy this rhythm makes the Poem, memorable and gives it a natural floo, Almost like the sea itself calling the fishermen.
 
 The imagery is also striking. "The sea is a mother." "The cloud as a friend", the waves as Playmates" But it is the rhythm that ties everything together and makes the call to action both Persavasive and instreing. So, the rhythm is the most appealing because it captures the spirit of the fishermen's life & makes the Poem feel alive and musical.
+
+# Briefly narrate the conversation between the narrator and the girl in their second meeting. (Ch01 Class,)
+Ans: *The Night Train at Deoli* is a story about the narrator’s love for a poor basket-seller whom he met at a small station while on his way to Dehra. He met the girl only once and never saw her again, yet she remained in his memory. On his return journey, he looked for her and found her. They were happy to see each other like long-lost friends, though they did not speak a word—their silence spoke more than words. He felt like staying with her but did not do so. He told her that he needed to go to Delhi, and she replied softly that he need not go anywhere, perhaps expressing her wish to keep him there. Both of them separated unwillingly as the train left the station with the hope of meeting again. The meeting helped to break the monotony of his journey and gave him a sense of attachment and responsibility toward the girl. Even after the journey, for a long time later, he kept thinking of the girl he met at the station at Deoli.
+
+# Why did the narrator never break his journey at Deoli, though he wished to meet the girl? (Ch02 Mid-2)
+Ans: Although the narrator wished to stop at Deoli, he feared destroying the idealized image he had created. The uncertainty and the possibility of reality not matching his dream held him back:
+1. Tenderness or Affection He remembered the girl fondly. Even though he met her only twice, the brief encounter touched his heart deeply.
+2. Longing and Desire The narrator felt a deep sense of longing for the girl. He wished he could see her again or at least know what happened to her, but she remained only a beautiful memory.
+3. Sadness and Regret There was sorrow in his heart because he never met her again and missed the chance to express his feelings. He regretted not acting on impulse to know her better.
+4. Nostalgia Over the years, the memory of the girl became a symbol of lost youth and innocent love. Thinking of her brought back emotions of that time—pure, simple, and unforgettable.
+
+# Q2. When the narrator first saw the basket-selling girl, what attracted him to her? (Ch02 Class)
+Ans: When the narrator first saw the basket-selling girl, he was immediately struck by her appearance and demeanor. She seemed young, perhaps around twelve years old, and was dressed in simple, worn clothes that reflected her humble background. Despite her poverty, there was a sense of dignity in the way she carried herself. Her eyes were bright and expressive, revealing both innocence and determination.
+
+The narrator noticed her graceful movements as she balanced the basket on her head, and her face showed a mixture of hope and resilience. His first impression was of a hardworking, earnest girl who faced challenges with quiet strength.
+
+
+# Unit-II
+
 
 
 
