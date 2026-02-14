@@ -22,7 +22,8 @@ Ans: The Parents seated themselves on the edge of a well in the shade of a grove
 # Q2. What did the child do when he did not find his Parents?
 Ans: When the child did not find his Parents, a deep cry rows within his dry throught he ran from where he stood crying in fear, tears rolled down from his eyes. he ran in all directions knowing not where to go he wailed his yellow-turban. came untied and his clothes became muddy having run for a while, he stood defeated his cries suppressed into sobs there were many men and women talking but there was no sign of his parents among those people.
 
-# Q3. Describe the different feelings of the child in the fair?
+# Q3. Describe the different feelings 
+the child in the fair?
 Ans: Firstly, the child was attracted by the toys then he was fascinated by the dragon-flys then he began to gather the raining petals in his hands when he came to a sweet shop. He wanted to eat Burfi, as it was his favourite sweet - then  he was drawn to the garlands of gulmohur then he was carried away by the rainbow coloured balloons he was also attracted by the snake-charmer and the round about. These are all the things which attracted him and which he wanted to possess but, when he was separated from his parents he *did not* like anything except his parents.
 
 # Q4. Why do you think the child suppresses his desire for toys, sweets and night rides when he is with his parents? What does this reveal about his understanding of his parents?
