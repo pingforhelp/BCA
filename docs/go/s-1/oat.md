@@ -103,9 +103,12 @@ Ans: Pt.A
 Steps
 ......
 
-# Q21 
-# Q22
-# Q23
-# Q24
-# Q25
+# Q21 U-4
+# Q22 U-3
+# Q23 U-5
+# Q24 PPT
+# Q25 IP
+# Q26 Email (U-2)
+# Q27 Model paper IMP.
+# 28 Model paper IMP.
 
