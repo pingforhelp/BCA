@@ -1,6 +1,6 @@
 # QAT – Important Questions
 
-1. What are the functions of the CPU?
+1. What are the functions of the CPU? <u>Short</u>
 
 2. Explain the history of computers.
 
