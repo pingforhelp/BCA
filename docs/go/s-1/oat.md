@@ -37,7 +37,7 @@ V Apple II (1977) The Apple II, developed by Steve Jobs and Steve Wozniak, was o
 VI Cloud Computing (2000s-Present) Cloud computing allowshave been users to store and access data remotely via the internet, making it easier to scale computing resources. Services like Google Drive, Dropbox, and Amazon Web Services (AWS) transformed how businesses and individuals manage data;
 VII Artificial Intelligence (AI) AI is rapidly becoming a cornerstone of modern computing. Machine learning and deep learning algorithms enable computers to make decisions, recognize patterns, and even understand human language, leading to advancements in everything from virtual assistants to autonomous vehicles.
 
-# Q3 How do you convert a binary number into decimal system? Explain with an example. <u>Could BE 4 or 10 Marker</u>
+# Q3 How do you convert a binary number into decimal system? Explain with an example. Could be 4 or 10 Marker.
 Ans: Go to [U-1 notes](https://notes.tamims.space/computer-sci/computer-fundamentals/computer_fundamentals_unit-1)
 
 # Q5 What are the various generations of computers? Explain in detail (Or) Explain the evolution of computers from mechanical devices to modern-day systems. Include key milestones (Yes, Q2 is the yes answer as OR just add modern part of the answer).
@@ -69,7 +69,7 @@ Ans: I'll try to cover all the popular ones and important ones. Pls DM me if I m
 
 # Q12 How do you open and close a document in MS Word? (They won't ask such a basic Q&A in College exam will they?)
 Ans: Not needed.
-# Q13 Describe the process of mail merge Long ++IMP++
+# Q13 Describe the process of mail merge. Long ++IMP++
 Ans: Mail Merge feature in MS Word allows you to merge an address file with a form letter in order to generate multiple copies of the same letter, with one copy for each address in your file. This automates the task of generating the same letter for multiple recipients. It is a process of combining generic information (such as a form letter or mass e-mail) with specific information (such as a specific recipient’s e-mail address, name, or title/subject). For instance, HR needs to inform all employees of a holiday. Or someone wants to send invitations to a lot of people for a event.
 
 Step by step process
