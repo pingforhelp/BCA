@@ -1,9 +1,20 @@
 # QAT – Important Questions
 
-1. What are the functions of the CPU? <u>Short</u>
+# Q1 What are the functions of the CPU? <u>Short</u>
+Ans: ==Central Processing Unit (CPU) The CPU is the brain== of the computer It has 2 major Sub-units:
+I. Arithmetic & Logic Unit (ALU): Performs Arithmetic operations and Logical operations. e.g., +, %, x. AND, OR, NOT, and & !;
+II. Control Unit;
+- Controls and Coordinates all Components.
+- Fetches, decodes and executes instructions.
+- Maintain the sequence of operations.
+III. Registers: Smallest and fastest memory locations in CPU temporarily hold data, instructions, addresses;
+> [!example]
+> PC, ACC, Instructions Register (IR).
+IV. Interfaces: Since CPU and I/O devices work at different speeds but interface helps in communication Components.
+
 
 2. Explain the history of computers.
-
+Ans: 
 3. How do you convert a binary number into decimal system? Explain with an example.
 
 4. What are the various generations of computers? Explain in detail.
