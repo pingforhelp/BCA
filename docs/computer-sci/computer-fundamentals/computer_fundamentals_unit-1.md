@@ -37,7 +37,7 @@ It lists its main components and their interactions.
 *Fig. 1: Block diagram of a computer*
 <img width="474" height="283" alt="image" src="https://github.com/user-attachments/assets/28addfd1-7a17-47fd-bdb0-79fe1e1b4f07" />
 
-Different between h/s.  
+# Different between h/s.  
 All are five Generations;  
 The Computer Generations can be classified into five categories:  
 1. First Generation  
