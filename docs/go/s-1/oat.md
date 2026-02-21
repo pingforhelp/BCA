@@ -1,9 +1,9 @@
-# QAT – Important Questions
+# OAT Important Questions
 > [!TIP]
 > Short = 4marker
 > Long = 10maker
 > IMP = Important 
-> Pls ignore all jokes and/or any "fictional stories" All are fictional in nature never happened at our wonderful top-class clg. 
+> Pls ignore all jokes and/or any "fictional stories". All are fictional in nature that never happened at our wonderful top-class clg. 
 
 # Q1 What are the functions of the CPU? <u>Short</u>
 Ans: ==Central Processing Unit (CPU) The CPU is the brain of the computer.== It has 2 major Sub-units:
@@ -20,7 +20,6 @@ IV. Interfaces: Since CPU and I/O devices work at different speeds but interface
 > I/O Module;
 > Buffer;
 > Control Signals.
-
 
 # Q2 Explain the history of computers. <u>Long</u>
 Ans: 
@@ -40,36 +39,55 @@ Ans: Go to [U-1 notes](https://notes.tamims.space/computer-sci/computer-fundamen
 Ans: [Click Here (tooo lazy to pasta from the aother file)](https://notes.tamims.space/computer-sci/computer-fundamentals/computer_fundamentals_unit-1#different-between-h-s) For OR watch this [Video (youtube.com)](https://www.youtube.com/watch?v=gjVX47dLlN8) For "modern" bit of the answer use a computer and write about how ~~AI generated code block you from unlocking it~~. Not THAT AI can code compilers you get the picture.
 
 # Q6. What is a control unit? What are its actions? <u>Short</u>
-Ans: CU short for Control Unit Directs the flow of data between input, memory, and output units. <insert> something to make the answer longer. ~~This is the one thing everyone has learnt in the last 6mo instead skills or our course (Just saying).~~
+Ans: CU short for Control Unit Directs the flow of data between input, memory, and output units. <insert> something to make the answer longer. ~~This is the one thing everyone has learnt in the last 6m instead skills or our course which is very useful very useful indeed (Just saying).~~
 
 # Q7 What are the applications of MAN? <u>Long</u>
 Ans: 
 
-# Q8 Explain about various input and output devices.
+# Q8 Explain about various input and output devices. <u>Can be both</u>
 Ans: NO need.
 
-# Q09 What is a web browser? What are the various parts of a browser window?
-Ans: 
+# Q9 What is a web browser? What are the various parts of a browser window?
+Ans: Web browser is an application software used to explore the WWW. It acts as a platform that allows users to access information from the internet by serving as an interface between the client (user) & the server. It acts as a The browser sends requests to servers for web documents. images, links, styles, & scripts.
+
+- Extensions are small programs that add extra features and functionality to your web browser. They can customize the browser's appearance, block ads, manage passwords, translate web pages, and much more. Extensions are typically developed by third-party developers and installed from app stores specific to each browser (e.g., Firefox Add-ons). They enhance parts of the web browser capabilities. Some of popular Extensions are Dark reader, ReadAloud, VPNs, Adblockers, Add-ons for specific sites  
+
+
+ 
 
 # Q10 Explain about character formatting techniques.
 Ans: 
 # Q11 Explain the different types of shortcut keys used in MS Word. <u>Can be both</u>
-Ans: 
+Ans: I'll try to cover all the popular ones and important ones. Pls DM me if I miss something important.
+
 # Q12 How do you open and close a document in MS Word? (They won't ask such a basic Q&A in College exam will they?)
 
 # Q13 Describe the process of mail merge <u>Long</u> ++IMP++
-Ans: 
+Ans: Mail Merge feature in MS Word allows you to merge an address file with a form letter in order to generate multiple copies of the same letter, with one copy for each address in your file. This automates the task of generating the same letter for multiple recipients.
+
+It is a process of combining generic information (such as a form letter or mass e-mail) with specific information (such as a specific recipient’s e-mail address, name, or title/subject). 
+
+For instance, HR needs to inform all employees of a holiday. Or someone wants to send invitations to a lot of people for a event.
+
 
 # Q14 Explain Goal Seek with a suitable example.
 Ans: 
 
 # Q15 What is Split View in Excel? Explain its benefits.
-
-# Q17 What is a formula? What are the different formulas used in spreadsheets?
-
-# Q18 Explain logical functions in spreadsheets.
+Ans:
+# Q16 What is a formula? What are the different formulas used in spreadsheets?
+Ans:
+# Q17 Explain logical functions in spreadsheets.
 
 # Q19 What is What-If Analysis in Excel? Explain Goal Seek, Scenario Manager, and Data Tables.
 Ans:
 
-20. Explain step-by-step process on how to insert charts and sparklines in Excel. 
+# Q20 Explain step-by-step process on how to insert charts and sparklines in Excel. <u>Long</u> ++IMP++
+Ans:
+
+# Q21 
+# Q22
+# Q23
+# Q24
+# Q25
+
