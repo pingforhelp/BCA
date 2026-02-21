@@ -4,7 +4,7 @@
 > Long = 10maker
 > IMP = Important 
 
-# Q1 What are the functions of the CPU? <u>Short</u>
+# Q1 What are the functions of the CPU? Short
 Ans: ==Central Processing Unit (CPU) The CPU is the brain of the computer.== It has 2 major Sub-units:
 I. Arithmetic & Logic Unit (ALU): Performs Arithmetic operations and Logical operations. e.g., +, %, x. AND, OR, NOT, and & !;
 II. Control Unit;
@@ -26,7 +26,7 @@ Some of the important functions of the Central processing unit (CPU) are:
 - Power and resource allocation (use ez word  instead Management) for each program and service runing the system.     
 
 
-# Q2 Explain the history of computers. <u>Long</u>
+# Q2 Explain the history of computers. Long
 Ans: 
 I The Abacus (4000 BCE)
 The abacus, created by the Chinese, is often regarded as the first computing device. It consisted of beads strung on rods and was used to perform simple arithmetic operations like addition and subtraction. Over time, different versions of the abacus spread across Asia, becoming an essential tool for calculations;
@@ -43,17 +43,17 @@ Ans: Go to [U-1 notes](https://notes.tamims.space/computer-sci/computer-fundamen
 # Q5 What are the various generations of computers? Explain in detail (Or) Explain the evolution of computers from mechanical devices to modern-day systems. Include key milestones (Yes, Q2 is the yes answer as OR just add modern part of the answer).
 Ans: [Click Here (tooo lazy to pasta from the aother file)](https://notes.tamims.space/computer-sci/computer-fundamentals/computer_fundamentals_unit-1#different-between-h-s) For OR watch this [Video (youtube.com)](https://www.youtube.com/watch?v=gjVX47dLlN8) For "modern" bit of the answer use a computer and write about how ~~AI generated code block you from unlocking it~~. Not THAT AI can code compilers you get the picture.
 
-# Q6. What is a control unit? What are its actions? <u>Short</u>
-Ans: CU short for Control Unit. Controls and Coordinates all Components. Fetches, decodes and executes instructions. Maintain the sequence of operations. <insert> something to make the answer longer maybe block diagram of a computer.
+# Q6. What is a control unit? What are its actions? Short
+Ans: CU short for Control Unit. Controls and Coordinates all Components. Fetches, decodes and executes instructions. Maintain the sequence of operations. `<insert>` something to make the answer longer maybe block diagram of a computer.
 
-# Q7 What are the applications of MAN? <u>Long</u>
+# Q7 What are the applications of MAN? Long
 Ans: Use Cases: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
 
 
-# Q8 Explain about various  input and output devices. <u>Can be both</u>
+# Q8 Explain about various input and output devices. Can be both
 Ans: NO need.
 
-# Q9 What is a web browser? What are the various parts of a browser window? <u>I don't know</u>
+# Q9 What is a web browser? What are the various parts of a browser window? I don't know.
 Ans: Web browser is an application software used to explore the WWW. It acts as a platform that allows users to access information from the internet by serving as an interface between the client (user) & the server. It acts as a The browser sends requests to servers for web documents. images, links, styles, & scripts.
 
 - Extensions are small programs that add extra features and functionality to your web browser. They can customize the browser's appearance, block ads, manage passwords, translate web pages, and much more. Extensions are typically developed by third-party developers and installed from app stores specific to each browser (e.g., Firefox Add-ons). They enhance parts of the web browser capabilities. Some of popular Extensions are Dark reader, ReadAloud, VPNs, Adblockers, Add-ons for specific websites Process Feedback for Google Docs.
@@ -64,12 +64,12 @@ Ans: Web browser is an application software used to explore the WWW. It acts as 
 
 # Q10 Explain about character formatting techniques.
 Ans: 
-# Q11 Explain the different types of shortcut keys used in MS Word. <u>Can be both</u>
+# Q11 Explain the different types of shortcut keys used in MS Word. Can be both
 Ans: I'll try to cover all the popular ones and important ones. Pls DM me if I miss something important.
 
 # Q12 How do you open and close a document in MS Word? (They won't ask such a basic Q&A in College exam will they?)
 Ans: Not needed.
-# Q13 Describe the process of mail merge <u>Long</u> ++IMP++
+# Q13 Describe the process of mail merge Long ++IMP++
 Ans: Mail Merge feature in MS Word allows you to merge an address file with a form letter in order to generate multiple copies of the same letter, with one copy for each address in your file. This automates the task of generating the same letter for multiple recipients. It is a process of combining generic information (such as a form letter or mass e-mail) with specific information (such as a specific recipient’s e-mail address, name, or title/subject). For instance, HR needs to inform all employees of a holiday. Or someone wants to send invitations to a lot of people for a event.
 
 Step by step process
@@ -94,10 +94,10 @@ Ans: pt.A
 
 # Q17 Explain logical functions in spreadsheets.
 Ans: 
-# Q19 What is What-If Analysis in Excel? Explain Goal Seek, Scenario Manager, and Data Tables. <u>Long</u>
+# Q19 What is What-If Analysis in Excel? Explain Goal Seek, Scenario Manager, and Data Tables. Long
 Ans: 
 
-# Q20 Explain step-by-step process on how to insert charts and sparklines in Excel. <u>Long</u> ++IMP++
+# Q20 Explain step-by-step process on how to insert charts and sparklines in Excel. Long ++IMP++
 Ans: Pt.A
 
 Steps
