@@ -19,6 +19,12 @@ IV. Interfaces: Since CPU and I/O devices work at different speeds but interface
 > I/O Module;
 > Buffer;
 > Control Signals.
+ 
+Some of the important functions of the Central processing unit (CPU) are:
+- Processing.
+- Make sure that all that hardware components are plug, and are ready for BOOT.
+- Power and resource allocation (use ez word  instead Management) for each program and service runing the system.     
+
 
 # Q2 Explain the history of computers. <u>Long</u>
 Ans: 
@@ -38,10 +44,11 @@ Ans: Go to [U-1 notes](https://notes.tamims.space/computer-sci/computer-fundamen
 Ans: [Click Here (tooo lazy to pasta from the aother file)](https://notes.tamims.space/computer-sci/computer-fundamentals/computer_fundamentals_unit-1#different-between-h-s) For OR watch this [Video (youtube.com)](https://www.youtube.com/watch?v=gjVX47dLlN8) For "modern" bit of the answer use a computer and write about how ~~AI generated code block you from unlocking it~~. Not THAT AI can code compilers you get the picture.
 
 # Q6. What is a control unit? What are its actions? <u>Short</u>
-Ans: CU short for Control Unit Directs the flow of data between input, memory, and output units. <insert> something to make the answer longer maybe block Diagram of a computer.
+Ans: CU short for Control Unit. Controls and Coordinates all Components. Fetches, decodes and executes instructions. Maintain the sequence of operations. <insert> something to make the answer longer maybe block diagram of a computer.
 
 # Q7 What are the applications of MAN? <u>Long</u>
-Ans: 
+Ans: Use Cases: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
+
 
 # Q8 Explain about various  input and output devices. <u>Can be both</u>
 Ans: NO need.
@@ -71,19 +78,30 @@ Step by step process
 
 
 # Q14 Explain Goal Seek with a suitable example.
-Ans: 
+Ans: What......so on
+
+Explain 
+
+Example and with small how-to.
 
 # Q15 What is Split View in Excel? Explain its benefits.
-Ans:
-# Q16 What is a formula? What are the different formulas used in spreadsheets?
-Ans:
-# Q17 Explain logical functions in spreadsheets.
+Ans: pt.A
 
-# Q19 What is What-If Analysis in Excel? Explain Goal Seek, Scenario Manager, and Data Tables.
-Ans:
+Pt.B
+
+# Q16 What is a formula? What are the different formulas used in spreadsheets?
+Ans: pt.A
+
+# Q17 Explain logical functions in spreadsheets.
+Ans: 
+# Q19 What is What-If Analysis in Excel? Explain Goal Seek, Scenario Manager, and Data Tables. <u>Long</u>
+Ans: 
 
 # Q20 Explain step-by-step process on how to insert charts and sparklines in Excel. <u>Long</u> ++IMP++
-Ans:
+Ans: Pt.A
+
+Steps
+......
 
 # Q21 
 # Q22
