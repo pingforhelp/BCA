@@ -96,12 +96,12 @@ Ans: I'll try to cover all the popular ones and important ones. Pls DM me if I m
 
 # Q12 How do you open and close a document in MS Word? (They won't ask such a basic Q&A in College exam will they?)
 Ans: Not needed.
+
 # Q13 Describe the process of mail merge. Long ++IMP++
 Ans: Mail Merge feature in MS Word allows you to merge an address file with a form letter in order to generate multiple copies of the same letter, with one copy for each address in your file. This automates the task of generating the same letter for multiple recipients. It is a process of combining generic information (such as a form letter or mass e-mail) with specific information (such as a specific recipient’s e-mail address, name, or title/subject). For instance, HR needs to inform all employees of a holiday. Or someone wants to send invitations to a lot of people for a event.
 
 
 Step 1: Accessing Word 2010 Mail Merge Commands
-
 - Open a blank Word document.
 - From the Mailings tab, in the Start Mail Merge group, click on Start Mail Merge and from the menu that appears, select the desired option to create your mail merge.
 
@@ -125,12 +125,10 @@ From the Mailings tab, in the Start Mail Merge group, click on Select Recipients
 - **Select from Outlook Contacts**: Use existing Outlook contacts as recipients.
 
 Step 4: Write and Insert Fields
-
 - Place the insertion pointer where you want a field to appear.
 - From the Mailings tab, in the Write & Insert Fields group, click the desired option to add text and variable information to your document.
 
 Frequently used options include:
-
 - **Address Block**: Specifies the format of recipients’ names and postal addresses.
 - **Greeting Line**: Formats how the greeting line will appear (e.g., Dear Mr. Rao, Dear Sir or Madam).
 - **Insert Merge Field**: Inserts fields such as first name, last name, phone number, state, etc.
@@ -138,25 +136,18 @@ Frequently used options include:
 Step 5: Previewing Your Documents
 
 The Mail Merge task pane allows you to review what the merged document will look like before finalizing.
-
 - From the Mailings tab, in the Preview Results group, click Preview Results.
 - Browse through entries using the Previous or Next button.
 
 Step 6: Completing the Mail Merge
 
 The final step is to accept the preview and direct MS-Word to perform the merge. You can:
-
 - Print the merged documents.
 - Edit individual documents before printing.
 
-
-
 # Q14 Explain Goal Seek with a suitable example.
-Ans: What......so on
+Ans: 
 
-Explain 
-
-Example and with small how-to.
 
 # Q15 What is Split View in Excel? Explain its benefits.
 Ans: pt.A
