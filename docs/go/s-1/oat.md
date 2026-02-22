@@ -1,8 +1,8 @@
 # OAT Important Questions
 > [!TIP]
-> Short = 4marker
-> Long = 10marker
-> IMP = Important 
+> Short = 4marker.
+> Long = 10marker.
+> IMP = Important. 
 
 # Q1 What are the functions of the CPU? Short
 Ans: ==Central Processing Unit (CPU) The CPU is the brain of the computer.== It has 2 major Sub-units:
@@ -25,9 +25,9 @@ Some of the important functions of the Central processing unit (CPU) are:
 - Make sure that all the hardware components are plunged, and ready for BOOT.
 - Power and resource allocation (use easy word  instead management) for each program and service in the system.     
 
-
 # Q2 Explain the history of computers. Long
 Ans: 
+
 I The Abacus (4000 BCE)
 The abacus, created by the Chinese, is often regarded as the first computing device. It consisted of beads strung on rods and was used to perform simple arithmetic operations like addition and subtraction. Over time, different versions of the abacus spread across Asia, becoming an essential tool for calculations;
 
@@ -52,7 +52,7 @@ Ans: [Click Here (tooo lazy to pasta from the other file)](https://notes.tamims.
 Ans: CU short for Control Unit. Controls and Coordinates all Components. Fetches, decodes and executes instructions. Maintain the sequence of operations. `<insert>` something to make the answer longer maybe block diagram of the computer.
 
 # Q7 What are the applications of MAN? Short
-Ans: Use Cases: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
+Ans: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
 
 
 # Q8 Explain about various input and output devices. Can be both
