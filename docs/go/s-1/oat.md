@@ -99,8 +99,55 @@ Ans: Not needed.
 # Q13 Describe the process of mail merge. Long ++IMP++
 Ans: Mail Merge feature in MS Word allows you to merge an address file with a form letter in order to generate multiple copies of the same letter, with one copy for each address in your file. This automates the task of generating the same letter for multiple recipients. It is a process of combining generic information (such as a form letter or mass e-mail) with specific information (such as a specific recipient’s e-mail address, name, or title/subject). For instance, HR needs to inform all employees of a holiday. Or someone wants to send invitations to a lot of people for a event.
 
-Step by step process
-1. and so on.
+
+Step 1: Accessing Word 2010 Mail Merge Commands
+
+- Open a blank Word document.
+- From the Mailings tab, in the Start Mail Merge group, click on Start Mail Merge and from the menu that appears, select the desired option to create your mail merge.
+
+
+Step 2: Choosing a Document Type
+
+Your options for selecting a document type include the following:
+
+- **Letters**: Allows you to alter one letter and send it to multiple people.
+- **E-mail Messages**: Allows you to personalize letters designed to be sent to multiple people via e-mail.
+- **Envelopes**: Allows you to print envelopes addressed to multiple people.
+- **Labels**: Allows you to print labels addressed to multiple people.
+- **Directory**: Allows you to gather varied but related information into a list such as a department directory (can include list names, phone numbers, etc.).
+
+Step 3: Choosing the Recipients
+
+From the Mailings tab, in the Start Mail Merge group, click on Select Recipients and choose one of the following:
+
+- **Type New List**: Create a new recipient list by typing each recipient.
+- **Use Existing List**: Select an existing database list.
+- **Select from Outlook Contacts**: Use existing Outlook contacts as recipients.
+
+Step 4: Write and Insert Fields
+
+- Place the insertion pointer where you want a field to appear.
+- From the Mailings tab, in the Write & Insert Fields group, click the desired option to add text and variable information to your document.
+
+Frequently used options include:
+
+- **Address Block**: Specifies the format of recipients’ names and postal addresses.
+- **Greeting Line**: Formats how the greeting line will appear (e.g., Dear Mr. Rao, Dear Sir or Madam).
+- **Insert Merge Field**: Inserts fields such as first name, last name, phone number, state, etc.
+
+Step 5: Previewing Your Documents
+
+The Mail Merge task pane allows you to review what the merged document will look like before finalizing.
+
+- From the Mailings tab, in the Preview Results group, click Preview Results.
+- Browse through entries using the Previous or Next button.
+
+Step 6: Completing the Mail Merge
+
+The final step is to accept the preview and direct MS-Word to perform the merge. You can:
+
+- Print the merged documents.
+- Edit individual documents before printing.
 
 
 
