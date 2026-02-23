@@ -432,7 +432,7 @@ The following spreadsheet shows the use of COUNT function:
 | 2 | text |   |   |   | 2 | text |   | 3 |
 | 3 | FALSE |   |   |   | 3 | FALSE |   | 4 |
 | 4 | 01/01/2015 |   |   |   | 4 | 01/01/2015 |   | 1 |
-| 5 | #N/A | 10 |   |   | 5 | #N/A | 10 |   |
+| 5 | #N/A | 10 |   |   | 5 | N/A | 10 |   |
 Page : 242 Introduction to MS-Excel (MS-Excel Advanced Pro)
 
 (4) MAX
@@ -469,7 +469,7 @@ The following spreadsheet shows the use of MIN function:
 | 4 | 5 | 4 | 5 |  |
 | 5 | 2 | 5 | 2 |  |
 
-(6) IF
+==(6)== IF
 
 The IF function checks whether a condition is met or not. It returns one value if the condition is TRUE and another value if the condition is FALSE.---
 
@@ -961,5 +961,5 @@ Introduction to MS-Excel (MS-Excel Advanced Features)
 Q6. What is Chart? How to create a chart in Excel?
 Or
 What do you mean by Embedded Chart? Write the procedure for creating a chart in MS-Excel.
-Ans: Refer section 2.23 & 2.24
+Ans: Refer section 2.23 & 2.24.
 
