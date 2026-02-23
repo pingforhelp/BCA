@@ -175,7 +175,6 @@ Ans:
 
 # Q20 Explain step-by-step process on how to insert charts and sparklines in Excel. Long ++IMP++
 Ans:
-......
 
 # Q21 U-4
 # Q22 U-3
