@@ -1,8 +1,10 @@
 # OAT Important Questions
+
 > [!TIP]
-> Short = 4marker.
+> Short = 04marker.
 > Long = 10marker.
-> IMP = Important. 
+> IMP = Important.
+ 
 
 # Q1 What are the functions of the CPU? Short
 Ans: ==Central Processing Unit (CPU) The CPU is the brain of the computer.== It has 2 major Sub-units:
@@ -157,6 +159,12 @@ Ans: [Not in textbook (support.microsoft.com)](https://support.microsoft.com/en-
 
 # Q16 What is a formula? What are the different formulas used in spreadsheets?
 Ans: Formula are equations that perform calculations on data values in the Worksheet. Like any Calculator excel can execute formulas that   +, -, /, X. A formula can be a combination of constant values, cell reference, and mathematical operatiors (+, =, ×, *, -).
+
+Different formulas:
+- 
+-
+- 
+- 
 
 
 
