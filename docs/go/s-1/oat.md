@@ -150,12 +150,15 @@ Ans:
 
 
 # Q15 What is Split View in Excel? Explain its benefits.
-Ans: pt.A
+Ans: [Not in textbook (support.microsoft.com)](https://support.microsoft.com/en-us/office/view-multiple-panes-sheets-or-workbooks-fcdfb33e-5168-470d-a3d6-7ef1663599f3)
 
-Pt.B
+[How to (ablebits.com)](https://www.ablebits.com/office-addins-blog/excel-split-screen/)
+
 
 # Q16 What is a formula? What are the different formulas used in spreadsheets?
-Ans: pt.A
+Ans: Formula are equations that perform calculations on data values in the Worksheet. Like any Calculator excel can execute formulas that   +, -, /, X. A formula can be a combination of constant values, cell reference, and mathematical operatiors (+, =, ×, *, -).
+
+
 
 # Q17 Explain logical functions in spreadsheets.
 Ans: 
