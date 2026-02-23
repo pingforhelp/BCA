@@ -535,23 +535,16 @@ Fig. 2.70(b) (Goal Seek: Goal Seek in What-If Analysis)
 
 • Select the To Value text box and enter the goal. This is the value you want the formula in the Set Cell box to reach. In this example, it’s 22.
 
-```
-[Image of Goal Seek dialog box with "Set cell:" showing C1 and "To value:" showing 22]
-```
 
 Fig. 2.70(c) (Goal Seek: Goal Seek dialog box)
 
-• Select the By Changing Cell text box and select the cell that you want to change. Excel will change the value in this cell reference to try to reach the goal in the To Value box. In this example, if you select cell A1 to change its value, Excel will set it to 13 so that target value in the To Value box could be achieved.
-
-```
-[Image of Goal Seek dialog box with "By changing cell:" showing A1]
-```
+• Select the By Changing Cell text box and select the cell that you want to change. Excel will change the value in this cell reference to try to reach the goal in the To Value box. In this example, if you select cell A1 to change its value, Excel will set it to 13 so that target value in the To Value box could be achieved. 
 
 Fig. 2.70(d) (Goal Seek: Select Cell for By changing cell text box)
 
 • Click OK. Excel displays the Goal Seek Status dialog box along with the results.Fig. 2.70(e) (Goal Seek: Goal Seek Status Dialog box)
 
-Scenario Manager
+#### Scenario Manager
 
 The use of Scenario Manager in Excel allows you to have a certain set of inputs for a “scenario”, and then lets you view different scenarios of the outputs as the change. Basically, it tells you “if this were to change”, “this is the result”; and it allows to happen for multiple cases or “scenarios”. This can help give people information to decisions on their business (or whatever it may be used for) based on the different as displayed by Scenario Manager.
 
@@ -578,21 +571,15 @@ Introduction to MS-Excel (MS-Excel Advanced Features)
 
 (ii) The Scenario Manager dialog box appears.
 
-![Scenario Manager Dialog Box](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w+n8AAAAAElFTkSuQmCC)
+
 
 Fig. 2.70(h) (Scenario: Scenario Manager Dialog Box)
 
 (iv) To create a scenario, click the Add button. The Add Scenario dialog box appears.
 
-![Add Scenario Dialog Box](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w+n8AAAAAElFTkSuQmCC)
-
 Fig. 2.70(I) (Scenario: Add Scenario Dialog Box)Introduction to MS-Excel (MS-Excel Advanced Features) Page : 2.47
 
-(v) Type the name of the scenario in the Scenario Name text box, specify the Changing Cells (if they were not previously selected), and click OK.
-
-```
-[Image of Add Scenario dialog box with Scenario Name: My_Scenario, Changing cells: A1:F5, Comment: Created by PK on 5/25/2013, and checkboxes for Prevent changes and Hide]
-```
+(v) Type the name of the scenario in the Scenario Name text box, specify the Changing Cells (if they were not previously selected), and click `OK`
 
 Fig. 2.70(l) (Scenario: Setting Name and Changing Cells Values)
 
@@ -608,7 +595,7 @@ Introduction to MS-Excel (MS-Excel Advanced Features)
 
 (vii) Enter the values for each of the changing cells in the text boxes.
 
-![Scenario Values](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)[Fig. 2.70(l) (Scenario: Enter Values for Each Changing Cells)]
+Fig. 2.70(l) (Scenario: Enter Values for Each Changing Cells
 
 (viii) Click on Add button. Excel redisplays the Add Scenario dialog box.
 
@@ -626,7 +613,7 @@ Introduction to MS-Excel (MS-Excel Advanced Features)
 
 *   Charts can help you to make better decisions. By understanding your data better and identifying trends, you can make better decisions about your business or other activities.
 
-## 2.23.2 ELEMENTS OF CHART
+2.23.2 ELEMENTS OF CHART
 
 In Excel, a chart comprises of following elements:
 
@@ -634,13 +621,12 @@ In Excel, a chart comprises of following elements:
 
 Fig. 2.71 (Elements of a Chart)
 
-*   **Source Data**
+**Source Data**
+This is the range of cells that make up a chart. The chart is updated automatically whenever the data in these cells changes.
 
-    This is the range of cells that make up a chart. The chart is updated automatically whenever the data in these cells changes.
+**Chart Title**
 
-*   **Chart Title**
-
-    The chart title is a text box that you can place anywhere on the chart. It should be a brief, clear, and informative description of the chart.
+The chart title is a text box that you can place anywhere on the chart. It should be a brief, clear, and informative description of the chart.
 ## ditions to MS-Excel (MS-Excel Advanced Features) Page: 2.51
 
 **Legend**
@@ -679,19 +665,19 @@ Fig. 2.72 (Area Chart)Page: 2.52
 
 Introduction to MS-Excel (MS-Excel Advanced Features)
 
-*   COLUMN CHART
+COLUMN CHART
 
 Column chart uses vertical bars or columns to represent data. They can work with many different types of data, but they are most frequently used for comparing information.
 
 Fig. 2.73 (Column Chart)
 
-*   BAR CHART
+BAR CHART
 
 Bar chart is similar to a column chart except these use horizontal instead of vertical bars. Like the column chart, the bar chart shows variations in value over time.
 
 Fig. 2.74 (Bar Chart)# Solution to MS-Excel (MS-Excel Advanced Features) Page: 2.93
 
-## LINE CHART
+LINE CHART
 
 A line chart shows trends and variations in data over time. A line chart displays a series of points, called data points, that are connected over time. The data points are connected with lines, making it easy to see whether values are increasing or decreasing over time.
 
