@@ -23,7 +23,7 @@ The process to copy and paste a formula is identical to that process used to cop
 
 To Copy and Paste a Formula:
 
-*   Select the cell that contains the formula to be copied.
+Select the cell that contains the formula to be copied.
 
 
 Fig. 2.32 (Copy a Formula)
@@ -48,7 +48,7 @@ In Figure 2.36, the formula in A3 is =A1+A2. When you copy the formula from A3 t
 
 Example:
 
-*   Enter the numbers (Figure 2.38) you want to calculate (e.g., 34,567.00 in cell B2 and 1,234.00 in cell B3).
+Enter the numbers (Figure 2.38) you want to calculate (e.g., 34,567.00 in cell B2 and 1,234.00 in cell B3).
 
 Page: 2.25
 
@@ -88,24 +88,27 @@ Press the keyboard shortcut "Ctrl + F" to open the Find and Replace dialog box. 
 The "Find and Replace" dialog box will appear. In the "Find what" field, enter the text or value you want to find.
 
 
-Fig. 2.44 (Find and Replace Dialog Box: Find what)
 
 If you want to replace the found content with new text or value, enter the replacement content in the "Replace with" field. If you don't want to replace the found content, leave the "Replace with" field blank.
-Page : 2.28
 
 Introduction to MS-Excel (MS-Excel Advanced Features)
 
-*   You can use various options in the dialog box to control the find and replace operation:
-    *   "Match case": Check this option to make the search case-sensitive. It will only find matches with the exact casing you entered.
+You can use various options in the dialog box to control the find and replace operation:
+
+"Match case": Check this option to make the search case-sensitive. It will only find matches with the exact casing you entered.
     *   "Match entire cell contents": Check this option to find and replace only when the entire cell content matches the search value.
-    *   "Look in": Choose whether you want to search in the formulas, values, or comments of cells.
 
-*   Once you have set up your find and replace criteria, you can use the following buttons to control the operation:
-    *   "Find Next": Click this button to find the first occurrence of the search value. Excel will select the cell where the first match is found.Introduction to MS-Excel (MS-Excel Advanced Features) Page: 2.29
+"Look in": Choose whether you want to search in the formulas, values, or comments of cells.
 
-*   "Replace": Click this button to replace the selected occurrence with the replacement value and find the next match.
-*   "Replace All": Click this button to replace all occurrences of the search value with the replacement value without further confirmation.
-*   After you have completed the find and replace operation, click "Close" to close the dialog box.
+Once you have set up your find and replace criteria, you can use the following buttons to control the operation:
+
+"Find Next": Click this button to find the first occurrence of the search value. Excel will select the cell where the first match is found.Introduction to MS-Excel (MS-Excel Advanced Features) Page: 2.29
+
+"Replace": Click this button to replace the selected occurrence with the replacement value and find the next match.
+
+"Replace All": Click this button to replace all occurrences of the search value with the replacement value without further confirmation.
+
+After you have completed the find and replace operation, click "Close" to close the dialog box.
 
 2.18 SPEEDING UP DATA ENTRY
 
@@ -117,14 +120,14 @@ Fill tool is a way to duplicate existing content. It basically helps you fill in
 
 To Use Fill Tool:
 
-*   Start by selecting the cell to copy. You will notice a small square—called a Fill handle—in the bottom right-hand corner of the cell.
+Start by selecting the cell to copy. You will notice a small square—called a Fill handle—in the bottom right-hand corner of the cell.
 
-*   Hold your mouse pointer over the fill handle; it will change to a plus sign (+).
+Hold your mouse pointer     the fill handle; it will change to a plus sign (+).
 Page: 230
 
 Introduction to MS-Excel (MS-Excel Advanced Features)
 
-*   Click on the + sign and drag the mouse in any direction (Down, Up, Right or Left).
+Click on the + sign and drag the mouse in any direction (Down, Up, Right or Left).
 
     |   | A   | B   |
     |---|-----|-----|
@@ -145,7 +148,7 @@ Introduction to MS-Excel (MS-Excel Advanced Features)
 
 OR
 
-*   Hold down the Shift key and click in the last cell you want to fill. Thereafter, click on Home tab → Editing group → Fill command. A drop-down list will be appeared. Select the direction (say-down) in which you want to copy.
+Hold down the Shift key and click in the last cell you want to fill. Thereafter, click on Home tab → Editing group → Fill command. A drop-down list will be appeared. Select the direction (say-down) in which you want to copy.
 
     Σ AutoSum ▾
     
@@ -167,7 +170,7 @@ OR
 
     Fig. 2.49 (Fill Command)
 
-*   The result would be look like:
+The result would be look like:
 
     |   | A   | B   |
     |---|-----|-----|
@@ -182,7 +185,8 @@ OR
     | 9 | BCA |     |
     | 10| BCA |     |
     | 11|     |     |
-    | 12|     |     |# 3.2 FILL SERIES
+    | 12|     |     |# 3.
+
 
 Page : 231
 
@@ -229,10 +233,11 @@ Series dialog box will be displayed.Page : 2.32
 
 Introduction to MS-Excel (MS-Excel Advanced Features)
 
-*   In the Series dialog box, select AutoFill as the Series type.
-*   Click OK.
+In the Series dialog box, select AutoFill as the Series type.
 
-*   The selected cells then fill in the other items on the list sequentially, repeating from the top of the list when they reach the end of the list.
+Click OK.
+
+The selected cells then fill in the other items on the list sequentially, repeating from the top of the list when they reach the end of the list.
 
 
 
@@ -240,29 +245,26 @@ Introduction to MS-Excel (MS-Excel Advanced Features)
 
 Page: 2.34 Introduction to MS-Excel (MS-Excel Advanced book)
 
-*   Now, the data in the spreadsheet will be organized alphabetically.
+Now, the data in the spreadsheet will be organized alphabetically.
 
-![Sorted List](https://i.imgur.com/placeholder.png)
-Fig. 2.56 (Sorted List)
+
 
 Note: You can sort in reverse alphabetical order by choosing Sort Z to A in the list.
 
 To Sort in Numerical Order:
 
-*   Select a cell in the column you want to sort (a column with numbers).
+Select a cell in the column you want to sort (a column with numbers).
 
-![Select a Cell from the Column](https://i.imgur.com/placeholder.png)
 Fig. 2.57 (Sorting: Select a Cell from the Column)
 
-*   Click the Sort & Filter command in the Editing group on the Home tab. Select Sort Smallest to Largest.
 
-![Sorting: Sort Smallest to Largest](https://i.imgur.com/placeholder.png)
+Click the Sort & Filter c and in the Editing group on the Home tab. Select Sort Smallest to Largest.
+
+
 Fig. 2.58 (Sorting: Sort Smallest to Largest)# Introduction to MS-Excel (MS-Excel Advanced Features) Page: 2.35
 
 Now, the data in the spreadsheet will be organized numerically from the smallest to largest value.
 
-![Sorted List](https://i.imgur.com/some_image_url.png)
-*Fig. 2.59 (Sorted List)*
 
 Note: You can sort in reverse numerical order by choosing Sort Largest to Smallest in the list.
 
@@ -270,13 +272,15 @@ Note: You can sort in reverse numerical order by choosing Sort Largest to Smalle
 
 *   Select a cell in the column you want to sort.
 
-![Sorting: Select a Cell from the Column](https://i.imgur.com/some_image_url.png)
+
+
 *Fig. 2.60 (Sorting: Select a Cell from the Column)*
 
-*   Click the Sort & Filter command in the Editing group on the Home tab. Select Sort Oldest to Newest.
+Click the Sort & Filter command in the Editing group on the Home tab. Select Sort Oldest to Newest.
 
-![Sorting: Sort Oldest to Newest](https://i.imgur.com/some_image_url.png)
-*Fig. 2.61 (Sorting: Sort Oldest to Newest)*• Now, the data in the spreadsheet will be organized by date or time.
+
+
+Now, the data in the spreadsheet will be organized by date or time.
 
 |   | A      | B   | C     | D           |
 |---|--------|-----|-------|-------------|
@@ -307,7 +311,7 @@ To filter data in Excel:
 
 • Prepare your data for an Excel AutoFilter. Excel can filter the data in cells within a range, as long as there are no completely blank rows or the selected range. Once a blank row or column is encountered, fill data in the range you wish to filter is separated by blank rows or them before proceeding with the AutoFilter.
 
-• Conversely, if there is data in the worksheet that you do not want filtered data, separate that data using one or more blank rows below the data you don’t want to filter is located beneath the data to be one completely blank row to end filtering. If the data you do located to the right of the data. Use a completely blank column.
+Conversely, if there is data in the worksheet that you do not want filtered data, separate that data using one or more blank rows below the data you don’t want to filter is located beneath the data to be one completely blank row to end filtering. If the data you do located to the right of the data. Use a completely blank column.
 
 Select any cell within the data list, and then:
 
@@ -339,7 +343,6 @@ Fig. 2.65 (Filter Command)
 
 *   Drop-down arrows will appear at the top of each column range. If the range of cells contains column headings, the drop-down arrows will appear in the headings.
 
-![Filtering: Drop-down arrows at the top of each column](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)
 
 Fig. 2.66 (Filtering: Drop-down arrows at the top of each column)
 
@@ -498,11 +501,11 @@ el, What-If analysis is a set of tools that allow you to explore the impact of c
 
 ### Goal Seek
 
-el, the Goal Seek feature is a *what-if* analysis tool that enables you to find the input eded to achieve a goal or objective. To use Goal Seek, you select the cell containing la that will return the result you’re seeking and then indicate the target value you formula to return and the location of the input value that Excel can change to reach
+the Goal Seek feature is a *what-if* analysis tool that enables you to find the input eded to achieve a goal or objective. To use Goal Seek, you select the cell containing la that will return the result you’re seeking and then indicate the target value you formula to return and the location of the input value that Excel can change to reach
 
-### Goal Seek:
 
-lect the cell containing the formula that will return the result you’re seeking. In this ample, cell C1 (Fig. 2.70(a)).
+
+Slect the cell containing the formula that will return the result you’re seeking. In this ample, cell C1 (Fig. 2.70(a)).
 
 ```
    C1
@@ -585,9 +588,8 @@ Fig. 2.70(l) (Scenario: Setting Name and Changing Cells Values)
 
 (vi) Excel displays the Scenario Values dialog box.
 
-```
-[Image of Scenario Values dialog box with Enter values for each of the changing cells: $A$1: First, $B$1: Day, $C$1: Worker, $D$1: Amount]
-```
+`
+
 
 Fig. 2.70(k) (Scenario: Scenario Values Dialog Box)Page: 2.48
 
@@ -617,7 +619,7 @@ Introduction to MS-Excel (MS-Excel Advanced Features)
 
 In Excel, a chart comprises of following elements:
 
-![Elements of a Chart](https://i.imgur.com/placeholder.png) 
+ 
 
 Fig. 2.71 (Elements of a Chart)
 
@@ -695,15 +697,11 @@ To create a new chart, you must first enter the data into a worksheet. This sect
 
 **To Create a Chart:**
 
-*   First of all, enter the data into the worksheet and highlight all the cells that will be included in the chart including the column titles and the row labels. These cells will be the source data for the chart.
+First of all, enter the data into the worksheet and highlight all the cells that will be included in the chart including the column titles and the row labels. These cells will be the source data for the chart.
 
-    ![Highlight the cells that will be included in the chart](Fig. 2.77)
+Click the Insert tab. In the Charts group, select the desired Chart Category (say: Column).
 
-*   Click the Insert tab. In the Charts group, select the desired Chart Category (say: Column).
-
-    ![Selecting Chart Category](Fig. 2.78)
-
-*   Select the desired Chart type from the drop-down menu (say: Clustered Column).
+Select the desired Chart type from the drop-down menu (say: Clustered Column).
 to MS-Excel (MS-Excel Advanced Features) Page: 2.55
 
 Fig. 2.79 (Selecting Chart Type Under Chart Category)
@@ -728,7 +726,6 @@ To Print Chart:
 *   Click the worksheet that contains the chart that you want to print.
 *   On the View tab, in the Workbook Views group, click Page Layout or Page Break Preview.
 
-![Page Layout Command](Fig. 2.81 (Page Layout Command))
 
 *   To move the chart, drag it to a preferred location on the page that you want to print.
 *   If a worksheet contains more than one chart, you may be able to print the charts on one page by reducing the size of the charts.
@@ -858,15 +855,17 @@ How do you create a new workbook in Excel?
 
 **To Create a New Workbook:**
 
-*   Open Excel and click on the "File" tab.
-*   Select "New" and choose "Blank Workbook" or a template from the available options.
+Open Excel and click on the "File" tab.
+
+Select "New" and choose "Blank Workbook" or a template from the available options.
 
 How can you rename a worksheet in Excel?
 
 **To Rename a Worksheet:**
 
-*   Right-click on the worksheet tab at the bottom of the Excel window.
-*   Select "Rename" and enter a new name for the worksheet.
+Right-click on the wsheet tab at the bottom of the Excel window.
+
+Select "Rename" and enter a new name for the worksheet.
 
 What is the purpose of grouping worksheets in Excel?
 
