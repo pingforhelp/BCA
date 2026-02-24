@@ -239,11 +239,14 @@ The chart will appear in the worksheet.
 # Q21 What is cell reference?
 # Q22 What is IP  and its versions.
 # Q23
-# Q24 PPT
+# Q24 
 # Q25 What is a domain and its Various components.
 # Q26 What is email? 
-# Q27 
+# Q27 Types of Computers
 # Q28 Model paper IMP.
 # Q29 Model paper IMP.
-# Q30
+# Q30 Write a note to network topologies (Bus, Ring, Star) and why networks are needed.
+# Q31 Explain the steps to design a professional presentation.
+# Q32 Write the steps for filtering and sorting in Excel.
+
 
