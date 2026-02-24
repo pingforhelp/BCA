@@ -4,8 +4,6 @@
 > Short = 04marker.
 > Long = 10marker.
 > IMP = Important.
- 
-
 # Q1 What are the functions of the CPU? Short
 Ans: ==Central Processing Unit (CPU) The CPU is the brain of the computer.== It has 2 major Sub-units:
 I. Arithmetic & Logic Unit (ALU): Performs Arithmetic operations and Logical operations. e.g., +, %, x. AND, OR, NOT, and & !;
@@ -48,7 +46,57 @@ VII Artificial Intelligence (AI) AI is rapidly becoming a cornerstone of modern 
 Ans: Go to [U-1 notes](https://notes.tamims.space/computer-sci/computer-fundamentals/computer_fundamentals_unit-1)
 
 # Q5 What are the various generations of computers? Explain in detail (Or) Explain the evolution of computers from mechanical devices to modern-day systems. Include key milestones (Yes, Q2 is the yes answer as OR just add modern part of the answer).
-Ans: [Click Here (tooo lazy to pasta from the other file)](https://notes.tamims.space/computer-sci/computer-fundamentals/computer_fundamentals_unit-1#different-between-h-s) For OR watch this [Video (youtube.com)](https://www.youtube.com/watch?v=gjVX47dLlN8) For "modern" bit of the answer use a computer and write about how ~~AI generated code block you from unlocking it~~. Not THAT AI can code compilers you get the picture.
+Ans: 
+The **first generation** used vacuum tubes as the main electronic response for processing data.
+- The first generations were from 1942–1955.
+- These computers were physically large and required huge rooms.
+- Used magnetic drums for memory storage.
+- Used punched cards and paper tapes for input/output.
+
+Disadvantages:
+- They consumed more power.-
+- These computers were large in size.
+- These computers produced a large amount of heat.
+- They had limited commercial use.
+
+The **second generation** computers were manufactured in the years 1955–1964.
+- These computers used transistors in place of vacuum tubes.
+- They were smaller in size and required less space for installation.
+- They used magnetic tapes as secondary storage devices.
+- They consumed less power and produced less amount of heat.
+- They were about 10 times faster than first generation computers.
+- They were more reliable. Less prone to hardware failure compared to the first generation.
+
+The **third generation** computers were manufactured in the years 1964–1975.
+- These computers used integrated circuits (ICs) instead of vacuum tubes and transistors.
+- The size of these computers was smaller than earlier computers.
+- These computers used magnetic disks as their secondary storage devices.
+- Development of standard programming languages such as FORTRAN and BASIC.
+- The manufacturing cost of these computers was less compared to previous generations.
+- These computers used standard I/O devices such as keyboard, mouse, and monitors.
+- These systems were used for both scientific and commercial purposes.
+- They were more reliable and less prone to errors.
+
+The **fourth generation** of computers were manufactured in the years 1975–1989.
+- These systems used microprocessors as the main electronic processing devices.-The size of these computers was very small
+- compared to previous generations.
+- They consumed less power than third generation computers.
+- They used large primary and secondary storage compared to third generation.
+- These computers used standard high-level languages such as C, C++, JAVA, and Data Structures.
+- These systems could use GUI (Graphical User Interface).
+- They were more reliable and less prone to hardware failures than third generation.
+- These computers could be networked (e.g., Printing).
+- The fifth generation computers were manufactured in the year 1989 onwards.
+
+The **Fifth generation** computers used Artificial Intelligence (AI) instead of ICs and transistors.
+AI is a branch of Computer Science that aims to make computers behave like humans.
+- These computers are portable and much smaller than fourth generation computers.
+- Fifth generation computers are faster than fourth generation.
+- They consume less power compared to fourth generation.
+- These computers are user-friendly and support multimedia.
+- The goal of fifth generation devices is to respond to human languages such as English and Hindi.
+- 
+OR watch this [Video (youtube.com)](https://www.youtube.com/watch?v=gjVX47dLlN8) For "modern" bit of the answer use a computer and write about how ~~AI generated code can stop from loging into your own computer~~. Not THAT AI can code compilers you get the picture.
 
 # Q6. What is a control unit? What are its actions? Short
 Ans: CU short for Control Unit. Controls and Coordinates all Components. Fetches, decodes and executes instructions. Maintain the sequence of operations. `<insert>` something to make the answer longer maybe block diagram of the computer.
@@ -56,8 +104,7 @@ Ans: CU short for Control Unit. Controls and Coordinates all Components. Fetches
 # Q7 What are the applications of MAN? Short
 Ans: Interconnecting branch offices within cities, Campus networking spanning multiple buildings
 
-
-# Q8 Explain about various input and output devices. Can be both
+# Q8 Explain about various input and output devices. (Or) Explain about various memory devices Can be both
 Ans: NO need.
 
 # Q9 What is a web browser? What are the various parts of a browser window? Long
@@ -70,7 +117,7 @@ Ans: Web browser is an application software used to explore the WWW. It acts as 
 - Split-tabs and PIP (play in picture) these features let's the user open two or more tabs in one tab. PIP is useful while following instructions and performing them in another program.
 
 # Q10 Explain about character formatting techniques.
-Ans: 
+Ans: write about Bold, Font style, Color, Underline(All types), highlighting etc...
 
 # Q11 Explain the different types of shortcut keys used in MS Word. Can be both
 Ans: I'll try to cover all the popular ones and important ones. Pls DM me if I miss something important.
@@ -103,7 +150,7 @@ Ans: Not needed.
 Ans: Mail Merge feature in MS Word allows you to merge an address file with a form letter in order to generate multiple copies of the same letter, with one copy for each address in your file. This automates the task of generating the same letter for multiple recipients. It is a process of combining generic information (such as a form letter or mass e-mail) with specific information (such as a specific recipient’s e-mail address, name, or title/subject). For instance, HR needs to inform all employees of a holiday. Or someone wants to send invitations to a lot of people for a event.
 
 
-Step 1: Accessing Word 2010 Mail Merge Commands
+Step 1: Accessing Word Mail Merge Commands
 - Open a blank Word document.
 - From the Mailings tab, in the Start Mail Merge group, click on Start Mail Merge and from the menu that appears, select the desired option to create your mail merge.
 
@@ -111,7 +158,6 @@ Step 1: Accessing Word 2010 Mail Merge Commands
 Step 2: Choosing a Document Type
 
 Your options for selecting a document type include the following:
-
 - **Letters**: Allows you to alter one letter and send it to multiple people.
 - **E-mail Messages**: Allows you to personalize letters designed to be sent to multiple people via e-mail.
 - **Envelopes**: Allows you to print envelopes addressed to multiple people.
@@ -121,7 +167,6 @@ Your options for selecting a document type include the following:
 Step 3: Choosing the Recipients
 
 From the Mailings tab, in the Start Mail Merge group, click on Select Recipients and choose one of the following:
-
 - **Type New List**: Create a new recipient list by typing each recipient.
 - **Use Existing List**: Select an existing database list.
 - **Select from Outlook Contacts**: Use existing Outlook contacts as recipients.
@@ -148,40 +193,57 @@ The final step is to accept the preview and direct MS-Word to perform the merge.
 - Edit individual documents before printing.
 
 # Q14 Explain Goal Seek with a suitable example.
-Ans: 
+Ans: Goal Seek feature is a *what-if analysis* tool that enables you to find the input needed to achieve a goal or objective. To use Goal Seek, you select the cell containing that will return the result you’re seeking and then indicate the target value you formula to return and the location of the input value that Excel can change to reach 
 
 
 # Q15 What is Split View in Excel? Explain its benefits.
-Ans: [Not in textbook (support.microsoft.com)](https://support.microsoft.com/en-us/office/view-multiple-panes-sheets-or-workbooks-fcdfb33e-5168-470d-a3d6-7ef1663599f3)
+Ans: **Split View** in Microsoft Excel is a display feature that allows you to divide a single worksheet into either two or four separate panes. Each pane provides an independent scrollable view of the same sheet, meaning you can look at two different areas of a large dataset simultaneously without jumping back and forth.
 
-[How to (ablebits.com)](https://www.ablebits.com/office-addins-blog/excel-split-screen/)
-
+Benefits of Split View
+1. **Simultaneous Data Comparison:**
+It allows you to view and compare data from the top of a massive spreadsheet with data at the very bottom. This is essential for auditing or cross-checking totals against individual line items.
+2. **Efficient Data Entry:**
+If you are entering data in one section based on information located in a distant part of the sheet (e.g., cell $A1$ informs a calculation in cell $Z5000$), you can keep both areas visible at once to reduce errors.
+3. **Four-Way Navigation:**
+By splitting both horizontally and vertically, you can create four quadrants. This is particularly useful for tracking row headers on the left and column totals on the right while still navigating the central body of the data.
+4. **Independent Scrolling:**
+Each pane operates with its own scroll bars. This flexibility ensures that you aren't "locked" into a specific row or column, which provides a more dynamic workspace than traditional freezing.
 
 # Q16 What is a formula? What are the different formulas used in spreadsheets?
 Ans: Formula are equations that perform calculations on data values in the Worksheet. Like any Calculator excel can execute formulas that   +, -, /, X. A formula can be a combination of constant values, cell reference, and mathematical operatiors (+, =, ×, *, -).
-
 Different formulas:
-- 
--
-- 
-- 
-
-
+- Arithmetic Formulas
+- Statistical Functions
+- Logical Formulas
+- Text Formulas
 
 # Q17 Explain logical functions in spreadsheets.
-Ans: 
+Ans: A function in Excel is a predefined formula that performs specific calculations or operations. Functions are built-in and can be used to simplify complex calculations or manipulate data in cells.
+
 # Q19 What is What-If Analysis in Excel? Explain Goal Seek, Scenario Manager, and Data Tables. Long
-Ans: 
+Ans: What-If analysis is a set of tools that allow you to explore the impact of changes ata on the outcome of a formula or calculation. This can be useful for making about how to change your data or how to set your goals. This feature allows you to e data used in a formula in order to find out what the results will be. The different then be compared to find out which one best suit your requirements.
+
+**Goal Seek feature** is a *what-if* analysis tool that enables you to find the input eded to achieve a goal or objective. To use Goal Seek, you select the cell containing that will return the result you’re seeking and then indicate the target value you formula to return and the location of the input value that Excel can change to reach
+
+**Scenario Manager** The use of Scenario Manager in Excel allows you to have a certain set of inputs for a “scenario”, and then lets you view different scenarios of the outputs as the change. Basically, it tells you “if this were to change”, “this is the result”; and it allows to happen for multiple cases or “scenarios”. This can help give people information to decisions on their business (or whatever it may be used for) based on the different as displayed by Scenario Manager. Scenario Manager lets you create and save sets of different input values that produce calculated results as named scenarios (such as Best Case, Worst Case, and Most Case). The key to creating the various scenarios for a table is to identify the various the data whose values can vary in each scenario.
 
 # Q20 Explain step-by-step process on how to insert charts and sparklines in Excel. Long ++IMP++
-Ans:
+Ans: To create a new chart, you must first enter the data into a worksheet. This section explains how you can create simple charts from the data.
 
-# Q21 U-4
-# Q22 U-3
-# Q23 U-5
+First of all, enter the data into the worksheet and highlight all the cells that will be included in the chart including the column titles and the row labels. These cells will be the source data for the chart;
+Click the Insert tab. In the Charts group, select the desired Chart Category (say: Column);
+Select the desired Chart type from the drop-down menu (say: Clustered Column);
+The chart will appear in the worksheet.
+
+
+# Q21 What is cell reference?
+# Q22 What is IP  and its versions.
+# Q23
 # Q24 PPT
-# Q25 IP
-# Q26 Email (U-2)
-# Q27 Model paper IMP.
-# 28 Model paper IMP.
+# Q25 What is a domain and its Various components.
+# Q26 What is email? 
+# Q27 
+# Q28 Model paper IMP.
+# Q29 Model paper IMP.
+# Q30
 
