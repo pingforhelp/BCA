@@ -1,9 +1,9 @@
 # 2.15 FORMULAS
-Formulas are equations that perform calculations on data values in the worksheet. Like a calculator, Excel can execute formulas that add, subtract, multiply, and divide. A formula can be a combination of constant values, cell references, and mathematical operators (+, -, /, *, =).
+Formulas are equations that perform calculations on data values in the worksheet. Like a calculator, Excel can execute formulas that add, subtract, multiply, and divide. A formula can be a combination of constant values, cell references, and mathematical operators `(+, -, /, *, =)`.
 - A formula starts with an equal sign (=) in a cell. This tells Excel that you are entering a formula, not just numbers.
 - Type the equation you want to calculate. For example, to add 10 and 20, you type =10+20.
 - Press the Enter key to complete your calculation.
-- Instead of entering numbers directly in your calculation formula, you can put them in separate cells, and then reference those cells in your formula, e.g., =A1+A2+A3.Page : 2.22
+- Instead of entering numbers directly in your calculation formula, you can put them in separate cells, and then reference those cells in your formula, e.g., =A1+A2+A3.
 
 
 Example:
