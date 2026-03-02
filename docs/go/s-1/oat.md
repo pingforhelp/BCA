@@ -155,18 +155,14 @@ Step 1: Accessing Word Mail Merge Commands
 - From the Mailings tab, in the Start Mail Merge group, click on Start Mail Merge and from the menu that appears, select the desired option to create your mail merge.
 
 
-Step 2: Choosing a Document Type
-
-Your options for selecting a document type include the following:
+Step 2: Choosing a Document Type. Your options for selecting a document type include the following:
 - **Letters**: Allows you to alter one letter and send it to multiple people.
 - **E-mail Messages**: Allows you to personalize letters designed to be sent to multiple people via e-mail.
 - **Envelopes**: Allows you to print envelopes addressed to multiple people.
 - **Labels**: Allows you to print labels addressed to multiple people.
 - **Directory**: Allows you to gather varied but related information into a list such as a department directory (can include list names, phone numbers, etc.).
 
-Step 3: Choosing the Recipients
-
-From the Mailings tab, in the Start Mail Merge group, click on Select Recipients and choose one of the following:
+Step 3: Choosing the Recipients. From the Mailings tab, in the Start Mail Merge group, click on Select Recipients and choose one of the following:
 - **Type New List**: Create a new recipient list by typing each recipient.
 - **Use Existing List**: Select an existing database list.
 - **Select from Outlook Contacts**: Use existing Outlook contacts as recipients.
@@ -180,21 +176,16 @@ Frequently used options include:
 - **Greeting Line**: Formats how the greeting line will appear (e.g., Dear Mr. Rao, Dear Sir or Madam).
 - **Insert Merge Field**: Inserts fields such as first name, last name, phone number, state, etc.
 
-Step 5: Previewing Your Documents
-
-The Mail Merge task pane allows you to review what the merged document will look like before finalizing.
+Step 5: Previewing Your Documents. The Mail Merge task pane allows you to review what the merged document will look like before finalizing:
 - From the Mailings tab, in the Preview Results group, click Preview Results.
 - Browse through entries using the Previous or Next button.
 
-Step 6: Completing the Mail Merge
-
-The final step is to accept the preview and direct MS-Word to perform the merge. You can:
+Step 6: Completing the Mail Merge. The final step is to accept the preview and direct MS-Word to perform the merge. You can:
 - Print the merged documents.
 - Edit individual documents before printing.
 
 # Q14 Explain Goal Seek with a suitable example.
 Ans: Goal Seek feature is a *what-if analysis* tool that enables you to find the input needed to achieve a goal or objective. To use Goal Seek, you select the cell containing that will return the result you’re seeking and then indicate the target value you formula to return and the location of the input value that Excel can change to reach 
-
 
 # Q15 What is Split View in Excel? Explain its benefits.
 Ans: **Split View** in Microsoft Excel is a display feature that allows you to divide a single worksheet into either two or four separate panes. Each pane provides an independent scrollable view of the same sheet, meaning you can look at two different areas of a large dataset simultaneously without jumping back and forth.
@@ -237,16 +228,140 @@ The chart will appear in the worksheet.
 
 
 # Q21 What is cell reference?
+Ans: A cell reference in Excel is the address of a cell or a range of cells, identified by the column letter and row number (e.g., A1). It is used in formulas to perform calculations based on the values in those cells.
+
 # Q22 What is IP  and its versions.
-# Q23
-# Q24 
-# Q25 What is a domain and its Various components.
+Ans: It is the first version of Internet Protocol address.
+- The address size of IPv4 is a 32 bit number.
+- In this version Internet Protocol Security for network security is optional.
+- It has 4,294,967,296 addresses.
+- It consists of 4 sets of numbers (octets) separated by dots.
+- Each octet represents 8 bits or a byte & can take a value from zero to 255.
+- This range is derived from the possible combinations of 8 bits ($2^8 = 256$ combinations).
+
+I IPv4 address format
+85.107.80.23
+1) ( ) (01010000) (11001111)
+- 192.168.1.1
+- $2^0$  $2^1$ $2^2$ $2^3$ $2^4$
+
+II IPv6
+IPv6 addresses were created to deal with the shortage of IPv4 addresses.
+- They use 128 bits instead of 32, offering a vastly greater no. of possible addresses.
+- This address are expressed as 8 groups of 4 hexadecimal digits, each group representing 16 bits.
+- The groups are separated by Colons:
+
+`2001:0DCB:E004:0001:0000:0000:0001:F00A`
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/98bce53a-d392-4425-8486-2b569396b488" />
+
+16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits: 16 bits 128 bits - IPv6 Address format
+
+Types of IP Addresses:
+1. **Public IP Address:** A public IP Address is assigned to every device that directly accesses internet.
+- This address is unique across the entire internet.
+- The address can be static or dynamic. i.e., can or can't be change.
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a4489e80-757e-4190-822f-1626af3692f9" />
+
+2. **Private IP Addresses**: 
+Private IP addresses are used within private network are not routable on the internet. This means that devices with Private IP addresses can’t directly communicate with devices on the internet without a translating mechanism - a router performing Network Address Translation Required Unique addresses.
+
+Defined: range of IPv4
+- 10.0.0.0 to 10.255.255.255
+- 172.16.0.0 to 172.31.255.255
+- 192.168.0.0 to 192.168.255.255
+
+Defined range of IPv's
+Addresses starting with 
+
+1. **Static IP Address**
+- Static IP Addresses are permanently assigned to a device typically, important for servers & devices that need a constant addresses.
+- Reliable for network services that require regular access such as Websites, remote management.
+
+2. **Dynamic IP Addresses**:
+Temporarily assigned from a pool of available addresses by the Dynamic Host Configuration Protocol (DHCP) Cost effective & efficient for providers, perfect for consumer devices that do not require permanent addresses.
+
+# Q23 What is outlook?
+# Q24 Draw and label the block diagram of a computer system.
+Ans: 
+<img width="474" height="283" alt="image" src="https://github.com/user-attachments/assets/28addfd1-7a17-47fd-bdb0-79fe1e1b4f07" /> 
+
+# Q25 What is  a domain and its Various components
+Ans: A Domain Name is a human readable name, `google.com`, that is associated with the numerical IP addresses (e.g., 142.251.43.110) on a computer network. It is used to make it easier for people to access resources like websites and email addresses without having to remember complex IP address.
+
+Components of Domain Name:
+A domain name is structured hierarchically, with components separated by dots (.).
+1. Top-level Domain (TLD): The last part of the name, such as: `.com`, `.org`, `.net` etc...
+2. Second-level Domain (SLD): The name of the site itself, such as google in `google.com`
+3. Subdomain: A part of the domain that can be created by owner to organise the content, such as mail in `notes.tamims.space`.
+
+If you want to write more continue about the Classification of domain.
+         
 # Q26 What is email? 
+Ans: The e-mail refers to electronic one means of communicating and receiving messages over the internet mail is the most common form of communication for Corporate offices, Government organizations and other "Important" work.
+
 # Q27 Types of Computers
-# Q28 Model paper IMP.
+Ans: You know right?
+# Q28 
 # Q29 Model paper IMP.
 # Q30 Write a note to network topologies (Bus, Ring, Star) and why networks are needed.
+Ans: In A network Topology is the arrangement of Devices (nodes) & Connections (links). In a Computer network. It shows how computers, servers, and other devices are connected and how data flows b/w them 
+There are 2 types of Topologies:
+1.  **Physical Topology**: The actual Physical layout of Cables and devices.
+2. **Logical Topology**: How data moves across the network, regardless of physical layout
+Star Topology
+All the devices are connected to a single hub through a cable. *This hub is the central node and all other nodes are connected to central node.*
+* The hub can be passive in nature - that is an intelligent hub such as broadcasting devices.
+* At the same time the hub can be intelligent - known as an active hub. 
+Active hubs have repeaters in them.
+
+````  mermaid
+graph LR
+  Hub[Central Hub / Switch]
+  A[Node A] --- Hub
+  B[Node B] --- Hub
+  C[Node C] --- Hub
+  D[Node D] --- Hub
+  %% Star: central hub with spokes to each device
+
+````
+
+Bus Topology
+Bus Topology is a network type in which every computer and network device is connected to a single cable. It is a multi-point connection and a non-robust topology because if the back bone fails the topology crashes.
+
+````  mermaid
+graph LR
+  Backbone[Backbone Cable]
+  Backbone --- A[Device A]
+  Backbone --- B[Device B]
+  Backbone --- C[Device C]
+  Backbone --- D[Device D]
+  %% Bus: single shared backbone with drop lines to devices
+
+````
+Ring Topology
+- It forms a ring connecting devices with exactly two neighboring devices.
+- A no. of repeaters are used for Ring Topology with a large no. of nodes.
+- In Ring Topology, the token passing protocol is used by the workstations to transmit the data. 
+token passing is a network access method in which a special bit pattern called a token circulates around the ring. 
+Token and Token in Ring Topology Token and Token is a frame that circulates around the network operations in Ring Topology.
+
+Token Operations:
+1) One Station is Known as a monitor station.
+2) To transmit the data, the station has to hold the token. Transmission is Completed then the token will released to the other station.
+3) When no station is transmitting the data, then the token will circulate in the ring.
+
+``` mermaid
+graph LR
+  A[Node A] --- B[Node B] --- C[Node C] --- D[Node D] --- A
+  %% Ring: closed loop; token-passing schemes often used
+
+```
+
 # Q31 Explain the steps to design a professional presentation.
+Ans: 
 # Q32 Write the steps for filtering and sorting in Excel.
+Ans: 
 
 
