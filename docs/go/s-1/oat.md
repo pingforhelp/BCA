@@ -212,7 +212,7 @@ Different formulas:
 Ans: A function in Excel is a predefined formula that performs specific calculations or operations. Functions are built-in and can be used to simplify complex calculations or manipulate data in cells.
 
 # Q19 What is What-If Analysis in Excel? Explain Goal Seek, Scenario Manager, and Data Tables. Long
-Ans: What-If analysis is a set of tools that allow you to explore the impact of changes ata on the outcome of a formula or calculation. This can be useful for making about how to change your data or how to set your goals. This feature allows you to e data used in a formula in order to find out what the results will be. The different then be compared to find out which one best suit your requirements.
+Ans: **What-If analysis** is a set of tools that allow you to explore the impact of changes ata on the outcome of a formula or calculation. This can be useful for making about how to change your data or how to set your goals. This feature allows you to e data used in a formula in order to find out what the results will be. The different then be compared to find out which one best suit your requirements.
 
 **Goal Seek feature** is a *what-if* analysis tool that enables you to find the input eded to achieve a goal or objective. To use Goal Seek, you select the cell containing that will return the result you’re seeking and then indicate the target value you formula to return and the location of the input value that Excel can change to reach
 
@@ -228,7 +228,7 @@ The chart will appear in the worksheet.
 
 
 # Q21 What is cell reference?
-Ans: A cell reference in Excel is the address of a cell or a range of cells, identified by the column letter and row number (e.g., A1). It is used in formulas to perform calculations based on the values in those cells.
+Ans: A cell reference in Excel is the address of a cell or a range of cells, identified by the column letter and row number (e.g., A1). It is used in formulas to perform calculations based on the values in those cells. For example `=SUM(A1+B1)`.
 
 # Q22 What is IP  and its versions.
 Ans: It is the first version of Internet Protocol address.
@@ -298,7 +298,7 @@ A domain name is structured hierarchically, with components separated by dots (.
 
 If you want to write more continue about the Classification of domain.
          
-# Q26 What is email? 
+# Q26 What is e-mail? 
 Ans: The e-mail refers to electronic one means of communicating and receiving messages over the internet mail is the most common form of communication for Corporate offices, Government organizations and other "Important" work.
 
 # Q27 Types of Computers
