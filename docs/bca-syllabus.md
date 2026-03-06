@@ -50,6 +50,14 @@ BASED ON ANDHRA PRADESH STATE COUNCIL OF HIGHER EDUCATION WEB.
 > In the III Year (during the V and VI Semesters), students are required to select a pair of
 electives from one of the Two specified domains. **For example: if set ‘A’ is chosen,** courses 12 to 15 to be chosen as 12 A, 13 A, 14 A and 15 A. To ensure in-depth understanding and skill development in the chosen domain, students must continue with the same domain electives in both the V and VI Semesters. This table doesn't include the subtopics. Scroll down for that.
 
+Subject-wise:
+- [DSA](#data-structures-using-c)
+- [DBMS](#data-structures-using-c-practical)
+- [AI](#applications-of-artificial-intelligence)
+- [English](#english-bridge-ii-communicate-and-connect)
+- [Multidisciplinary Course](#multidisciplinary-course-introduction-to-social-work)
+- [Sanskrit](#sanskrit-poetry-prose-grammer-ii)
+
 > [!NOTE]
 > Breakdown of of units, topics, and sub-topics.
 
