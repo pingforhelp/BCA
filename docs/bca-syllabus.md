@@ -1,5 +1,5 @@
 > [!note]
-> This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readable' on GitHub. This Doc only includes Sem.1 Syllabus for English, Computer Sci.(DSA&DBMS), AI, and, Intro. to Social Work 
+> This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readability' on GitHub and vitepress. This Doc only includes Sem.1 Syllabus for English, Computer Sci.(DSA&DBMS), AI, and, Intro. to Social Work 
 
 Sub Computer Sci. [Source](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf)
 
@@ -51,7 +51,7 @@ BASED ON ANDHRA PRADESH STATE COUNCIL OF HIGHER EDUCATION WEB.
 electives from one of the Two specified domains. **For example: if set ‘A’ is chosen,** courses 12 to 15 to be chosen as 12 A, 13 A, 14 A and 15 A. To ensure in-depth understanding and skill development in the chosen domain, students must continue with the same domain electives in both the V and VI Semesters. This table doesn't include the subtopics. Scroll down for that.
 
 > [!NOTE]
-> Breakout of units, topics, and sub-topics.
+> Breakdown of of units, topics, and sub-topics.
 
 # Data Structures using C
 Theory Credits: 3 [3 hrs/week]
@@ -411,18 +411,22 @@ Websites on Social work methods.
 Unit-1. प्राचीन पद्य सावित्यम् (9h)
 1. पाणणग्रिणम्- रघुिम्शमिाकाव्ये 7 सगािः
 2. पत्राचाानम्- नानाग्रन्थेभ्यिः
+
 Unit-2. आधुवनक पद्य सावित्यम् (9h)
 1. पन्नाधात्री – श्रीमत्प्रतापरणायनेमेिाडकाण्डे13 सगािः
 2. सुखिगािः – धम्मपदम्(Sanskrit Version of Prof. P.Sriramachandrudu)
+
 Unit-3. गद्य सावित्यम् (9h)
 1. अमोघदशानम् - बाणस्य कादंबरीतिः
-2. चारुचेवितम् - कविकोपकलापतिः
+2. चारुचेवितम् - कविकोपकलापत िः
+
 Unit-4. व्याकरणम् (9h)
 1. अजन्त शब्ािः (नदी, तनु, िधू, मातृ, िन, फल, िारर, मधु)
 2. धातििः (इष्, णलख्, कृञ्, क्रीञ्, चुर, ् रमु, िन्द्, युध्)
+
 Unit-5: व्याकरणम् (9h)
 1. सन्धयिः (िल्सन्न्धिः – विसगासन्न्धिः)
 2. समासािः (अव्यायीभाििः, बहुव्रीवििः)
 
 > [!info]
-> Sub: (lang-I) English, (Lag-II) Sanskrit, (Major-I) Data Structures, (Major-II) Database management systems, (Skill) AI, (Multidisciplinary) Introduction to Social Work.
+> Sub list: (lang-I) English, (Lag-II) Sanskrit, (Major-I) Data Structures, (Major-II) Database management systems, (Skill) AI, (Multidisciplinary) Introduction to Social Work. Semester exam is in `no info as of 06/03/26`
