@@ -1,11 +1,12 @@
 > [!note]
-> This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readable' on GitHub. This Doc only includes Sem.1 Syllabus for English, Computer Sci., and, Intro. to AI. 
+> This is a Markdown (.md) ver. of the PDF located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readable' on GitHub. This Doc only includes Sem.1 Syllabus for English, Computer Sci.(DSA&DBMS), AI, and, Intro. to Social Work 
 
 Sub Computer Sci. [Source](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf)
 
 BASED ON ANDHRA PRADESH STATE COUNCIL OF HIGHER EDUCATION WEB.
 
  COURSE STRUCTURE (Semester I to VI) **Computer Sci.**
+ 
 | Year | Sem | No. | Course Title                                   | Hours/Week | Credits |
 |------|-----|-----|------------------------------------------------|------------|---------|
 | I    | I   | 1   | ~~Computer Fundamentals and Office Automation~~     | 3          | 3       |
@@ -384,13 +385,12 @@ Pragathipranganam or Swadhar project or any social welfare project or non govern
 organizations (NGOs) to have an idea about welfare agencies working for the needy.
 Ask each group to exchange and discuss the information with other groups in the
 classroom with the information they collected on Internet.
+
 Group Discussion with the students- what type of community problems they observe in
 their villages/towns/cities? Ask them to tell what are the line departments which will help
 to solve the problems of their communities and suggest them what type strategies help the
-communities to empower.
-Invited lectures/Training by local experts
-Visit to a community
-Assignments, Quiz etc.
+communities to empower. Invited lectures/Training by local experts
+Visit to a community Assignments, Quiz etc.
 
 References:
 - Chowdhary, Paul. D. (1992). Introduction to Social Work. New Delhi: Atma Ram and
