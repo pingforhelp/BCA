@@ -8,7 +8,7 @@ import markdownItIns from "markdown-it-ins";
 // -----------------------------------------------------
 function obsidianCallouts(md) {
   const regex = /^\[!(\w+)\]([+-])?\s*(.*)$/;
-Enables
+
   const MAP = {
     hint: "tip",
     important: "tip",
@@ -24,57 +24,66 @@ Enables
     cite: "quote"
   };
 
-  md.block.ruler.before("blockquote", "obs-callout", function (state, startLine, endLine, silent) {
-    const start = state.bMarks[startLine] + state.tShift[startLine];
-    const max = state.eMarks[startLine];
-    if (state.src.charCodeAt(start) !== 0x3e) return false;
+  md.block.ruler.before(
+    "blockquote",
+    "obs-callout",
+    function (state, startLine, endLine, silent) {
+      const start = state.bMarks[startLine] + state.tShift[startLine];
+      const max = state.eMarks[startLine];
 
-    const inner = state.src.slice(start + 1, max).trim();
-    const match = inner.match(regex);
-    if (!match) return false;
-    if (silent) return true;
+      if (state.src.charCodeAt(start) !== 0x3e) return false;
 
-    let type = match[1].toLowerCase();
-    const foldable = match[2];
-    const title = match[3] || type.charAt(0).toUpperCase() + type.slice(1);
+      const inner = state.src.slice(start + 1, max).trim();
+      const match = inner.match(regex);
 
-    if (MAP[type]) type = MAP[type];
+      if (!match) return false;
+      if (silent) return true;
 
-    const isFoldable = foldable === "+" || foldable === "-";
-    const isCollapsed = foldable === "-";
+      let type = match[1].toLowerCase();
+      const foldable = match[2];
+      const title =
+        match[3] || type.charAt(0).toUpperCase() + type.slice(1);
 
-    const open = state.push("html_block", "", 0);
-    open.content = `
-<div class="callout callout-${type}${isFoldable ? " is-collapsible" : ""}${isCollapsed ? " is-collapsed" : ""}" data-callout="${type}">
+      if (MAP[type]) type = MAP[type];
+
+      const isFoldable = foldable === "+" || foldable === "-";
+      const isCollapsed = foldable === "-";
+
+      const open = state.push("html_block", "", 0);
+      open.content = `
+<div class="callout callout-${type}${
+        isFoldable ? " is-collapsible" : ""
+      }${isCollapsed ? " is-collapsed" : ""}" data-callout="${type}">
   <div class="callout-title">
     <div class="callout-icon"></div>
     <div class="callout-title-inner">${title}</div>
     ${isFoldable ? '<div class="callout-fold"></div>' : ""}
   </div>
-  <div class="callout-content">`;
+  <div class="callout-content">
+`;
 
-    let next = startLine + 1;
-const lines = [];
+      let next = startLine + 1;
+      const lines = [];
 
-while (next < endLine) {
-  const s = state.bMarks[next] + state.tShift[next];
-  const e = state.eMarks[next];
+      while (next < endLine) {
+        const s = state.bMarks[next] + state.tShift[next];
+        const e = state.eMarks[next];
 
-  if (state.src.charCodeAt(s) !== 0x3e) break;
+        if (state.src.charCodeAt(s) !== 0x3e) break;
 
-  lines.push(state.src.slice(s + 1, e));
-  next++;
-}
+        lines.push(state.src.slice(s + 1, e));
+        next++;
+      }
 
-open.content += md.render(lines.join("\n"));  next++;
+      open.content += md.render(lines.join("\n"));
+
+      const close = state.push("html_block", "", 0);
+      close.content = "</div></div>";
+
+      state.line = next;
+      return true;
     }
-
-    const close = state.push("html_block", "", 0);
-    close.content = "</div></div>";
-
-    state.line = next;
-    return true;
-  });
+  );
 }
 
 // -----------------------------------------------------
@@ -97,11 +106,11 @@ export default withMermaid(
       }
     },
 
-    mermaid: {Enables
-  theme: "default",
-  lazyLoad: true
-},
-Enables
+    mermaid: {
+      theme: "default",
+      lazyLoad: true
+    },
+
     themeConfig: {
       siteTitle: "BCA Notes",
 
@@ -111,15 +120,12 @@ Enables
       ],
 
       socialLinks: [
-  { icon: "github", link: "https://github.com/pingforhelp/BCA" },
-  { icon: "linkedin", link: "https://linkedin.com/in/tamimtasira" },
-  { icon: "twitter", link: "https://x.com/Tamim_056" },
-],
+        { icon: "github", link: "https://github.com/pingforhelp/BCA" },
+        { icon: "linkedin", link: "https://linkedin.com/in/tamimtasira" },
+        { icon: "twitter", link: "https://x.com/Tamim_056" }
+      ],
 
-
-      
-     
-    search: { provider: "local" },
+      search: { provider: "local" },
 
       footer: {
         message: "© 2025-2026 Notes.Tamim’s.Space / BCA.tamimtasira.in"
@@ -127,6 +133,3 @@ Enables
     }
   })
 );
-
-// To Do
-
