@@ -1,5 +1,5 @@
 > [!note]
-> This is a Markdown (.md) ver. of the pdf(s) located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readability' on GitHub and vitepress. This Doc only includes Sem.II Syllabus for English, Sanskrit, Computer Sci.(DSA&DBMS), AI, and, Intro. to Social Work 
+> This is a/social-work/ Markdown (.md) ver. of the pdf(s) located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readability' on GitHub and vitepress. This Doc only includes Sem.II Syllabus for English, Sanskrit, Computer Sci.(DSA&DBMS), AI, and, Intro. to Social Work 
 
 Sub Computer Sci. [Source](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf)
 
@@ -339,22 +339,27 @@ Online Resources
 
 # ENGLISH BRIDGE-II: COMMUNICATE AND CONNECT
 Theory Credits: 4 [4 hrs/week]
+
 Unit I
 - Prose: “On Saying Please” – A.G. Gardiner
 - Short Story: “Half a Rupee Worth” – R.K. Narayan
 - Conversion of Words.
+
 Unit II
 - Poem: “If” – Rudyard Kipling
 - Prose: “I Have a Dream” – Martin Luther King Jr.
 - Skimming & Scanning
+
 Unit III
 - One-Act Play: “Never, Never Nest” – Cedric Mount
 - Short Story: “The Gift of the Magi” – O. Henry
 - Report Writing
+
 Unit IV-
 - Short Story: “How I Taught My Grandmother to Read” – Sudha Murty
 - Information Transfer: Pie Charts , tree diagram and flow chart.
 - Note-making
+
 Unit V
 - Prose: “The Secret of Work” – Swami Vivekananda
 - Notices, Agendas, and Minutes
@@ -362,22 +367,24 @@ Unit V
 
 # Multidisciplinary Course Introduction to Social Work 
 
-Unit-I:(07Hrs)- Introduction to social work and concepts related to social work
-Introduction to Social Work- Definition- Scope- objectives - Functions- social service,
-social welfare services, social reform, major social problems in India; Social work
-philosophy, values, objectives, principles, methods and fields of social work.
+Unit-I:(07Hrs). Introduction to social work and concepts related to social work
+- Introduction to Social Work: Definition, Scope, objectives, Functions, social service,
+social welfare services, social reform, major social problems in India;
+- Social work philosophy, values, objectives, principles, methods and fields of social work.
 
-Unit-II:(09Hrs) Methods of Working with Individuals and Groups
-Social case work –Definition-scope and importance of social case work, principles and
-process of social case work -Tools and techniques in social case work- Counselling skills.
-Social Group Work-Definition-scope- the need for social group work – Group work
-process - Principles of Group Work - Stages of Group Work-Facilitation skills and
+Unit-II:(09Hrs). Methods of Working with Individuals and Groups
+- Social case work: Definition-scope and importance of social case work, principles and
+process of social case work
+- Tools and techniques in social case work- Counselling skills.
+- Social Group Work: Definition-scope- the need for social group work – Group work
+process
+- Principles of Group Work - Stages of Group Work-Facilitation skills and
 techniques.
 
-Unit-III: (09Hrs)Workingwith Communitiesand Field Work in social work
-Community – definition - characteristics- types- community organisation as a method of
-social work-definition-objectives-principles- phases of community organization -
-concepts of community development, community participation and community
+Unit-III: (09Hrs). Workingwith Communitiesand Field Work in social work
+- Community – definition - characteristics- types- community organisation as a method of
+social work-definition-objectives-principles
+- phases of community organization concepts of community development, community participation and community
 empowerment.
 - Field work in social work – Nature, objectives and types of field work - Importance of
 field work supervision.
@@ -422,7 +429,7 @@ Unit-1. प्राचीन पद्य सावित्यम् (9h)
 
 Unit-2. आधुवनक पद्य सावित्यम् (9h)
 1. पन्नाधात्री – श्रीमत्प्रतापरणायनेमेिाडकाण्डे13 सगािः
-2. सुखिगािः – धम्मपदम्(Sanskrit Version of Prof. P.Sriramachandrudu)
+2. सुखिगािः – धम्मपदम् (Sanskrit Version of Prof. P.Sriramachandrudu)
 
 Unit-3. गद्य सावित्यम् (9h)
 1. अमोघदशानम् - बाणस्य कादंबरीतिः
@@ -437,4 +444,5 @@ Unit-5: व्याकरणम् (9h)
 2. समासािः (अव्यायीभाििः, बहुव्रीवििः)
 
 > [!info]
-> Sub list: (lang-I) English, (Lag-II) Sanskrit, (Major-I) Data Structures, (Major-II) Database management systems, (Skill) AI, (Multidisciplinary) Introduction to Social Work. Semester exam is in `no info as of 07/03/26`
+> Sub list: (lang-I) English, (Lag-II) Sanskrit, (Major-I) Data Structures, (Major-II) Database management systems, (Skill) AI, (Multidisciplinary) Introduction to Social Work. Semester exam is in `no info as of 07/03/26` 
+> Maybe in Apr or June.
