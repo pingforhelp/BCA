@@ -8,7 +8,7 @@ import markdownItIns from "markdown-it-ins";
 // -----------------------------------------------------
 function obsidianCallouts(md) {
   const regex = /^\[!(\w+)\]([+-])?\s*(.*)$/;
-
+Enables
   const MAP = {
     hint: "tip",
     important: "tip",
@@ -54,12 +54,19 @@ function obsidianCallouts(md) {
   <div class="callout-content">`;
 
     let next = startLine + 1;
-    while (next < endLine) {
-      const s = state.bMarks[next] + state.tShift[next];
-      const e = state.eMarks[next];
-      if (state.src.charCodeAt(s) !== 0x3e) break;
-      open.content += state.src.slice(s + 1, e) + "\n";
-      next++;
+const lines = [];
+
+while (next < endLine) {
+  const s = state.bMarks[next] + state.tShift[next];
+  const e = state.eMarks[next];
+
+  if (state.src.charCodeAt(s) !== 0x3e) break;
+
+  lines.push(state.src.slice(s + 1, e));
+  next++;
+}
+
+open.content += md.render(lines.join("\n"));  next++;
     }
 
     const close = state.push("html_block", "", 0);
@@ -90,10 +97,11 @@ export default withMermaid(
       }
     },
 
-    mermaid: {
-      theme: "default"
-    },
-
+    mermaid: {Enables
+  theme: "default",
+  lazyLoad: true
+},
+Enables
     themeConfig: {
       siteTitle: "BCA Notes",
 
