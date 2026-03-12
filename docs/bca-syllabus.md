@@ -172,170 +172,19 @@ Sub: AI [Source](https://apsche.ap.gov.in/Pdf/major_minor1/Applications%20of%20A
 # Applications of Artificial Intelligence
 Theory Credits: 3 [3 hrs/week] 
 
-Unit 1. Infrastructure and Platforms for Building Applications using AI
-- Hardware used in building AI applications: Processors - CPU, GPU, TPU, NPU, Memory - RAM, VRAM, Storage - HDD, SSD
-- Platforms for building applications using AI: Online platforms (Example - Google AutoML, H2O.ai, Teachable Machine or similar platforms - for practice only);
-Desktop (No-code/Lowcode) platforms (Orange Data Mining, KNIME, Weka, RapidMiner or similar tools - for practice
-only).
-- Edge AI: Concept; Applications in daily life in devices like Refrigerators, Led Bulbs, Surveillance
-Cameras, Micro Ovens, Smart Cars/Scooters; Edge AI in smart Appliances
 
-Unit 2: Foundations of Data 
-- Types, Ethics and Utility in Building Applications using AI
--Importance of data in building AI applications: Data as the fuel for AI, Role of big data in training AI models.
-- Conceptual Foundations of Data: Data vs. Information vs. Knowledge.
-- Structure of Data: Structured, Semi-Structured, and Unstructured Data.
-- Modalities of Data: Text, Image, Audio, Video, Tabular, Time-Series, and Spatial Data.
-- Formats of Data: Text Formats (CSV, JSON, XML), Image Formats (JPEG, GIF, PNG),
-Audio/Video (MP3, WAV, MP4, AVI).
-- Data Repositories: Definition of public Datasets; Definition of private Datasets; Importance of
-- Public Datasets, Popular Public Dataset Repositories (Example - Kaggle, Hugging Face Datasets,
-- UCI Machine Learning Repository, Google Dataset Search or similar ones - for demonstration
-only), Dataset licensing and usage rights.
-- Ethics, Privacy in Data Usage: Privacy concerns related to data usage; Regulations governing
-data usage - GDPR, HIPAA (Overview), Ethical use of data, Responsible AI data practices.
 
-Unit 3. The AI Data Pipeline: From Collection to Model Readiness
-- The AI Data Pipeline: Stages and Components: Key Stages (Data Collection, Annotation, Preprocessing, Splitting, Feeding into AI Models
-Core Components: Ingestion, Storage, Processing, Validation, Delivery
-- Data Collection Methods for AI: Manual Input (Surveys, forms, human-curated entries), Sensors
-& IoT Devices (Real-time data from physical environments), System Logs & Transactions, Web
-Scraping (Automated extraction from websites), APIs (Structured data access from external
-platforms)
-- Data Annotation and Labelling: Definition & Importance; Annotation Methods: Manual Annotation, Automated Annotation; Types of Annotation: Classification, Bounding Boxes, Segmentation, Transcription, Named Entity Recognition (NER).
-- Data Cleaning and Preprocessing: Importance of data cleaning; Understanding “Dirty” Data:
-- Missing Values, Duplicates, Incorrect Formats, Outliers, Noise; Steps in Data Cleaning: Identify
-Issues, Handle Errors (Imputation, Removal), Validate Cleaned Data.
-- Data Splitting: Splitting data into training set and test set.
-- Data Transformation Techniques: Normalization, Transformation, Feature Engineering
-(Conceptual)
-
-Unit 4: AI in Biological Sciences
-- AI in Botany & Agriculture: Plant disease detection via image recognition; Crop yield
-forecasting using climate and soil analytics; Precision agriculture: smart irrigation and fertilizer
-planning
-- AI in Zoology, Ecology & Environmental Sciences: Wildlife monitoring: species ID from
-camera trap data; Aquatic systems: fish recognition and water quality modeling; Livestock health
-and disease prediction; Environmental tracking: forest cover and pollution analysis
-
-Unit 5: AI in BioTechnology and Bio-Chemistry
-- Application of AI in Genome sequencing & gene function prediction; Using AI in Protein structure
-modeling (e.g., AlphaFold); AI for Drug discovery: virtual compound screening; Application of
--  AI in Microbial classification & metagenomic profiling; Chemical reaction and material property
-prediction
-
-> [!info]
-> There is more but I think we need to unseen that rn.
-
-# APPLICATIONS OF Artificial Inteligence [Practical]
+# APPLICATIons Of Artificial Inteligence [Practical]
 Credits: 1 [2 hrs/week]
 
 Suggested Lab Practicals (No Coding) `# Lol`
-Lab 1 - Exploring Public Datasets (Orange Data Mining)
-- Visit a public repository (Kaggle, UCI, data.gov.in)
-- Download a dataset (e.g., rainfall data, literacy rates, or traffic accident statistics)
 
-Procedure:
-1. Open Orange → Add File widget → Load a CSV (e.g., Titanic dataset).
-2. Connect to Data Table → View rows/columns.
-3. Connect to Data Info → Check attributes, data types.
-4. View in Data Table and Distributions widget.
 
-- Observation: Note numeric, categorical, missing values.
-- Outcome: Students understand structured data format in CSV.
 
-Lab 2 - Understanding Dataset Metadata and Formats
-- Take two datasets in different formats (CSV, JSON)
-- View metadata (description, features, size, license)
-- Compare domain-specific datasets (e.g., medical vs. finance)
 
-Lab 3 - Data Annotation Exercise
-- Use MakeSense.ai or VGG Image Annotator (VIA)
-- Annotate 10 sample images (traffic signs, fruits, or medical scans)
-- Export annotations in XML or YOLO format
-- Discuss annotation errors and challenges
-
-Lab 4 - Data Cleaning and Visualization (Orange Data Mining)
-Aim: To clean dirty data and visualize categorical and numeric attributes.
-
-Procedure:
-1. Load dataset.
-2. Connect File → Edit Domain (to change types) and Impute (to fill missing values).
-3. Compare cleaned vs. original in Data Table.
-4. Distributions widget.
-5. Check various features distribution.
-(Optional: Create simple bar charts/line charts to visualize trends using Google Looker
-Studio)
-
-- Observation: Missing values filled with mean/median., Graphical representation of data.
-- Outcome: Learn importance of data cleaning., Students learn importance of visualization
-in preprocessing.
-
-Lab 5: Train/Test Split in Orange
-Aim: To split a dataset for AI training/testing.
-
-Procedure:
-1. Load Titanic dataset.
-2. Connect File → Data Sampler (70% train, 30% test).
-3. Connect outputs to Data Table widgets to view.
-- Observation: Students see two different subsets.
-- Outcome: Concept of model validation using split data.
-
-Lab 6: Plant Leaf Disease Detection
-- Dataset: Plant leaf disease datasets (PlantVillage, Kaggle).
-- Tool: Google Teachable Machine / Plantix app.
-- Activity: Upload leaf images to classify healthy vs diseased leaves.
-
-Lab 7: Crop Yield Prediction
-- Dataset: FAO crop yield datasets.
-- Tool: Orange Data Mining (drag-and-drop AI workflows).
-- Activity: Predict yield for different crops based on soil & climate features.
-
-Lab 8: Species Recognization
-- Dataset: Camera trap image datasets (Snapshot Serengeti, LILA BC).
-- Tool: iNaturalist / Wildbook AI platform.
-- Activity: Upload wildlife images for species recognition & conservation mapping.
-Lab 9: Predict and visualize 3D protein structures:
-- Dataset: Genomic & protein sequence databases (NCBI, UniProt, AlphaFold DB).
-- Tool: AlphaFold Protein Structure Viewer (online).
-- Activity: Predict and visualize 3D protein structures.
-
-Lab 10: Analyze chemical similarity and predict drug-likeness.
-- Dataset: Drug compound datasets (ChEMBL).
-- Tool: ChemMine Tools (web-based).
-- Activity: Analyze chemical similarity and predict drug-likeness.
-
-Lab 11: Identify microbial species from sequencing datasets.
-- Dataset: Metagenomics datasets (MG-RAST).
-- Tool: MG-RAST online platform.
-
-Activity: Identify microbial species from sequencing datasets.
 > [!NOTE]
-> The Tools suggested above are tentative. Teacher/Student is free to choose any other similar tool to execute the said lab experiments. Like we have labs lol.
+> The Tools suggested above are tentative. Teacher/Student is free to choose any other similar tool to execute the said lab experiments. Like we have labs lol. 
 
-Books/References
-1. Data Science for Beginners, Andrew Park
-(Introductory concepts of data types, collection, cleaning, and visualization without
-coding)
-2. AI Basics for Non-Programmers, Tom Taulli
-(Clear explanations of AI data lifecycle and real-world use cases)
-3. Data Preparation for Machine Learning, Jason Brownlee
-(Conceptual understanding of dataset quality, preprocessing, and pipelines)
-4. Hands-On Data Science for Non-Programmers, David Meerman Scott
-(Spreadsheet-based data exploration and visualization)
-5. You Look Like a Thing and I Love You – Janelle Shane
-6. Artificial Intelligence in Life Sciences – Elsevier.
-7. Artificial Intelligence in Agriculture – CRC Press (B. Prasad).
-8. AI for Ecology and Conservation – Springer.
-9. Bioinformatics and Drug Discovery using AI – Academic Press.
-10. Databases & Platforms: FAO, GBIF, PlantVillage, ChEMBL, UniProt, AlphaFold DB.
-
-Online Resources
-- [Kaggle Dataset Search](https://www.kaggle.com/datasets)
-- Google Dataset Search, https://datasetsearch.research.google.com
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu)
-- [Hugging Face Datasets](https://huggingface.co/datasets)
-- [Open Government Data (Govt. of India)](https://data.gov.in)
 
 # ENGLISH BRIDGE-II: COMMUNICATE AND CONNECT
 Theory Credits: 4 [4 hrs/week]
