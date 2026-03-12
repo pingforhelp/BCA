@@ -172,6 +172,52 @@ Sub: AI [Source](https://apsche.ap.gov.in/Pdf/major_minor1/Applications%20of%20A
 # Applications of Artificial Intelligence
 Theory Credits: 3 [3 hrs/week] 
 
+Unit 1. Infrastructure and Platforms for Building Applications using AI
+
+* Hardware used in building AI applications: Processors - CPU, GPU, TPU, NPU; Memory - RAM, VRAM; Storage - HDD, SSD
+* Platforms for building applications using AI: Online platforms (Google AutoML, H2O.ai, Teachable Machine or similar platforms); Desktop (No-code/Low code) platforms (Orange Data Mining, KNIME, Weka, RapidMiner or similar tools)
+* Edge AI: Concept; Applications in devices like Refrigerators, Led Bulbs, Surveillance Cameras, Micro Ovens, Smart Cars/Scooters; Edge AI in smart Appliances
+
+---
+
+Unit 2: Foundations of Data - Types, Ethics and Utility in Building Applications using AI
+
+* Importance of data in building AI applications: Data as the fuel for AI; Role of big data in training AI models
+* Conceptual Foundations of Data: Data vs. Information vs. Knowledge
+* Structure of Data: Structured, Semi-Structured, and Unstructured Data
+* Modalities of Data: Text, Image, Audio, Video, Tabular, Time-Series, and Spatial Data
+* Formats of Data: Text Formats (CSV, JSON, XML); Image Formats (JPEG, GIF, PNG); Audio/Video (MP3, WAV, MP4, AVI)
+* Data Repositories: Public Datasets, Private Datasets; Examples – Kaggle, Hugging Face Datasets, UCI Machine Learning Repository, Google Dataset Search
+* Ethics, Privacy in Data Usage: Privacy concerns; Regulations - GDPR, HIPAA (Overview); Ethical use of data; Responsible AI practices
+
+---
+
+Unit 3. The AI Data Pipeline: From Collection to Model Readiness
+
+* AI Data Pipeline stages: Data Collection, Annotation, Preprocessing, Splitting, Feeding into AI Models
+* Core Components: Ingestion, Storage, Processing, Validation, Delivery
+* Data Collection Methods: Manual input, Sensors & IoT Devices, System Logs & Transactions, Web Scraping, APIs
+* Data Annotation and Labelling: Manual Annotation, Automated Annotation; Types – Classification, Bounding Boxes, Segmentation, Transcription, Named Entity Recognition (NER)
+* Data Cleaning and Preprocessing: Missing Values, Duplicates, Incorrect Formats, Outliers, Noise; Cleaning steps – Identify Issues, Handle Errors, Validate Cleaned Data
+* Data Splitting: Training set and test set
+* Data Transformation Techniques: Normalization, Transformation, Feature Engineering
+
+---
+
+Unit 4. AI-Powered No-Code Development: Vibe Coding and Workflow Automation
+
+* Vibe Coding: Concept & Workflow; Vibe Coding vs traditional programming; Tools – Google AI Studio, Firebase Studio, Replit, Cursor, Windsurf
+* Benefits & Challenges: Advantages and limitations of Vibe Coding; Shift from code-centric to prompt-driven development; Prompt crafting
+* Workflow Automation using AI: Fundamentals; Applications – Auto-email responses, Feedback summarization, Social media alerts & analytics
+* Tools: Zapier, Power Automate, n8n, Lindy
+
+---
+
+Unit 5. AI in Networks, Cybersecurity, and Forensics
+
+* AI in Networking: Network Management, Traffic Prediction, Intrusion Detection, Optimization, Fault Management, Routing
+* AI in Cyber Security: Need of AI in Cyber Security, Threat detection, Fraud detection, Security automation; Challenges and considerations
+* AI in Digital Forensics: AI in forensic investigations, Evidence acquisition and analysis, Overcoming limitations, Future outlook of AI-powered forensic tools 
 
 
 # Aplications Of Artificial Inteligence 
