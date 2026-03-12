@@ -505,6 +505,8 @@ Unit-5: व्याकरणम् (9h)
 1. सन्धयिः (िल्सन्न्धिः – विसगासन्न्धिः)
 2. समासािः (अव्यायीभाििः, बहुव्रीवििः)
 
+
+
 > [!info]
-> Sub list: (lang-I) English, (Lag-II) Sanskrit, (Major-I) Data Structures, (Major-II) Database management systems, (Skill) AI, (Multidisciplinary) Introduction to Social Work. Semester exam is in `no info as of 07/03/26` 
+> Sub list: (lang-I) English, (Lang-II) Sanskrit, (Major-I) Data Structures, (Major-II) Database management systems, (Skill) AI, (Multidisciplinary) Introduction to Social Work. Semester exam is in `no info as of 07/03/26` 
 > Maybe in Apr or June.
