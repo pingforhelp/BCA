@@ -220,9 +220,9 @@ Unit 5. AI in Networks, Cybersecurity, and Forensics
 * AI in Digital Forensics: AI in forensic investigations, Evidence acquisition and analysis, Overcoming limitations, Future outlook of AI-powered forensic tools 
 
 
-# Aplications Of Artificial Inteligence 
+# Aplications Of Artificial Inteligence [Practical]
 
-[Practical] Credits: 1 [2 hrs/week]
+Credits: 1 [2 hrs/week]
 
 Suggested Lab Practicals (No Coding) `# Lol`
 
