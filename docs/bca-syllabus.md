@@ -1,5 +1,5 @@
 > [!note]
-> This is a/social-work/ Markdown (.md) ver. of the pdf(s) located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readability' on GitHub and vitepress. This Doc only includes Sem.II Syllabus for English, Sanskrit, Computer Sci.(DSA&DBMS), AI, and, Intro. to Social Work 
+> This is a Markdown (.md) ver. of the pdf(s) located at [THIS URL](https://apsche.ap.gov.in/sngl_major_1.php). Using a Web-based Tool [(pdf2md.morethan)](https://pdf2md.morethan.io) and later edited for better 'readability' on GitHub and vitepress. This Doc only includes Sem.II Syllabus for English, Sanskrit, Computer Sci.(DSA&DBMS), AI, and, Intro. to Social Work. 
 
 Sub Computer Sci. [Source](https://apsche.ap.gov.in/Pdf/major_minor1/B.C.A.%20Computer%20Applications%20Major.pdf)
 
