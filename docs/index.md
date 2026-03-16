@@ -20,5 +20,6 @@
 # 🫠 AI
 
 # Introduction to Social Work
-
+- [U-I](./social-work/u-1.md)
+- 
 # Sanskrit 
