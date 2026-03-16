@@ -1,12 +1,14 @@
 # 📚  Notes
 
-# Database Management System
+# 📉 Database Management System (DBMS)
 
 # ⚙️ Data Structures Using C (DSA)
 
 # 📖 English
+
 **Unit-I:**
-[Ch01. On Saying *Please*](./english/ui/c1)
+- [Ch01. On Saying *Please*](./english/ui/c1)
+
 **Unit-II:**
 
 **Unit-III**
@@ -15,7 +17,7 @@
 
 **Unit-V**
 
-# AI
+# 🫠 AI
 
 # Introduction to Social Work
 
