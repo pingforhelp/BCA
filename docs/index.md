@@ -8,6 +8,8 @@
 
 **Unit-I:**
 - [Ch01. On Saying *Please*](./english/ui/c1)
+- [Ch02](./english/ui/c2)
+- [conversion of words](./english/ui/conversionofwords.md)
 
 **Unit-II:**
 
@@ -20,6 +22,7 @@
 # 🫠 AI
 
 # Introduction to Social Work
-- [U-I](./social-work/u-1.md)
-- 
+- [U-I](./social-work/u-1.m
+d)
+
 # Sanskrit 
