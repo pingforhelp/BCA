@@ -483,6 +483,25 @@ publishers Private Limited.
 Students. New Delhi, Sage Publications.
 Websites on Social work methods.
 
+### Chemistry 
+
+Unit I: Matter, Atoms, Molecules & Nuclear Chemistry 
+Classification of matter, Dalton atomic theory, Thomson Model, Rutherford Model, Bohr’s model of 
+atom, quantum numbers, electronic configuration, Aufbau Principle, Pauli’s exclusion principle, 
+Hund’s rule. Isotopes-Isobars, Nuclear decay, Band of Stability, Nuclear Reaction types, Nuclear 
+Applications.
+
+Unit II: Elements, Classification and Chemical Bonding Classification of elements, Periodic Classification of elements based on electronic configuration, 
+classification into types, classification into metals, non-metals and metalloids, periodic properties-
+atomic radii, ionisation enthalpy, electronegativity, Octet rule, ionic bond properties of Ionic 
+compounds-covalent bond, properties of covalent molecule.
+
+Unit III: Acids, Bases, Salts, Chemistry in Daily life Definition, types and properties of Acids, Bases, Salts, strength of acids and bases, pH, Importance of Chemistry in daily life. (food, drugs, textiles, preservatives, soaps and detergents.)
+
+III. List of Reference Books:
+1. Inorganic Chemistry by Puri and Sharma
+2. Basic concepts of Inorganic Chemistry by D.N.Singh
+
 # Sanskrit POETRY, PROSE & GRAMMER-II
 
 Unit-1. प्राचीन पद्य सावित्यम् (9h)
