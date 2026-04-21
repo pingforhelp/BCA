@@ -1,16 +1,15 @@
-> [!NOTE]
+> [!INFO]
 
-> Breakout of units, topics, and sub-topics.
-
-  
-
-# COURSE 1: COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION
+> Breakout of units, topics, and sub-topics, and lab work.
 
   
 
-Theory Credits: 3 3 hrs/week.
+# COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION
 
------------------------
+  
+
+Theory Credits: 3. Time 3 hrs/week.
+
 
 **Unit 1 Number Systems, Evolution , Block Diagram and Generations:**
 
@@ -22,96 +21,50 @@ Theory Credits: 3 3 hrs/week.
 
 - Generations of Computers: First to Fifth Generation – technologies, characteristics, examples.
 
-------
 
 **Unit 2. Basic organisation and N/W fundamentals:**
 
-- Computer Organization: Functional components – Input/Output devices, Storage types, Memory
-
-hierarchy.
-
+- Computer Organization: Functional components – Input/Output devices, Storage types, Memory hierarchy.
 - Types of Computers: Micro, Mini, Mainframe, and Supercomputers.
-
-- Networking Fundamentals: Definition, need for networks, types (LAN, WAN, MAN), topology
-
-(Star, Ring, Bus).
-
+- Networking Fundamentals: Definition, need for networks, types (LAN, WAN, MAN), topology (Star, Ring, Bus).
 - Internet Basics: IP Address, Domain Name, Web Browser, Email, WWW.
 
----------
 
 **Unit 3. Word Processing and presentations:**
-
 - Word Processing Basics: Using MS Word/Google Docs – formatting, styles, tables, mail merge.
-
 - Presentation Tools: Using PowerPoint/Google Slides – slide design, animations, transitions.
-
 - Applications: Creating resumes, reports, brochures, and presentations.
-
 - Keyboard Shortcuts
 
-------------
-
 **Unit 4. Spreadsheet Basics:**
-
-- Spreadsheet Concepts: Understanding rows, columns, cells in tools like MS Excel/Google
-
-Sheets.
-
+- Spreadsheet Concepts: Understanding rows, columns, cells in tools like MS Excel/Google Sheets.
 - Functions and Formulas: SUM, AVERAGE, IF, COUNT.
-
 - Charts and Graphs: Creating visual representations
-
 - Data Handling: Sorting, filtering, conditional formatting.
-
 - Text Functions: LEFT, RIGHT, MID, LEN, TRIM, CONCAT, TEXTJOIN
-
-- Advanced Functions: Logical: IF, AND, OR, IFERROR, Lookup: VLOOKUP, HLOOKUP,
-
-XLOOKUP, INDEX, MATCH
-
----------------
+- Advanced Functions: Logical: IF, AND, OR, IFERROR, Lookup: VLOOKUP, HLOOKUP, XLOOKUP, INDEX, MATCH
 
 **Unit 5. Data Modelling:**
-
 - Conditional Formatting: Custom rules, Color scales, Icon sets, Data bars
-
-- Data Analysis Tools: Pivot Tables and Pivot Charts, Data Validation (Drop-downs, Input
-
-Messages, Error Alerts), What-If Analysis: Goal Seek, Scenario Manager, Data Tables
-
-- Charts and Dashboards: Creating Interactive Dashboards, Using slicers with Pivot
-
-Tables,Combo Charts and Sparklines
-
-- Productivity Tips: Using Named Ranges, Freeze Panes, Split View
-
----------------
+- Data Analysis Tools: Pivot Tables and Pivot Charts, Data Validation (Drop-downs, Input Messages, Error Alerts), What-If Analysis: Goal Seek, Scenario Manager, Data Tables.
+- Charts and Dashboards: Creating Interactive Dashboards, Using slicers with Pivot Tables,Combo Charts and Sparklines
+- Productivity Tips: Using Named Ranges, Freeze Panes, Split View.
 
 Textbooks:
-
 1. Fundamentals of Computers, Reema Thareja, Oxford University Press, Second Edition
-
 2. Fundamentals of Computers, V. Rajaraman – PHI Learning
-
 3. Introduction to Computers by Peter Norton – McGraw Hill
-
 4. Microsoft Office 365 In Practice by Randy Nordell – McGraw Hill Education
 
 References:
-
 1. Excel 2021 Bible by Michael Alexander, Richard Kusleika – Wiley
-
 2. Networking All-in-One For Dummies by Doug Lowe – Wiley
-
 3. Microsoft Official Docs and Training: [https://learn.microsoft.com](https://learn.microsoft.com/)
-
 4. Google Workspace Learning Center: [https://support.google.com](https://support.google.com/a/users/)
 
   
 
 Activities:
-
 - Outcome: At the End of the Course, The Students will be able to explain different number
 
 systems, the historical evolution of computers, and identify key components in a block diagram.
@@ -128,7 +81,7 @@ hexadecimal) and illustrating the timeline of computer generations with key inno
 
   
 
-Practical Credits: 1 2 hrs/week
+Practical Credits: 1. Time 2 hrs/week
 
   
 
