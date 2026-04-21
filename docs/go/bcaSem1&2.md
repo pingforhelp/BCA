@@ -1,10 +1,9 @@
 > [!INFO]
 
 > Breakout of units, topics, and sub-topics, and lab work.
+ 
 
-  
-
-# COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION
+ COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION
 
   
 
@@ -1002,8 +1001,9 @@ Observation: How AI tools help in Digital Forensics.
 > The Tools suggested above are tentative. Teacher/Student is free to choose any other similar tool to execute the said lab experiments. Like we have labs lol. 
 
 
-# ENGLISH BRIDGE-II: COMMUNICATE AND CONNECT
-Theory Credits: 4 [4 hrs/week]
+# ENGLISH BRIDGE-II (AEC-II): COMMUNICATE AND CONNECT
+
+Theory Credits: 4. Time 4 hrs/week.
 
 Unit I
 - Prose: “On Saying Please” – A.G. Gardiner
@@ -1020,7 +1020,7 @@ Unit III
 - Short Story: “The Gift of the Magi” – O. Henry
 - Report Writing
 
-Unit IV-
+Unit IV
 - Short Story: “How I Taught My Grandmother to Read” – Sudha Murty
 - Information Transfer: Pie Charts , tree diagram and flow chart.
 - Note-making
@@ -1028,9 +1028,10 @@ Unit IV-
 Unit V
 - Prose: “The Secret of Work” – Swami Vivekananda
 - Notices, Agendas, and Minutes
-- One-Word Substitutes
+- One-Word Substitutes.
 
-# Multidisciplinary Course Introduction to Social Work 
+
+# Multidisciplinary Course-I Introduction to Social Work 
 
 Unit-I:(07Hrs). Introduction to social work and concepts related to social work
 - Introduction to Social Work: Definition, Scope, objectives, Functions, social service,
@@ -1041,10 +1042,8 @@ Unit-II:(09Hrs). Methods of Working with Individuals and Groups
 - Social case work: Definition-scope and importance of social case work, principles and
 process of social case work
 - Tools and techniques in social case work- Counselling skills.
-- Social Group Work: Definition-scope- the need for social group work – Group work
-process
-- Principles of Group Work - Stages of Group Work-Facilitation skills and
-techniques.
+- Social Group Work: Definition-scope- the need for social group work – Group work process.
+- Principles of Group Work - Stages of Group Work-Facilitation skills and techniques.
 
 Unit-III: (09Hrs). Workingwith Communitiesand Field Work in social work
 - Community – definition - characteristics- types- community organisation as a method of
@@ -1054,12 +1053,9 @@ empowerment.
 - Field work in social work – Nature, objectives and types of field work - Importance of
 field work supervision.
 
-Suggested Co-curricular Activities:( 05 hours)
+Suggested Co-curricular Activities:(05 hours)
 
-Divide the students into groups, each group containing not exceeding 10 students
-depending upon the total number of students in a class or section. Each group can search
-in internetabout any one of the institutions which work for the welfare of children or
-women or elderly or scheduled caste and scheduled tribe children or differently abled
+Divide the students into groups, each group containing not exceeding 10 students depending upon the total number of students in a class or section. Each group can search in internetabout any one of the institutions which work for the welfare of children or women or elderly or scheduled caste and scheduled tribe children or differently abled
 persons or Juvenile homes or Correctional homes or hospitals or Mahila
 Pragathipranganam or Swadhar project or any social welfare project or non governmental
 organizations (NGOs) to have an idea about welfare agencies working for the needy.
@@ -1086,26 +1082,7 @@ publishers Private Limited.
 Students. New Delhi, Sage Publications.
 Websites on Social work methods.
 
-### Chemistry 
-
-Unit I: Matter, Atoms, Molecules & Nuclear Chemistry 
-Classification of matter, Dalton atomic theory, Thomson Model, Rutherford Model, Bohr’s model of 
-atom, quantum numbers, electronic configuration, Aufbau Principle, Pauli’s exclusion principle, 
-Hund’s rule. Isotopes-Isobars, Nuclear decay, Band of Stability, Nuclear Reaction types, Nuclear 
-Applications.
-
-Unit II: Elements, Classification and Chemical Bonding Classification of elements, Periodic Classification of elements based on electronic configuration, 
-classification into types, classification into metals, non-metals and metalloids, periodic properties-
-atomic radii, ionisation enthalpy, electronegativity, Octet rule, ionic bond properties of Ionic 
-compounds-covalent bond, properties of covalent molecule.
-
-Unit III: Acids, Bases, Salts, Chemistry in Daily life Definition, types and properties of Acids, Bases, Salts, strength of acids and bases, pH, Importance of Chemistry in daily life. (food, drugs, textiles, preservatives, soaps and detergents.)
-
-III. List of Reference Books:
-1. Inorganic Chemistry by Puri and Sharma
-2. Basic concepts of Inorganic Chemistry by D.N.Singh
-
-# Sanskrit POETRY, PROSE & GRAMMER-II
+# Sanskrit POETRY, PROSE & Grammer-II
 
 Unit-1. प्राचीन पद्य सावित्यम् (9h)
 1. पाणणग्रिणम्- रघुिम्शमिाकाव्ये 7 सगािः
@@ -1130,5 +1107,4 @@ Unit-5: व्याकरणम् (9h)
 
 
 > [!info]
-> Sub list: (lang-I) English, (Lang-II) Sanskrit, (Major-I) Data Structures, (Major-II) Database management systems, (Skill) AI, (Multidisciplinary) Introduction to Social Work. Semester exam is in `no info as of 07/03/26` 
-> Maybe in Apr or June.
+> Sub list: (lang-I) English, (Lang-II) Sanskrit, (Major-I) Data Structures, (Major-II) Database management systems, (Skill) AI, (Multidisciplinary) Introduction to Social Work.
