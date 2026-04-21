@@ -1,6 +1,10 @@
 > [!INFO]
-
 > Breakout of units, topics, and sub-topics, and lab work.
+
+List of Subjects for Semester-I
+1. AEC-I English 
+2. AEC-II Sankrit
+3. Ma
  
 
  COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION
