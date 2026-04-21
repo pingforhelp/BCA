@@ -1,13 +1,24 @@
+List of Subjects for Semester-I
+1. AECC-I English 
+2. AECC MTI-I Sankrit
+3. Major-I Computer Fundamentals & Office automation tools.
+4. Major-II Problem Solving Using C.
+5. SEC-I Introduction to Artificial Intelligence.
+
+List of Subjects for Semester-II
+1. AECC-II English 
+2. AECC MTI-II Sankrit
+3. Major-III Computer Fundamentals & Office automation tools.
+4. Major-IV Data Structures using C.
+5. SEC-II Applications of Artificial Intelligence*
+6. Indian knowledge System*
+7. Multidisciplinary course-I Social Work.
+
+
 > [!INFO]
 > Breakout of units, topics, and sub-topics, and lab work.
 
-List of Subjects for Semester-I
-1. AEC-I English 
-2. AEC-II Sankrit
-3. Ma
- 
-
- COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION
+COMPUTER FUNDAMENTALS AND OFFICE AUTOMATION
 
   
 
