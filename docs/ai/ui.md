@@ -964,5 +964,3 @@ Weka — Waikato Environment for Knowledge Analysis. Open source, desktop based 
 **Primary Purpose:**
 Helps users analyze data and apply ML algorithms. Easily for education, research, and practice.
 
----
-*B.Sc. (Computer Science) — AI Notes*
