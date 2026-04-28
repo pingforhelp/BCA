@@ -1,6 +1,6 @@
 # 📚  Notes
 
-# 📉 Database Management System (DBMS)
+# 💾 Database Management System (DBMS)
 
 # ⚙️ Data Structures Using C (DSA)
 
@@ -8,12 +8,12 @@
 
 **Unit-I**
 - [Ch01. On Saying *Please*](./english/ui/c1)
-- [Ch02](./english/ui/c2)
-- [Conversion of words](./english/ui/conversionofwords)
+- [Ch02. Half a rupee worth](./english/ui/c2)
+- [Conversion of words](./english/ui/conversionofwords.md)
 
 **Unit-II**
 - [If](english/uii/c1.md)
-- [I have dream](english/uii/c2.md)
+- [I have a dream](english/uii/c2.md)
 
 **Unit-III**
 
@@ -22,8 +22,9 @@
 **Unit-V**
 
 # 🫠 AI
-[Unit. 1 Infrastructure in AI](./AI/ui.md)
+[Unit-I. Infrastructure in AI](./AI/ui.md)
+
 # Introduction to Social Work
-- [U-I](./social-work/u-1)
+- [Unit-I. Intro. To Social Work](./social-work/u-1)
 
 # Sanskrit 
