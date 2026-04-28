@@ -12,7 +12,8 @@
 - [Conversion of words](./english/ui/conversionofwords)
 
 **Unit-II**
-- [If](english/uii%2Fc1.md)
+- [If](english/uii/c1.md)
+- [I have dream](english/uii/c2.md)
 
 **Unit-III**
 
@@ -21,7 +22,7 @@
 **Unit-V**
 
 # 🫠 AI
-
+[Unit. 1 Infrastructure in AI](./AI/ui.md)
 # Introduction to Social Work
 - [U-I](./social-work/u-1)
 
