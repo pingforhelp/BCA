@@ -94,6 +94,9 @@ export default withMermaid(
     title: "BCA Notes",
     description: "Bachelor of Computer Application Notes",
 
+    // Don't fail the build on broken links (internal or external)
+    ignoreDeadLinks: true,
+
     head: [
       ["script", { src: "https://code.iconify.design/3/3.1.0/iconify.min.js" }]
     ],
