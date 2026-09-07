@@ -100,7 +100,7 @@ Reference(s):
 ### C
 
 UNIT 1 SOFTWARE AND FUNDAMENTALS OF C: 9 Hrs
-Types of software, Compiler and interpreter, Concepts of Machine level, Assembly level and high-level programming.
+- Types of software, Compiler and interpreter, Concepts of Machine level, Assembly level and high-level programming.
 Flowcharts and Algorithms 
 - History of C, Features of C, C Tokens-variables, keywords and identifiers, constants and Data types, Rules for constructing variable names.
 - Operators, Structure of C program, Input/Output statements in C-Formatted and
