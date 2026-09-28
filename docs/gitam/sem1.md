@@ -185,65 +185,37 @@ Reference(s):
 | 29   | Create a structure to store student details and display them.                            |
 | 30   | Develop a program using nested structures to store address details.                      |
 
-
+### Office
 | # | Exercise | Description |
-
 |---|----------|-------------|
-       
 | 2 | Text Formatting and Saving File | New, Open, Close, Save, Save As, Formatting Text: Font Size, Font Style, Font Color, Bold, Italic, Underline, Change Text Case, Line Spacing, Paragraph Spacing, Shading Text and Paragraph, Working with Tabs and Indents |
-
 | 3 | Working with Objects | Shapes, Clipart and Picture, Word Art, Smart Art, Columns and Ordering, Inserting Symbols, Inserting Chart |
-
 | 4 | Header & Footers | Inserting Custom Header and Footer, Inserting Objects in the Header and Footer, Adding Section Number to a Document |
-
 | 5 | Bullets and Numbered Lists | Multilevel Numbering and Bulleting, Creating List, Customizing List Style, Page Bordering, Page Background |
-
 | 6 | Tables | Working with Tables, Table Formatting, Table Styles, Alignment Option, Merge and Split Option |
-
 | 7 | Styles and Content | Using Built-in Styles, Modifying Styles, Creating Styles, Creating a List Style, Table of Contents and References, Adding Internal References, Adding a Footnote, Adding Endnote |
-
 | 8 | Merging Documents | Typing New Address List, Importing Address List from Excel File, Write and Insert Field, Merging with Outlook Contacts, Preview Results, Merging to Envelopes, Merging to Labels, Setting Rules for Merges, Finish & Merge Options |
-
 | 9 | Sharing and Maintaining Documents | Changing Word Options, Changing Proofing Tools, Managing Templates, Restricting Document Access, Using Protected View, Working with Templates, Understanding Building Blocks |
-
 | 10 | Proofing the Document | Check Spelling As You Type, Mark Grammar Errors As You Type, Setting AutoCorrect Options |
-
 | 11 | Printing | Page Setup, Setting Margins, Print Preview, Print |
-
 | 12 | Introduction to Excel | Introduction to Excel Interface, Understanding Rows and Columns, Naming Cells, Working with Excel Workbook and Sheets |
-
 | 13 | Formatting Excel Workbook | New, Open, Close, Save, Save As, Formatting Text: Font Size, Font Style, Font Color, Bold, Italic, Underline, Wrap Text, Merge and Centre, Currency, Accounting and Other Formats, Modifying Columns, Rows & Cells |
-
 | 14 | Perform Calculations with Functions | Creating Simple Formulas, Setting Up Your Own Formula, Date and Time Functions, Financial Functions, Logical Functions, Lookup and Reference Functions, Mathematical Functions, Statistical Functions, Text Functions |
-
 | 15 | Sort and Filter Data | Sorting and Filtering Data, Using Number Filter, Text Filter, Custom Filtering, Removing Filters from Columns, Conditional Formatting |
-
 | 16 | Create Effective Charts | Inserting Column, Pie Chart etc., Creating an Effective Chart with Chart Tools — Design, Format, and Layout Options, Adding Chart Title, Changing Layouts, Chart Styles, Editing Chart Data Range, Editing Data Series, Changing Chart Type |
-
 | 17 | Analyze Data Using PivotTables and PivotCharts | Understanding PivotTables, Creating a PivotTable, Framework Using the PivotTable and PivotChart, Creating Pivot Chart from Pivot Table, Inserting Slicer, Creating Calculated Fields |
-
 | 18 | Protecting and Sharing the Workbook | Protecting a Workbook with a Password, Allow User to Edit Ranges, Track Changes, Working with Comments, Insert Excel Objects and Charts in Word Document and PowerPoint Presentation |
-
 | 19 | Use Macros to Automate Tasks | Creating and Recording Macros, Assigning Macros to Worksheets, Saving Macro-Enabled Workbook |
-
 | 20 | Proofing and Printing (Excel) | Page Setup, Setting Print Area, Print Titles, Inserting Custom Header and Footer, Inserting Objects in the Header and Footer, Setting Margins, Print Preview, Print, Enable Background Error Checking |
-
 | 22 | Copying and Pasting Slides | Applying Themes to the Slide Layout, Changing Theme Color, Slide Formatting, Slide Background, Using Slide Views |
-
 | 23 | Bullets and Numbering | Multilevel Numbering and Bulleting, Creating List, Page Background, Aligning Text, Text Direction, Column Option |
-
 | 24 | Working with Objects (PowerPoint) | Shapes, Clipart and Picture, Word Art, Smart Art, Change the Order of Objects, Inserting Hyperlinks and Action Buttons, Editing Hyperlinks and Action Buttons, Inserting Text Boxes, Inserting Shapes, Using Quick Styles, Inserting Word Art, Inserting Symbols, Inserting Chart |
-
 | 25 | Working with Movies and Sounds | Inserting Movie from a Computer File, Inserting Audio File, Video/Audio Playback and Format Options, Adjust Options, Reshaping and Bordering Video |
-
 | 26 | Using SmartArt and Tables | Working with Tables, Table Formatting, Table Styles, Alignment Option, Merge and Split Option, Converting Text to SmartArt |
-
 | 27 | Animation and Slide Transition | Default Animation, Custom Animation, Modify a Default or Custom Animation, Reorder Animation, Using Transitions, Applying a Slide Transition, Modifying a Transition, Advancing to the Next Slide |
-
 | 28 | Using Slide Master | Using Slide Master, Inserting Layout Option, Creating Custom Layout, Inserting Placeholders, Formatting Placeholders |
-
 | 29 | Slide Show Options | Start Slide Show, Start Show from the Current Slide, Rehearse Timing, Creating Custom Slide Show |
+| 30 | Proofing and Printing (PowerPoint) | Check Spelling As You Type, Setting AutoCorrect Options, Save as Video, Save as JPEG Files, Save as PowerPoint Show File, Print Preview, Print |
+ 
 
-| 30 | Proofing and Printing (PowerPoint) | Check Spelling As You Type, Setting AutoCorrect Options, Save as Video, Save as JPEG Files, Save as PowerPoint Show File, Print Preview, Print 
-
-EVS
+# EVS
