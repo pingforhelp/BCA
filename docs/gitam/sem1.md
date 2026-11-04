@@ -219,3 +219,23 @@ Reference(s):
  
 
 # EVS
+
+UNIT 1: UNDERSTANDING ENVIRONMENT, NATURAL RESOURCES, AND SUSTAINABILITY (6 Hrs)
+
+Fundamental environmental concepts; Components and segments of the environment. The man-environment relationship, and historical environmental movements, Concept of sustainability; Classification of natural resources, Issues related to their overutilization, and strategies for their conservation, Sustainable practices in managing resources including deforestation, water conservation, energy security, and food security issues, The conservation and equitable use of resources considering both intergenerational and intergenerational equity, and the importance of public awareness and education
+
+UNIT 2: ECOSYSTEMS, BIODIVERSITY, AND SUSTAINABLE PRACTICES (6 Hrs)
+
+Various natural ecosystems, Learning about their structure, Functions, and ecological characteristics., The importance of biodiversity, The threats it faces, and the methods used for its conservation, Ecosystem resilience, homeostasis, and carrying capacity, emphasizing the need for sustainable ecosystem management., Strategies for in situ and ex situ conservation, nature reserves, and the significance of India as a mega diverse nation
+
+UNIT 3: ENVIRONMENTAL POLLUTION AND ITS IMPACTS (6 Hrs)
+
+Various types of environmental pollution - Air pollution, Water pollution, Noise pollution, Soil pollution, Marine pollution, Causes of pollution - Greenhouse effect, Global climate change, Ozone layer depletion, Acid rain, Case studies / pollution episodes in India, Impacts of pollution on communities and ecosystems
+
+UNIT 4: SOLID WASTE AND DISASTER MANAGEMENT (6 Hrs)
+
+Importance of cleaner and sustainable technologies, Solid waste management: Types, methods, and challenges, Natural and man-made disasters: Types and causes, Disaster management strategies, Disaster mitigation and recovery
+
+UNIT 5: SOCIAL ISSUES, ENVIRONMENTAL LAWS, AND SUSTAINABLE DEVELOPMENT (6 Hrs)
+
+Society–environment interactions; Sustainable development and environmental ethics; Sustainable Development Goals (SDGs) and responsible consumption, Environmental legislation: Water Act, 1974, Air Act, 1981, Environment Protection Act, 1986. Role of judiciary in environmental protection, Environmental justice. Environmental refugees and resettlement and rehabilitation, Ecological economics; Population growth and demographic changes
